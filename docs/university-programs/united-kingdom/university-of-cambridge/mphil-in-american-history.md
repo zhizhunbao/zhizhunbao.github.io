@@ -1,10 +1,10 @@
 ---
-title: "3.1.35 MPhil in American History"
+title: "4.1.35 MPhil in American History"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in American History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.35 MPhil in American History
+# 4.1.35 MPhil in American History
 
 ## Glossary
 

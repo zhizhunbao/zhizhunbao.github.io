@@ -1,10 +1,10 @@
 ---
-title: "3.1.38 MPhil in Economic and Social History"
+title: "4.1.38 MPhil in Economic and Social History"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Economic and Social History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.38 MPhil in Economic and Social History
+# 4.1.38 MPhil in Economic and Social History
 
 ## Glossary
 

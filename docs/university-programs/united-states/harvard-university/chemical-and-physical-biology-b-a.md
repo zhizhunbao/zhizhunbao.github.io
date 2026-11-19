@@ -1,10 +1,10 @@
 ---
-title: "4.1.7 Chemical and Physical Biology (B.A.)"
+title: "5.1.7 Chemical and Physical Biology (B.A.)"
 description: "University Programs > United States > Harvard University > Chemical and Physical Biology (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.7 Chemical and Physical Biology (B.A.)
+# 5.1.7 Chemical and Physical Biology (B.A.)
 
 ## Glossary
 

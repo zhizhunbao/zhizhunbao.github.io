@@ -1,10 +1,10 @@
 ---
-title: "3.2.169 MSt in Bible Interpretation"
+title: "4.2.169 MSt in Bible Interpretation"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Bible Interpretation: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.169 MSt in Bible Interpretation
+# 4.2.169 MSt in Bible Interpretation
 
 ## Glossary
 

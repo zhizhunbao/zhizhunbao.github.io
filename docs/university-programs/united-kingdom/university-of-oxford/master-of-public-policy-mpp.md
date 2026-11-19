@@ -1,10 +1,10 @@
 ---
-title: "3.2.50 Master of Public Policy (MPP)"
+title: "4.2.50 Master of Public Policy (MPP)"
 description: "University Programs > United Kingdom > University of Oxford > Master of Public Policy (MPP): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.50 Master of Public Policy (MPP)
+# 4.2.50 Master of Public Policy (MPP)
 
 ## Glossary
 

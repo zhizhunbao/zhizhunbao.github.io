@@ -1,10 +1,10 @@
 ---
-title: "3.2.179 MSt in English (1830-1914)"
+title: "4.2.179 MSt in English (1830-1914)"
 description: "University Programs > United Kingdom > University of Oxford > MSt in English (1830-1914): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.179 MSt in English (1830-1914)
+# 4.2.179 MSt in English (1830-1914)
 
 ## Glossary
 

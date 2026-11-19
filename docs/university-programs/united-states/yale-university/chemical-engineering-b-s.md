@@ -1,10 +1,10 @@
 ---
-title: "4.4.13 Chemical Engineering (B.S.)"
+title: "5.4.13 Chemical Engineering (B.S.)"
 description: "University Programs > United States > Yale University > Chemical Engineering (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.13 Chemical Engineering (B.S.)
+# 5.4.13 Chemical Engineering (B.S.)
 
 ## Glossary
 

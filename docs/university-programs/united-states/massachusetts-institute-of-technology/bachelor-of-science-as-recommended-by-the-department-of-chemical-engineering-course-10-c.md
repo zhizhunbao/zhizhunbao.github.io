@@ -1,10 +1,10 @@
 ---
-title: "4.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)"
+title: "5.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)
+# 5.2.7 Bachelor of Science as Recommended by the Department of Chemical Engineering (Course 10-C)
 
 ## Glossary
 

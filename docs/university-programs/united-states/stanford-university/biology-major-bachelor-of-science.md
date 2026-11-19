@@ -1,10 +1,10 @@
 ---
-title: "4.3.10 Biology, Major: Bachelor of Science"
+title: "5.3.10 Biology, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Biology, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.10 Biology, Major: Bachelor of Science
+# 5.3.10 Biology, Major: Bachelor of Science
 
 ## Glossary
 

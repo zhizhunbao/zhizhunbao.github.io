@@ -1,10 +1,10 @@
 ---
-title: "4.2.97 Cognitive Science and Statistics (PhD)"
+title: "5.2.97 Cognitive Science and Statistics (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Cognitive Science and Statistics (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.97 Cognitive Science and Statistics (PhD)
+# 5.2.97 Cognitive Science and Statistics (PhD)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.1.13 Environment, Law, and Economics, BA (Hons)"
+title: "4.1.13 Environment, Law, and Economics, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Environment, Law, and Economics, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.13 Environment, Law, and Economics, BA (Hons)
+# 4.1.13 Environment, Law, and Economics, BA (Hons)
 
 ## Glossary
 

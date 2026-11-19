@@ -1,10 +1,10 @@
 ---
-title: "3.2.143 MSc in Modelling for Global Health"
+title: "4.2.143 MSc in Modelling for Global Health"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Modelling for Global Health: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.143 MSc in Modelling for Global Health
+# 4.2.143 MSc in Modelling for Global Health
 
 ## Glossary
 

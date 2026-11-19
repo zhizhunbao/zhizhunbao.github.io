@@ -1,10 +1,10 @@
 ---
-title: "4.1.84 Master of Science – Environmental Health"
+title: "5.1.84 Master of Science – Environmental Health"
 description: "University Programs > United States > Harvard University > Master of Science – Environmental Health: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.84 Master of Science – Environmental Health
+# 5.1.84 Master of Science – Environmental Health
 
 ## Glossary
 

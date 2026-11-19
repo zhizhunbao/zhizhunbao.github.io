@@ -1,10 +1,10 @@
 ---
-title: "3.2.97 MPhil in Sociology and Demography"
+title: "4.2.97 MPhil in Sociology and Demography"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Sociology and Demography: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.97 MPhil in Sociology and Demography
+# 4.2.97 MPhil in Sociology and Demography
 
 ## Glossary
 

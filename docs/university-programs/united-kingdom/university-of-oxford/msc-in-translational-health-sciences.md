@@ -1,10 +1,10 @@
 ---
-title: "3.2.165 MSc in Translational Health Sciences"
+title: "4.2.165 MSc in Translational Health Sciences"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Translational Health Sciences: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.165 MSc in Translational Health Sciences
+# 4.2.165 MSc in Translational Health Sciences
 
 ## Glossary
 

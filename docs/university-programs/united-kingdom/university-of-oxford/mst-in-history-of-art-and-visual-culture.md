@@ -1,10 +1,10 @@
 ---
-title: "3.2.195 MSt in History of Art and Visual Culture"
+title: "4.2.195 MSt in History of Art and Visual Culture"
 description: "University Programs > United Kingdom > University of Oxford > MSt in History of Art and Visual Culture: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.195 MSt in History of Art and Visual Culture
+# 4.2.195 MSt in History of Art and Visual Culture
 
 ## Glossary
 

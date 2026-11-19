@@ -1,10 +1,10 @@
 ---
-title: "4.4.138 History (Ph.D.)"
+title: "5.4.138 History (Ph.D.)"
 description: "University Programs > United States > Yale University > History (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.138 History (Ph.D.)
+# 5.4.138 History (Ph.D.)
 
 ## Glossary
 

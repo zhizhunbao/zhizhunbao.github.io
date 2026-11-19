@@ -1,10 +1,10 @@
 ---
-title: "3.1.36 MPhil in Asian and Middle Eastern Studies (East Asian Popular Culture Across Time)"
+title: "4.1.36 MPhil in Asian and Middle Eastern Studies (East Asian Popular Culture Across Time)"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Asian and Middle Eastern Studies (East Asian Popular Culture Across Time): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.36 MPhil in Asian and Middle Eastern Studies (East Asian Popular Culture Across Time)
+# 4.1.36 MPhil in Asian and Middle Eastern Studies (East Asian Popular Culture Across Time)
 
 ## Glossary
 

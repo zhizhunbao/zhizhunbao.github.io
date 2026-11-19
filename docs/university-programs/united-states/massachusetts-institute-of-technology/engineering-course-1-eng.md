@@ -1,10 +1,10 @@
 ---
-title: "4.2.26 Engineering (Course 1-ENG)"
+title: "5.2.26 Engineering (Course 1-ENG)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Engineering (Course 1-ENG): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.26 Engineering (Course 1-ENG)
+# 5.2.26 Engineering (Course 1-ENG)
 
 ## Glossary
 

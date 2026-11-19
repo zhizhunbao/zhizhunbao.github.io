@@ -1,10 +1,10 @@
 ---
-title: "2.4.3 의학부"
+title: "3.4.3 의학부"
 description: "University Programs > South Korea > Chung-Ang University > 의학부: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.4.3 의학부
+# 3.4.3 의학부
 
 ## Glossary
 

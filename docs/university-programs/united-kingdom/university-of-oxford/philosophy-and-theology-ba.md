@@ -1,10 +1,10 @@
 ---
-title: "3.2.40 Philosophy and Theology (BA)"
+title: "4.2.40 Philosophy and Theology (BA)"
 description: "University Programs > United Kingdom > University of Oxford > Philosophy and Theology (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.40 Philosophy and Theology (BA)
+# 4.2.40 Philosophy and Theology (BA)
 
 ## Glossary
 

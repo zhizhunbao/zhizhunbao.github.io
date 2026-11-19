@@ -1,10 +1,10 @@
 ---
-title: "3.2.213 MSt in Slavonic Studies"
+title: "4.2.213 MSt in Slavonic Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Slavonic Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.213 MSt in Slavonic Studies
+# 4.2.213 MSt in Slavonic Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.1.46 Studies of Women, Gender, and Sexuality (B.A.)"
+title: "5.1.46 Studies of Women, Gender, and Sexuality (B.A.)"
 description: "University Programs > United States > Harvard University > Studies of Women, Gender, and Sexuality (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.46 Studies of Women, Gender, and Sexuality (B.A.)
+# 5.1.46 Studies of Women, Gender, and Sexuality (B.A.)
 
 ## Glossary
 

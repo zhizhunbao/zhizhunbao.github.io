@@ -1,10 +1,10 @@
 ---
-title: "4.4.128 Earth and Planetary Sciences (Ph.D.)"
+title: "5.4.128 Earth and Planetary Sciences (Ph.D.)"
 description: "University Programs > United States > Yale University > Earth and Planetary Sciences (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.128 Earth and Planetary Sciences (Ph.D.)
+# 5.4.128 Earth and Planetary Sciences (Ph.D.)
 
 ## Glossary
 

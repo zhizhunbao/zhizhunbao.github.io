@@ -1,10 +1,10 @@
 ---
-title: "3.2.2 Asian and Middle Eastern Studies (BA)"
+title: "4.2.2 Asian and Middle Eastern Studies (BA)"
 description: "University Programs > United Kingdom > University of Oxford > Asian and Middle Eastern Studies (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.2 Asian and Middle Eastern Studies (BA)
+# 4.2.2 Asian and Middle Eastern Studies (BA)
 
 ## Glossary
 

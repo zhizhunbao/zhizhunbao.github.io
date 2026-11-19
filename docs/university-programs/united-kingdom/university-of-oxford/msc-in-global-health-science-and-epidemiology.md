@@ -1,10 +1,10 @@
 ---
-title: "3.2.123 MSc in Global Health Science and Epidemiology"
+title: "4.2.123 MSc in Global Health Science and Epidemiology"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Global Health Science and Epidemiology: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.123 MSc in Global Health Science and Epidemiology
+# 4.2.123 MSc in Global Health Science and Epidemiology
 
 ## Glossary
 

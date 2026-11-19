@@ -1,10 +1,10 @@
 ---
-title: "4.4.131 English Language and Literature (Ph.D.)"
+title: "5.4.131 English Language and Literature (Ph.D.)"
 description: "University Programs > United States > Yale University > English Language and Literature (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.131 English Language and Literature (Ph.D.)
+# 5.4.131 English Language and Literature (Ph.D.)
 
 ## Glossary
 

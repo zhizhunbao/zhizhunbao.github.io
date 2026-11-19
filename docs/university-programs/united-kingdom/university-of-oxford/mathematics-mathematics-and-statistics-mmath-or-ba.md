@@ -1,10 +1,10 @@
 ---
-title: "3.2.32 Mathematics / Mathematics and Statistics (MMath or BA)"
+title: "4.2.32 Mathematics / Mathematics and Statistics (MMath or BA)"
 description: "University Programs > United Kingdom > University of Oxford > Mathematics / Mathematics and Statistics (MMath or BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.32 Mathematics / Mathematics and Statistics (MMath or BA)
+# 4.2.32 Mathematics / Mathematics and Statistics (MMath or BA)
 
 ## Glossary
 

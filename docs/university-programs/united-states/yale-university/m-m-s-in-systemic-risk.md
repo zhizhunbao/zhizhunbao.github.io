@@ -1,10 +1,10 @@
 ---
-title: "4.4.96 M.M.S. in Systemic Risk"
+title: "5.4.96 M.M.S. in Systemic Risk"
 description: "University Programs > United States > Yale University > M.M.S. in Systemic Risk: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.96 M.M.S. in Systemic Risk
+# 5.4.96 M.M.S. in Systemic Risk
 
 ## Glossary
 

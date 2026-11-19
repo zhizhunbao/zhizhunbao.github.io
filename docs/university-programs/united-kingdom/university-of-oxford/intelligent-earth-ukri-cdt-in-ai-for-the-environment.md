@@ -1,10 +1,10 @@
 ---
-title: "3.2.231 Intelligent Earth (UKRI CDT in AI for the Environment)"
+title: "4.2.231 Intelligent Earth (UKRI CDT in AI for the Environment)"
 description: "University Programs > United Kingdom > University of Oxford > Intelligent Earth (UKRI CDT in AI for the Environment): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.231 Intelligent Earth (UKRI CDT in AI for the Environment)
+# 4.2.231 Intelligent Earth (UKRI CDT in AI for the Environment)
 
 ## Glossary
 

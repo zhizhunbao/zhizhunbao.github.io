@@ -1,10 +1,10 @@
 ---
-title: "3.2.91 MPhil in Music (Performance)"
+title: "4.2.91 MPhil in Music (Performance)"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Music (Performance): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.91 MPhil in Music (Performance)
+# 4.2.91 MPhil in Music (Performance)
 
 ## Glossary
 

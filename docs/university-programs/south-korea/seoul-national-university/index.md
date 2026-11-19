@@ -1,10 +1,10 @@
 ---
-title: "2.1 Seoul National University"
+title: "3.1 Seoul National University"
 description: "University Programs > South Korea > Seoul National University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1 Seoul National University
+# 3.1 Seoul National University
 
 ## Glossary
 

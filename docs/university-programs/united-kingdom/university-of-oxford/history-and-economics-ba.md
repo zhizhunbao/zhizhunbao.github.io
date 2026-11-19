@@ -1,10 +1,10 @@
 ---
-title: "3.2.24 History and Economics (BA)"
+title: "4.2.24 History and Economics (BA)"
 description: "University Programs > United Kingdom > University of Oxford > History and Economics (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.24 History and Economics (BA)
+# 4.2.24 History and Economics (BA)
 
 ## Glossary
 

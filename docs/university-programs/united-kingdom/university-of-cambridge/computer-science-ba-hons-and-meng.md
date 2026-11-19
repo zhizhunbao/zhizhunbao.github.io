@@ -1,10 +1,10 @@
 ---
-title: "3.1.7 Computer Science, BA (Hons) and MEng"
+title: "4.1.7 Computer Science, BA (Hons) and MEng"
 description: "University Programs > United Kingdom > University of Cambridge > Computer Science, BA (Hons) and MEng: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.7 Computer Science, BA (Hons) and MEng
+# 4.1.7 Computer Science, BA (Hons) and MEng
 
 ## Glossary
 

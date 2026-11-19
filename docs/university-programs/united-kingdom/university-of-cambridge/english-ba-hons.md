@@ -1,10 +1,10 @@
 ---
-title: "3.1.12 English, BA (Hons)"
+title: "4.1.12 English, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > English, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.12 English, BA (Hons)
+# 4.1.12 English, BA (Hons)
 
 ## Glossary
 

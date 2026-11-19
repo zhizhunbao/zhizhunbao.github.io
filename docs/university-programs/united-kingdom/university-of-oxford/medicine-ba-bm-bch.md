@@ -1,10 +1,10 @@
 ---
-title: "3.2.35 Medicine (BA / BM BCh)"
+title: "4.2.35 Medicine (BA / BM BCh)"
 description: "University Programs > United Kingdom > University of Oxford > Medicine (BA / BM BCh): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.35 Medicine (BA / BM BCh)
+# 4.2.35 Medicine (BA / BM BCh)
 
 ## Glossary
 

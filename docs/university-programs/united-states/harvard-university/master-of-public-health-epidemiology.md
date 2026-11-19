@@ -1,10 +1,10 @@
 ---
-title: "4.1.68 Master of Public Health – Epidemiology"
+title: "5.1.68 Master of Public Health – Epidemiology"
 description: "University Programs > United States > Harvard University > Master of Public Health – Epidemiology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.68 Master of Public Health – Epidemiology
+# 5.1.68 Master of Public Health – Epidemiology
 
 ## Glossary
 

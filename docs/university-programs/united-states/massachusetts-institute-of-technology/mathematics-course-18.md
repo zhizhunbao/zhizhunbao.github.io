@@ -1,10 +1,10 @@
 ---
-title: "4.2.42 Mathematics (Course 18)"
+title: "5.2.42 Mathematics (Course 18)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mathematics (Course 18): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.42 Mathematics (Course 18)
+# 5.2.42 Mathematics (Course 18)
 
 ## Glossary
 

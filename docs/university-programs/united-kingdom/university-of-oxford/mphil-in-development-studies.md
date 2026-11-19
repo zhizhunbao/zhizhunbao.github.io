@@ -1,10 +1,10 @@
 ---
-title: "3.2.58 MPhil in Development Studies"
+title: "4.2.58 MPhil in Development Studies"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Development Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.58 MPhil in Development Studies
+# 4.2.58 MPhil in Development Studies
 
 ## Glossary
 

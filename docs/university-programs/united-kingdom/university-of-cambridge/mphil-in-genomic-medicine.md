@@ -1,10 +1,10 @@
 ---
-title: "3.1.42 MPhil in Genomic Medicine"
+title: "4.1.42 MPhil in Genomic Medicine"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Genomic Medicine: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.42 MPhil in Genomic Medicine
+# 4.1.42 MPhil in Genomic Medicine
 
 ## Glossary
 

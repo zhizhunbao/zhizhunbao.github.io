@@ -1,10 +1,10 @@
 ---
-title: "4.2.91 Autonomous Systems (PhD, ScD)"
+title: "5.2.91 Autonomous Systems (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Autonomous Systems (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.91 Autonomous Systems (PhD, ScD)
+# 5.2.91 Autonomous Systems (PhD, ScD)
 
 ## Glossary
 

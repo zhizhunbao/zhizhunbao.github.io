@@ -1,10 +1,10 @@
 ---
-title: "3.2.248 PGCert in Patient Safety and Quality Improvement"
+title: "4.2.248 PGCert in Patient Safety and Quality Improvement"
 description: "University Programs > United Kingdom > University of Oxford > PGCert in Patient Safety and Quality Improvement: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.248 PGCert in Patient Safety and Quality Improvement
+# 4.2.248 PGCert in Patient Safety and Quality Improvement
 
 ## Glossary
 

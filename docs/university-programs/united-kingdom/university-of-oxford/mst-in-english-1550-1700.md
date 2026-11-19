@@ -1,10 +1,10 @@
 ---
-title: "3.2.177 MSt in English (1550-1700)"
+title: "4.2.177 MSt in English (1550-1700)"
 description: "University Programs > United Kingdom > University of Oxford > MSt in English (1550-1700): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.177 MSt in English (1550-1700)
+# 4.2.177 MSt in English (1550-1700)
 
 ## Glossary
 

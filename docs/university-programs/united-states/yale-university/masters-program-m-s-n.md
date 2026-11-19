@@ -1,10 +1,10 @@
 ---
-title: "4.4.109 Master’s Program (M.S.N.)"
+title: "5.4.109 Master’s Program (M.S.N.)"
 description: "University Programs > United States > Yale University > Master’s Program (M.S.N.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.109 Master’s Program (M.S.N.)
+# 5.4.109 Master’s Program (M.S.N.)
 
 ## Glossary
 

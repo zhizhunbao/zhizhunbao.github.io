@@ -1,10 +1,10 @@
 ---
-title: "4.3.196 Music, Doctor of Philosophy"
+title: "5.3.196 Music, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Music, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.196 Music, Doctor of Philosophy
+# 5.3.196 Music, Doctor of Philosophy
 
 ## Glossary
 

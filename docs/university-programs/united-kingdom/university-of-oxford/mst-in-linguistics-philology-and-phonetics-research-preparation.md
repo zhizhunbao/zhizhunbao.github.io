@@ -1,10 +1,10 @@
 ---
-title: "3.2.204 MSt in Linguistics, Philology and Phonetics (Research Preparation)"
+title: "4.2.204 MSt in Linguistics, Philology and Phonetics (Research Preparation)"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Linguistics, Philology and Phonetics (Research Preparation): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.204 MSt in Linguistics, Philology and Phonetics (Research Preparation)
+# 4.2.204 MSt in Linguistics, Philology and Phonetics (Research Preparation)
 
 ## Glossary
 

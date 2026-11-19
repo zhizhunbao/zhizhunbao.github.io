@@ -1,10 +1,10 @@
 ---
-title: "3.2.243 PGCert in Cognitive Behavioural Therapy"
+title: "4.2.243 PGCert in Cognitive Behavioural Therapy"
 description: "University Programs > United Kingdom > University of Oxford > PGCert in Cognitive Behavioural Therapy: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.243 PGCert in Cognitive Behavioural Therapy
+# 4.2.243 PGCert in Cognitive Behavioural Therapy
 
 ## Glossary
 

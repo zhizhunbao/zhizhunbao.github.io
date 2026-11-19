@@ -1,0 +1,76 @@
+---
+title: "4.3.77 Earth Sciences BSc"
+description: "University Programs > United Kingdom > University College London > Earth Sciences BSc: the courses of the program as the college lists them; definitions pending."
+ms.date: 2026-11-18
+---
+
+# 4.3.77 Earth Sciences BSc
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Earth Sciences BSc**<br>地球科学（理学学士） | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Earth Sciences Matlab**<br>地球科学Matlab | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **The Earth**<br>地球 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Surface Processes**<br>地表过程 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Vertebrate Palaeontology and Evolution**<br>脊椎动物古生物学与演化 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Sedimentology and Stratigraphy**<br>沉积学与地层学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Igneous and Metamorphic Petrology**<br>火成岩与变质岩岩石学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Global Geophysics**<br>全球地球物理 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Principles of Climate**<br>气候原理 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Structural Geology and Tectonics**<br>构造地质学与大地构造 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Isotope Geology**<br>同位素地质学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Numerical Methods for Earth Sciences**<br>地球科学数值方法 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Geographical Information Systems and Remote Sensing**<br>地理信息系统与遥感 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Introduction to Environmental Geoscience**<br>环境地球科学入门 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Introduction to Mineral Resources**<br>矿产资源入门 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Geosciences Report**<br>地球科学报告 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Biodiversity and Macroevolutionary Patterns A**<br>生物多样性与宏观演化模式A | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Ocean Physics and Climate Change**<br>海洋物理与气候变化 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Crustal Dynamics, Mountain Building and Basin Evolution**<br>地壳动力学、造山作用与盆地演化 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Geological and Environmental Mapping**<br>地质与环境填图 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Earth and Planetary Materials**<br>地球与行星材料 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Groundwater Science**<br>地下水科学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Environmental Geochemistry**<br>环境地球化学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Tectonic Geomorphology**<br>构造地貌学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Paleoclimate and Paleoenvironmental Change**<br>古气候与古环境变化 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Statistics for Geoscientists**<br>地球科学家统计学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Applied Geoscience for Mineral Resources and the Environment**<br>矿产资源与环境应用地球科学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+| **Volcanoes, Society and the Environment**<br>火山、社会与环境 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Year 1 > Compulsory modules | GEOL0058 | Earth Sciences Matlab |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 1 > Compulsory modules | GEOL0007 | The Earth |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 1 > Compulsory modules | GEOL0006 | Surface Processes |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0009 | Vertebrate Palaeontology and Evolution |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0010 | Sedimentology and Stratigraphy |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0011 | Igneous and Metamorphic Petrology |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0012 | Global Geophysics |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0013 | Principles of Climate |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0016 | Structural Geology and Tectonics |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0017 | Isotope Geology |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0018 | Numerical Methods for Earth Sciences |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0073 | Geographical Information Systems and Remote Sensing |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0076 | Introduction to Environmental Geoscience |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 2 > Optional modules | GEOL0077 | Introduction to Mineral Resources |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0014 | Geosciences Report |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0021 | Biodiversity and Macroevolutionary Patterns A |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0022 | Ocean Physics and Climate Change |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0023 | Crustal Dynamics, Mountain Building and Basin Evolution |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0024 | Geological and Environmental Mapping |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0026 | Earth and Planetary Materials |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0027 | Groundwater Science |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0031 | Environmental Geochemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0043 | Tectonic Geomorphology |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0045 | Paleoclimate and Paleoenvironmental Change |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0061 | Statistics for Geoscientists |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0068 | Applied Geoscience for Mineral Resources and the Environment |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+|  | Year 3 > Optional modules | GEOL0070 | Volcanoes, Society and the Environment |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026) |
+
+## References
+
+University College London. (n.d.). *Earth Sciences BSc*. Retrieved November 18, 2026, from <https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/earth-sciences-bsc-2026>

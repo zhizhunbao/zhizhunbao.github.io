@@ -1,10 +1,10 @@
 ---
-title: "4.2.106 Doctor of Philosophy in Civil and Environmental Engineering"
+title: "5.2.106 Doctor of Philosophy in Civil and Environmental Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Civil and Environmental Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.106 Doctor of Philosophy in Civil and Environmental Engineering
+# 5.2.106 Doctor of Philosophy in Civil and Environmental Engineering
 
 ## Glossary
 

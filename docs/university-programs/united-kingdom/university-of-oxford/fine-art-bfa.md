@@ -1,10 +1,10 @@
 ---
-title: "3.2.20 Fine Art (BFA)"
+title: "4.2.20 Fine Art (BFA)"
 description: "University Programs > United Kingdom > University of Oxford > Fine Art (BFA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.20 Fine Art (BFA)
+# 4.2.20 Fine Art (BFA)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.2.181 MSt in English (650-1550)"
+title: "4.2.181 MSt in English (650-1550)"
 description: "University Programs > United Kingdom > University of Oxford > MSt in English (650-1550): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.181 MSt in English (650-1550)
+# 4.2.181 MSt in English (650-1550)
 
 ## Glossary
 

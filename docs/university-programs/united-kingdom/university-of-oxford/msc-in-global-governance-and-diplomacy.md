@@ -1,10 +1,10 @@
 ---
-title: "3.2.122 MSc in Global Governance and Diplomacy"
+title: "4.2.122 MSc in Global Governance and Diplomacy"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Global Governance and Diplomacy: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.122 MSc in Global Governance and Diplomacy
+# 4.2.122 MSc in Global Governance and Diplomacy
 
 ## Glossary
 

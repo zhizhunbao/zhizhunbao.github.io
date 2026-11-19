@@ -1,10 +1,10 @@
 ---
-title: "3.2.14 Earth Sciences (Geology) (MEarthSci or BA Geology)"
+title: "4.2.14 Earth Sciences (Geology) (MEarthSci or BA Geology)"
 description: "University Programs > United Kingdom > University of Oxford > Earth Sciences (Geology) (MEarthSci or BA Geology): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.14 Earth Sciences (Geology) (MEarthSci or BA Geology)
+# 4.2.14 Earth Sciences (Geology) (MEarthSci or BA Geology)
 
 ## Glossary
 

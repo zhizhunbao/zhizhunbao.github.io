@@ -1,10 +1,10 @@
 ---
-title: "4.2.17 Climate System Science and Engineering (Course 1-12)"
+title: "5.2.17 Climate System Science and Engineering (Course 1-12)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Climate System Science and Engineering (Course 1-12): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.17 Climate System Science and Engineering (Course 1-12)
+# 5.2.17 Climate System Science and Engineering (Course 1-12)
 
 ## Glossary
 

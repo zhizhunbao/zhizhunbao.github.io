@@ -1,10 +1,10 @@
 ---
-title: "3.2.4 Biology (MBiol or BA)"
+title: "4.2.4 Biology (MBiol or BA)"
 description: "University Programs > United Kingdom > University of Oxford > Biology (MBiol or BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.4 Biology (MBiol or BA)
+# 4.2.4 Biology (MBiol or BA)
 
 ## Glossary
 

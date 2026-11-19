@@ -1,10 +1,10 @@
 ---
-title: "3.2.56 MPhil in Comparative Social Policy"
+title: "4.2.56 MPhil in Comparative Social Policy"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Comparative Social Policy: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.56 MPhil in Comparative Social Policy
+# 4.2.56 MPhil in Comparative Social Policy
 
 ## Glossary
 

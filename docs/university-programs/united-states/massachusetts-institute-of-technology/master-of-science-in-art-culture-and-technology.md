@@ -1,10 +1,10 @@
 ---
-title: "4.2.68 Master of Science in Art, Culture, and Technology"
+title: "5.2.68 Master of Science in Art, Culture, and Technology"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Art, Culture, and Technology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.68 Master of Science in Art, Culture, and Technology
+# 5.2.68 Master of Science in Art, Culture, and Technology
 
 ## Glossary
 

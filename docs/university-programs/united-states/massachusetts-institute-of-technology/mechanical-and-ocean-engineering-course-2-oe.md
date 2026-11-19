@@ -1,10 +1,10 @@
 ---
-title: "4.2.44 Mechanical and Ocean Engineering (Course 2-OE)"
+title: "5.2.44 Mechanical and Ocean Engineering (Course 2-OE)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mechanical and Ocean Engineering (Course 2-OE): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.44 Mechanical and Ocean Engineering (Course 2-OE)
+# 5.2.44 Mechanical and Ocean Engineering (Course 2-OE)
 
 ## Glossary
 

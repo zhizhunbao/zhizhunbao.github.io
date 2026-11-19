@@ -1,10 +1,10 @@
 ---
-title: "4.1.71 Master of Public Health – Health and Social Behavior (45-credit)"
+title: "5.1.71 Master of Public Health – Health and Social Behavior (45-credit)"
 description: "University Programs > United States > Harvard University > Master of Public Health – Health and Social Behavior (45-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.71 Master of Public Health – Health and Social Behavior (45-credit)
+# 5.1.71 Master of Public Health – Health and Social Behavior (45-credit)
 
 ## Glossary
 

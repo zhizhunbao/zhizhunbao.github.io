@@ -1,10 +1,10 @@
 ---
-title: "3.2.184 MSt in Global and Imperial History"
+title: "4.2.184 MSt in Global and Imperial History"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Global and Imperial History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.184 MSt in Global and Imperial History
+# 4.2.184 MSt in Global and Imperial History
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.4.147 Microbiology (Ph.D.)"
+title: "5.4.147 Microbiology (Ph.D.)"
 description: "University Programs > United States > Yale University > Microbiology (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.147 Microbiology (Ph.D.)
+# 5.4.147 Microbiology (Ph.D.)
 
 ## Glossary
 

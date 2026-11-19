@@ -1,10 +1,10 @@
 ---
-title: "3.2.110 MSc in Education (Comparative and International Education)"
+title: "4.2.110 MSc in Education (Comparative and International Education)"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Education (Comparative and International Education): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.110 MSc in Education (Comparative and International Education)
+# 4.2.110 MSc in Education (Comparative and International Education)
 
 ## Glossary
 

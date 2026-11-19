@@ -1,10 +1,10 @@
 ---
-title: "3.2.136 MSc in Mathematical and Theoretical Physics"
+title: "4.2.136 MSc in Mathematical and Theoretical Physics"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Mathematical and Theoretical Physics: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.136 MSc in Mathematical and Theoretical Physics
+# 4.2.136 MSc in Mathematical and Theoretical Physics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.2.152 MSc in Quantum Technologies"
+title: "4.2.152 MSc in Quantum Technologies"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Quantum Technologies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.152 MSc in Quantum Technologies
+# 4.2.152 MSc in Quantum Technologies
 
 ## Glossary
 

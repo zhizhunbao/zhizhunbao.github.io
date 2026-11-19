@@ -1,10 +1,10 @@
 ---
-title: "3.1.27 Music, BA (Hons)"
+title: "4.1.27 Music, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Music, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.27 Music, BA (Hons)
+# 4.1.27 Music, BA (Hons)
 
 ## Glossary
 

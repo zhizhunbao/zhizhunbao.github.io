@@ -1,10 +1,10 @@
 ---
-title: "3.2.150 MSc in Pharmacology: Science with Innovation"
+title: "4.2.150 MSc in Pharmacology: Science with Innovation"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Pharmacology: Science with Innovation: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.150 MSc in Pharmacology: Science with Innovation
+# 4.2.150 MSc in Pharmacology: Science with Innovation
 
 ## Glossary
 

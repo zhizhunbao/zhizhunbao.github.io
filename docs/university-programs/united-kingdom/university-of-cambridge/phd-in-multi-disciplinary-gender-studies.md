@@ -1,10 +1,10 @@
 ---
-title: "3.1.53 PhD in Multi-disciplinary Gender Studies"
+title: "4.1.53 PhD in Multi-disciplinary Gender Studies"
 description: "University Programs > United Kingdom > University of Cambridge > PhD in Multi-disciplinary Gender Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.53 PhD in Multi-disciplinary Gender Studies
+# 4.1.53 PhD in Multi-disciplinary Gender Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.2.158 MSc in Software and Systems Security"
+title: "4.2.158 MSc in Software and Systems Security"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Software and Systems Security: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.158 MSc in Software and Systems Security
+# 4.2.158 MSc in Software and Systems Security
 
 ## Glossary
 

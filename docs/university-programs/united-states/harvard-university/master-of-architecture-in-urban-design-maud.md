@@ -1,10 +1,10 @@
 ---
-title: "4.1.65 Master of Architecture in Urban Design (MAUD)"
+title: "5.1.65 Master of Architecture in Urban Design (MAUD)"
 description: "University Programs > United States > Harvard University > Master of Architecture in Urban Design (MAUD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.65 Master of Architecture in Urban Design (MAUD)
+# 5.1.65 Master of Architecture in Urban Design (MAUD)
 
 ## Glossary
 

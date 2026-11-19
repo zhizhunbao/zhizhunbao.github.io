@@ -1,10 +1,10 @@
 ---
-title: "4.3.114 Italian, Master of Arts"
+title: "5.3.114 Italian, Master of Arts"
 description: "University Programs > United States > Stanford University > Italian, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.114 Italian, Master of Arts
+# 5.3.114 Italian, Master of Arts
 
 ## Glossary
 

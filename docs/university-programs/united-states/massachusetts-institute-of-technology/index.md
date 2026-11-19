@@ -1,10 +1,10 @@
 ---
-title: "4.2 Massachusetts Institute of Technology"
+title: "5.2 Massachusetts Institute of Technology"
 description: "University Programs > United States > Massachusetts Institute of Technology: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2 Massachusetts Institute of Technology
+# 5.2 Massachusetts Institute of Technology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.121 Master of Liberal Arts, Master of Liberal Arts"
+title: "5.3.121 Master of Liberal Arts, Master of Liberal Arts"
 description: "University Programs > United States > Stanford University > Master of Liberal Arts, Master of Liberal Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.121 Master of Liberal Arts, Master of Liberal Arts
+# 5.3.121 Master of Liberal Arts, Master of Liberal Arts
 
 ## Glossary
 

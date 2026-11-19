@@ -1,10 +1,10 @@
 ---
-title: "3.2.7 Classical Archaeology and Ancient History (BA)"
+title: "4.2.7 Classical Archaeology and Ancient History (BA)"
 description: "University Programs > United Kingdom > University of Oxford > Classical Archaeology and Ancient History (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.7 Classical Archaeology and Ancient History (BA)
+# 4.2.7 Classical Archaeology and Ancient History (BA)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.104 English, Master of Arts"
+title: "5.3.104 English, Master of Arts"
 description: "University Programs > United States > Stanford University > English, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.104 English, Master of Arts
+# 5.3.104 English, Master of Arts
 
 ## Glossary
 

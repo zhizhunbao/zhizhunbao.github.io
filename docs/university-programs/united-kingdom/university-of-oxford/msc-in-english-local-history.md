@@ -1,10 +1,10 @@
 ---
-title: "3.2.115 MSc in English Local History"
+title: "4.2.115 MSc in English Local History"
 description: "University Programs > United Kingdom > University of Oxford > MSc in English Local History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.115 MSc in English Local History
+# 4.2.115 MSc in English Local History
 
 ## Glossary
 

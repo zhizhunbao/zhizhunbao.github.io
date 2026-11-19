@@ -1,10 +1,10 @@
 ---
-title: "4.2.2 Anthropology (Course 21A)"
+title: "5.2.2 Anthropology (Course 21A)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Anthropology (Course 21A): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.2 Anthropology (Course 21A)
+# 5.2.2 Anthropology (Course 21A)
 
 ## Glossary
 

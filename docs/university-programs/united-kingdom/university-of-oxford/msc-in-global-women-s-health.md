@@ -1,10 +1,10 @@
 ---
-title: "3.2.124 MSc in Global Women's Health"
+title: "4.2.124 MSc in Global Women's Health"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Global Women's Health: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.124 MSc in Global Women's Health
+# 4.2.124 MSc in Global Women's Health
 
 ## Glossary
 

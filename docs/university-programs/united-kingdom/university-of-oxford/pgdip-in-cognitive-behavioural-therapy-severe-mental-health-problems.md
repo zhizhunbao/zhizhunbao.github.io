@@ -1,10 +1,10 @@
 ---
-title: "3.2.237 PGDip in Cognitive Behavioural Therapy (Severe Mental Health Problems)"
+title: "4.2.237 PGDip in Cognitive Behavioural Therapy (Severe Mental Health Problems)"
 description: "University Programs > United Kingdom > University of Oxford > PGDip in Cognitive Behavioural Therapy (Severe Mental Health Problems): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.237 PGDip in Cognitive Behavioural Therapy (Severe Mental Health Problems)
+# 4.2.237 PGDip in Cognitive Behavioural Therapy (Severe Mental Health Problems)
 
 ## Glossary
 

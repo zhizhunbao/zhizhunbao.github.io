@@ -1,10 +1,10 @@
 ---
-title: "3.1.6 Classics, BA (Hons)"
+title: "4.1.6 Classics, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Classics, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.6 Classics, BA (Hons)
+# 4.1.6 Classics, BA (Hons)
 
 ## Glossary
 

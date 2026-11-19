@@ -1,10 +1,10 @@
 ---
-title: "2.1.4 제약학과"
+title: "3.1.4 제약학과"
 description: "University Programs > South Korea > Seoul National University > 제약학과: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1.4 제약학과
+# 3.1.4 제약학과
 
 ## Glossary
 

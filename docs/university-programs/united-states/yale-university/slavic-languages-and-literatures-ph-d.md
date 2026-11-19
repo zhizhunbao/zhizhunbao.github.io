@@ -1,10 +1,10 @@
 ---
-title: "4.4.158 Slavic Languages and Literatures (Ph.D.)"
+title: "5.4.158 Slavic Languages and Literatures (Ph.D.)"
 description: "University Programs > United States > Yale University > Slavic Languages and Literatures (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.158 Slavic Languages and Literatures (Ph.D.)
+# 5.4.158 Slavic Languages and Literatures (Ph.D.)
 
 ## Glossary
 

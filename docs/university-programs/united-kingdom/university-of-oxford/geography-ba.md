@@ -1,10 +1,10 @@
 ---
-title: "3.2.21 Geography (BA)"
+title: "4.2.21 Geography (BA)"
 description: "University Programs > United Kingdom > University of Oxford > Geography (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.21 Geography (BA)
+# 4.2.21 Geography (BA)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.2.75 MPhil in History of Science, Medicine and Technology"
+title: "4.2.75 MPhil in History of Science, Medicine and Technology"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in History of Science, Medicine and Technology: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.75 MPhil in History of Science, Medicine and Technology
+# 4.2.75 MPhil in History of Science, Medicine and Technology
 
 ## Glossary
 

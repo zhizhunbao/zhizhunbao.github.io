@@ -1,10 +1,10 @@
 ---
-title: "3.2.233 MPhil + DPhil in Economics"
+title: "4.2.233 MPhil + DPhil in Economics"
 description: "University Programs > United Kingdom > University of Oxford > MPhil + DPhil in Economics: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.233 MPhil + DPhil in Economics
+# 4.2.233 MPhil + DPhil in Economics
 
 ## Glossary
 

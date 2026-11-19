@@ -1,10 +1,10 @@
 ---
-title: "4.3.79 Chemical Engineering, Engineer"
+title: "5.3.79 Chemical Engineering, Engineer"
 description: "University Programs > United States > Stanford University > Chemical Engineering, Engineer: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.79 Chemical Engineering, Engineer
+# 5.3.79 Chemical Engineering, Engineer
 
 ## Glossary
 

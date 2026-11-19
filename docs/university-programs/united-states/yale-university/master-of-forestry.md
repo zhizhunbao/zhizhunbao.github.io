@@ -1,10 +1,10 @@
 ---
-title: "4.4.107 Master of Forestry"
+title: "5.4.107 Master of Forestry"
 description: "University Programs > United States > Yale University > Master of Forestry: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.107 Master of Forestry
+# 5.4.107 Master of Forestry
 
 ## Glossary
 

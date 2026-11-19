@@ -1,10 +1,10 @@
 ---
-title: "4.1.55 Master in Landscape Architecture I AP (MLA I AP)"
+title: "5.1.55 Master in Landscape Architecture I AP (MLA I AP)"
 description: "University Programs > United States > Harvard University > Master in Landscape Architecture I AP (MLA I AP): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.55 Master in Landscape Architecture I AP (MLA I AP)
+# 5.1.55 Master in Landscape Architecture I AP (MLA I AP)
 
 ## Glossary
 

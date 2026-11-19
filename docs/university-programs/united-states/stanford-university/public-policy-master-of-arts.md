@@ -1,10 +1,10 @@
 ---
-title: "4.3.134 Public Policy, Master of Arts"
+title: "5.3.134 Public Policy, Master of Arts"
 description: "University Programs > United States > Stanford University > Public Policy, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.134 Public Policy, Master of Arts
+# 5.3.134 Public Policy, Master of Arts
 
 ## Glossary
 

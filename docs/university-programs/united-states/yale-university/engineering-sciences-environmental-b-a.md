@@ -1,10 +1,10 @@
 ---
-title: "4.4.35 Engineering Sciences (Environmental) (B.A.)"
+title: "5.4.35 Engineering Sciences (Environmental) (B.A.)"
 description: "University Programs > United States > Yale University > Engineering Sciences (Environmental) (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.35 Engineering Sciences (Environmental) (B.A.)
+# 5.4.35 Engineering Sciences (Environmental) (B.A.)
 
 ## Glossary
 

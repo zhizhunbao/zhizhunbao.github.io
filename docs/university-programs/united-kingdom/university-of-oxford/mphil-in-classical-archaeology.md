@@ -1,10 +1,10 @@
 ---
-title: "3.2.54 MPhil in Classical Archaeology"
+title: "4.2.54 MPhil in Classical Archaeology"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Classical Archaeology: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.54 MPhil in Classical Archaeology
+# 4.2.54 MPhil in Classical Archaeology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.100 Computational Materials Science and Engineering (PhD, ScD)"
+title: "5.2.100 Computational Materials Science and Engineering (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computational Materials Science and Engineering (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.100 Computational Materials Science and Engineering (PhD, ScD)
+# 5.2.100 Computational Materials Science and Engineering (PhD, ScD)
 
 ## Glossary
 

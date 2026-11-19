@@ -1,10 +1,10 @@
 ---
-title: "3.1.8 Design, BA (Hons) and MDes"
+title: "4.1.8 Design, BA (Hons) and MDes"
 description: "University Programs > United Kingdom > University of Cambridge > Design, BA (Hons) and MDes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.8 Design, BA (Hons) and MDes
+# 4.1.8 Design, BA (Hons) and MDes
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.4.65 Philosophy (B.A.)"
+title: "5.4.65 Philosophy (B.A.)"
 description: "University Programs > United States > Yale University > Philosophy (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.65 Philosophy (B.A.)
+# 5.4.65 Philosophy (B.A.)
 
 ## Glossary
 

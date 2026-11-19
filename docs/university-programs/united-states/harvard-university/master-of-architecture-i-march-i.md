@@ -1,10 +1,10 @@
 ---
-title: "4.1.62 Master of Architecture I (MArch I)"
+title: "5.1.62 Master of Architecture I (MArch I)"
 description: "University Programs > United States > Harvard University > Master of Architecture I (MArch I): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.62 Master of Architecture I (MArch I)
+# 5.1.62 Master of Architecture I (MArch I)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.2.80 MPhil in Jewish Studies in the Graeco-Roman Period"
+title: "4.2.80 MPhil in Jewish Studies in the Graeco-Roman Period"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Jewish Studies in the Graeco-Roman Period: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.80 MPhil in Jewish Studies in the Graeco-Roman Period
+# 4.2.80 MPhil in Jewish Studies in the Graeco-Roman Period
 
 ## Glossary
 

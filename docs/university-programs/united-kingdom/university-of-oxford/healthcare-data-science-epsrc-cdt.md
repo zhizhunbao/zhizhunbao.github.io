@@ -1,10 +1,10 @@
 ---
-title: "3.2.229 Healthcare Data Science (EPSRC CDT)"
+title: "4.2.229 Healthcare Data Science (EPSRC CDT)"
 description: "University Programs > United Kingdom > University of Oxford > Healthcare Data Science (EPSRC CDT): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.229 Healthcare Data Science (EPSRC CDT)
+# 4.2.229 Healthcare Data Science (EPSRC CDT)
 
 ## Glossary
 

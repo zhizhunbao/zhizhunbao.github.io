@@ -1,10 +1,10 @@
 ---
-title: "4.4.90 Executive Master of Environmental Management (E.M.E.M.) or Executive Master of Forestry (E.M.F.)"
+title: "5.4.90 Executive Master of Environmental Management (E.M.E.M.) or Executive Master of Forestry (E.M.F.)"
 description: "University Programs > United States > Yale University > Executive Master of Environmental Management (E.M.E.M.) or Executive Master of Forestry (E.M.F.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.90 Executive Master of Environmental Management (E.M.E.M.) or Executive Master of Forestry (E.M.F.)
+# 5.4.90 Executive Master of Environmental Management (E.M.E.M.) or Executive Master of Forestry (E.M.F.)
 
 ## Glossary
 

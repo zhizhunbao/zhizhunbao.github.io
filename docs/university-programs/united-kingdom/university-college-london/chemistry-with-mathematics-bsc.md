@@ -1,0 +1,90 @@
+---
+title: "4.3.44 Chemistry with Mathematics BSc"
+description: "University Programs > United Kingdom > University College London > Chemistry with Mathematics BSc: the courses of the program as the college lists them; definitions pending."
+ms.date: 2026-11-18
+---
+
+# 4.3.44 Chemistry with Mathematics BSc
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Chemistry with Mathematics BSc**<br>化学与数学（理学学士） | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Chemical Foundations**<br>化学基础 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Chemical Skills**<br>化学技能 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Basic Organic Chemistry**<br>基础有机化学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Basic Physical Chemistry**<br>基础物理化学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Basic Inorganic Chemistry**<br>基础无机化学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Mathematics for Science 1**<br>科学数学1 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Mathematics for Science 2**<br>科学数学2 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Biochemistry and Molecular Biology**<br>生物化学与分子生物学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Cells and Development**<br>细胞与发育 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Physics for Chemistry**<br>化学物理 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **The Earth**<br>地球 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Science Communication and Public Engagement**<br>科学传播与公众参与 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **History of Modern Science**<br>现代科学史 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Applied Mathematics 1**<br>应用数学1 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Understanding Management**<br>理解管理 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Introductory Statistical Methods and Computing**<br>统计方法与计算入门 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Inorganic Chemistry**<br>无机化学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Organic Chemistry**<br>有机化学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Physical Chemistry**<br>物理化学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Mathematical Methods in Chemistry**<br>化学数学方法 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Mathematics for Physics and Astronomy**<br>物理与天文学数学 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Chemical Literature**<br>化学文献 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Advanced Topics in Inorganic Chemistry**<br>无机化学高级专题 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Advanced Topics in Organic Chemistry**<br>有机化学高级专题 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Advanced Topics in Physical Chemistry**<br>物理化学高级专题 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Synthesis and Characterisation Techniques in Chemistry**<br>化学合成与表征技术 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Instrumental and Computational Techniques in Chemistry**<br>化学仪器与计算技术 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Synthetic Chemistry and Instrumentation**<br>合成化学与仪器 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Concepts in Computational Chemistry**<br>计算化学概念 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Inorganic Rings, Chains and Clusters**<br>无机环、链与簇 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Organic Photochemistry Radicals and Heterocycles**<br>有机光化学、自由基与杂环 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **New Directions in Materials Chemistry**<br>材料化学新方向 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Scientific Programming for Chemists**<br>化学家科学编程 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+| **Principles of Drug Design**<br>药物设计原理 | (Definition pending) | （定义待补） | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+
+## Courses
+
+| Level | Type | Course Code | Course Name | Credits | Source |
+|---|---|---|---|---|---|
+|  | Year 1 > Compulsory modules | CHEM0005 | Chemical Foundations |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Compulsory modules | CHEM0006 | Chemical Skills |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Compulsory modules | CHEM0008 | Basic Organic Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Compulsory modules | CHEM0009 | Basic Physical Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Compulsory modules | CHEM0013 | Basic Inorganic Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Compulsory modules | MATH0040 | Mathematics for Science 1 |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Compulsory modules | MATH0041 | Mathematics for Science 2 |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | BIOC0001 | Biochemistry and Molecular Biology |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | CELL0007 | Cells and Development |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | CHEM0007 | Physics for Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | GEOL0007 | The Earth |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | HPSC0008 | Science Communication and Public Engagement |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | HPSC0010 | History of Modern Science |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | MATH0008 | Applied Mathematics 1 |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | MSIN0048 | Understanding Management |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 1 > Optional modules | STAT0021 | Introductory Statistical Methods and Computing |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 2 > Compulsory modules | CHEM0014 | Inorganic Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 2 > Compulsory modules | CHEM0016 | Organic Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 2 > Compulsory modules | CHEM0019 | Physical Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 2 > Compulsory modules | MATH0042 | Mathematical Methods in Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 2 > Compulsory modules | MATH0043 | Mathematics for Physics and Astronomy |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Compulsory modules | CHEM0027 | Chemical Literature |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Compulsory modules | CHEM0030 | Advanced Topics in Inorganic Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Compulsory modules | CHEM0034 | Advanced Topics in Organic Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Compulsory modules | CHEM0037 | Advanced Topics in Physical Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0024 | Synthesis and Characterisation Techniques in Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0025 | Instrumental and Computational Techniques in Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0026 | Synthetic Chemistry and Instrumentation |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0028 | Concepts in Computational Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0031 | Inorganic Rings, Chains and Clusters |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0035 | Organic Photochemistry Radicals and Heterocycles |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0039 | New Directions in Materials Chemistry |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0062 | Scientific Programming for Chemists |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+|  | Year 3 > Optional modules | CHEM0033 | Principles of Drug Design |  | [University College London, n.d.](https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026) |
+
+## References
+
+University College London. (n.d.). *Chemistry with Mathematics BSc*. Retrieved November 18, 2026, from <https://www.ucl.ac.uk/prospective-students/undergraduate/degrees/chemistry-mathematics-bsc-2026>

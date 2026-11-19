@@ -1,10 +1,10 @@
 ---
-title: "3.2.156 MSc in Social Data Science"
+title: "4.2.156 MSc in Social Data Science"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Social Data Science: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.156 MSc in Social Data Science
+# 4.2.156 MSc in Social Data Science
 
 ## Glossary
 

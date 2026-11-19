@@ -1,10 +1,10 @@
 ---
-title: "3.1.34 Master of Education (Primary Education) PGCE entry only"
+title: "4.1.34 Master of Education (Primary Education) PGCE entry only"
 description: "University Programs > United Kingdom > University of Cambridge > Master of Education (Primary Education) PGCE entry only: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.34 Master of Education (Primary Education) PGCE entry only
+# 4.1.34 Master of Education (Primary Education) PGCE entry only
 
 ## Glossary
 

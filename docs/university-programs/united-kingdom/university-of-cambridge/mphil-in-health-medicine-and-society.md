@@ -1,10 +1,10 @@
 ---
-title: "3.1.43 MPhil in Health, Medicine and Society"
+title: "4.1.43 MPhil in Health, Medicine and Society"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Health, Medicine and Society: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.43 MPhil in Health, Medicine and Society
+# 4.1.43 MPhil in Health, Medicine and Society
 
 ## Glossary
 

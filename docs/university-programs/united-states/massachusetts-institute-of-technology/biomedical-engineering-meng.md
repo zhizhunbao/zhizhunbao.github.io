@@ -1,10 +1,10 @@
 ---
-title: "4.2.56 Biomedical Engineering (MEng)"
+title: "5.2.56 Biomedical Engineering (MEng)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Biomedical Engineering (MEng): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.56 Biomedical Engineering (MEng)
+# 5.2.56 Biomedical Engineering (MEng)
 
 ## Glossary
 

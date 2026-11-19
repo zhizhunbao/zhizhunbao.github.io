@@ -1,10 +1,10 @@
 ---
-title: "3.2.176 MSt in Creative Writing"
+title: "4.2.176 MSt in Creative Writing"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Creative Writing: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.176 MSt in Creative Writing
+# 4.2.176 MSt in Creative Writing
 
 ## Glossary
 

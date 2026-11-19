@@ -1,10 +1,10 @@
 ---
-title: "4.2.73 Master of Science in Mathematics of Data"
+title: "5.2.73 Master of Science in Mathematics of Data"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Science in Mathematics of Data: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.73 Master of Science in Mathematics of Data
+# 5.2.73 Master of Science in Mathematics of Data
 
 ## Glossary
 

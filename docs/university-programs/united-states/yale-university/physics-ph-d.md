@@ -1,10 +1,10 @@
 ---
-title: "4.4.153 Physics (Ph.D.)"
+title: "5.4.153 Physics (Ph.D.)"
 description: "University Programs > United States > Yale University > Physics (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.153 Physics (Ph.D.)
+# 5.4.153 Physics (Ph.D.)
 
 ## Glossary
 

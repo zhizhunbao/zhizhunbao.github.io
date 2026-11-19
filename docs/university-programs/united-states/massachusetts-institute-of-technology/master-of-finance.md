@@ -1,10 +1,10 @@
 ---
-title: "4.2.66 Master of Finance"
+title: "5.2.66 Master of Finance"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Finance: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.66 Master of Finance
+# 5.2.66 Master of Finance
 
 ## Glossary
 

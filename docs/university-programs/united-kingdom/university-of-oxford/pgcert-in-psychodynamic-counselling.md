@@ -1,10 +1,10 @@
 ---
-title: "3.2.249 PGCert in Psychodynamic Counselling"
+title: "4.2.249 PGCert in Psychodynamic Counselling"
 description: "University Programs > United Kingdom > University of Oxford > PGCert in Psychodynamic Counselling: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.249 PGCert in Psychodynamic Counselling
+# 4.2.249 PGCert in Psychodynamic Counselling
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.20 Computer Science and Engineering (Course 6-3)"
+title: "5.2.20 Computer Science and Engineering (Course 6-3)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science and Engineering (Course 6-3): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.20 Computer Science and Engineering (Course 6-3)
+# 5.2.20 Computer Science and Engineering (Course 6-3)
 
 ## Glossary
 

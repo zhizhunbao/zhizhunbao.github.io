@@ -1,10 +1,10 @@
 ---
-title: "4.1.69 Master of Public Health – Generalist"
+title: "5.1.69 Master of Public Health – Generalist"
 description: "University Programs > United States > Harvard University > Master of Public Health – Generalist: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.69 Master of Public Health – Generalist
+# 5.1.69 Master of Public Health – Generalist
 
 ## Glossary
 

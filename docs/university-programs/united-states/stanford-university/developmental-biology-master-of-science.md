@@ -1,10 +1,10 @@
 ---
-title: "4.3.91 Developmental Biology, Master of Science"
+title: "5.3.91 Developmental Biology, Master of Science"
 description: "University Programs > United States > Stanford University > Developmental Biology, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.91 Developmental Biology, Master of Science
+# 5.3.91 Developmental Biology, Master of Science
 
 ## Glossary
 

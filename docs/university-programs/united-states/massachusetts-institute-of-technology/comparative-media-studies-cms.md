@@ -1,10 +1,10 @@
 ---
-title: "4.2.18 Comparative Media Studies (CMS)"
+title: "5.2.18 Comparative Media Studies (CMS)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Comparative Media Studies (CMS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.18 Comparative Media Studies (CMS)
+# 5.2.18 Comparative Media Studies (CMS)
 
 ## Glossary
 

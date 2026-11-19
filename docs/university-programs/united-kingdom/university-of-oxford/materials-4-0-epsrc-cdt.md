@@ -1,10 +1,10 @@
 ---
-title: "3.2.232 Materials 4.0 (EPSRC CDT)"
+title: "4.2.232 Materials 4.0 (EPSRC CDT)"
 description: "University Programs > United Kingdom > University of Oxford > Materials 4.0 (EPSRC CDT): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.232 Materials 4.0 (EPSRC CDT)
+# 4.2.232 Materials 4.0 (EPSRC CDT)
 
 ## Glossary
 

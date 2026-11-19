@@ -1,10 +1,10 @@
 ---
-title: "4.4.124 Clinical D.N.P. Program"
+title: "5.4.124 Clinical D.N.P. Program"
 description: "University Programs > United States > Yale University > Clinical D.N.P. Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.124 Clinical D.N.P. Program
+# 5.4.124 Clinical D.N.P. Program
 
 ## Glossary
 

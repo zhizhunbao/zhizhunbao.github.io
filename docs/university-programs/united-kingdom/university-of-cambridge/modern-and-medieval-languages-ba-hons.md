@@ -1,10 +1,10 @@
 ---
-title: "3.1.26 Modern and Medieval Languages, BA (Hons)"
+title: "4.1.26 Modern and Medieval Languages, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Modern and Medieval Languages, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.26 Modern and Medieval Languages, BA (Hons)
+# 4.1.26 Modern and Medieval Languages, BA (Hons)
 
 ## Glossary
 

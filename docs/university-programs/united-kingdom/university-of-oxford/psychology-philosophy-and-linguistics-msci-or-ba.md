@@ -1,10 +1,10 @@
 ---
-title: "3.2.45 Psychology, Philosophy and Linguistics (MSci or BA)"
+title: "4.2.45 Psychology, Philosophy and Linguistics (MSci or BA)"
 description: "University Programs > United Kingdom > University of Oxford > Psychology, Philosophy and Linguistics (MSci or BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.45 Psychology, Philosophy and Linguistics (MSci or BA)
+# 4.2.45 Psychology, Philosophy and Linguistics (MSci or BA)
 
 ## Glossary
 

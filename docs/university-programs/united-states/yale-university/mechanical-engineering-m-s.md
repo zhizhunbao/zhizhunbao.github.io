@@ -1,10 +1,10 @@
 ---
-title: "4.4.110 Mechanical Engineering (M.S.)"
+title: "5.4.110 Mechanical Engineering (M.S.)"
 description: "University Programs > United States > Yale University > Mechanical Engineering (M.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.110 Mechanical Engineering (M.S.)
+# 5.4.110 Mechanical Engineering (M.S.)
 
 ## Glossary
 

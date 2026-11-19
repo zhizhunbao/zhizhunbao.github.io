@@ -1,10 +1,10 @@
 ---
-title: "3.2.196 MSt in History of Design"
+title: "4.2.196 MSt in History of Design"
 description: "University Programs > United Kingdom > University of Oxford > MSt in History of Design: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.196 MSt in History of Design
+# 4.2.196 MSt in History of Design
 
 ## Glossary
 

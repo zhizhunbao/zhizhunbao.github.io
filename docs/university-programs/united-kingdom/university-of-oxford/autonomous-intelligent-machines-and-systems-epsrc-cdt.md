@@ -1,10 +1,10 @@
 ---
-title: "3.2.220 Autonomous Intelligent Machines and Systems (EPSRC CDT)"
+title: "4.2.220 Autonomous Intelligent Machines and Systems (EPSRC CDT)"
 description: "University Programs > United Kingdom > University of Oxford > Autonomous Intelligent Machines and Systems (EPSRC CDT): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.220 Autonomous Intelligent Machines and Systems (EPSRC CDT)
+# 4.2.220 Autonomous Intelligent Machines and Systems (EPSRC CDT)
 
 ## Glossary
 

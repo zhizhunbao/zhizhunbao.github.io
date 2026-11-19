@@ -1,10 +1,10 @@
 ---
-title: "3.2.17 English and Modern Languages (BA)"
+title: "4.2.17 English and Modern Languages (BA)"
 description: "University Programs > United Kingdom > University of Oxford > English and Modern Languages (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.17 English and Modern Languages (BA)
+# 4.2.17 English and Modern Languages (BA)
 
 ## Glossary
 

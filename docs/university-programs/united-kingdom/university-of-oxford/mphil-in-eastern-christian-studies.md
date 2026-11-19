@@ -1,10 +1,10 @@
 ---
-title: "3.2.59 MPhil in Eastern Christian Studies"
+title: "4.2.59 MPhil in Eastern Christian Studies"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Eastern Christian Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.59 MPhil in Eastern Christian Studies
+# 4.2.59 MPhil in Eastern Christian Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.95 Earth Systems, Master of Science"
+title: "5.3.95 Earth Systems, Master of Science"
 description: "University Programs > United States > Stanford University > Earth Systems, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.95 Earth Systems, Master of Science
+# 5.3.95 Earth Systems, Master of Science
 
 ## Glossary
 

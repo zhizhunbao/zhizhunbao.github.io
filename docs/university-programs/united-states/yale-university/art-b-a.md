@@ -1,10 +1,10 @@
 ---
-title: "4.4.8 Art (B.A.)"
+title: "5.4.8 Art (B.A.)"
 description: "University Programs > United States > Yale University > Art (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.8 Art (B.A.)
+# 5.4.8 Art (B.A.)
 
 ## Glossary
 

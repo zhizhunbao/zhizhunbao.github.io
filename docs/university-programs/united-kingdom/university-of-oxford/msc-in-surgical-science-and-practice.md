@@ -1,10 +1,10 @@
 ---
-title: "3.2.161 MSc in Surgical Science and Practice"
+title: "4.2.161 MSc in Surgical Science and Practice"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Surgical Science and Practice: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.161 MSc in Surgical Science and Practice
+# 4.2.161 MSc in Surgical Science and Practice
 
 ## Glossary
 

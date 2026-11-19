@@ -1,10 +1,10 @@
 ---
-title: "3.1.24 Medicine (Graduate course), MB and BChir"
+title: "4.1.24 Medicine (Graduate course), MB and BChir"
 description: "University Programs > United Kingdom > University of Cambridge > Medicine (Graduate course), MB and BChir: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.24 Medicine (Graduate course), MB and BChir
+# 4.1.24 Medicine (Graduate course), MB and BChir
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.2.157 MSc in Social Science of the Internet"
+title: "4.2.157 MSc in Social Science of the Internet"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Social Science of the Internet: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.157 MSc in Social Science of the Internet
+# 4.2.157 MSc in Social Science of the Internet
 
 ## Glossary
 

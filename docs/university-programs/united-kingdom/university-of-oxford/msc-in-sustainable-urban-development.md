@@ -1,10 +1,10 @@
 ---
-title: "3.2.163 MSc in Sustainable Urban Development"
+title: "4.2.163 MSc in Sustainable Urban Development"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Sustainable Urban Development: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.163 MSc in Sustainable Urban Development
+# 4.2.163 MSc in Sustainable Urban Development
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.4.18 Comparative Literature (B.A.)"
+title: "5.4.18 Comparative Literature (B.A.)"
 description: "University Programs > United States > Yale University > Comparative Literature (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.18 Comparative Literature (B.A.)
+# 5.4.18 Comparative Literature (B.A.)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.59 Computer Science, Economics, and Data Science (Course 6-14P)"
+title: "5.2.59 Computer Science, Economics, and Data Science (Course 6-14P)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science, Economics, and Data Science (Course 6-14P): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.59 Computer Science, Economics, and Data Science (Course 6-14P)
+# 5.2.59 Computer Science, Economics, and Data Science (Course 6-14P)
 
 ## Glossary
 

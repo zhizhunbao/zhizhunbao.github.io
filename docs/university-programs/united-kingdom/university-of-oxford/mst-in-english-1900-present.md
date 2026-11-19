@@ -1,10 +1,10 @@
 ---
-title: "3.2.180 MSt in English (1900-present)"
+title: "4.2.180 MSt in English (1900-present)"
 description: "University Programs > United Kingdom > University of Oxford > MSt in English (1900-present): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.180 MSt in English (1900-present)
+# 4.2.180 MSt in English (1900-present)
 
 ## Glossary
 

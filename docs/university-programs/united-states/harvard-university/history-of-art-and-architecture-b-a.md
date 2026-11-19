@@ -1,10 +1,10 @@
 ---
-title: "4.1.27 History of Art and Architecture (B.A.)"
+title: "5.1.27 History of Art and Architecture (B.A.)"
 description: "University Programs > United States > Harvard University > History of Art and Architecture (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.27 History of Art and Architecture (B.A.)
+# 5.1.27 History of Art and Architecture (B.A.)
 
 ## Glossary
 

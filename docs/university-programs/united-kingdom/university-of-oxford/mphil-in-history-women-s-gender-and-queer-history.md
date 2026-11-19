@@ -1,10 +1,10 @@
 ---
-title: "3.2.74 MPhil in History (Women's, Gender and Queer History)"
+title: "4.2.74 MPhil in History (Women's, Gender and Queer History)"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in History (Women's, Gender and Queer History): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.74 MPhil in History (Women's, Gender and Queer History)
+# 4.2.74 MPhil in History (Women's, Gender and Queer History)
 
 ## Glossary
 

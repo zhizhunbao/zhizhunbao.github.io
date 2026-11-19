@@ -1,10 +1,10 @@
 ---
-title: "4.4.102 Master of Divinity"
+title: "5.4.102 Master of Divinity"
 description: "University Programs > United States > Yale University > Master of Divinity: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.102 Master of Divinity
+# 5.4.102 Master of Divinity
 
 ## Glossary
 

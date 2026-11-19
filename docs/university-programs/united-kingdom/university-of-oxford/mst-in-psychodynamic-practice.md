@@ -1,10 +1,10 @@
 ---
-title: "3.2.212 MSt in Psychodynamic Practice"
+title: "4.2.212 MSt in Psychodynamic Practice"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Psychodynamic Practice: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.212 MSt in Psychodynamic Practice
+# 4.2.212 MSt in Psychodynamic Practice
 
 ## Glossary
 

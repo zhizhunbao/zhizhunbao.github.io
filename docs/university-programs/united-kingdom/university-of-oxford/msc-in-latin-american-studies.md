@@ -1,10 +1,10 @@
 ---
-title: "3.2.131 MSc in Latin American Studies"
+title: "4.2.131 MSc in Latin American Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Latin American Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.131 MSc in Latin American Studies
+# 4.2.131 MSc in Latin American Studies
 
 ## Glossary
 

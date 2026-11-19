@@ -1,10 +1,10 @@
 ---
-title: "4.4.112 Traditional Two-Year M.P.H. Program"
+title: "5.4.112 Traditional Two-Year M.P.H. Program"
 description: "University Programs > United States > Yale University > Traditional Two-Year M.P.H. Program: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.112 Traditional Two-Year M.P.H. Program
+# 5.4.112 Traditional Two-Year M.P.H. Program
 
 ## Glossary
 

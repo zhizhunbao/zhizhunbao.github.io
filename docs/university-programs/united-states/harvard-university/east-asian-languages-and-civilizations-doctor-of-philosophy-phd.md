@@ -1,10 +1,10 @@
 ---
-title: "4.1.111 East Asian Languages and Civilizations, Doctor of Philosophy (PhD)"
+title: "5.1.111 East Asian Languages and Civilizations, Doctor of Philosophy (PhD)"
 description: "University Programs > United States > Harvard University > East Asian Languages and Civilizations, Doctor of Philosophy (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.111 East Asian Languages and Civilizations, Doctor of Philosophy (PhD)
+# 5.1.111 East Asian Languages and Civilizations, Doctor of Philosophy (PhD)
 
 ## Glossary
 

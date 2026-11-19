@@ -1,10 +1,10 @@
 ---
-title: "4.1.81 Master of Science – Biostatistics (60-credit)"
+title: "5.1.81 Master of Science – Biostatistics (60-credit)"
 description: "University Programs > United States > Harvard University > Master of Science – Biostatistics (60-credit): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.81 Master of Science – Biostatistics (60-credit)
+# 5.1.81 Master of Science – Biostatistics (60-credit)
 
 ## Glossary
 

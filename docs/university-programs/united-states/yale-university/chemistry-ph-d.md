@@ -1,10 +1,10 @@
 ---
-title: "4.4.122 Chemistry (Ph.D.)"
+title: "5.4.122 Chemistry (Ph.D.)"
 description: "University Programs > United States > Yale University > Chemistry (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.4.122 Chemistry (Ph.D.)
+# 5.4.122 Chemistry (Ph.D.)
 
 ## Glossary
 

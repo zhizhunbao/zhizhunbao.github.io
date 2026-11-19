@@ -1,10 +1,10 @@
 ---
-title: "3.1.19 Human, Social, and Political Sciences, BA (Hons)"
+title: "4.1.19 Human, Social, and Political Sciences, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Human, Social, and Political Sciences, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.1.19 Human, Social, and Political Sciences, BA (Hons)
+# 4.1.19 Human, Social, and Political Sciences, BA (Hons)
 
 ## Glossary
 
