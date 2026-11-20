@@ -45,40 +45,42 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 300A | Theory of Statistics I | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 300B | Theory of Statistics II | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 300C | Theory of Statistics III | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 301 | Statistics Teaching Practicum | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 302 | Qualifying Exams Workshop | 5-10 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 303 | Statistics Faculty Research Presentations | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 305A | Applied Statistics I | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 305B | Applied Statistics II | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 305C | Applied Statistics III | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 310A | Theory of Probability I | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 310B | Theory of Probability II | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 310C | Theory of Probability III | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Course Requirements | STATS 319 | Literature of Statistics | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Course Requirements | STATS 390 | Consulting Workshop | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 307 | Time Series Analysis | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 311 | Information Theory and Statistics | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 314A | Advanced Statistical Theory | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 315A | Modern Applied Statistics: Learning | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 317 | Stochastic Processes | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 318 | Modern Markov Chains | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 320 | Machine Learning Methods for Neural Data Analysis | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 322 | Function Estimation in White Noise | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 325 | Multivariate Analysis and Random Matrices in Statistics | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 354 | Generalization and Causality in Biohealth | 1-3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 357 | Reliability and Validity in Artificial Intelligence | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 361 | Causal Inference | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 362 | Topic: Monte Carlo | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 363 | Design of Experiments | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | STATS 370 | Bayesian Statistics | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | EE 364A | Convex Optimization I | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
-|  | Program Requirements > Depth Requirement | EE 364B | Convex Optimization II | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 300A | Theory of Statistics I | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 300B | Theory of Statistics II | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 300C | Theory of Statistics III | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 301 | Statistics Teaching Practicum | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 302 | Qualifying Exams Workshop | 5-10 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 303 | Statistics Faculty Research Presentations | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 305A | Applied Statistics I | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 305B | Applied Statistics II | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 305C | Applied Statistics III | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 310A | Theory of Probability I | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 310B | Theory of Probability II | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > First Year Core Program and Qualifying Exams | STATS 310C | Theory of Probability III | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Course Requirements | STATS 319 | Literature of Statistics | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Course Requirements | STATS 390 | Consulting Workshop | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 307 | Time Series Analysis | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 311 | Information Theory and Statistics | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 314A | Advanced Statistical Theory | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 315A | Modern Applied Statistics: Learning | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 317 | Stochastic Processes | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 318 | Modern Markov Chains | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 320 | Machine Learning Methods for Neural Data Analysis | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 322 | Function Estimation in White Noise | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 325 | Multivariate Analysis and Random Matrices in Statistics | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 354 | Generalization and Causality in Biohealth | 1-3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 357 | Reliability and Validity in Artificial Intelligence | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 361 | Causal Inference | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 362 | Topic: Monte Carlo | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 363 | Design of Experiments | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | STATS 370 | Bayesian Statistics | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | EE 364A | Convex Optimization I | 3 Units | [2023](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h) | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
+|  | Program Requirements > Depth Requirement | EE 364B | Convex Optimization II | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy) |
 
 ## References
 
 Stanford University. (n.d.). *Statistics, Doctor of Philosophy*. Retrieved November 18, 2026, from <https://bulletin.stanford.edu/programs/graduate/statistics/doctor-of-philosophy>
+
+Stanford Online. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@stanfordonline/playlists>

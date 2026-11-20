@@ -38,33 +38,35 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  | Program Requirements > Required Courses | BIOS 200 | Foundations in Experimental Biology | 5 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Required Courses | CBIO 240 | Molecular and Genetic Basis of Cancer | 4 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Required Courses | CBIO 242 | Cellular and Clinical Aspects of Cancer | 4 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Required Courses | CBIO 245 | Lecture Seminar Series in Cancer Biology Program | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Required Courses | CBIO 280 | Cancer Biology Journal Club | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Required Courses | MED 255 | The Responsible Conduct of Research | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | BIO 230 | Cellular and Molecular Immunology: An Introductory Course | 4 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | CBIO 275 | Tumor Immunology | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | CME 193 | Introduction to Scientific Python | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | CS 106A | Programming Methodology | 3-5 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | CS 106B | Programming Abstractions | 3-5 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | CS 109 | Introduction to Probability for Computer Scientists | 3-5 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | CS 237B | Principles of Robot Autonomy II | 3-4 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | GENE 211 | Genomics | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | IMMUNOL 201 | Advanced Immunology I | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | IMMUNOL 205 | Immunology in Health and Disease | 4 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | IMMUNOL 206 | Introduction to Applied Computational Tools in Immunology | 2 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | IMMUNOL 207 | Essential Methods in Computational and Systems Immunology | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | IMMUNOL 209 | Translational Immunology | 1 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | IMMUNOL 223 | Biology and Disease of Hematopoiesis | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | STATS 191 | Introduction to Applied Statistics | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Electives | STEMREM 205 | Bioinformatics for Stem Cell and Cancer Biology | 3 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Reading/Research Work | CBIO 299 | Directed Reading in Cancer Biology | 1-18 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
-|  | Program Requirements > Reading/Research Work | CBIO 399 | Graduate Research | 1-18 Units | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  | Program Requirements > Required Courses | BIOS 200 | Foundations in Experimental Biology | 5 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Required Courses | CBIO 240 | Molecular and Genetic Basis of Cancer | 4 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Required Courses | CBIO 242 | Cellular and Clinical Aspects of Cancer | 4 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Required Courses | CBIO 245 | Lecture Seminar Series in Cancer Biology Program | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Required Courses | CBIO 280 | Cancer Biology Journal Club | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Required Courses | MED 255 | The Responsible Conduct of Research | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | BIO 230 | Cellular and Molecular Immunology: An Introductory Course | 4 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | CBIO 275 | Tumor Immunology | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | CME 193 | Introduction to Scientific Python | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | CS 106A | Programming Methodology | 3-5 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | CS 106B | Programming Abstractions | 3-5 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | CS 109 | Introduction to Probability for Computer Scientists | 3-5 Units | [2022](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | CS 237B | Principles of Robot Autonomy II | 3-4 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | GENE 211 | Genomics | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | IMMUNOL 201 | Advanced Immunology I | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | IMMUNOL 205 | Immunology in Health and Disease | 4 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | IMMUNOL 206 | Introduction to Applied Computational Tools in Immunology | 2 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | IMMUNOL 207 | Essential Methods in Computational and Systems Immunology | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | IMMUNOL 209 | Translational Immunology | 1 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | IMMUNOL 223 | Biology and Disease of Hematopoiesis | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | STATS 191 | Introduction to Applied Statistics | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Electives | STEMREM 205 | Bioinformatics for Stem Cell and Cancer Biology | 3 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Reading/Research Work | CBIO 299 | Directed Reading in Cancer Biology | 1-18 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
+|  | Program Requirements > Reading/Research Work | CBIO 399 | Graduate Research | 1-18 Units |  | [Stanford University, n.d.](https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy) |
 
 ## References
 
 Stanford University. (n.d.). *Cancer Biology, Doctor of Philosophy*. Retrieved November 18, 2026, from <https://bulletin.stanford.edu/programs/graduate/cancer-biology/doctor-of-philosophy>
+
+Stanford Online. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@stanfordonline/playlists>
