@@ -65,5 +65,7 @@ items:
     href: college-programs/
   - name: University Programs
     href: university-programs/
+  - name: Online Courses
+    href: online-courses/
 - name: Blog
   href: blog/
