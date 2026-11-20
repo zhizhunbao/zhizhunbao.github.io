@@ -1,10 +1,10 @@
 ---
-title: "4.3.731 Space Syntax: Architecture and Cities MSc"
+title: "5.3.731 Space Syntax: Architecture and Cities MSc"
 description: "University Programs > United Kingdom > University College London > Space Syntax: Architecture and Cities MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.731 Space Syntax: Architecture and Cities MSc
+# 5.3.731 Space Syntax: Architecture and Cities MSc
 
 ## Glossary
 

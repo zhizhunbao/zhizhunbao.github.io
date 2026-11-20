@@ -1,10 +1,10 @@
 ---
-title: "4.3.747 Sustainable Structural Engineering MSc"
+title: "5.3.747 Sustainable Structural Engineering MSc"
 description: "University Programs > United Kingdom > University College London > Sustainable Structural Engineering MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.747 Sustainable Structural Engineering MSc
+# 5.3.747 Sustainable Structural Engineering MSc
 
 ## Glossary
 

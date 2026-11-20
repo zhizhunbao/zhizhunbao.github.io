@@ -1,10 +1,10 @@
 ---
-title: "4.3.179 Management Science BSc"
+title: "5.3.179 Management Science BSc"
 description: "University Programs > United Kingdom > University College London > Management Science BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.179 Management Science BSc
+# 5.3.179 Management Science BSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.7 Archaeology and Anthropology BA"
+title: "5.3.7 Archaeology and Anthropology BA"
 description: "University Programs > United Kingdom > University College London > Archaeology and Anthropology BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.7 Archaeology and Anthropology BA
+# 5.3.7 Archaeology and Anthropology BA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.376 Clinical Paediatric Neuropsychology MSc"
+title: "5.3.376 Clinical Paediatric Neuropsychology MSc"
 description: "University Programs > United Kingdom > University College London > Clinical Paediatric Neuropsychology MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.376 Clinical Paediatric Neuropsychology MSc
+# 5.3.376 Clinical Paediatric Neuropsychology MSc
 
 ## Glossary
 

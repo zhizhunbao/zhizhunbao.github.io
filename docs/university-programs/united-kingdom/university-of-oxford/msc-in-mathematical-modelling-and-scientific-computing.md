@@ -1,10 +1,10 @@
 ---
-title: "4.2.137 MSc in Mathematical Modelling and Scientific Computing"
+title: "5.1.137 MSc in Mathematical Modelling and Scientific Computing"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Mathematical Modelling and Scientific Computing: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.137 MSc in Mathematical Modelling and Scientific Computing
+# 5.1.137 MSc in Mathematical Modelling and Scientific Computing
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.808 Special Care Dentistry PG Cert"
+title: "5.3.808 Special Care Dentistry PG Cert"
 description: "University Programs > United Kingdom > University College London > Special Care Dentistry PG Cert: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.808 Special Care Dentistry PG Cert
+# 5.3.808 Special Care Dentistry PG Cert
 
 ## Glossary
 

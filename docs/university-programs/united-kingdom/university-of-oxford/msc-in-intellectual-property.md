@@ -1,10 +1,10 @@
 ---
-title: "4.2.127 MSc in Intellectual Property"
+title: "5.1.127 MSc in Intellectual Property"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Intellectual Property: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.127 MSc in Intellectual Property
+# 5.1.127 MSc in Intellectual Property
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.178 Management for Social Change BSc"
+title: "5.3.178 Management for Social Change BSc"
 description: "University Programs > United Kingdom > University College London > Management for Social Change BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.178 Management for Social Change BSc
+# 5.3.178 Management for Social Change BSc
 
 ## Glossary
 

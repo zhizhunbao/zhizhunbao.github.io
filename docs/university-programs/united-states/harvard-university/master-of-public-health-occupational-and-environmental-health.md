@@ -1,10 +1,10 @@
 ---
-title: "5.2.78 Master of Public Health – Occupational and Environmental Health"
+title: "6.1.78 Master of Public Health – Occupational and Environmental Health"
 description: "University Programs > United States > Harvard University > Master of Public Health – Occupational and Environmental Health: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.78 Master of Public Health – Occupational and Environmental Health
+# 6.1.78 Master of Public Health – Occupational and Environmental Health
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.332 Biomaterials and Tissue Engineering MSc"
+title: "5.3.332 Biomaterials and Tissue Engineering MSc"
 description: "University Programs > United Kingdom > University College London > Biomaterials and Tissue Engineering MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.332 Biomaterials and Tissue Engineering MSc
+# 5.3.332 Biomaterials and Tissue Engineering MSc
 
 ## Glossary
 

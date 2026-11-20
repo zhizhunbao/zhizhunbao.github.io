@@ -1,10 +1,10 @@
 ---
-title: "4.3.279 Advanced Audiology: Audiovestibular Medicine MSc"
+title: "5.3.279 Advanced Audiology: Audiovestibular Medicine MSc"
 description: "University Programs > United Kingdom > University College London > Advanced Audiology: Audiovestibular Medicine MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.279 Advanced Audiology: Audiovestibular Medicine MSc
+# 5.3.279 Advanced Audiology: Audiovestibular Medicine MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.3.119 Geology (PhD, ScD)"
+title: "6.2.119 Geology (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Geology (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.119 Geology (PhD, ScD)
+# 6.2.119 Geology (PhD, ScD)
 
 ## Glossary
 

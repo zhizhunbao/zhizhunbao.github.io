@@ -1,10 +1,10 @@
 ---
-title: "4.3.378 Clinical Pharmacy, International Practice and Policy with Extended Placement MSc"
+title: "5.3.378 Clinical Pharmacy, International Practice and Policy with Extended Placement MSc"
 description: "University Programs > United Kingdom > University College London > Clinical Pharmacy, International Practice and Policy with Extended Placement MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.378 Clinical Pharmacy, International Practice and Policy with Extended Placement MSc
+# 5.3.378 Clinical Pharmacy, International Practice and Policy with Extended Placement MSc
 
 ## Glossary
 

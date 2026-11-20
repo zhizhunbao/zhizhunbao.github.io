@@ -1,10 +1,10 @@
 ---
-title: "4.3.787 Children and Young People’s Psychological Trainings: Therapy PG Dip"
+title: "5.3.787 Children and Young People’s Psychological Trainings: Therapy PG Dip"
 description: "University Programs > United Kingdom > University College London > Children and Young People’s Psychological Trainings: Therapy PG Dip: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.787 Children and Young People’s Psychological Trainings: Therapy PG Dip
+# 5.3.787 Children and Young People’s Psychological Trainings: Therapy PG Dip
 
 ## Glossary
 

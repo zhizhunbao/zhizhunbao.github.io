@@ -1,10 +1,10 @@
 ---
-title: "4.3.784 Advanced Educational Practice Grad Dip"
+title: "5.3.784 Advanced Educational Practice Grad Dip"
 description: "University Programs > United Kingdom > University College London > Advanced Educational Practice Grad Dip: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.784 Advanced Educational Practice Grad Dip
+# 5.3.784 Advanced Educational Practice Grad Dip
 
 ## Glossary
 

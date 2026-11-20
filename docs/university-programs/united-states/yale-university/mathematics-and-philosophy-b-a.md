@@ -1,10 +1,10 @@
 ---
-title: "5.5.56 Mathematics and Philosophy (B.A.)"
+title: "6.4.56 Mathematics and Philosophy (B.A.)"
 description: "University Programs > United States > Yale University > Mathematics and Philosophy (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.56 Mathematics and Philosophy (B.A.)
+# 6.4.56 Mathematics and Philosophy (B.A.)
 
 ## Glossary
 

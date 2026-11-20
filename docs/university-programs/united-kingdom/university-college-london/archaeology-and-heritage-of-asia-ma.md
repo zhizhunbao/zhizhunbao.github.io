@@ -1,10 +1,10 @@
 ---
-title: "4.3.305 Archaeology and Heritage of Asia MA"
+title: "5.3.305 Archaeology and Heritage of Asia MA"
 description: "University Programs > United Kingdom > University College London > Archaeology and Heritage of Asia MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.305 Archaeology and Heritage of Asia MA
+# 5.3.305 Archaeology and Heritage of Asia MA
 
 ## Glossary
 

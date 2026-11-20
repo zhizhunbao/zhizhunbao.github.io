@@ -1,10 +1,10 @@
 ---
-title: "5.1.56 Major in Italian"
+title: "6.5.56 Major in Italian"
 description: "University Programs > United States > Columbia University > Major in Italian: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.56 Major in Italian
+# 6.5.56 Major in Italian
 
 ## Glossary
 

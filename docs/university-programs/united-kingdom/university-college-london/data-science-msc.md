@@ -1,10 +1,10 @@
 ---
-title: "4.3.412 Data Science MSc"
+title: "5.3.412 Data Science MSc"
 description: "University Programs > United Kingdom > University College London > Data Science MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.412 Data Science MSc
+# 5.3.412 Data Science MSc
 
 ## Glossary
 

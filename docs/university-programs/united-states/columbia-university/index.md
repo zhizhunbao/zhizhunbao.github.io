@@ -1,10 +1,10 @@
 ---
-title: "5.1 Columbia University"
+title: "6.5 Columbia University"
 description: "University Programs > United States > Columbia University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1 Columbia University
+# 6.5 Columbia University
 
 ## Glossary
 

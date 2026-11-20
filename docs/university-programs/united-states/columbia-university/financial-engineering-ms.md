@@ -1,10 +1,10 @@
 ---
-title: "5.1.95 Financial Engineering (MS)"
+title: "6.5.95 Financial Engineering (MS)"
 description: "University Programs > United States > Columbia University > Financial Engineering (MS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.95 Financial Engineering (MS)
+# 6.5.95 Financial Engineering (MS)
 
 ## Glossary
 

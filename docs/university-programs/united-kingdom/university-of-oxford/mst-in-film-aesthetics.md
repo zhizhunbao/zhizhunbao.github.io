@@ -1,10 +1,10 @@
 ---
-title: "4.2.183 MSt in Film Aesthetics"
+title: "5.1.183 MSt in Film Aesthetics"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Film Aesthetics: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.183 MSt in Film Aesthetics
+# 5.1.183 MSt in Film Aesthetics
 
 ## Glossary
 

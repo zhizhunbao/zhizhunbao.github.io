@@ -1,10 +1,10 @@
 ---
-title: "5.1.119 Civil Engineering and Engineering Mechanics (EngScD, PhD)"
+title: "6.5.119 Civil Engineering and Engineering Mechanics (EngScD, PhD)"
 description: "University Programs > United States > Columbia University > Civil Engineering and Engineering Mechanics (EngScD, PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.119 Civil Engineering and Engineering Mechanics (EngScD, PhD)
+# 6.5.119 Civil Engineering and Engineering Mechanics (EngScD, PhD)
 
 ## Glossary
 

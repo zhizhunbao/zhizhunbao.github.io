@@ -1,10 +1,10 @@
 ---
-title: "4.2.113 MSc in Education (Research Design and Methodology)"
+title: "5.1.113 MSc in Education (Research Design and Methodology)"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Education (Research Design and Methodology): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.113 MSc in Education (Research Design and Methodology)
+# 5.1.113 MSc in Education (Research Design and Methodology)
 
 ## Glossary
 

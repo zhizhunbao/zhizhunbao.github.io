@@ -1,10 +1,10 @@
 ---
-title: "4.3.743 Strategic Management of Projects MSc"
+title: "5.3.743 Strategic Management of Projects MSc"
 description: "University Programs > United Kingdom > University College London > Strategic Management of Projects MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.743 Strategic Management of Projects MSc
+# 5.3.743 Strategic Management of Projects MSc
 
 ## Glossary
 

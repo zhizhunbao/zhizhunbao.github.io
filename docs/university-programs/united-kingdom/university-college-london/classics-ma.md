@@ -1,10 +1,10 @@
 ---
-title: "4.3.365 Classics MA"
+title: "5.3.365 Classics MA"
 description: "University Programs > United Kingdom > University College London > Classics MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.365 Classics MA
+# 5.3.365 Classics MA
 
 ## Glossary
 

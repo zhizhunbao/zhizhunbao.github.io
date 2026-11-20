@@ -1,10 +1,10 @@
 ---
-title: "5.1.6 Computer Science (BS)"
+title: "6.5.6 Computer Science (BS)"
 description: "University Programs > United States > Columbia University > Computer Science (BS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.6 Computer Science (BS)
+# 6.5.6 Computer Science (BS)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.47 Theology and Religion (BA)"
+title: "5.1.47 Theology and Religion (BA)"
 description: "University Programs > United Kingdom > University of Oxford > Theology and Religion (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.47 Theology and Religion (BA)
+# 5.1.47 Theology and Religion (BA)
 
 ## Glossary
 

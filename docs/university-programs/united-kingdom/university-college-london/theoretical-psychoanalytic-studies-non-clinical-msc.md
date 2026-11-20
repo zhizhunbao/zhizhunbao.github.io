@@ -1,10 +1,10 @@
 ---
-title: "4.3.760 Theoretical Psychoanalytic Studies (Non-Clinical) MSc"
+title: "5.3.760 Theoretical Psychoanalytic Studies (Non-Clinical) MSc"
 description: "University Programs > United Kingdom > University College London > Theoretical Psychoanalytic Studies (Non-Clinical) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.760 Theoretical Psychoanalytic Studies (Non-Clinical) MSc
+# 5.3.760 Theoretical Psychoanalytic Studies (Non-Clinical) MSc
 
 ## Glossary
 

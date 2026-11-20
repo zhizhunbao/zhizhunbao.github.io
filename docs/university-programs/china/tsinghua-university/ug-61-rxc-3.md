@@ -1,10 +1,10 @@
 ---
-title: "2.1.51 英语（日新书院，英语专业（外文实验班））"
+title: "3.1.51 英语（日新书院，英语专业（外文实验班））"
 description: "University Programs > China > Tsinghua University > 英语（日新书院，英语专业（外文实验班））: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1.51 英语（日新书院，英语专业（外文实验班））
+# 3.1.51 英语（日新书院，英语专业（外文实验班））
 
 ## Glossary
 

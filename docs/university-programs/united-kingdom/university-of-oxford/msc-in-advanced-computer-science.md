@@ -1,10 +1,10 @@
 ---
-title: "4.2.99 MSc in Advanced Computer Science"
+title: "5.1.99 MSc in Advanced Computer Science"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Advanced Computer Science: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.99 MSc in Advanced Computer Science
+# 5.1.99 MSc in Advanced Computer Science
 
 ## Glossary
 

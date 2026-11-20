@@ -1,10 +1,10 @@
 ---
-title: "4.3.554 Information Security MSc"
+title: "5.3.554 Information Security MSc"
 description: "University Programs > United Kingdom > University College London > Information Security MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.554 Information Security MSc
+# 5.3.554 Information Security MSc
 
 ## Glossary
 

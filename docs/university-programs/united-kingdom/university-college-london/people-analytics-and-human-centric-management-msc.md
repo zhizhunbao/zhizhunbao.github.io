@@ -1,10 +1,10 @@
 ---
-title: "4.3.643 People Analytics and Human-Centric Management MSc"
+title: "5.3.643 People Analytics and Human-Centric Management MSc"
 description: "University Programs > United Kingdom > University College London > People Analytics and Human-Centric Management MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.643 People Analytics and Human-Centric Management MSc
+# 5.3.643 People Analytics and Human-Centric Management MSc
 
 ## Glossary
 

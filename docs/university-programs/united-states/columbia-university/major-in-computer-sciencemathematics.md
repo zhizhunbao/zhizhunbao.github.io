@@ -1,10 +1,10 @@
 ---
-title: "5.1.30 Major in Computer Science–Mathematics"
+title: "6.5.30 Major in Computer Science–Mathematics"
 description: "University Programs > United States > Columbia University > Major in Computer Science–Mathematics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.30 Major in Computer Science–Mathematics
+# 6.5.30 Major in Computer Science–Mathematics
 
 ## Glossary
 

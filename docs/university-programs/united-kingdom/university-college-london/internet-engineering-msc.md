@@ -1,10 +1,10 @@
 ---
-title: "4.3.565 Internet Engineering MSc"
+title: "5.3.565 Internet Engineering MSc"
 description: "University Programs > United Kingdom > University College London > Internet Engineering MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.565 Internet Engineering MSc
+# 5.3.565 Internet Engineering MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.561 International Development in the Americas MSc"
+title: "5.3.561 International Development in the Americas MSc"
 description: "University Programs > United Kingdom > University College London > International Development in the Americas MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.561 International Development in the Americas MSc
+# 5.3.561 International Development in the Americas MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.5.41 Ethnicity, Race, and Migration (B.A.)"
+title: "6.4.41 Ethnicity, Race, and Migration (B.A.)"
 description: "University Programs > United States > Yale University > Ethnicity, Race, and Migration (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.41 Ethnicity, Race, and Migration (B.A.)
+# 6.4.41 Ethnicity, Race, and Migration (B.A.)
 
 ## Glossary
 

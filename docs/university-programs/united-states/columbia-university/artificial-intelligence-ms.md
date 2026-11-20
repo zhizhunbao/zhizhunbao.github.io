@@ -1,10 +1,10 @@
 ---
-title: "5.1.86 Artificial Intelligence (MS)"
+title: "6.5.86 Artificial Intelligence (MS)"
 description: "University Programs > United States > Columbia University > Artificial Intelligence (MS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.86 Artificial Intelligence (MS)
+# 6.5.86 Artificial Intelligence (MS)
 
 ## Glossary
 

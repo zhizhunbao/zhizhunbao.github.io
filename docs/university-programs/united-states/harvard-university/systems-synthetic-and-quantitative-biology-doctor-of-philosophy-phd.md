@@ -1,10 +1,10 @@
 ---
-title: "5.2.141 Systems, Synthetic, and Quantitative Biology, Doctor of Philosophy (PhD)"
+title: "6.1.141 Systems, Synthetic, and Quantitative Biology, Doctor of Philosophy (PhD)"
 description: "University Programs > United States > Harvard University > Systems, Synthetic, and Quantitative Biology, Doctor of Philosophy (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.141 Systems, Synthetic, and Quantitative Biology, Doctor of Philosophy (PhD)
+# 6.1.141 Systems, Synthetic, and Quantitative Biology, Doctor of Philosophy (PhD)
 
 ## Glossary
 

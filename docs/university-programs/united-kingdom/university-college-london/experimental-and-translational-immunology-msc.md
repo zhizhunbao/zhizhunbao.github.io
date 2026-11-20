@@ -1,10 +1,10 @@
 ---
-title: "4.3.502 Experimental and Translational Immunology MSc"
+title: "5.3.502 Experimental and Translational Immunology MSc"
 description: "University Programs > United Kingdom > University College London > Experimental and Translational Immunology MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.502 Experimental and Translational Immunology MSc
+# 5.3.502 Experimental and Translational Immunology MSc
 
 ## Glossary
 

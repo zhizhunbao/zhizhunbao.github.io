@@ -1,10 +1,10 @@
 ---
-title: "4.3.583 Law and Finance MSc"
+title: "5.3.583 Law and Finance MSc"
 description: "University Programs > United Kingdom > University College London > Law and Finance MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.583 Law and Finance MSc
+# 5.3.583 Law and Finance MSc
 
 ## Glossary
 

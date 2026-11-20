@@ -1,10 +1,10 @@
 ---
-title: "4.3.726 Sociology of Childhood and Children's Rights MA"
+title: "5.3.726 Sociology of Childhood and Children's Rights MA"
 description: "University Programs > United Kingdom > University College London > Sociology of Childhood and Children's Rights MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.726 Sociology of Childhood and Children's Rights MA
+# 5.3.726 Sociology of Childhood and Children's Rights MA
 
 ## Glossary
 

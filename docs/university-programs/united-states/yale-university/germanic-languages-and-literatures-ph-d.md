@@ -1,10 +1,10 @@
 ---
-title: "5.5.136 Germanic Languages and Literatures (Ph.D.)"
+title: "6.4.136 Germanic Languages and Literatures (Ph.D.)"
 description: "University Programs > United States > Yale University > Germanic Languages and Literatures (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.136 Germanic Languages and Literatures (Ph.D.)
+# 6.4.136 Germanic Languages and Literatures (Ph.D.)
 
 ## Glossary
 

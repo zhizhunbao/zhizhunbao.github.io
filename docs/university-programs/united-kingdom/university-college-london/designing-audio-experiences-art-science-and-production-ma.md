@@ -1,10 +1,10 @@
 ---
-title: "4.3.419 Designing Audio Experiences: Art, Science and Production MA"
+title: "5.3.419 Designing Audio Experiences: Art, Science and Production MA"
 description: "University Programs > United Kingdom > University College London > Designing Audio Experiences: Art, Science and Production MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.419 Designing Audio Experiences: Art, Science and Production MA
+# 5.3.419 Designing Audio Experiences: Art, Science and Production MA
 
 ## Glossary
 

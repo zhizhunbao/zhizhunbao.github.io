@@ -1,10 +1,10 @@
 ---
-title: "2.1.13 化学（理学院化学系）"
+title: "3.1.13 化学（理学院化学系）"
 description: "University Programs > China > Tsinghua University > 化学（理学院化学系）: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1.13 化学（理学院化学系）
+# 3.1.13 化学（理学院化学系）
 
 ## Glossary
 

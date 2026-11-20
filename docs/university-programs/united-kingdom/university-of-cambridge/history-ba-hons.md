@@ -1,10 +1,10 @@
 ---
-title: "4.1.18 History, BA (Hons)"
+title: "5.2.18 History, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > History, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.18 History, BA (Hons)
+# 5.2.18 History, BA (Hons)
 
 ## Glossary
 

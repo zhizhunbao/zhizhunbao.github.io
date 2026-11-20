@@ -1,10 +1,10 @@
 ---
-title: "4.3.308 Architectural Computation MSc"
+title: "5.3.308 Architectural Computation MSc"
 description: "University Programs > United Kingdom > University College London > Architectural Computation MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.308 Architectural Computation MSc
+# 5.3.308 Architectural Computation MSc
 
 ## Glossary
 

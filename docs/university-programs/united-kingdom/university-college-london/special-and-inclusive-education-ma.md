@@ -1,10 +1,10 @@
 ---
-title: "4.3.736 Special and Inclusive Education MA"
+title: "5.3.736 Special and Inclusive Education MA"
 description: "University Programs > United Kingdom > University College London > Special and Inclusive Education MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.736 Special and Inclusive Education MA
+# 5.3.736 Special and Inclusive Education MA
 
 ## Glossary
 

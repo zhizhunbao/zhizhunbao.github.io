@@ -1,10 +1,10 @@
 ---
-title: "4.3.431 Digital Innovation Built Asset Management MSc"
+title: "5.3.431 Digital Innovation Built Asset Management MSc"
 description: "University Programs > United Kingdom > University College London > Digital Innovation Built Asset Management MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.431 Digital Innovation Built Asset Management MSc
+# 5.3.431 Digital Innovation Built Asset Management MSc
 
 ## Glossary
 

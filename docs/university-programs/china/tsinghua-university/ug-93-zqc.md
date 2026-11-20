@@ -1,10 +1,10 @@
 ---
-title: "2.1.2 交叉工程（自强书院）"
+title: "3.1.2 交叉工程（自强书院）"
 description: "University Programs > China > Tsinghua University > 交叉工程（自强书院）: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1.2 交叉工程（自强书院）
+# 3.1.2 交叉工程（自强书院）
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.304 Archaeological Science: Technology and Materials MSc"
+title: "5.3.304 Archaeological Science: Technology and Materials MSc"
 description: "University Programs > United Kingdom > University College London > Archaeological Science: Technology and Materials MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.304 Archaeological Science: Technology and Materials MSc
+# 5.3.304 Archaeological Science: Technology and Materials MSc
 
 ## Glossary
 

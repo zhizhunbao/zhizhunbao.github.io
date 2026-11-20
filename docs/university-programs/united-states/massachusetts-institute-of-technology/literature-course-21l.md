@@ -1,10 +1,10 @@
 ---
-title: "5.3.38 Literature (Course 21L)"
+title: "6.2.38 Literature (Course 21L)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Literature (Course 21L): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.38 Literature (Course 21L)
+# 6.2.38 Literature (Course 21L)
 
 ## Glossary
 

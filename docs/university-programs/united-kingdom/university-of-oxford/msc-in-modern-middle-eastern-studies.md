@@ -1,10 +1,10 @@
 ---
-title: "4.2.144 MSc in Modern Middle Eastern Studies"
+title: "5.1.144 MSc in Modern Middle Eastern Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Modern Middle Eastern Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.144 MSc in Modern Middle Eastern Studies
+# 5.1.144 MSc in Modern Middle Eastern Studies
 
 ## Glossary
 

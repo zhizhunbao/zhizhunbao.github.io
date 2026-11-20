@@ -1,10 +1,10 @@
 ---
-title: "4.3.598 Manufacture and Commercialisation of Stem Cell and Gene Therapies MSc"
+title: "5.3.598 Manufacture and Commercialisation of Stem Cell and Gene Therapies MSc"
 description: "University Programs > United Kingdom > University College London > Manufacture and Commercialisation of Stem Cell and Gene Therapies MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.598 Manufacture and Commercialisation of Stem Cell and Gene Therapies MSc
+# 5.3.598 Manufacture and Commercialisation of Stem Cell and Gene Therapies MSc
 
 ## Glossary
 

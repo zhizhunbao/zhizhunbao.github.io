@@ -1,10 +1,10 @@
 ---
-title: "4.3.646 Periodontology MClinDent"
+title: "5.3.646 Periodontology MClinDent"
 description: "University Programs > United Kingdom > University College London > Periodontology MClinDent: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.646 Periodontology MClinDent
+# 5.3.646 Periodontology MClinDent
 
 ## Glossary
 

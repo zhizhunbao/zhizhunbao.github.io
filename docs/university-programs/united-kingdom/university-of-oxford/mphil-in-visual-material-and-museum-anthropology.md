@@ -1,10 +1,10 @@
 ---
-title: "4.2.98 MPhil in Visual, Material and Museum Anthropology"
+title: "5.1.98 MPhil in Visual, Material and Museum Anthropology"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Visual, Material and Museum Anthropology: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.98 MPhil in Visual, Material and Museum Anthropology
+# 5.1.98 MPhil in Visual, Material and Museum Anthropology
 
 ## Glossary
 

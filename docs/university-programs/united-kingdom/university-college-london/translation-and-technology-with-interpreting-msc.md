@@ -1,10 +1,10 @@
 ---
-title: "4.3.763 Translation and Technology (with Interpreting) MSc"
+title: "5.3.763 Translation and Technology (with Interpreting) MSc"
 description: "University Programs > United Kingdom > University College London > Translation and Technology (with Interpreting) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.763 Translation and Technology (with Interpreting) MSc
+# 5.3.763 Translation and Technology (with Interpreting) MSc
 
 ## Glossary
 

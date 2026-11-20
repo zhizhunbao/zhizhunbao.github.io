@@ -1,10 +1,10 @@
 ---
-title: "4.1.21 Linguistics and Modern Languages, BA (Hons)"
+title: "5.2.21 Linguistics and Modern Languages, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Linguistics and Modern Languages, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.21 Linguistics and Modern Languages, BA (Hons)
+# 5.2.21 Linguistics and Modern Languages, BA (Hons)
 
 ## Glossary
 

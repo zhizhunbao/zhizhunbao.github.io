@@ -1,10 +1,10 @@
 ---
-title: "4.3.142 History and Politics of the Americas BA"
+title: "5.3.142 History and Politics of the Americas BA"
 description: "University Programs > United Kingdom > University College London > History and Politics of the Americas BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.142 History and Politics of the Americas BA
+# 5.3.142 History and Politics of the Americas BA
 
 ## Glossary
 

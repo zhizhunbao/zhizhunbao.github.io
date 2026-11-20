@@ -1,10 +1,10 @@
 ---
-title: "4.3.708 Scientific and Data Intensive Computing MSc"
+title: "5.3.708 Scientific and Data Intensive Computing MSc"
 description: "University Programs > United Kingdom > University College London > Scientific and Data Intensive Computing MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.708 Scientific and Data Intensive Computing MSc
+# 5.3.708 Scientific and Data Intensive Computing MSc
 
 ## Glossary
 

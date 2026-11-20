@@ -1,10 +1,10 @@
 ---
-title: "4.3.287 Advanced Neuroimaging MRes"
+title: "5.3.287 Advanced Neuroimaging MRes"
 description: "University Programs > United Kingdom > University College London > Advanced Neuroimaging MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.287 Advanced Neuroimaging MRes
+# 5.3.287 Advanced Neuroimaging MRes
 
 ## Glossary
 

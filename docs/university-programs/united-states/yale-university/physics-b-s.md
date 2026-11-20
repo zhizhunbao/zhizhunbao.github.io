@@ -1,10 +1,10 @@
 ---
-title: "5.5.66 Physics (B.S.)"
+title: "6.4.66 Physics (B.S.)"
 description: "University Programs > United States > Yale University > Physics (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.66 Physics (B.S.)
+# 6.4.66 Physics (B.S.)
 
 ## Glossary
 

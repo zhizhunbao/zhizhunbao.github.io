@@ -1,10 +1,10 @@
 ---
-title: "4.3.63 Danish and French BA"
+title: "5.3.63 Danish and French BA"
 description: "University Programs > United Kingdom > University College London > Danish and French BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.63 Danish and French BA
+# 5.3.63 Danish and French BA
 
 ## Glossary
 

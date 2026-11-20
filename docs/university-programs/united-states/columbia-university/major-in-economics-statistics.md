@@ -1,10 +1,10 @@
 ---
-title: "5.1.38 Major in Economics-Statistics"
+title: "6.5.38 Major in Economics-Statistics"
 description: "University Programs > United States > Columbia University > Major in Economics-Statistics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.38 Major in Economics-Statistics
+# 6.5.38 Major in Economics-Statistics
 
 ## Glossary
 

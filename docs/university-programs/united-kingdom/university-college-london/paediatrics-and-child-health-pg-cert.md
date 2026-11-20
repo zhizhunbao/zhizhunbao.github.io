@@ -1,10 +1,10 @@
 ---
-title: "4.3.803 Paediatrics and Child Health PG Cert"
+title: "5.3.803 Paediatrics and Child Health PG Cert"
 description: "University Programs > United Kingdom > University College London > Paediatrics and Child Health PG Cert: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.803 Paediatrics and Child Health PG Cert
+# 5.3.803 Paediatrics and Child Health PG Cert
 
 ## Glossary
 

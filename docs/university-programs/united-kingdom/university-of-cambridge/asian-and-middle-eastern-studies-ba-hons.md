@@ -1,10 +1,10 @@
 ---
-title: "4.1.4 Asian and Middle Eastern Studies, BA (Hons)"
+title: "5.2.4 Asian and Middle Eastern Studies, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Asian and Middle Eastern Studies, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.4 Asian and Middle Eastern Studies, BA (Hons)
+# 5.2.4 Asian and Middle Eastern Studies, BA (Hons)
 
 ## Glossary
 

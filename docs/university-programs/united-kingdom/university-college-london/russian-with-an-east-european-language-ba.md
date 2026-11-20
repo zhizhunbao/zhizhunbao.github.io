@@ -1,10 +1,10 @@
 ---
-title: "4.3.242 Russian with an East European Language BA"
+title: "5.3.242 Russian with an East European Language BA"
 description: "University Programs > United Kingdom > University College London > Russian with an East European Language BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.242 Russian with an East European Language BA
+# 5.3.242 Russian with an East European Language BA
 
 ## Glossary
 

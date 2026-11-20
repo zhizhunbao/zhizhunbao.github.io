@@ -1,10 +1,10 @@
 ---
-title: "4.3.456 Economy, State and Society: Politics and Security MA (International)"
+title: "5.3.456 Economy, State and Society: Politics and Security MA (International)"
 description: "University Programs > United Kingdom > University College London > Economy, State and Society: Politics and Security MA (International): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.456 Economy, State and Society: Politics and Security MA (International)
+# 5.3.456 Economy, State and Society: Politics and Security MA (International)
 
 ## Glossary
 

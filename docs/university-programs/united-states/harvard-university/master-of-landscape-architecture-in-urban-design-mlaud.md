@@ -1,10 +1,10 @@
 ---
-title: "5.2.66 Master of Landscape Architecture in Urban Design (MLAUD)"
+title: "6.1.66 Master of Landscape Architecture in Urban Design (MLAUD)"
 description: "University Programs > United States > Harvard University > Master of Landscape Architecture in Urban Design (MLAUD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.66 Master of Landscape Architecture in Urban Design (MLAUD)
+# 6.1.66 Master of Landscape Architecture in Urban Design (MLAUD)
 
 ## Glossary
 

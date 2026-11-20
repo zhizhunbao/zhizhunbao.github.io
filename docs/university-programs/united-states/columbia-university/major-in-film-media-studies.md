@@ -1,10 +1,10 @@
 ---
-title: "5.1.46 Major in Film & Media Studies"
+title: "6.5.46 Major in Film & Media Studies"
 description: "University Programs > United States > Columbia University > Major in Film & Media Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.46 Major in Film & Media Studies
+# 6.5.46 Major in Film & Media Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.27 History and Politics (BA)"
+title: "5.1.27 History and Politics (BA)"
 description: "University Programs > United Kingdom > University of Oxford > History and Politics (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.27 History and Politics (BA)
+# 5.1.27 History and Politics (BA)
 
 ## Glossary
 

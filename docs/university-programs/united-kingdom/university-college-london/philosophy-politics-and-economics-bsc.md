@@ -1,10 +1,10 @@
 ---
-title: "4.3.217 Philosophy, Politics and Economics BSc"
+title: "5.3.217 Philosophy, Politics and Economics BSc"
 description: "University Programs > United Kingdom > University College London > Philosophy, Politics and Economics BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.217 Philosophy, Politics and Economics BSc
+# 5.3.217 Philosophy, Politics and Economics BSc
 
 ## Glossary
 

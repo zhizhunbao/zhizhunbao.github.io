@@ -1,10 +1,10 @@
 ---
-title: "5.5.94 M.M.S. in Global Business and Society"
+title: "6.4.94 M.M.S. in Global Business and Society"
 description: "University Programs > United States > Yale University > M.M.S. in Global Business and Society: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.94 M.M.S. in Global Business and Society
+# 6.4.94 M.M.S. in Global Business and Society
 
 ## Glossary
 

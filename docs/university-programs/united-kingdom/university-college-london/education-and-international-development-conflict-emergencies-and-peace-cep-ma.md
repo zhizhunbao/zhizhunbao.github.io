@@ -1,10 +1,10 @@
 ---
-title: "4.3.466 Education and International Development: Conflict, Emergencies and Peace (CEP) MA"
+title: "5.3.466 Education and International Development: Conflict, Emergencies and Peace (CEP) MA"
 description: "University Programs > United Kingdom > University College London > Education and International Development: Conflict, Emergencies and Peace (CEP) MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.466 Education and International Development: Conflict, Emergencies and Peace (CEP) MA
+# 5.3.466 Education and International Development: Conflict, Emergencies and Peace (CEP) MA
 
 ## Glossary
 

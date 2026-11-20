@@ -1,10 +1,10 @@
 ---
-title: "4.3.460 Education (Citizenship) MA"
+title: "5.3.460 Education (Citizenship) MA"
 description: "University Programs > United Kingdom > University College London > Education (Citizenship) MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.460 Education (Citizenship) MA
+# 5.3.460 Education (Citizenship) MA
 
 ## Glossary
 

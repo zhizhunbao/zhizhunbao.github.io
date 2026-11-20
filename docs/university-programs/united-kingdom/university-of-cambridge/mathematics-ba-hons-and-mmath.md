@@ -1,10 +1,10 @@
 ---
-title: "4.1.23 Mathematics, BA (Hons) and MMath"
+title: "5.2.23 Mathematics, BA (Hons) and MMath"
 description: "University Programs > United Kingdom > University of Cambridge > Mathematics, BA (Hons) and MMath: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.23 Mathematics, BA (Hons) and MMath
+# 5.2.23 Mathematics, BA (Hons) and MMath
 
 ## Glossary
 

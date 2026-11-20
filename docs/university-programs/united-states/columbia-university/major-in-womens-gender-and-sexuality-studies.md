@@ -1,10 +1,10 @@
 ---
-title: "5.1.77 Major in Women’s, Gender, and Sexuality Studies"
+title: "6.5.77 Major in Women’s, Gender, and Sexuality Studies"
 description: "University Programs > United States > Columbia University > Major in Women’s, Gender, and Sexuality Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.77 Major in Women’s, Gender, and Sexuality Studies
+# 6.5.77 Major in Women’s, Gender, and Sexuality Studies
 
 ## Glossary
 

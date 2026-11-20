@@ -1,10 +1,10 @@
 ---
-title: "4.2.13 Computer Science and Philosophy (MCompPhil or BA)"
+title: "5.1.13 Computer Science and Philosophy (MCompPhil or BA)"
 description: "University Programs > United Kingdom > University of Oxford > Computer Science and Philosophy (MCompPhil or BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.13 Computer Science and Philosophy (MCompPhil or BA)
+# 5.1.13 Computer Science and Philosophy (MCompPhil or BA)
 
 ## Glossary
 

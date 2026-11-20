@@ -1,10 +1,10 @@
 ---
-title: "4.3.673 Primary Education (4-12) MA"
+title: "5.3.673 Primary Education (4-12) MA"
 description: "University Programs > United Kingdom > University College London > Primary Education (4-12) MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.673 Primary Education (4-12) MA
+# 5.3.673 Primary Education (4-12) MA
 
 ## Glossary
 

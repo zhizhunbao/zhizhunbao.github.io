@@ -1,10 +1,10 @@
 ---
-title: "4.3.433 Digital Manufacturing of Advanced Materials MSc"
+title: "5.3.433 Digital Manufacturing of Advanced Materials MSc"
 description: "University Programs > United Kingdom > University College London > Digital Manufacturing of Advanced Materials MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.433 Digital Manufacturing of Advanced Materials MSc
+# 5.3.433 Digital Manufacturing of Advanced Materials MSc
 
 ## Glossary
 

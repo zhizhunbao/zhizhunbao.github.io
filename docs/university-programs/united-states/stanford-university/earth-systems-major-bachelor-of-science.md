@@ -1,10 +1,10 @@
 ---
-title: "5.4.24 Earth Systems, Major: Bachelor of Science"
+title: "6.3.24 Earth Systems, Major: Bachelor of Science"
 description: "University Programs > United States > Stanford University > Earth Systems, Major: Bachelor of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.24 Earth Systems, Major: Bachelor of Science
+# 6.3.24 Earth Systems, Major: Bachelor of Science
 
 ## Glossary
 

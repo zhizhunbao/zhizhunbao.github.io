@@ -1,10 +1,10 @@
 ---
-title: "5.2.108 Doctor of Design (DDes)"
+title: "6.1.108 Doctor of Design (DDes)"
 description: "University Programs > United States > Harvard University > Doctor of Design (DDes): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.108 Doctor of Design (DDes)
+# 6.1.108 Doctor of Design (DDes)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.4.163 Computational and Mathematical Engineering, Doctor of Philosophy"
+title: "6.3.163 Computational and Mathematical Engineering, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Computational and Mathematical Engineering, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.163 Computational and Mathematical Engineering, Doctor of Philosophy
+# 6.3.163 Computational and Mathematical Engineering, Doctor of Philosophy
 
 ## Glossary
 

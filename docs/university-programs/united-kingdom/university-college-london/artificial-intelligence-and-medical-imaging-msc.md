@@ -1,10 +1,10 @@
 ---
-title: "4.3.316 Artificial Intelligence and Medical Imaging MSc"
+title: "5.3.316 Artificial Intelligence and Medical Imaging MSc"
 description: "University Programs > United Kingdom > University College London > Artificial Intelligence and Medical Imaging MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.316 Artificial Intelligence and Medical Imaging MSc
+# 5.3.316 Artificial Intelligence and Medical Imaging MSc
 
 ## Glossary
 

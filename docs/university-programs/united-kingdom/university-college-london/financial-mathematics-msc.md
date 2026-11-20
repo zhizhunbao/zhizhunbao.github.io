@@ -1,10 +1,10 @@
 ---
-title: "4.3.507 Financial Mathematics MSc"
+title: "5.3.507 Financial Mathematics MSc"
 description: "University Programs > United Kingdom > University College London > Financial Mathematics MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.507 Financial Mathematics MSc
+# 5.3.507 Financial Mathematics MSc
 
 ## Glossary
 

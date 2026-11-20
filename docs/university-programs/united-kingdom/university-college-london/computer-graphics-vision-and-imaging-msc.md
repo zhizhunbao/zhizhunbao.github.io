@@ -1,10 +1,10 @@
 ---
-title: "4.3.390 Computer Graphics, Vision and Imaging MSc"
+title: "5.3.390 Computer Graphics, Vision and Imaging MSc"
 description: "University Programs > United Kingdom > University College London > Computer Graphics, Vision and Imaging MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.390 Computer Graphics, Vision and Imaging MSc
+# 5.3.390 Computer Graphics, Vision and Imaging MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.36 Cancer Biomedicine MSci"
+title: "5.3.36 Cancer Biomedicine MSci"
 description: "University Programs > United Kingdom > University College London > Cancer Biomedicine MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.36 Cancer Biomedicine MSci
+# 5.3.36 Cancer Biomedicine MSci
 
 ## Glossary
 

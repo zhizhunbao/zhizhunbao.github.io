@@ -1,10 +1,10 @@
 ---
-title: "4.2.201 MSt in Korean Studies"
+title: "5.1.201 MSt in Korean Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Korean Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.201 MSt in Korean Studies
+# 5.1.201 MSt in Korean Studies
 
 ## Glossary
 

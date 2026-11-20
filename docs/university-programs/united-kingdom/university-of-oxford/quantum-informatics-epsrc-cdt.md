@@ -1,10 +1,10 @@
 ---
-title: "4.2.234 Quantum Informatics (EPSRC CDT)"
+title: "5.1.234 Quantum Informatics (EPSRC CDT)"
 description: "University Programs > United Kingdom > University of Oxford > Quantum Informatics (EPSRC CDT): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.234 Quantum Informatics (EPSRC CDT)
+# 5.1.234 Quantum Informatics (EPSRC CDT)
 
 ## Glossary
 

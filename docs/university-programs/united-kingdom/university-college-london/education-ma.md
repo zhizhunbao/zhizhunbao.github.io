@@ -1,10 +1,10 @@
 ---
-title: "4.3.469 Education MA"
+title: "5.3.469 Education MA"
 description: "University Programs > United Kingdom > University College London > Education MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.469 Education MA
+# 5.3.469 Education MA
 
 ## Glossary
 

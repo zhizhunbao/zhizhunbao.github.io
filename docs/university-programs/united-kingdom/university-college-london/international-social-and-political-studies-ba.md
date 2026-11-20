@@ -1,10 +1,10 @@
 ---
-title: "4.3.159 International Social and Political Studies BA"
+title: "5.3.159 International Social and Political Studies BA"
 description: "University Programs > United Kingdom > University College London > International Social and Political Studies BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.159 International Social and Political Studies BA
+# 5.3.159 International Social and Political Studies BA
 
 ## Glossary
 

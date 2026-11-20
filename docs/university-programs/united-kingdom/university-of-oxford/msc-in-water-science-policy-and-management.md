@@ -1,10 +1,10 @@
 ---
-title: "4.2.167 MSc in Water Science, Policy and Management"
+title: "5.1.167 MSc in Water Science, Policy and Management"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Water Science, Policy and Management: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.167 MSc in Water Science, Policy and Management
+# 5.1.167 MSc in Water Science, Policy and Management
 
 ## Glossary
 

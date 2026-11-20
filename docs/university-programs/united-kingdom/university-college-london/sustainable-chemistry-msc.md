@@ -1,10 +1,10 @@
 ---
-title: "4.3.745 Sustainable Chemistry MSc"
+title: "5.3.745 Sustainable Chemistry MSc"
 description: "University Programs > United Kingdom > University College London > Sustainable Chemistry MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.745 Sustainable Chemistry MSc
+# 5.3.745 Sustainable Chemistry MSc
 
 ## Glossary
 

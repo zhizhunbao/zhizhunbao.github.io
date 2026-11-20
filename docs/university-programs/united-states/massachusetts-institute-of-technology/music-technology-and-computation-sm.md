@@ -1,10 +1,10 @@
 ---
-title: "5.3.78 Music Technology and Computation (SM)"
+title: "6.2.78 Music Technology and Computation (SM)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Music Technology and Computation (SM): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.78 Music Technology and Computation (SM)
+# 6.2.78 Music Technology and Computation (SM)
 
 ## Glossary
 

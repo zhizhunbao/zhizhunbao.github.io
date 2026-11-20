@@ -1,10 +1,10 @@
 ---
-title: "5.5.88 European and Russian Studies (M.A.)"
+title: "6.4.88 European and Russian Studies (M.A.)"
 description: "University Programs > United States > Yale University > European and Russian Studies (M.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.88 European and Russian Studies (M.A.)
+# 6.4.88 European and Russian Studies (M.A.)
 
 ## Glossary
 

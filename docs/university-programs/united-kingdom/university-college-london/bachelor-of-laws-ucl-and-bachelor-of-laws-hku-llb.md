@@ -1,10 +1,10 @@
 ---
-title: "4.3.22 Bachelor of Laws (UCL) and Bachelor of Laws (HKU) LLB"
+title: "5.3.22 Bachelor of Laws (UCL) and Bachelor of Laws (HKU) LLB"
 description: "University Programs > United Kingdom > University College London > Bachelor of Laws (UCL) and Bachelor of Laws (HKU) LLB: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.22 Bachelor of Laws (UCL) and Bachelor of Laws (HKU) LLB
+# 5.3.22 Bachelor of Laws (UCL) and Bachelor of Laws (HKU) LLB
 
 ## Glossary
 

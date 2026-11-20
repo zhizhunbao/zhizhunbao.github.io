@@ -1,10 +1,10 @@
 ---
-title: "4.3.250 Social Sciences BSc"
+title: "5.3.250 Social Sciences BSc"
 description: "University Programs > United Kingdom > University College London > Social Sciences BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.250 Social Sciences BSc
+# 5.3.250 Social Sciences BSc
 
 ## Glossary
 

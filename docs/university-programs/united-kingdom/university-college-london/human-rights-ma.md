@@ -1,10 +1,10 @@
 ---
-title: "4.3.546 Human Rights MA"
+title: "5.3.546 Human Rights MA"
 description: "University Programs > United Kingdom > University College London > Human Rights MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.546 Human Rights MA
+# 5.3.546 Human Rights MA
 
 ## Glossary
 

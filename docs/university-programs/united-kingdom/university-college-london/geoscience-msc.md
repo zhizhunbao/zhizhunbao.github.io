@@ -1,10 +1,10 @@
 ---
-title: "4.3.515 Geoscience MSc"
+title: "5.3.515 Geoscience MSc"
 description: "University Programs > United Kingdom > University College London > Geoscience MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.515 Geoscience MSc
+# 5.3.515 Geoscience MSc
 
 ## Glossary
 

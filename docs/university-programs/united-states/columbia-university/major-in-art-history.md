@@ -1,10 +1,10 @@
 ---
-title: "5.1.16 Major in Art History"
+title: "6.5.16 Major in Art History"
 description: "University Programs > United States > Columbia University > Major in Art History: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.16 Major in Art History
+# 6.5.16 Major in Art History
 
 ## Glossary
 

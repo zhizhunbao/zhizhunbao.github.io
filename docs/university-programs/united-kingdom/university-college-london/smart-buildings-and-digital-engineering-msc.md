@@ -1,10 +1,10 @@
 ---
-title: "4.3.711 Smart Buildings and Digital Engineering MSc"
+title: "5.3.711 Smart Buildings and Digital Engineering MSc"
 description: "University Programs > United Kingdom > University College London > Smart Buildings and Digital Engineering MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.711 Smart Buildings and Digital Engineering MSc
+# 5.3.711 Smart Buildings and Digital Engineering MSc
 
 ## Glossary
 

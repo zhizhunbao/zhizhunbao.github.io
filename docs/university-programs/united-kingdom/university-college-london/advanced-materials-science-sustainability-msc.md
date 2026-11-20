@@ -1,10 +1,10 @@
 ---
-title: "4.3.285 Advanced Materials Science (Sustainability) MSc"
+title: "5.3.285 Advanced Materials Science (Sustainability) MSc"
 description: "University Programs > United Kingdom > University College London > Advanced Materials Science (Sustainability) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.285 Advanced Materials Science (Sustainability) MSc
+# 5.3.285 Advanced Materials Science (Sustainability) MSc
 
 ## Glossary
 

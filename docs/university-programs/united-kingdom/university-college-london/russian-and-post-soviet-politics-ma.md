@@ -1,10 +1,10 @@
 ---
-title: "4.3.703 Russian and Post-Soviet Politics MA"
+title: "5.3.703 Russian and Post-Soviet Politics MA"
 description: "University Programs > United Kingdom > University College London > Russian and Post-Soviet Politics MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.703 Russian and Post-Soviet Politics MA
+# 5.3.703 Russian and Post-Soviet Politics MA
 
 ## Glossary
 

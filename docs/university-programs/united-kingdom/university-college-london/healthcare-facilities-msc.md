@@ -1,10 +1,10 @@
 ---
-title: "4.3.538 Healthcare Facilities MSc"
+title: "5.3.538 Healthcare Facilities MSc"
 description: "University Programs > United Kingdom > University College London > Healthcare Facilities MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.538 Healthcare Facilities MSc
+# 5.3.538 Healthcare Facilities MSc
 
 ## Glossary
 

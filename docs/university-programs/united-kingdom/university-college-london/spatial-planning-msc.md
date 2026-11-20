@@ -1,10 +1,10 @@
 ---
-title: "4.3.732 Spatial Planning MSc"
+title: "5.3.732 Spatial Planning MSc"
 description: "University Programs > United Kingdom > University College London > Spatial Planning MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.732 Spatial Planning MSc
+# 5.3.732 Spatial Planning MSc
 
 ## Glossary
 

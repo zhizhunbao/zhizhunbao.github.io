@@ -1,10 +1,10 @@
 ---
-title: "4.3.149 Human Sciences and Evolution MSci"
+title: "5.3.149 Human Sciences and Evolution MSci"
 description: "University Programs > United Kingdom > University College London > Human Sciences and Evolution MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.149 Human Sciences and Evolution MSci
+# 5.3.149 Human Sciences and Evolution MSci
 
 ## Glossary
 

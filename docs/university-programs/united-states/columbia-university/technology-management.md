@@ -1,10 +1,10 @@
 ---
-title: "5.1.117 Technology Management"
+title: "6.5.117 Technology Management"
 description: "University Programs > United States > Columbia University > Technology Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.117 Technology Management
+# 6.5.117 Technology Management
 
 ## Glossary
 

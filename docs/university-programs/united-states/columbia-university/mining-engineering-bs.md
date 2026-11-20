@@ -1,10 +1,10 @@
 ---
-title: "5.1.81 Mining Engineering (BS)"
+title: "6.5.81 Mining Engineering (BS)"
 description: "University Programs > United States > Columbia University > Mining Engineering (BS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.81 Mining Engineering (BS)
+# 6.5.81 Mining Engineering (BS)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.90 Civil Engineering and Engineering Mechanics (MS)"
+title: "6.5.90 Civil Engineering and Engineering Mechanics (MS)"
 description: "University Programs > United States > Columbia University > Civil Engineering and Engineering Mechanics (MS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.90 Civil Engineering and Engineering Mechanics (MS)
+# 6.5.90 Civil Engineering and Engineering Mechanics (MS)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.647 Perioperative Medicine MSc"
+title: "5.3.647 Perioperative Medicine MSc"
 description: "University Programs > United Kingdom > University College London > Perioperative Medicine MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.647 Perioperative Medicine MSc
+# 5.3.647 Perioperative Medicine MSc
 
 ## Glossary
 

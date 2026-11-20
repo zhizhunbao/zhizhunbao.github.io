@@ -1,10 +1,10 @@
 ---
-title: "5.1.66 Major in Physics"
+title: "6.5.66 Major in Physics"
 description: "University Programs > United States > Columbia University > Major in Physics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.66 Major in Physics
+# 6.5.66 Major in Physics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.3.22 Computer Science, Economics, and Data Science (Course 6-14)"
+title: "6.2.22 Computer Science, Economics, and Data Science (Course 6-14)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science, Economics, and Data Science (Course 6-14): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.22 Computer Science, Economics, and Data Science (Course 6-14)
+# 6.2.22 Computer Science, Economics, and Data Science (Course 6-14)
 
 ## Glossary
 

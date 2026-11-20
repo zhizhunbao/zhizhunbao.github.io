@@ -1,10 +1,10 @@
 ---
-title: "4.2.65 MPhil in Global and Area Studies"
+title: "5.1.65 MPhil in Global and Area Studies"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Global and Area Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.65 MPhil in Global and Area Studies
+# 5.1.65 MPhil in Global and Area Studies
 
 ## Glossary
 

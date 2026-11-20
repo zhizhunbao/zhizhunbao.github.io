@@ -1,10 +1,10 @@
 ---
-title: "4.3.762 Translation and Technology (Scientific, Technical and Medical) MSc"
+title: "5.3.762 Translation and Technology (Scientific, Technical and Medical) MSc"
 description: "University Programs > United Kingdom > University College London > Translation and Technology (Scientific, Technical and Medical) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.762 Translation and Technology (Scientific, Technical and Medical) MSc
+# 5.3.762 Translation and Technology (Scientific, Technical and Medical) MSc
 
 ## Glossary
 

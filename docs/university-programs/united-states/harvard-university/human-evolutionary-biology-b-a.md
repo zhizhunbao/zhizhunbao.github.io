@@ -1,10 +1,10 @@
 ---
-title: "5.2.28 Human Evolutionary Biology (B.A.)"
+title: "6.1.28 Human Evolutionary Biology (B.A.)"
 description: "University Programs > United States > Harvard University > Human Evolutionary Biology (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.28 Human Evolutionary Biology (B.A.)
+# 6.1.28 Human Evolutionary Biology (B.A.)
 
 ## Glossary
 

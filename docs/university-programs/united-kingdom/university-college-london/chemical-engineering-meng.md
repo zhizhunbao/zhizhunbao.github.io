@@ -1,10 +1,10 @@
 ---
-title: "4.3.38 Chemical Engineering MEng"
+title: "5.3.38 Chemical Engineering MEng"
 description: "University Programs > United Kingdom > University College London > Chemical Engineering MEng: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.38 Chemical Engineering MEng
+# 5.3.38 Chemical Engineering MEng
 
 ## Glossary
 

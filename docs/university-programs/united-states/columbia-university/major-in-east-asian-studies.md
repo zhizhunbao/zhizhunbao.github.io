@@ -1,10 +1,10 @@
 ---
-title: "5.1.34 Major in East Asian Studies"
+title: "6.5.34 Major in East Asian Studies"
 description: "University Programs > United States > Columbia University > Major in East Asian Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.34 Major in East Asian Studies
+# 6.5.34 Major in East Asian Studies
 
 ## Glossary
 

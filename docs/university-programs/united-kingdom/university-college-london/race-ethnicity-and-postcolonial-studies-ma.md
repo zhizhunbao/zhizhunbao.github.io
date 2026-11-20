@@ -1,10 +1,10 @@
 ---
-title: "4.3.689 Race, Ethnicity and Postcolonial Studies MA"
+title: "5.3.689 Race, Ethnicity and Postcolonial Studies MA"
 description: "University Programs > United Kingdom > University College London > Race, Ethnicity and Postcolonial Studies MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.689 Race, Ethnicity and Postcolonial Studies MA
+# 5.3.689 Race, Ethnicity and Postcolonial Studies MA
 
 ## Glossary
 

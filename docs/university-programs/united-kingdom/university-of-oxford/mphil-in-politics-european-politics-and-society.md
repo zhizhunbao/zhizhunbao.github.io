@@ -1,10 +1,10 @@
 ---
-title: "4.2.93 MPhil in Politics (European Politics and Society)"
+title: "5.1.93 MPhil in Politics (European Politics and Society)"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Politics (European Politics and Society): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.93 MPhil in Politics (European Politics and Society)
+# 5.1.93 MPhil in Politics (European Politics and Society)
 
 ## Glossary
 

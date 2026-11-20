@@ -1,10 +1,10 @@
 ---
-title: "5.1.49 Major in French and Francophone Studies"
+title: "6.5.49 Major in French and Francophone Studies"
 description: "University Programs > United States > Columbia University > Major in French and Francophone Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.49 Major in French and Francophone Studies
+# 6.5.49 Major in French and Francophone Studies
 
 ## Glossary
 

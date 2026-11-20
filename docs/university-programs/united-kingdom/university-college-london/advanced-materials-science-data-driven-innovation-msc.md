@@ -1,10 +1,10 @@
 ---
-title: "4.3.282 Advanced Materials Science (Data-driven Innovation) MSc"
+title: "5.3.282 Advanced Materials Science (Data-driven Innovation) MSc"
 description: "University Programs > United Kingdom > University College London > Advanced Materials Science (Data-driven Innovation) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.282 Advanced Materials Science (Data-driven Innovation) MSc
+# 5.3.282 Advanced Materials Science (Data-driven Innovation) MSc
 
 ## Glossary
 

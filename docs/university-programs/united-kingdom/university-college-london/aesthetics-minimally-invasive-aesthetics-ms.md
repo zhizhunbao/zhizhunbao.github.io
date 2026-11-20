@@ -1,10 +1,10 @@
 ---
-title: "4.3.295 Aesthetics (Minimally-invasive Aesthetics) MS"
+title: "5.3.295 Aesthetics (Minimally-invasive Aesthetics) MS"
 description: "University Programs > United Kingdom > University College London > Aesthetics (Minimally-invasive Aesthetics) MS: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.295 Aesthetics (Minimally-invasive Aesthetics) MS
+# 5.3.295 Aesthetics (Minimally-invasive Aesthetics) MS
 
 ## Glossary
 

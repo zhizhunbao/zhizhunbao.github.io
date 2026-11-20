@@ -1,10 +1,10 @@
 ---
-title: "4.3.691 Reception of the Classical World MA"
+title: "5.3.691 Reception of the Classical World MA"
 description: "University Programs > United Kingdom > University College London > Reception of the Classical World MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.691 Reception of the Classical World MA
+# 5.3.691 Reception of the Classical World MA
 
 ## Glossary
 

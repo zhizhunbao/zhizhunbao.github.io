@@ -1,10 +1,10 @@
 ---
-title: "4.3.158 International Management BSc"
+title: "5.3.158 International Management BSc"
 description: "University Programs > United Kingdom > University College London > International Management BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.158 International Management BSc
+# 5.3.158 International Management BSc
 
 ## Glossary
 

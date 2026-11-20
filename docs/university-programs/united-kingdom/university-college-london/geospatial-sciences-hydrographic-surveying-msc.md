@@ -1,10 +1,10 @@
 ---
-title: "4.3.518 Geospatial Sciences (Hydrographic Surveying) MSc"
+title: "5.3.518 Geospatial Sciences (Hydrographic Surveying) MSc"
 description: "University Programs > United Kingdom > University College London > Geospatial Sciences (Hydrographic Surveying) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.518 Geospatial Sciences (Hydrographic Surveying) MSc
+# 5.3.518 Geospatial Sciences (Hydrographic Surveying) MSc
 
 ## Glossary
 

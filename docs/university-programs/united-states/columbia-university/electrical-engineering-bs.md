@@ -1,10 +1,10 @@
 ---
-title: "5.1.8 Electrical Engineering (BS)"
+title: "6.5.8 Electrical Engineering (BS)"
 description: "University Programs > United States > Columbia University > Electrical Engineering (BS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.8 Electrical Engineering (BS)
+# 6.5.8 Electrical Engineering (BS)
 
 ## Glossary
 

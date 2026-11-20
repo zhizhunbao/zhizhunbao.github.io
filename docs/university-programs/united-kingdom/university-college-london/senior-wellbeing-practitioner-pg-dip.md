@@ -1,10 +1,10 @@
 ---
-title: "4.3.793 Senior Wellbeing Practitioner PG Dip"
+title: "5.3.793 Senior Wellbeing Practitioner PG Dip"
 description: "University Programs > United Kingdom > University College London > Senior Wellbeing Practitioner PG Dip: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.793 Senior Wellbeing Practitioner PG Dip
+# 5.3.793 Senior Wellbeing Practitioner PG Dip
 
 ## Glossary
 

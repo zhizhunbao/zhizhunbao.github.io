@@ -1,10 +1,10 @@
 ---
-title: "5.2.88 Master of Science – Health Data Science"
+title: "6.1.88 Master of Science – Health Data Science"
 description: "University Programs > United States > Harvard University > Master of Science – Health Data Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.88 Master of Science – Health Data Science
+# 6.1.88 Master of Science – Health Data Science
 
 ## Glossary
 

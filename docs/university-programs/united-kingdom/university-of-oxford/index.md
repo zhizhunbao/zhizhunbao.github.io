@@ -1,10 +1,10 @@
 ---
-title: "4.2 University of Oxford"
+title: "5.1 University of Oxford"
 description: "University Programs > United Kingdom > University of Oxford: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2 University of Oxford
+# 5.1 University of Oxford
 
 ## Glossary
 

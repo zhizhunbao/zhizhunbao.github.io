@@ -1,10 +1,10 @@
 ---
-title: "4.3.740 Sports Medicine, Exercise and Health MSc"
+title: "5.3.740 Sports Medicine, Exercise and Health MSc"
 description: "University Programs > United Kingdom > University College London > Sports Medicine, Exercise and Health MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.740 Sports Medicine, Exercise and Health MSc
+# 5.3.740 Sports Medicine, Exercise and Health MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.7 Decision Science and Data Analytics (BS)"
+title: "6.5.7 Decision Science and Data Analytics (BS)"
 description: "University Programs > United States > Columbia University > Decision Science and Data Analytics (BS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.7 Decision Science and Data Analytics (BS)
+# 6.5.7 Decision Science and Data Analytics (BS)
 
 ## Glossary
 

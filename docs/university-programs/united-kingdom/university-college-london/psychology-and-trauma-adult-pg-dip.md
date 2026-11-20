@@ -1,10 +1,10 @@
 ---
-title: "4.3.791 Psychology and Trauma (Adult) PG Dip"
+title: "5.3.791 Psychology and Trauma (Adult) PG Dip"
 description: "University Programs > United Kingdom > University College London > Psychology and Trauma (Adult) PG Dip: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.791 Psychology and Trauma (Adult) PG Dip
+# 5.3.791 Psychology and Trauma (Adult) PG Dip
 
 ## Glossary
 

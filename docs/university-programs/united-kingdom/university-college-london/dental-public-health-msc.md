@@ -1,10 +1,10 @@
 ---
-title: "4.3.415 Dental Public Health MSc"
+title: "5.3.415 Dental Public Health MSc"
 description: "University Programs > United Kingdom > University College London > Dental Public Health MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.415 Dental Public Health MSc
+# 5.3.415 Dental Public Health MSc
 
 ## Glossary
 

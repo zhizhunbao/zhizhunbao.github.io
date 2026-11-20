@@ -1,10 +1,10 @@
 ---
-title: "5.3.95 Climate Science (PhD, ScD)"
+title: "6.2.95 Climate Science (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Climate Science (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.95 Climate Science (PhD, ScD)
+# 6.2.95 Climate Science (PhD, ScD)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.453 Economics MSc"
+title: "5.3.453 Economics MSc"
 description: "University Programs > United Kingdom > University College London > Economics MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.453 Economics MSc
+# 5.3.453 Economics MSc
 
 ## Glossary
 

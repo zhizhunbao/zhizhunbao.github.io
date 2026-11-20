@@ -1,10 +1,10 @@
 ---
-title: "5.1.106 Master of Architecture"
+title: "6.5.106 Master of Architecture"
 description: "University Programs > United States > Columbia University > Master of Architecture: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.106 Master of Architecture
+# 6.5.106 Master of Architecture
 
 ## Glossary
 

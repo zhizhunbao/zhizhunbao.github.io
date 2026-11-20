@@ -1,10 +1,10 @@
 ---
-title: "4.2.106 MSc in Criminology and Criminal Justice"
+title: "5.1.106 MSc in Criminology and Criminal Justice"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Criminology and Criminal Justice: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.106 MSc in Criminology and Criminal Justice
+# 5.1.106 MSc in Criminology and Criminal Justice
 
 ## Glossary
 

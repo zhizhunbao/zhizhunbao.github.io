@@ -1,10 +1,10 @@
 ---
-title: "4.2.62 MPhil in Egyptology"
+title: "5.1.62 MPhil in Egyptology"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Egyptology: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.62 MPhil in Egyptology
+# 5.1.62 MPhil in Egyptology
 
 ## Glossary
 

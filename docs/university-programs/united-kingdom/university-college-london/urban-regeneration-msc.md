@@ -1,10 +1,10 @@
 ---
-title: "4.3.776 Urban Regeneration MSc"
+title: "5.3.776 Urban Regeneration MSc"
 description: "University Programs > United Kingdom > University College London > Urban Regeneration MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.776 Urban Regeneration MSc
+# 5.3.776 Urban Regeneration MSc
 
 ## Glossary
 

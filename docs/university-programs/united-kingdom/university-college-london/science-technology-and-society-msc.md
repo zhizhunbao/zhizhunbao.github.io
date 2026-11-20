@@ -1,10 +1,10 @@
 ---
-title: "4.3.706 Science, Technology and Society MSc"
+title: "5.3.706 Science, Technology and Society MSc"
 description: "University Programs > United Kingdom > University College London > Science, Technology and Society MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.706 Science, Technology and Society MSc
+# 5.3.706 Science, Technology and Society MSc
 
 ## Glossary
 

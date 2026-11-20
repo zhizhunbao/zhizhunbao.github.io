@@ -1,10 +1,10 @@
 ---
-title: "4.3.174 Law with German Law LLB"
+title: "5.3.174 Law with German Law LLB"
 description: "University Programs > United Kingdom > University College London > Law with German Law LLB: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.174 Law with German Law LLB
+# 5.3.174 Law with German Law LLB
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.245 PGCert in Enhanced Cognitive Behavioural Therapy (Psychosis and Bipolar)"
+title: "5.1.245 PGCert in Enhanced Cognitive Behavioural Therapy (Psychosis and Bipolar)"
 description: "University Programs > United Kingdom > University of Oxford > PGCert in Enhanced Cognitive Behavioural Therapy (Psychosis and Bipolar): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.245 PGCert in Enhanced Cognitive Behavioural Therapy (Psychosis and Bipolar)
+# 5.1.245 PGCert in Enhanced Cognitive Behavioural Therapy (Psychosis and Bipolar)
 
 ## Glossary
 

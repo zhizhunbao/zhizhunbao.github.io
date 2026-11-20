@@ -1,10 +1,10 @@
 ---
-title: "4.2.139 MSc in Mathematics and Foundations of Computer Science"
+title: "5.1.139 MSc in Mathematics and Foundations of Computer Science"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Mathematics and Foundations of Computer Science: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.139 MSc in Mathematics and Foundations of Computer Science
+# 5.1.139 MSc in Mathematics and Foundations of Computer Science
 
 ## Glossary
 

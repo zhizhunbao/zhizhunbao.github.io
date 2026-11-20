@@ -1,10 +1,10 @@
 ---
-title: "4.3.525 Global Learning MA"
+title: "5.3.525 Global Learning MA"
 description: "University Programs > United Kingdom > University College London > Global Learning MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.525 Global Learning MA
+# 5.3.525 Global Learning MA
 
 ## Glossary
 

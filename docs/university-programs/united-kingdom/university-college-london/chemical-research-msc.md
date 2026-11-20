@@ -1,10 +1,10 @@
 ---
-title: "4.3.354 Chemical Research MSc"
+title: "5.3.354 Chemical Research MSc"
 description: "University Programs > United Kingdom > University College London > Chemical Research MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.354 Chemical Research MSc
+# 5.3.354 Chemical Research MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.1.44 MPhil in Medieval History"
+title: "5.2.44 MPhil in Medieval History"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Medieval History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.44 MPhil in Medieval History
+# 5.2.44 MPhil in Medieval History
 
 ## Glossary
 

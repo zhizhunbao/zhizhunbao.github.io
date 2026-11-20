@@ -1,10 +1,10 @@
 ---
-title: "4.3.346 Burns, Plastic and Reconstructive Surgery MSc"
+title: "5.3.346 Burns, Plastic and Reconstructive Surgery MSc"
 description: "University Programs > United Kingdom > University College London > Burns, Plastic and Reconstructive Surgery MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.346 Burns, Plastic and Reconstructive Surgery MSc
+# 5.3.346 Burns, Plastic and Reconstructive Surgery MSc
 
 ## Glossary
 

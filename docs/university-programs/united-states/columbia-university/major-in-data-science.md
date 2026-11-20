@@ -1,10 +1,10 @@
 ---
-title: "5.1.32 Major in Data Science"
+title: "6.5.32 Major in Data Science"
 description: "University Programs > United States > Columbia University > Major in Data Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.32 Major in Data Science
+# 6.5.32 Major in Data Science
 
 ## Glossary
 

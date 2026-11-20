@@ -1,10 +1,10 @@
 ---
-title: "5.1.27 Major in Comparative Literature and Society"
+title: "6.5.27 Major in Comparative Literature and Society"
 description: "University Programs > United States > Columbia University > Major in Comparative Literature and Society: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.27 Major in Comparative Literature and Society
+# 6.5.27 Major in Comparative Literature and Society
 
 ## Glossary
 

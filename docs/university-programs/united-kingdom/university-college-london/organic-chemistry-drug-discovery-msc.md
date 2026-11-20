@@ -1,10 +1,10 @@
 ---
-title: "4.3.632 Organic Chemistry: Drug Discovery MSc"
+title: "5.3.632 Organic Chemistry: Drug Discovery MSc"
 description: "University Programs > United Kingdom > University College London > Organic Chemistry: Drug Discovery MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.632 Organic Chemistry: Drug Discovery MSc
+# 5.3.632 Organic Chemistry: Drug Discovery MSc
 
 ## Glossary
 

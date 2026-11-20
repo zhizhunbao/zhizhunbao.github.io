@@ -1,10 +1,10 @@
 ---
-title: "4.3.43 Chemistry with Management Studies MSci"
+title: "5.3.43 Chemistry with Management Studies MSci"
 description: "University Programs > United Kingdom > University College London > Chemistry with Management Studies MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.43 Chemistry with Management Studies MSci
+# 5.3.43 Chemistry with Management Studies MSci
 
 ## Glossary
 

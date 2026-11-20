@@ -1,10 +1,10 @@
 ---
-title: "4.3.773 Urban Development Planning MSc"
+title: "5.3.773 Urban Development Planning MSc"
 description: "University Programs > United Kingdom > University College London > Urban Development Planning MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.773 Urban Development Planning MSc
+# 5.3.773 Urban Development Planning MSc
 
 ## Glossary
 

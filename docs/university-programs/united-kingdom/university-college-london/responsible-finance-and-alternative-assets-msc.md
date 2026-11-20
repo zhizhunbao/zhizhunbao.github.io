@@ -1,10 +1,10 @@
 ---
-title: "4.3.697 Responsible Finance and Alternative Assets MSc"
+title: "5.3.697 Responsible Finance and Alternative Assets MSc"
 description: "University Programs > United Kingdom > University College London > Responsible Finance and Alternative Assets MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.697 Responsible Finance and Alternative Assets MSc
+# 5.3.697 Responsible Finance and Alternative Assets MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.641 Pain Management MSc"
+title: "5.3.641 Pain Management MSc"
 description: "University Programs > United Kingdom > University College London > Pain Management MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.641 Pain Management MSc
+# 5.3.641 Pain Management MSc
 
 ## Glossary
 

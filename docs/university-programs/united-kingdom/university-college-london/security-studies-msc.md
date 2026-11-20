@@ -1,10 +1,10 @@
 ---
-title: "4.3.709 Security Studies MSc"
+title: "5.3.709 Security Studies MSc"
 description: "University Programs > United Kingdom > University College London > Security Studies MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.709 Security Studies MSc
+# 5.3.709 Security Studies MSc
 
 ## Glossary
 

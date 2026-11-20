@@ -1,10 +1,10 @@
 ---
-title: "4.3.702 Russian and East European Literature and Culture MA"
+title: "5.3.702 Russian and East European Literature and Culture MA"
 description: "University Programs > United Kingdom > University College London > Russian and East European Literature and Culture MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.702 Russian and East European Literature and Culture MA
+# 5.3.702 Russian and East European Literature and Culture MA
 
 ## Glossary
 

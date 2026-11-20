@@ -1,10 +1,10 @@
 ---
-title: "4.3.463 Education (Psychology) MA"
+title: "5.3.463 Education (Psychology) MA"
 description: "University Programs > United Kingdom > University College London > Education (Psychology) MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.463 Education (Psychology) MA
+# 5.3.463 Education (Psychology) MA
 
 ## Glossary
 

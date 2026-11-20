@@ -1,10 +1,10 @@
 ---
-title: "4.3.157 Information, Data and Society BSc"
+title: "5.3.157 Information, Data and Society BSc"
 description: "University Programs > United Kingdom > University College London > Information, Data and Society BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.157 Information, Data and Society BSc
+# 5.3.157 Information, Data and Society BSc
 
 ## Glossary
 

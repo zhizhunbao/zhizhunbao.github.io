@@ -1,10 +1,10 @@
 ---
-title: "5.1.28 Major in Computational Biology"
+title: "6.5.28 Major in Computational Biology"
 description: "University Programs > United States > Columbia University > Major in Computational Biology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.28 Major in Computational Biology
+# 6.5.28 Major in Computational Biology
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.722 Social Research MRes"
+title: "5.3.722 Social Research MRes"
 description: "University Programs > United Kingdom > University College London > Social Research MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.722 Social Research MRes
+# 5.3.722 Social Research MRes
 
 ## Glossary
 

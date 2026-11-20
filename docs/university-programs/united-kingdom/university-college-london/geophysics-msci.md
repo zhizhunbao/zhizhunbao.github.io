@@ -1,10 +1,10 @@
 ---
-title: "4.3.123 Geophysics MSci"
+title: "5.3.123 Geophysics MSci"
 description: "University Programs > United Kingdom > University College London > Geophysics MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.123 Geophysics MSci
+# 5.3.123 Geophysics MSci
 
 ## Glossary
 

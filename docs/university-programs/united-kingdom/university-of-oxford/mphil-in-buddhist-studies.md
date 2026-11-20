@@ -1,10 +1,10 @@
 ---
-title: "4.2.52 MPhil in Buddhist Studies"
+title: "5.1.52 MPhil in Buddhist Studies"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Buddhist Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.52 MPhil in Buddhist Studies
+# 5.1.52 MPhil in Buddhist Studies
 
 ## Glossary
 

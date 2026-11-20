@@ -1,10 +1,10 @@
 ---
-title: "4.3.83 Economics with a Year Abroad BSc (Econ)"
+title: "5.3.83 Economics with a Year Abroad BSc (Econ)"
 description: "University Programs > United Kingdom > University College London > Economics with a Year Abroad BSc (Econ): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.83 Economics with a Year Abroad BSc (Econ)
+# 5.3.83 Economics with a Year Abroad BSc (Econ)
 
 ## Glossary
 

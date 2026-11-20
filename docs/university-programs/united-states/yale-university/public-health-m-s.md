@@ -1,10 +1,10 @@
 ---
-title: "5.5.111 Public Health (M.S.)"
+title: "6.4.111 Public Health (M.S.)"
 description: "University Programs > United States > Yale University > Public Health (M.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.111 Public Health (M.S.)
+# 6.4.111 Public Health (M.S.)
 
 ## Glossary
 

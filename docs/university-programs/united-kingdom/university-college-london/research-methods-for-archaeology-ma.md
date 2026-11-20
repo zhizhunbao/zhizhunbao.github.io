@@ -1,10 +1,10 @@
 ---
-title: "4.3.696 Research Methods for Archaeology MA"
+title: "5.3.696 Research Methods for Archaeology MA"
 description: "University Programs > United Kingdom > University College London > Research Methods for Archaeology MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.696 Research Methods for Archaeology MA
+# 5.3.696 Research Methods for Archaeology MA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.700 Risk, Disaster and Resilience MSc"
+title: "5.3.700 Risk, Disaster and Resilience MSc"
 description: "University Programs > United Kingdom > University College London > Risk, Disaster and Resilience MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.700 Risk, Disaster and Resilience MSc
+# 5.3.700 Risk, Disaster and Resilience MSc
 
 ## Glossary
 

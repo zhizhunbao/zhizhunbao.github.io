@@ -1,10 +1,10 @@
 ---
-title: "4.2.205 MSt in Medieval Studies"
+title: "5.1.205 MSt in Medieval Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Medieval Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.205 MSt in Medieval Studies
+# 5.1.205 MSt in Medieval Studies
 
 ## Glossary
 

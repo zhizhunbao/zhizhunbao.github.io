@@ -1,10 +1,10 @@
 ---
-title: "5.2.25 History and Literature (B.A.)"
+title: "6.1.25 History and Literature (B.A.)"
 description: "University Programs > United States > Harvard University > History and Literature (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.25 History and Literature (B.A.)
+# 6.1.25 History and Literature (B.A.)
 
 ## Glossary
 

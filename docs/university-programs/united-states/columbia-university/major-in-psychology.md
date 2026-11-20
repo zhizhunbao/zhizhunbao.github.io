@@ -1,10 +1,10 @@
 ---
-title: "5.1.69 Major in Psychology"
+title: "6.5.69 Major in Psychology"
 description: "University Programs > United States > Columbia University > Major in Psychology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.69 Major in Psychology
+# 6.5.69 Major in Psychology
 
 ## Glossary
 

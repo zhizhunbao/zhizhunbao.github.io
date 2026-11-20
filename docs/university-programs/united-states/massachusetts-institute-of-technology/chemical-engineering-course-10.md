@@ -1,10 +1,10 @@
 ---
-title: "5.3.13 Chemical Engineering (Course 10)"
+title: "6.2.13 Chemical Engineering (Course 10)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Chemical Engineering (Course 10): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.13 Chemical Engineering (Course 10)
+# 6.2.13 Chemical Engineering (Course 10)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.89 MPhil in Music (Composition)"
+title: "5.1.89 MPhil in Music (Composition)"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Music (Composition): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.89 MPhil in Music (Composition)
+# 5.1.89 MPhil in Music (Composition)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.531 Health Humanities MA"
+title: "5.3.531 Health Humanities MA"
 description: "University Programs > United Kingdom > University College London > Health Humanities MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.531 Health Humanities MA
+# 5.3.531 Health Humanities MA
 
 ## Glossary
 

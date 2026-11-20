@@ -1,10 +1,10 @@
 ---
-title: "4.1 University of Cambridge"
+title: "5.2 University of Cambridge"
 description: "University Programs > United Kingdom > University of Cambridge: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1 University of Cambridge
+# 5.2 University of Cambridge
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.9 Archaeology BSc"
+title: "5.3.9 Archaeology BSc"
 description: "University Programs > United Kingdom > University College London > Archaeology BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.9 Archaeology BSc
+# 5.3.9 Archaeology BSc
 
 ## Glossary
 

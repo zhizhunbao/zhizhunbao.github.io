@@ -1,10 +1,10 @@
 ---
-title: "4.3.503 Experimental Pharmacology and Therapeutics MSc"
+title: "5.3.503 Experimental Pharmacology and Therapeutics MSc"
 description: "University Programs > United Kingdom > University College London > Experimental Pharmacology and Therapeutics MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.503 Experimental Pharmacology and Therapeutics MSc
+# 5.3.503 Experimental Pharmacology and Therapeutics MSc
 
 ## Glossary
 

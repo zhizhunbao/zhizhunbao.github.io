@@ -1,10 +1,10 @@
 ---
-title: "5.1.41 Major in Environmental Biology: new requirements for students who declare as of March 2025."
+title: "6.5.41 Major in Environmental Biology: new requirements for students who declare as of March 2025."
 description: "University Programs > United States > Columbia University > Major in Environmental Biology: new requirements for students who declare as of March 2025.: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.41 Major in Environmental Biology: new requirements for students who declare as of March 2025.
+# 6.5.41 Major in Environmental Biology: new requirements for students who declare as of March 2025.
 
 ## Glossary
 

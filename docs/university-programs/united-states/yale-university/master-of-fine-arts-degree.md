@@ -1,10 +1,10 @@
 ---
-title: "5.5.106 Master of Fine Arts Degree"
+title: "6.4.106 Master of Fine Arts Degree"
 description: "University Programs > United States > Yale University > Master of Fine Arts Degree: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.106 Master of Fine Arts Degree
+# 6.4.106 Master of Fine Arts Degree
 
 ## Glossary
 

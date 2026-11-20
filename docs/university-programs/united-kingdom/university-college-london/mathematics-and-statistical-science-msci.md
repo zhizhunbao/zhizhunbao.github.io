@@ -1,10 +1,10 @@
 ---
-title: "4.3.184 Mathematics and Statistical Science MSci"
+title: "5.3.184 Mathematics and Statistical Science MSci"
 description: "University Programs > United Kingdom > University College London > Mathematics and Statistical Science MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.184 Mathematics and Statistical Science MSci
+# 5.3.184 Mathematics and Statistical Science MSci
 
 ## Glossary
 

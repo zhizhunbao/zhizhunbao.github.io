@@ -1,10 +1,10 @@
 ---
-title: "4.3.86 Electronic and Electrical Engineering MEng"
+title: "5.3.86 Electronic and Electrical Engineering MEng"
 description: "University Programs > United Kingdom > University College London > Electronic and Electrical Engineering MEng: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.86 Electronic and Electrical Engineering MEng
+# 5.3.86 Electronic and Electrical Engineering MEng
 
 ## Glossary
 

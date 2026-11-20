@@ -1,10 +1,10 @@
 ---
-title: "4.3.352 Cell, Gene and Novel Therapies MSc"
+title: "5.3.352 Cell, Gene and Novel Therapies MSc"
 description: "University Programs > United Kingdom > University College London > Cell, Gene and Novel Therapies MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.352 Cell, Gene and Novel Therapies MSc
+# 5.3.352 Cell, Gene and Novel Therapies MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.645 Periodontology (Distance Learning) MSc"
+title: "5.3.645 Periodontology (Distance Learning) MSc"
 description: "University Programs > United Kingdom > University College London > Periodontology (Distance Learning) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.645 Periodontology (Distance Learning) MSc
+# 5.3.645 Periodontology (Distance Learning) MSc
 
 ## Glossary
 

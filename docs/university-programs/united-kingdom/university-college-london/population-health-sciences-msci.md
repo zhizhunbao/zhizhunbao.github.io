@@ -1,10 +1,10 @@
 ---
-title: "4.3.228 Population Health Sciences MSci"
+title: "5.3.228 Population Health Sciences MSci"
 description: "University Programs > United Kingdom > University College London > Population Health Sciences MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.228 Population Health Sciences MSci
+# 5.3.228 Population Health Sciences MSci
 
 ## Glossary
 

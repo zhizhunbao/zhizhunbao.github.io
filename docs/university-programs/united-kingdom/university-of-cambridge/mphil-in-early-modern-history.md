@@ -1,10 +1,10 @@
 ---
-title: "4.1.37 MPhil in Early Modern History"
+title: "5.2.37 MPhil in Early Modern History"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Early Modern History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.37 MPhil in Early Modern History
+# 5.2.37 MPhil in Early Modern History
 
 ## Glossary
 

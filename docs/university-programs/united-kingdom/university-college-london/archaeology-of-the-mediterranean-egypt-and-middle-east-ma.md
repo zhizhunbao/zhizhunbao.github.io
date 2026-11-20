@@ -1,10 +1,10 @@
 ---
-title: "4.3.307 Archaeology of the Mediterranean, Egypt and Middle East MA"
+title: "5.3.307 Archaeology of the Mediterranean, Egypt and Middle East MA"
 description: "University Programs > United Kingdom > University College London > Archaeology of the Mediterranean, Egypt and Middle East MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.307 Archaeology of the Mediterranean, Egypt and Middle East MA
+# 5.3.307 Archaeology of the Mediterranean, Egypt and Middle East MA
 
 ## Glossary
 

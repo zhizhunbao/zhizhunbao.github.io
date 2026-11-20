@@ -1,10 +1,10 @@
 ---
-title: "4.3.180 Management Science MSci"
+title: "5.3.180 Management Science MSci"
 description: "University Programs > United Kingdom > University College London > Management Science MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.180 Management Science MSci
+# 5.3.180 Management Science MSci
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.3.41 Mathematical Economics (Course 14-2)"
+title: "6.2.41 Mathematical Economics (Course 14-2)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mathematical Economics (Course 14-2): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.41 Mathematical Economics (Course 14-2)
+# 6.2.41 Mathematical Economics (Course 14-2)
 
 ## Glossary
 

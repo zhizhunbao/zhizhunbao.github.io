@@ -1,10 +1,10 @@
 ---
-title: "3.2.1 약학과"
+title: "4.2.1 약학과"
 description: "University Programs > South Korea > Yonsei University > 약학과: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2.1 약학과
+# 4.2.1 약학과
 
 ## Glossary
 

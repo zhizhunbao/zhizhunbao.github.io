@@ -1,10 +1,10 @@
 ---
-title: "4.3.269 Sustainable Built Environments, Energy and Resources MEng"
+title: "5.3.269 Sustainable Built Environments, Energy and Resources MEng"
 description: "University Programs > United Kingdom > University College London > Sustainable Built Environments, Energy and Resources MEng: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.269 Sustainable Built Environments, Energy and Resources MEng
+# 5.3.269 Sustainable Built Environments, Energy and Resources MEng
 
 ## Glossary
 

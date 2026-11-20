@@ -1,10 +1,10 @@
 ---
-title: "5.3.132 Physics, Statistics, and Data Science (PhD)"
+title: "6.2.132 Physics, Statistics, and Data Science (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Physics, Statistics, and Data Science (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.132 Physics, Statistics, and Data Science (PhD)
+# 6.2.132 Physics, Statistics, and Data Science (PhD)
 
 ## Glossary
 

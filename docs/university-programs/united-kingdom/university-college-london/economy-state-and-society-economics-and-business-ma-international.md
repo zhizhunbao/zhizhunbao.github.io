@@ -1,10 +1,10 @@
 ---
-title: "4.3.454 Economy, State and Society: Economics and Business MA (International)"
+title: "5.3.454 Economy, State and Society: Economics and Business MA (International)"
 description: "University Programs > United Kingdom > University College London > Economy, State and Society: Economics and Business MA (International): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.454 Economy, State and Society: Economics and Business MA (International)
+# 5.3.454 Economy, State and Society: Economics and Business MA (International)
 
 ## Glossary
 

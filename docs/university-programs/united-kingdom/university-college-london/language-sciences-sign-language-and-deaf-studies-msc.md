@@ -1,10 +1,10 @@
 ---
-title: "4.3.570 Language Sciences (Sign Language and Deaf Studies) MSc"
+title: "5.3.570 Language Sciences (Sign Language and Deaf Studies) MSc"
 description: "University Programs > United Kingdom > University College London > Language Sciences (Sign Language and Deaf Studies) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.570 Language Sciences (Sign Language and Deaf Studies) MSc
+# 5.3.570 Language Sciences (Sign Language and Deaf Studies) MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.23 Major in Chemical Physics"
+title: "6.5.23 Major in Chemical Physics"
 description: "University Programs > United States > Columbia University > Major in Chemical Physics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.23 Major in Chemical Physics
+# 6.5.23 Major in Chemical Physics
 
 ## Glossary
 

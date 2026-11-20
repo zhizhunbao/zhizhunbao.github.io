@@ -1,10 +1,10 @@
 ---
-title: "4.3.577 Language, Culture and History: German History MA"
+title: "5.3.577 Language, Culture and History: German History MA"
 description: "University Programs > United Kingdom > University College London > Language, Culture and History: German History MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.577 Language, Culture and History: German History MA
+# 5.3.577 Language, Culture and History: German History MA
 
 ## Glossary
 

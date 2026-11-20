@@ -1,10 +1,10 @@
 ---
-title: "4.2.235 Superconductivity: Enabling Transformative Technologies (EPSRC CDT)"
+title: "5.1.235 Superconductivity: Enabling Transformative Technologies (EPSRC CDT)"
 description: "University Programs > United Kingdom > University of Oxford > Superconductivity: Enabling Transformative Technologies (EPSRC CDT): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.235 Superconductivity: Enabling Transformative Technologies (EPSRC CDT)
+# 5.1.235 Superconductivity: Enabling Transformative Technologies (EPSRC CDT)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.155 MSc in Social Anthropology"
+title: "5.1.155 MSc in Social Anthropology"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Social Anthropology: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.155 MSc in Social Anthropology
+# 5.1.155 MSc in Social Anthropology
 
 ## Glossary
 

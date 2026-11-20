@@ -1,10 +1,10 @@
 ---
-title: "4.2.48 Bachelor of Civil Law"
+title: "5.1.48 Bachelor of Civil Law"
 description: "University Programs > United Kingdom > University of Oxford > Bachelor of Civil Law: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.48 Bachelor of Civil Law
+# 5.1.48 Bachelor of Civil Law
 
 ## Glossary
 

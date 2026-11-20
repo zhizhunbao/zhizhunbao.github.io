@@ -1,10 +1,10 @@
 ---
-title: "5.1.93 Earth and Environmental Engineering (MS-EEE)"
+title: "6.5.93 Earth and Environmental Engineering (MS-EEE)"
 description: "University Programs > United States > Columbia University > Earth and Environmental Engineering (MS-EEE): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.93 Earth and Environmental Engineering (MS-EEE)
+# 6.5.93 Earth and Environmental Engineering (MS-EEE)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.60 Crime and Security Science BSc"
+title: "5.3.60 Crime and Security Science BSc"
 description: "University Programs > United Kingdom > University College London > Crime and Security Science BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.60 Crime and Security Science BSc
+# 5.3.60 Crime and Security Science BSc
 
 ## Glossary
 

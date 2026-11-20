@@ -1,10 +1,10 @@
 ---
-title: "4.3.658 Physics and Engineering in Medicine by distance learning MSc"
+title: "5.3.658 Physics and Engineering in Medicine by distance learning MSc"
 description: "University Programs > United Kingdom > University College London > Physics and Engineering in Medicine by distance learning MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.658 Physics and Engineering in Medicine by distance learning MSc
+# 5.3.658 Physics and Engineering in Medicine by distance learning MSc
 
 ## Glossary
 

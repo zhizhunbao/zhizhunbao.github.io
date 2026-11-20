@@ -1,10 +1,10 @@
 ---
-title: "4.3.422 Developmental and Educational Psychology MSc"
+title: "5.3.422 Developmental and Educational Psychology MSc"
 description: "University Programs > United Kingdom > University College London > Developmental and Educational Psychology MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.422 Developmental and Educational Psychology MSc
+# 5.3.422 Developmental and Educational Psychology MSc
 
 ## Glossary
 

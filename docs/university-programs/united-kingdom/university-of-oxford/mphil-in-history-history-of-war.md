@@ -1,10 +1,10 @@
 ---
-title: "4.2.68 MPhil in History (History of War)"
+title: "5.1.68 MPhil in History (History of War)"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in History (History of War): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.68 MPhil in History (History of War)
+# 5.1.68 MPhil in History (History of War)
 
 ## Glossary
 

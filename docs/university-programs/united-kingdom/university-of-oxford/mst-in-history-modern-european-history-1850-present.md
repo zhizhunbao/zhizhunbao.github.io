@@ -1,10 +1,10 @@
 ---
-title: "4.2.192 MSt in History (Modern European History 1850-Present)"
+title: "5.1.192 MSt in History (Modern European History 1850-Present)"
 description: "University Programs > United Kingdom > University of Oxford > MSt in History (Modern European History 1850-Present): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.192 MSt in History (Modern European History 1850-Present)
+# 5.1.192 MSt in History (Modern European History 1850-Present)
 
 ## Glossary
 

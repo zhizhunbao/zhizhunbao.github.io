@@ -1,10 +1,10 @@
 ---
-title: "5.1.33 Major in Earth Science"
+title: "6.5.33 Major in Earth Science"
 description: "University Programs > United States > Columbia University > Major in Earth Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.33 Major in Earth Science
+# 6.5.33 Major in Earth Science
 
 ## Glossary
 

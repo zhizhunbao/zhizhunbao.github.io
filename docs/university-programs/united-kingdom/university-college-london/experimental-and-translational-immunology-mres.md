@@ -1,10 +1,10 @@
 ---
-title: "4.3.501 Experimental and Translational Immunology MRes"
+title: "5.3.501 Experimental and Translational Immunology MRes"
 description: "University Programs > United Kingdom > University College London > Experimental and Translational Immunology MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.501 Experimental and Translational Immunology MRes
+# 5.3.501 Experimental and Translational Immunology MRes
 
 ## Glossary
 

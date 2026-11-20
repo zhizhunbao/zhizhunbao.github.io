@@ -1,10 +1,10 @@
 ---
-title: "4.2.138 MSc in Mathematical Sciences"
+title: "5.1.138 MSc in Mathematical Sciences"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Mathematical Sciences: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.138 MSc in Mathematical Sciences
+# 5.1.138 MSc in Mathematical Sciences
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.2.87 Master of Science – Global Health and Population"
+title: "6.1.87 Master of Science – Global Health and Population"
 description: "University Programs > United States > Harvard University > Master of Science – Global Health and Population: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.87 Master of Science – Global Health and Population
+# 6.1.87 Master of Science – Global Health and Population
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "3.3.1 약학과"
+title: "4.3.1 약학과"
 description: "University Programs > South Korea > Sungkyunkwan University > 약학과: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.1 약학과
+# 4.3.1 약학과
 
 ## Glossary
 

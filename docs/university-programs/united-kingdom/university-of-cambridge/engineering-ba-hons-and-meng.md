@@ -1,10 +1,10 @@
 ---
-title: "4.1.11 Engineering, BA (Hons) and MEng"
+title: "5.2.11 Engineering, BA (Hons) and MEng"
 description: "University Programs > United Kingdom > University of Cambridge > Engineering, BA (Hons) and MEng: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.11 Engineering, BA (Hons) and MEng
+# 5.2.11 Engineering, BA (Hons) and MEng
 
 ## Glossary
 

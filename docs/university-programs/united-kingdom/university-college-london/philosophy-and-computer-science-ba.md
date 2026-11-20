@@ -1,10 +1,10 @@
 ---
-title: "4.3.213 Philosophy and Computer Science BA"
+title: "5.3.213 Philosophy and Computer Science BA"
 description: "University Programs > United Kingdom > University College London > Philosophy and Computer Science BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.213 Philosophy and Computer Science BA
+# 5.3.213 Philosophy and Computer Science BA
 
 ## Glossary
 

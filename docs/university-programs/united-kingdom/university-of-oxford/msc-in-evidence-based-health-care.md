@@ -1,10 +1,10 @@
 ---
-title: "4.2.117 MSc in Evidence-Based Health Care"
+title: "5.1.117 MSc in Evidence-Based Health Care"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Evidence-Based Health Care: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.117 MSc in Evidence-Based Health Care
+# 5.1.117 MSc in Evidence-Based Health Care
 
 ## Glossary
 

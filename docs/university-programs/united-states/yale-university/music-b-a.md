@@ -1,10 +1,10 @@
 ---
-title: "5.5.62 Music (B.A.)"
+title: "6.4.62 Music (B.A.)"
 description: "University Programs > United States > Yale University > Music (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.62 Music (B.A.)
+# 6.4.62 Music (B.A.)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.175 MSt in Creative Translation"
+title: "5.1.175 MSt in Creative Translation"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Creative Translation: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.175 MSt in Creative Translation
+# 5.1.175 MSt in Creative Translation
 
 ## Glossary
 

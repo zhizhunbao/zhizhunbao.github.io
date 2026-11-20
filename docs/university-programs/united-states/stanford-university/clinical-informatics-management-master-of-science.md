@@ -1,10 +1,10 @@
 ---
-title: "5.4.85 Clinical Informatics Management, Master of Science"
+title: "6.3.85 Clinical Informatics Management, Master of Science"
 description: "University Programs > United States > Stanford University > Clinical Informatics Management, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.85 Clinical Informatics Management, Master of Science
+# 6.3.85 Clinical Informatics Management, Master of Science
 
 ## Glossary
 

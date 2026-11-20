@@ -1,10 +1,10 @@
 ---
-title: "5.3.102 Computational Science and Engineering (PhD)"
+title: "6.2.102 Computational Science and Engineering (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computational Science and Engineering (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.102 Computational Science and Engineering (PhD)
+# 6.2.102 Computational Science and Engineering (PhD)
 
 ## Glossary
 

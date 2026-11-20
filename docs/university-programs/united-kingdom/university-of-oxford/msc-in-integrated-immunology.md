@@ -1,10 +1,10 @@
 ---
-title: "4.2.126 MSc in Integrated Immunology"
+title: "5.1.126 MSc in Integrated Immunology"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Integrated Immunology: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.126 MSc in Integrated Immunology
+# 5.1.126 MSc in Integrated Immunology
 
 ## Glossary
 

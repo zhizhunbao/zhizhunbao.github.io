@@ -1,10 +1,10 @@
 ---
-title: "5.3.124 Materials and Structures (PhD, ScD)"
+title: "6.2.124 Materials and Structures (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Materials and Structures (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.124 Materials and Structures (PhD, ScD)
+# 6.2.124 Materials and Structures (PhD, ScD)
 
 ## Glossary
 

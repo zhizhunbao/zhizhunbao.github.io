@@ -1,10 +1,10 @@
 ---
-title: "5.1.74 Major in Statistics"
+title: "6.5.74 Major in Statistics"
 description: "University Programs > United States > Columbia University > Major in Statistics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.74 Major in Statistics
+# 6.5.74 Major in Statistics
 
 ## Glossary
 

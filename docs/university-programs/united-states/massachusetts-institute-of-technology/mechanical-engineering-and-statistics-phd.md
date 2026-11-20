@@ -1,10 +1,10 @@
 ---
-title: "5.3.128 Mechanical Engineering and Statistics (PhD)"
+title: "6.2.128 Mechanical Engineering and Statistics (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mechanical Engineering and Statistics (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.128 Mechanical Engineering and Statistics (PhD)
+# 6.2.128 Mechanical Engineering and Statistics (PhD)
 
 ## Glossary
 

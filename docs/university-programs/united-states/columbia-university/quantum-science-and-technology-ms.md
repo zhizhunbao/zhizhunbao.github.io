@@ -1,10 +1,10 @@
 ---
-title: "5.1.114 Quantum Science and Technology (MS)"
+title: "6.5.114 Quantum Science and Technology (MS)"
 description: "University Programs > United States > Columbia University > Quantum Science and Technology (MS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.114 Quantum Science and Technology (MS)
+# 6.5.114 Quantum Science and Technology (MS)
 
 ## Glossary
 

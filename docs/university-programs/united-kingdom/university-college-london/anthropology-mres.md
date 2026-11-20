@@ -1,10 +1,10 @@
 ---
-title: "4.3.298 Anthropology MRes"
+title: "5.3.298 Anthropology MRes"
 description: "University Programs > United Kingdom > University College London > Anthropology MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.298 Anthropology MRes
+# 5.3.298 Anthropology MRes
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.511 Gender, Society and Representation MA"
+title: "5.3.511 Gender, Society and Representation MA"
 description: "University Programs > United Kingdom > University College London > Gender, Society and Representation MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.511 Gender, Society and Representation MA
+# 5.3.511 Gender, Society and Representation MA
 
 ## Glossary
 

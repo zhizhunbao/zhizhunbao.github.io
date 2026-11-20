@@ -1,10 +1,10 @@
 ---
-title: "4.3.446 Earthquake Engineering with Disaster Management MSc"
+title: "5.3.446 Earthquake Engineering with Disaster Management MSc"
 description: "University Programs > United Kingdom > University College London > Earthquake Engineering with Disaster Management MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.446 Earthquake Engineering with Disaster Management MSc
+# 5.3.446 Earthquake Engineering with Disaster Management MSc
 
 ## Glossary
 

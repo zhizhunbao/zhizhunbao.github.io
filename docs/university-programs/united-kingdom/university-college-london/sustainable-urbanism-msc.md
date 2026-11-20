@@ -1,10 +1,10 @@
 ---
-title: "4.3.748 Sustainable Urbanism MSc"
+title: "5.3.748 Sustainable Urbanism MSc"
 description: "University Programs > United Kingdom > University College London > Sustainable Urbanism MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.748 Sustainable Urbanism MSc
+# 5.3.748 Sustainable Urbanism MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.15 Major in Archaeology"
+title: "6.5.15 Major in Archaeology"
 description: "University Programs > United States > Columbia University > Major in Archaeology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.15 Major in Archaeology
+# 6.5.15 Major in Archaeology
 
 ## Glossary
 

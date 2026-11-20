@@ -1,10 +1,10 @@
 ---
-title: "4.3.277 Youth, Society and Sustainable Futures BA"
+title: "5.3.277 Youth, Society and Sustainable Futures BA"
 description: "University Programs > United Kingdom > University College London > Youth, Society and Sustainable Futures BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.277 Youth, Society and Sustainable Futures BA
+# 5.3.277 Youth, Society and Sustainable Futures BA
 
 ## Glossary
 

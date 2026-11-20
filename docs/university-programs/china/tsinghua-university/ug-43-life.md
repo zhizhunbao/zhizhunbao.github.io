@@ -1,10 +1,10 @@
 ---
-title: "2.1.45 生物科学（生命科学学院）"
+title: "3.1.45 生物科学（生命科学学院）"
 description: "University Programs > China > Tsinghua University > 生物科学（生命科学学院）: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1.45 生物科学（生命科学学院）
+# 3.1.45 生物科学（生命科学学院）
 
 ## Glossary
 

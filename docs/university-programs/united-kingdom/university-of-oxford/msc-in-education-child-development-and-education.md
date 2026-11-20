@@ -1,10 +1,10 @@
 ---
-title: "4.2.109 MSc in Education (Child Development and Education)"
+title: "5.1.109 MSc in Education (Child Development and Education)"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Education (Child Development and Education): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.109 MSc in Education (Child Development and Education)
+# 5.1.109 MSc in Education (Child Development and Education)
 
 ## Glossary
 

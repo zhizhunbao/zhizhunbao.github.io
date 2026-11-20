@@ -1,10 +1,10 @@
 ---
-title: "5.3.65 Master of Engineering in Civil and Environmental Engineering"
+title: "6.2.65 Master of Engineering in Civil and Environmental Engineering"
 description: "University Programs > United States > Massachusetts Institute of Technology > Master of Engineering in Civil and Environmental Engineering: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.65 Master of Engineering in Civil and Environmental Engineering
+# 6.2.65 Master of Engineering in Civil and Environmental Engineering
 
 ## Glossary
 

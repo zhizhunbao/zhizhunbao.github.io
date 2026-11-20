@@ -1,10 +1,10 @@
 ---
-title: "5.1.65 Major in Philosophy"
+title: "6.5.65 Major in Philosophy"
 description: "University Programs > United States > Columbia University > Major in Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.65 Major in Philosophy
+# 6.5.65 Major in Philosophy
 
 ## Glossary
 

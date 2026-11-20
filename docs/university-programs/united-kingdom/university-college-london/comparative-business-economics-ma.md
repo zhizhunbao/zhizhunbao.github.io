@@ -1,10 +1,10 @@
 ---
-title: "4.3.383 Comparative Business Economics MA"
+title: "5.3.383 Comparative Business Economics MA"
 description: "University Programs > United Kingdom > University College London > Comparative Business Economics MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.383 Comparative Business Economics MA
+# 5.3.383 Comparative Business Economics MA
 
 ## Glossary
 

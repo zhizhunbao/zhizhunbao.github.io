@@ -1,10 +1,10 @@
 ---
-title: "4.3.528 Global Urbanism MASc"
+title: "5.3.528 Global Urbanism MASc"
 description: "University Programs > United Kingdom > University College London > Global Urbanism MASc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.528 Global Urbanism MASc
+# 5.3.528 Global Urbanism MASc
 
 ## Glossary
 

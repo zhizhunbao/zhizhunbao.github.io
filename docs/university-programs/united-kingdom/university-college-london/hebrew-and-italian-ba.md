@@ -1,10 +1,10 @@
 ---
-title: "4.3.137 Hebrew and Italian BA"
+title: "5.3.137 Hebrew and Italian BA"
 description: "University Programs > United Kingdom > University College London > Hebrew and Italian BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.137 Hebrew and Italian BA
+# 5.3.137 Hebrew and Italian BA
 
 ## Glossary
 

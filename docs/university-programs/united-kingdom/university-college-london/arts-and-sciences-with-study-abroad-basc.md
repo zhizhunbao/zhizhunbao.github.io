@@ -1,10 +1,10 @@
 ---
-title: "4.3.18 Arts and Sciences with Study Abroad BASc"
+title: "5.3.18 Arts and Sciences with Study Abroad BASc"
 description: "University Programs > United Kingdom > University College London > Arts and Sciences with Study Abroad BASc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.18 Arts and Sciences with Study Abroad BASc
+# 5.3.18 Arts and Sciences with Study Abroad BASc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.75 Early Childhood Education BA"
+title: "5.3.75 Early Childhood Education BA"
 description: "University Programs > United Kingdom > University College London > Early Childhood Education BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.75 Early Childhood Education BA
+# 5.3.75 Early Childhood Education BA
 
 ## Glossary
 

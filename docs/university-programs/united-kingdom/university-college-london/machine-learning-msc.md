@@ -1,10 +1,10 @@
 ---
-title: "4.3.593 Machine Learning MSc"
+title: "5.3.593 Machine Learning MSc"
 description: "University Programs > United Kingdom > University College London > Machine Learning MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.593 Machine Learning MSc
+# 5.3.593 Machine Learning MSc
 
 ## Glossary
 

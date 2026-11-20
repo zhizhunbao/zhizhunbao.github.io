@@ -1,10 +1,10 @@
 ---
-title: "5.2.45 Statistics (B.A.)"
+title: "6.1.45 Statistics (B.A.)"
 description: "University Programs > United States > Harvard University > Statistics (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.45 Statistics (B.A.)
+# 6.1.45 Statistics (B.A.)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.288 Advanced Neuroimaging MSc"
+title: "5.3.288 Advanced Neuroimaging MSc"
 description: "University Programs > United Kingdom > University College London > Advanced Neuroimaging MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.288 Advanced Neuroimaging MSc
+# 5.3.288 Advanced Neuroimaging MSc
 
 ## Glossary
 

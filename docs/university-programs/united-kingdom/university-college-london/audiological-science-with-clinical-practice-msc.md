@@ -1,10 +1,10 @@
 ---
-title: "4.3.323 Audiological Science with Clinical Practice MSc"
+title: "5.3.323 Audiological Science with Clinical Practice MSc"
 description: "University Programs > United Kingdom > University College London > Audiological Science with Clinical Practice MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.323 Audiological Science with Clinical Practice MSc
+# 5.3.323 Audiological Science with Clinical Practice MSc
 
 ## Glossary
 

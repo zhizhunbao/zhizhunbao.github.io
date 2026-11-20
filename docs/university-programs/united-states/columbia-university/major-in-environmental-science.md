@@ -1,10 +1,10 @@
 ---
-title: "5.1.43 Major in Environmental Science"
+title: "6.5.43 Major in Environmental Science"
 description: "University Programs > United States > Columbia University > Major in Environmental Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.43 Major in Environmental Science
+# 6.5.43 Major in Environmental Science
 
 ## Glossary
 

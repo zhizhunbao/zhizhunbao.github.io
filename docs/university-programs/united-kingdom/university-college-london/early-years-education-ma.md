@@ -1,10 +1,10 @@
 ---
-title: "4.3.445 Early Years Education MA"
+title: "5.3.445 Early Years Education MA"
 description: "University Programs > United Kingdom > University College London > Early Years Education MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.445 Early Years Education MA
+# 5.3.445 Early Years Education MA
 
 ## Glossary
 

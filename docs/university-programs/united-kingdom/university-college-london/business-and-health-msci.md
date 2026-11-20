@@ -1,10 +1,10 @@
 ---
-title: "4.3.34 Business and Health MSci"
+title: "5.3.34 Business and Health MSci"
 description: "University Programs > United Kingdom > University College London > Business and Health MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.34 Business and Health MSci
+# 5.3.34 Business and Health MSci
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.679 Psychological Science of Mental Health and Wellbeing in Education MSc"
+title: "5.3.679 Psychological Science of Mental Health and Wellbeing in Education MSc"
 description: "University Programs > United Kingdom > University College London > Psychological Science of Mental Health and Wellbeing in Education MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.679 Psychological Science of Mental Health and Wellbeing in Education MSc
+# 5.3.679 Psychological Science of Mental Health and Wellbeing in Education MSc
 
 ## Glossary
 

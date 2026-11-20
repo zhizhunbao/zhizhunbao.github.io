@@ -1,10 +1,10 @@
 ---
-title: "5.2.113 English, Doctor of Philosophy (PhD)"
+title: "6.1.113 English, Doctor of Philosophy (PhD)"
 description: "University Programs > United States > Harvard University > English, Doctor of Philosophy (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.113 English, Doctor of Philosophy (PhD)
+# 6.1.113 English, Doctor of Philosophy (PhD)
 
 ## Glossary
 

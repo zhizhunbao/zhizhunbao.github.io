@@ -1,10 +1,10 @@
 ---
-title: "2.1.12 化学生物学（致理书院）"
+title: "3.1.12 化学生物学（致理书院）"
 description: "University Programs > China > Tsinghua University > 化学生物学（致理书院）: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1.12 化学生物学（致理书院）
+# 3.1.12 化学生物学（致理书院）
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.602 Master of Public Health MPH"
+title: "5.3.602 Master of Public Health MPH"
 description: "University Programs > United Kingdom > University College London > Master of Public Health MPH: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.602 Master of Public Health MPH
+# 5.3.602 Master of Public Health MPH
 
 ## Glossary
 

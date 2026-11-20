@@ -1,10 +1,10 @@
 ---
-title: "4.2.142 MSc in Migration Studies"
+title: "5.1.142 MSc in Migration Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Migration Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.142 MSc in Migration Studies
+# 5.1.142 MSc in Migration Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.520 Global Governance and Ethics MSc"
+title: "5.3.520 Global Governance and Ethics MSc"
 description: "University Programs > United Kingdom > University College London > Global Governance and Ethics MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.520 Global Governance and Ethics MSc
+# 5.3.520 Global Governance and Ethics MSc
 
 ## Glossary
 

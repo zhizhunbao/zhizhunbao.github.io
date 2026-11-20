@@ -1,10 +1,10 @@
 ---
-title: "4.3.746 Sustainable Resources: Economics, Policy and Transitions MSc"
+title: "5.3.746 Sustainable Resources: Economics, Policy and Transitions MSc"
 description: "University Programs > United Kingdom > University College London > Sustainable Resources: Economics, Policy and Transitions MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.746 Sustainable Resources: Economics, Policy and Transitions MSc
+# 5.3.746 Sustainable Resources: Economics, Policy and Transitions MSc
 
 ## Glossary
 

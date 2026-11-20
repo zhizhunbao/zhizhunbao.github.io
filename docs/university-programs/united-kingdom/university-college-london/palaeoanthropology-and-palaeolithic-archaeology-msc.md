@@ -1,10 +1,10 @@
 ---
-title: "4.3.642 Palaeoanthropology and Palaeolithic Archaeology MSc"
+title: "5.3.642 Palaeoanthropology and Palaeolithic Archaeology MSc"
 description: "University Programs > United Kingdom > University College London > Palaeoanthropology and Palaeolithic Archaeology MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.642 Palaeoanthropology and Palaeolithic Archaeology MSc
+# 5.3.642 Palaeoanthropology and Palaeolithic Archaeology MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.400 Creative Documentary by Practice MFA"
+title: "5.3.400 Creative Documentary by Practice MFA"
 description: "University Programs > United Kingdom > University College London > Creative Documentary by Practice MFA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.400 Creative Documentary by Practice MFA
+# 5.3.400 Creative Documentary by Practice MFA
 
 ## Glossary
 

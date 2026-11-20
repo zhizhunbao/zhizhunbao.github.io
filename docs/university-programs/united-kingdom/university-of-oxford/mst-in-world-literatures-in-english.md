@@ -1,10 +1,10 @@
 ---
-title: "4.2.217 MSt in World Literatures in English"
+title: "5.1.217 MSt in World Literatures in English"
 description: "University Programs > United Kingdom > University of Oxford > MSt in World Literatures in English: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.217 MSt in World Literatures in English
+# 5.1.217 MSt in World Literatures in English
 
 ## Glossary
 

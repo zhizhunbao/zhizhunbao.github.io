@@ -1,10 +1,10 @@
 ---
-title: "4.3.48 Classical Archaeology and Classical Civilisation BA"
+title: "5.3.48 Classical Archaeology and Classical Civilisation BA"
 description: "University Programs > United Kingdom > University College London > Classical Archaeology and Classical Civilisation BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.48 Classical Archaeology and Classical Civilisation BA
+# 5.3.48 Classical Archaeology and Classical Civilisation BA
 
 ## Glossary
 

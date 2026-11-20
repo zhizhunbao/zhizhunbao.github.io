@@ -1,10 +1,10 @@
 ---
-title: "4.2.221 DPhil in Biomedical and Clinical Sciences"
+title: "5.1.221 DPhil in Biomedical and Clinical Sciences"
 description: "University Programs > United Kingdom > University of Oxford > DPhil in Biomedical and Clinical Sciences: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.221 DPhil in Biomedical and Clinical Sciences
+# 5.1.221 DPhil in Biomedical and Clinical Sciences
 
 ## Glossary
 

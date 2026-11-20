@@ -1,10 +1,10 @@
 ---
-title: "4.3.52 Comparative Literature BA"
+title: "5.3.52 Comparative Literature BA"
 description: "University Programs > United Kingdom > University College London > Comparative Literature BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.52 Comparative Literature BA
+# 5.3.52 Comparative Literature BA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.328 Bioarchaeological and Forensic Anthropology MSc"
+title: "5.3.328 Bioarchaeological and Forensic Anthropology MSc"
 description: "University Programs > United Kingdom > University College London > Bioarchaeological and Forensic Anthropology MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.328 Bioarchaeological and Forensic Anthropology MSc
+# 5.3.328 Bioarchaeological and Forensic Anthropology MSc
 
 ## Glossary
 

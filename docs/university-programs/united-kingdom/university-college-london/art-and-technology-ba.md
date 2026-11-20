@@ -1,10 +1,10 @@
 ---
-title: "4.3.16 Art and Technology BA"
+title: "5.3.16 Art and Technology BA"
 description: "University Programs > United Kingdom > University College London > Art and Technology BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.16 Art and Technology BA
+# 5.3.16 Art and Technology BA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.701 Robotics and Artificial Intelligence MSc"
+title: "5.3.701 Robotics and Artificial Intelligence MSc"
 description: "University Programs > United Kingdom > University College London > Robotics and Artificial Intelligence MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.701 Robotics and Artificial Intelligence MSc
+# 5.3.701 Robotics and Artificial Intelligence MSc
 
 ## Glossary
 

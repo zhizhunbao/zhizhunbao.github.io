@@ -1,10 +1,10 @@
 ---
-title: "4.3.735 Special and Inclusive Education (Specific Learning Difficulties) MA"
+title: "5.3.735 Special and Inclusive Education (Specific Learning Difficulties) MA"
 description: "University Programs > United Kingdom > University College London > Special and Inclusive Education (Specific Learning Difficulties) MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.735 Special and Inclusive Education (Specific Learning Difficulties) MA
+# 5.3.735 Special and Inclusive Education (Specific Learning Difficulties) MA
 
 ## Glossary
 

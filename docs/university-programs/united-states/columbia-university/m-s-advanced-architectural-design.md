@@ -1,10 +1,10 @@
 ---
-title: "5.1.99 M.S. Advanced Architectural Design"
+title: "6.5.99 M.S. Advanced Architectural Design"
 description: "University Programs > United States > Columbia University > M.S. Advanced Architectural Design: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.99 M.S. Advanced Architectural Design
+# 6.5.99 M.S. Advanced Architectural Design
 
 ## Glossary
 

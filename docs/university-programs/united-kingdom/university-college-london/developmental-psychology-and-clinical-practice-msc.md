@@ -1,10 +1,10 @@
 ---
-title: "4.3.424 Developmental Psychology and Clinical Practice MSc"
+title: "5.3.424 Developmental Psychology and Clinical Practice MSc"
 description: "University Programs > United Kingdom > University College London > Developmental Psychology and Clinical Practice MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.424 Developmental Psychology and Clinical Practice MSc
+# 5.3.424 Developmental Psychology and Clinical Practice MSc
 
 ## Glossary
 

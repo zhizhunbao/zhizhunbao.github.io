@@ -1,10 +1,10 @@
 ---
-title: "5.1.11 Joint Major in Visual Arts and Art History"
+title: "6.5.11 Joint Major in Visual Arts and Art History"
 description: "University Programs > United States > Columbia University > Joint Major in Visual Arts and Art History: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.11 Joint Major in Visual Arts and Art History
+# 6.5.11 Joint Major in Visual Arts and Art History
 
 ## Glossary
 

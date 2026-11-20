@@ -1,10 +1,10 @@
 ---
-title: "4.2.239 PGDip in Health Research"
+title: "5.1.239 PGDip in Health Research"
 description: "University Programs > United Kingdom > University of Oxford > PGDip in Health Research: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.239 PGDip in Health Research
+# 5.1.239 PGDip in Health Research
 
 ## Glossary
 

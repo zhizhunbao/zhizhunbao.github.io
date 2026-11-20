@@ -1,10 +1,10 @@
 ---
-title: "4.3.471 Education, Health Promotion and International Development MA"
+title: "5.3.471 Education, Health Promotion and International Development MA"
 description: "University Programs > United Kingdom > University College London > Education, Health Promotion and International Development MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.471 Education, Health Promotion and International Development MA
+# 5.3.471 Education, Health Promotion and International Development MA
 
 ## Glossary
 

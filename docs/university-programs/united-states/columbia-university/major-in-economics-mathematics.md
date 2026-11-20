@@ -1,10 +1,10 @@
 ---
-title: "5.1.36 Major in Economics-Mathematics"
+title: "6.5.36 Major in Economics-Mathematics"
 description: "University Programs > United States > Columbia University > Major in Economics-Mathematics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.36 Major in Economics-Mathematics
+# 6.5.36 Major in Economics-Mathematics
 
 ## Glossary
 

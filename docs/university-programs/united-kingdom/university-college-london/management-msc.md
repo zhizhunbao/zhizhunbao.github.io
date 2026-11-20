@@ -1,10 +1,10 @@
 ---
-title: "4.3.595 Management MSc"
+title: "5.3.595 Management MSc"
 description: "University Programs > United Kingdom > University College London > Management MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.595 Management MSc
+# 5.3.595 Management MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.121 Geology MSci"
+title: "5.3.121 Geology MSci"
 description: "University Programs > United Kingdom > University College London > Geology MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.121 Geology MSci
+# 5.3.121 Geology MSci
 
 ## Glossary
 

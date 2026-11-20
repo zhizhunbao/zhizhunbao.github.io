@@ -1,10 +1,10 @@
 ---
-title: "4.3.608 Mathematics MSc"
+title: "5.3.608 Mathematics MSc"
 description: "University Programs > United Kingdom > University College London > Mathematics MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.608 Mathematics MSc
+# 5.3.608 Mathematics MSc
 
 ## Glossary
 

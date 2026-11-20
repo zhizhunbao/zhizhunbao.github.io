@@ -1,10 +1,10 @@
 ---
-title: "4.3.347 Business Administration MBA"
+title: "5.3.347 Business Administration MBA"
 description: "University Programs > United Kingdom > University College London > Business Administration MBA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.347 Business Administration MBA
+# 5.3.347 Business Administration MBA
 
 ## Glossary
 

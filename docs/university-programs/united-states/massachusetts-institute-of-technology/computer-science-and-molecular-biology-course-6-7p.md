@@ -1,10 +1,10 @@
 ---
-title: "5.3.58 Computer Science and Molecular Biology (Course 6-7P)"
+title: "6.2.58 Computer Science and Molecular Biology (Course 6-7P)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science and Molecular Biology (Course 6-7P): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.58 Computer Science and Molecular Biology (Course 6-7P)
+# 6.2.58 Computer Science and Molecular Biology (Course 6-7P)
 
 ## Glossary
 

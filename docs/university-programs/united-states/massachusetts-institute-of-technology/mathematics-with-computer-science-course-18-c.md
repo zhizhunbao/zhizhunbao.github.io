@@ -1,10 +1,10 @@
 ---
-title: "5.3.43 Mathematics with Computer Science (Course 18-C)"
+title: "6.2.43 Mathematics with Computer Science (Course 18-C)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mathematics with Computer Science (Course 18-C): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.43 Mathematics with Computer Science (Course 18-C)
+# 6.2.43 Mathematics with Computer Science (Course 18-C)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.681 Psychology and Trauma (Adult) MSc"
+title: "5.3.681 Psychology and Trauma (Adult) MSc"
 description: "University Programs > United Kingdom > University College London > Psychology and Trauma (Adult) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.681 Psychology and Trauma (Adult) MSc
+# 5.3.681 Psychology and Trauma (Adult) MSc
 
 ## Glossary
 

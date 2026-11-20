@@ -1,10 +1,10 @@
 ---
-title: "5.5.40 Ethics, Politics, and Economics (B.A.)"
+title: "6.4.40 Ethics, Politics, and Economics (B.A.)"
 description: "University Programs > United States > Yale University > Ethics, Politics, and Economics (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.40 Ethics, Politics, and Economics (B.A.)
+# 6.4.40 Ethics, Politics, and Economics (B.A.)
 
 ## Glossary
 

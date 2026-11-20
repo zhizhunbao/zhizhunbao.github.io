@@ -1,10 +1,10 @@
 ---
-title: "4.3.485 English Education MA"
+title: "5.3.485 English Education MA"
 description: "University Programs > United Kingdom > University College London > English Education MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.485 English Education MA
+# 5.3.485 English Education MA
 
 ## Glossary
 

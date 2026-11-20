@@ -1,10 +1,10 @@
 ---
-title: "5.1.51 Major in Hispanic Studies"
+title: "6.5.51 Major in Hispanic Studies"
 description: "University Programs > United States > Columbia University > Major in Hispanic Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.51 Major in Hispanic Studies
+# 6.5.51 Major in Hispanic Studies
 
 ## Glossary
 

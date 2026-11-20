@@ -1,10 +1,10 @@
 ---
-title: "5.3.51 Political Science (Course 17)"
+title: "6.2.51 Political Science (Course 17)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Political Science (Course 17): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.51 Political Science (Course 17)
+# 6.2.51 Political Science (Course 17)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.668 Political Economy MSc"
+title: "5.3.668 Political Economy MSc"
 description: "University Programs > United Kingdom > University College London > Political Economy MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.668 Political Economy MSc
+# 5.3.668 Political Economy MSc
 
 ## Glossary
 

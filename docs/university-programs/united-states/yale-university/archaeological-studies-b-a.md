@@ -1,10 +1,10 @@
 ---
-title: "5.5.6 Archaeological Studies (B.A.)"
+title: "6.4.6 Archaeological Studies (B.A.)"
 description: "University Programs > United States > Yale University > Archaeological Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.6 Archaeological Studies (B.A.)
+# 6.4.6 Archaeological Studies (B.A.)
 
 ## Glossary
 

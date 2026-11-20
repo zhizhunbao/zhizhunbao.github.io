@@ -1,10 +1,10 @@
 ---
-title: "4.3.725 Sociology MSc"
+title: "5.3.725 Sociology MSc"
 description: "University Programs > United Kingdom > University College London > Sociology MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.725 Sociology MSc
+# 5.3.725 Sociology MSc
 
 ## Glossary
 

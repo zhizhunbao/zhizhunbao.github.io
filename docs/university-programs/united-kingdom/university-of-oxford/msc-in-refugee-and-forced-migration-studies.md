@@ -1,10 +1,10 @@
 ---
-title: "4.2.153 MSc in Refugee and Forced Migration Studies"
+title: "5.1.153 MSc in Refugee and Forced Migration Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Refugee and Forced Migration Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.153 MSc in Refugee and Forced Migration Studies
+# 5.1.153 MSc in Refugee and Forced Migration Studies
 
 ## Glossary
 

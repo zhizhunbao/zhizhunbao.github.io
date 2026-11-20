@@ -1,10 +1,10 @@
 ---
-title: "4.3.665 Policing MSc"
+title: "5.3.665 Policing MSc"
 description: "University Programs > United Kingdom > University College London > Policing MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.665 Policing MSc
+# 5.3.665 Policing MSc
 
 ## Glossary
 

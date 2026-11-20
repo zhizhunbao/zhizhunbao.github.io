@@ -1,10 +1,10 @@
 ---
-title: "4.1.46 MPhil in Modern European History"
+title: "5.2.46 MPhil in Modern European History"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Modern European History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.46 MPhil in Modern European History
+# 5.2.46 MPhil in Modern European History
 
 ## Glossary
 

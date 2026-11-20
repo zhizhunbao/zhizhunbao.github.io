@@ -1,10 +1,10 @@
 ---
-title: "5.5.49 History of Science, Medicine, and Public Health (B.A.)"
+title: "6.4.49 History of Science, Medicine, and Public Health (B.A.)"
 description: "University Programs > United States > Yale University > History of Science, Medicine, and Public Health (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.49 History of Science, Medicine, and Public Health (B.A.)
+# 6.4.49 History of Science, Medicine, and Public Health (B.A.)
 
 ## Glossary
 

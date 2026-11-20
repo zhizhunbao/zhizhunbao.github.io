@@ -1,10 +1,10 @@
 ---
-title: "4.3.622 Nature-Inspired Engineering MSc"
+title: "5.3.622 Nature-Inspired Engineering MSc"
 description: "University Programs > United Kingdom > University College London > Nature-Inspired Engineering MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.622 Nature-Inspired Engineering MSc
+# 5.3.622 Nature-Inspired Engineering MSc
 
 ## Glossary
 

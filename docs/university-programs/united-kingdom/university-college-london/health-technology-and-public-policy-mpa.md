@@ -1,10 +1,10 @@
 ---
-title: "4.3.536 Health, Technology and Public Policy MPA"
+title: "5.3.536 Health, Technology and Public Policy MPA"
 description: "University Programs > United Kingdom > University College London > Health, Technology and Public Policy MPA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.536 Health, Technology and Public Policy MPA
+# 5.3.536 Health, Technology and Public Policy MPA
 
 ## Glossary
 

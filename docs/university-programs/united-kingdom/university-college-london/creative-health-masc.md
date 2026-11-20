@@ -1,10 +1,10 @@
 ---
-title: "4.3.401 Creative Health MASc"
+title: "5.3.401 Creative Health MASc"
 description: "University Programs > United Kingdom > University College London > Creative Health MASc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.401 Creative Health MASc
+# 5.3.401 Creative Health MASc
 
 ## Glossary
 

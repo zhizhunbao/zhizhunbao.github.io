@@ -1,10 +1,10 @@
 ---
-title: "4.2.18 English Language and Literature (BA)"
+title: "5.1.18 English Language and Literature (BA)"
 description: "University Programs > United Kingdom > University of Oxford > English Language and Literature (BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.18 English Language and Literature (BA)
+# 5.1.18 English Language and Literature (BA)
 
 ## Glossary
 

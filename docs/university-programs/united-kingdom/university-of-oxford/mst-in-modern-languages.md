@@ -1,10 +1,10 @@
 ---
-title: "4.2.207 MSt in Modern Languages"
+title: "5.1.207 MSt in Modern Languages"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Modern Languages: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.207 MSt in Modern Languages
+# 5.1.207 MSt in Modern Languages
 
 ## Glossary
 

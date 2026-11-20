@@ -1,10 +1,10 @@
 ---
-title: "4.2.216 MSt in Women's, Gender, and Sexuality Studies"
+title: "5.1.216 MSt in Women's, Gender, and Sexuality Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Women's, Gender, and Sexuality Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.216 MSt in Women's, Gender, and Sexuality Studies
+# 5.1.216 MSt in Women's, Gender, and Sexuality Studies
 
 ## Glossary
 

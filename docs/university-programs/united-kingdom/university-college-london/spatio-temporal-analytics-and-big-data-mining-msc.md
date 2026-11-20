@@ -1,10 +1,10 @@
 ---
-title: "4.3.733 Spatio-temporal Analytics and Big Data Mining MSc"
+title: "5.3.733 Spatio-temporal Analytics and Big Data Mining MSc"
 description: "University Programs > United Kingdom > University College London > Spatio-temporal Analytics and Big Data Mining MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.733 Spatio-temporal Analytics and Big Data Mining MSc
+# 5.3.733 Spatio-temporal Analytics and Big Data Mining MSc
 
 ## Glossary
 

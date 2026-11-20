@@ -1,10 +1,10 @@
 ---
-title: "5.1.91 Computer Engineering Program (MS)"
+title: "6.5.91 Computer Engineering Program (MS)"
 description: "University Programs > United States > Columbia University > Computer Engineering Program (MS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.91 Computer Engineering Program (MS)
+# 6.5.91 Computer Engineering Program (MS)
 
 ## Glossary
 

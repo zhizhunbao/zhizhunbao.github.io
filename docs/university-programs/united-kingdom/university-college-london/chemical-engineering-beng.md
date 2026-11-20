@@ -1,10 +1,10 @@
 ---
-title: "4.3.37 Chemical Engineering BEng"
+title: "5.3.37 Chemical Engineering BEng"
 description: "University Programs > United Kingdom > University College London > Chemical Engineering BEng: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.37 Chemical Engineering BEng
+# 5.3.37 Chemical Engineering BEng
 
 ## Glossary
 

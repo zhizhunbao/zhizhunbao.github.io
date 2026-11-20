@@ -1,10 +1,10 @@
 ---
-title: "4.3.129 German and Portuguese BA"
+title: "5.3.129 German and Portuguese BA"
 description: "University Programs > United Kingdom > University College London > German and Portuguese BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.129 German and Portuguese BA
+# 5.3.129 German and Portuguese BA
 
 ## Glossary
 

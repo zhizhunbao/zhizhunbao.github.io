@@ -1,10 +1,10 @@
 ---
-title: "4.2.187 MSt in History (Early Modern History 1500-1700)"
+title: "5.1.187 MSt in History (Early Modern History 1500-1700)"
 description: "University Programs > United Kingdom > University of Oxford > MSt in History (Early Modern History 1500-1700): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.187 MSt in History (Early Modern History 1500-1700)
+# 5.1.187 MSt in History (Early Modern History 1500-1700)
 
 ## Glossary
 

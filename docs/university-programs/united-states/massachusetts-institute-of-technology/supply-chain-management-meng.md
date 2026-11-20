@@ -1,10 +1,10 @@
 ---
-title: "5.3.81 Supply Chain Management (MEng)"
+title: "6.2.81 Supply Chain Management (MEng)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Supply Chain Management (MEng): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.81 Supply Chain Management (MEng)
+# 6.2.81 Supply Chain Management (MEng)
 
 ## Glossary
 

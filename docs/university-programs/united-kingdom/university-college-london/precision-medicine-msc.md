@@ -1,10 +1,10 @@
 ---
-title: "4.3.672 Precision Medicine MSc"
+title: "5.3.672 Precision Medicine MSc"
 description: "University Programs > United Kingdom > University College London > Precision Medicine MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.672 Precision Medicine MSc
+# 5.3.672 Precision Medicine MSc
 
 ## Glossary
 

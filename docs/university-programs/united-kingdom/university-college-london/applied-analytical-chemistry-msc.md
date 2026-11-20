@@ -1,10 +1,10 @@
 ---
-title: "4.3.299 Applied Analytical Chemistry MSc"
+title: "5.3.299 Applied Analytical Chemistry MSc"
 description: "University Programs > United Kingdom > University College London > Applied Analytical Chemistry MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.299 Applied Analytical Chemistry MSc
+# 5.3.299 Applied Analytical Chemistry MSc
 
 ## Glossary
 

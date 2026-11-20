@@ -1,10 +1,10 @@
 ---
-title: "4.3.44 Chemistry with Mathematics BSc"
+title: "5.3.44 Chemistry with Mathematics BSc"
 description: "University Programs > United Kingdom > University College London > Chemistry with Mathematics BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.44 Chemistry with Mathematics BSc
+# 5.3.44 Chemistry with Mathematics BSc
 
 ## Glossary
 

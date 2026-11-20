@@ -1,10 +1,10 @@
 ---
-title: "5.3.127 Mechanical Engineering and Computation (PhD, ScD)"
+title: "6.2.127 Mechanical Engineering and Computation (PhD, ScD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Mechanical Engineering and Computation (PhD, ScD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.127 Mechanical Engineering and Computation (PhD, ScD)
+# 6.2.127 Mechanical Engineering and Computation (PhD, ScD)
 
 ## Glossary
 

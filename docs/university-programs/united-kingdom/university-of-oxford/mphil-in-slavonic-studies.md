@@ -1,10 +1,10 @@
 ---
-title: "4.2.95 MPhil in Slavonic Studies"
+title: "5.1.95 MPhil in Slavonic Studies"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Slavonic Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.95 MPhil in Slavonic Studies
+# 5.1.95 MPhil in Slavonic Studies
 
 ## Glossary
 

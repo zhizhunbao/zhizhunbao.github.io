@@ -1,10 +1,10 @@
 ---
-title: "5.3.113 Doctor of Philosophy in Transportation"
+title: "6.2.113 Doctor of Philosophy in Transportation"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Transportation: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.113 Doctor of Philosophy in Transportation
+# 6.2.113 Doctor of Philosophy in Transportation
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.172 MSt in Classical Hebrew Studies"
+title: "5.1.172 MSt in Classical Hebrew Studies"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Classical Hebrew Studies: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.172 MSt in Classical Hebrew Studies
+# 5.1.172 MSt in Classical Hebrew Studies
 
 ## Glossary
 

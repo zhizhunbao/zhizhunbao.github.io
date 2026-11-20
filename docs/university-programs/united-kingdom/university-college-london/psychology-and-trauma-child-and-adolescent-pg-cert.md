@@ -1,10 +1,10 @@
 ---
-title: "4.3.806 Psychology and Trauma (Child and Adolescent) PG Cert"
+title: "5.3.806 Psychology and Trauma (Child and Adolescent) PG Cert"
 description: "University Programs > United Kingdom > University College London > Psychology and Trauma (Child and Adolescent) PG Cert: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.806 Psychology and Trauma (Child and Adolescent) PG Cert
+# 5.3.806 Psychology and Trauma (Child and Adolescent) PG Cert
 
 ## Glossary
 

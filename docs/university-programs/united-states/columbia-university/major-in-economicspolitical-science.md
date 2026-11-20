@@ -1,10 +1,10 @@
 ---
-title: "5.1.39 Major in Economics–Political Science"
+title: "6.5.39 Major in Economics–Political Science"
 description: "University Programs > United States > Columbia University > Major in Economics–Political Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.39 Major in Economics–Political Science
+# 6.5.39 Major in Economics–Political Science
 
 ## Glossary
 

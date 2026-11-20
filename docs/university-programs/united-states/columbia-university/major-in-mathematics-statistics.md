@@ -1,10 +1,10 @@
 ---
-title: "5.1.60 Major in Mathematics-Statistics"
+title: "6.5.60 Major in Mathematics-Statistics"
 description: "University Programs > United States > Columbia University > Major in Mathematics-Statistics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.60 Major in Mathematics-Statistics
+# 6.5.60 Major in Mathematics-Statistics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.214 MSt in Study of Religions"
+title: "5.1.214 MSt in Study of Religions"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Study of Religions: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.214 MSt in Study of Religions
+# 5.1.214 MSt in Study of Religions
 
 ## Glossary
 

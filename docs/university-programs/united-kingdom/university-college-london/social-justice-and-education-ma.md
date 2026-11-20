@@ -1,10 +1,10 @@
 ---
-title: "4.3.718 Social Justice and Education MA"
+title: "5.3.718 Social Justice and Education MA"
 description: "University Programs > United Kingdom > University College London > Social Justice and Education MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.718 Social Justice and Education MA
+# 5.3.718 Social Justice and Education MA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.62 Major in Middle Eastern, South Asian, and African Studies"
+title: "6.5.62 Major in Middle Eastern, South Asian, and African Studies"
 description: "University Programs > United States > Columbia University > Major in Middle Eastern, South Asian, and African Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.62 Major in Middle Eastern, South Asian, and African Studies
+# 6.5.62 Major in Middle Eastern, South Asian, and African Studies
 
 ## Glossary
 

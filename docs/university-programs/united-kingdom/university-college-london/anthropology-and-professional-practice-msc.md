@@ -1,10 +1,10 @@
 ---
-title: "4.3.297 Anthropology and Professional Practice MSc"
+title: "5.3.297 Anthropology and Professional Practice MSc"
 description: "University Programs > United Kingdom > University College London > Anthropology and Professional Practice MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.297 Anthropology and Professional Practice MSc
+# 5.3.297 Anthropology and Professional Practice MSc
 
 ## Glossary
 

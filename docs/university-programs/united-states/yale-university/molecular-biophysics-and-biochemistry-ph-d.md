@@ -1,10 +1,10 @@
 ---
-title: "5.5.148 Molecular Biophysics and Biochemistry (Ph.D.)"
+title: "6.4.148 Molecular Biophysics and Biochemistry (Ph.D.)"
 description: "University Programs > United States > Yale University > Molecular Biophysics and Biochemistry (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.148 Molecular Biophysics and Biochemistry (Ph.D.)
+# 6.4.148 Molecular Biophysics and Biochemistry (Ph.D.)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.564 International Relations of the Americas MSc"
+title: "5.3.564 International Relations of the Americas MSc"
 description: "University Programs > United Kingdom > University College London > International Relations of the Americas MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.564 International Relations of the Americas MSc
+# 5.3.564 International Relations of the Americas MSc
 
 ## Glossary
 

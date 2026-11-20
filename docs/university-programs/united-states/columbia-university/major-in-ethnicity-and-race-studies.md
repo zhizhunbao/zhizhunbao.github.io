@@ -1,10 +1,10 @@
 ---
-title: "5.1.44 Major in Ethnicity and Race Studies"
+title: "6.5.44 Major in Ethnicity and Race Studies"
 description: "University Programs > United States > Columbia University > Major in Ethnicity and Race Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.44 Major in Ethnicity and Race Studies
+# 6.5.44 Major in Ethnicity and Race Studies
 
 ## Glossary
 

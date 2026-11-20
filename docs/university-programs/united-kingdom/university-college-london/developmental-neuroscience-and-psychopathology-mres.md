@@ -1,10 +1,10 @@
 ---
-title: "4.3.423 Developmental Neuroscience and Psychopathology MRes"
+title: "5.3.423 Developmental Neuroscience and Psychopathology MRes"
 description: "University Programs > United Kingdom > University College London > Developmental Neuroscience and Psychopathology MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.423 Developmental Neuroscience and Psychopathology MRes
+# 5.3.423 Developmental Neuroscience and Psychopathology MRes
 
 ## Glossary
 

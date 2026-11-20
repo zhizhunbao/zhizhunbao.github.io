@@ -1,10 +1,10 @@
 ---
-title: "4.3.604 Materials and Molecular Modelling MSc"
+title: "5.3.604 Materials and Molecular Modelling MSc"
 description: "University Programs > United Kingdom > University College London > Materials and Molecular Modelling MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.604 Materials and Molecular Modelling MSc
+# 5.3.604 Materials and Molecular Modelling MSc
 
 ## Glossary
 

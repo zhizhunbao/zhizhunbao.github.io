@@ -1,10 +1,10 @@
 ---
-title: "5.1.48 Major in French"
+title: "6.5.48 Major in French"
 description: "University Programs > United States > Columbia University > Major in French: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.48 Major in French
+# 6.5.48 Major in French
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.657 Physical Therapy in Musculoskeletal Healthcare and Rehabilitation MSc"
+title: "5.3.657 Physical Therapy in Musculoskeletal Healthcare and Rehabilitation MSc"
 description: "University Programs > United Kingdom > University College London > Physical Therapy in Musculoskeletal Healthcare and Rehabilitation MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.657 Physical Therapy in Musculoskeletal Healthcare and Rehabilitation MSc
+# 5.3.657 Physical Therapy in Musculoskeletal Healthcare and Rehabilitation MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.53 Major in History and Theory of Architecture"
+title: "6.5.53 Major in History and Theory of Architecture"
 description: "University Programs > United States > Columbia University > Major in History and Theory of Architecture: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.53 Major in History and Theory of Architecture
+# 6.5.53 Major in History and Theory of Architecture
 
 ## Glossary
 

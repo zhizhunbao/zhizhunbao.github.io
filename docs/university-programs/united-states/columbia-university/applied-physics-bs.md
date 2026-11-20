@@ -1,10 +1,10 @@
 ---
-title: "5.1.2 Applied Physics (BS)"
+title: "6.5.2 Applied Physics (BS)"
 description: "University Programs > United States > Columbia University > Applied Physics (BS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.2 Applied Physics (BS)
+# 6.5.2 Applied Physics (BS)
 
 ## Glossary
 

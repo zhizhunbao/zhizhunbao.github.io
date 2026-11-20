@@ -1,10 +1,10 @@
 ---
-title: "5.1.83 Quantitative Finance and Financial Technology (BS)"
+title: "6.5.83 Quantitative Finance and Financial Technology (BS)"
 description: "University Programs > United States > Columbia University > Quantitative Finance and Financial Technology (BS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.83 Quantitative Finance and Financial Technology (BS)
+# 6.5.83 Quantitative Finance and Financial Technology (BS)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "2.1.11 化学生物学（探微书院）"
+title: "3.1.11 化学生物学（探微书院）"
 description: "University Programs > China > Tsinghua University > 化学生物学（探微书院）: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1.11 化学生物学（探微书院）
+# 3.1.11 化学生物学（探微书院）
 
 ## Glossary
 

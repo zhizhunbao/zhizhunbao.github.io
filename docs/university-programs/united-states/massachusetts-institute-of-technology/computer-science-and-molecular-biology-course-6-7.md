@@ -1,10 +1,10 @@
 ---
-title: "5.3.21 Computer Science and Molecular Biology (Course 6-7)"
+title: "6.2.21 Computer Science and Molecular Biology (Course 6-7)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Computer Science and Molecular Biology (Course 6-7): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.21 Computer Science and Molecular Biology (Course 6-7)
+# 6.2.21 Computer Science and Molecular Biology (Course 6-7)
 
 ## Glossary
 

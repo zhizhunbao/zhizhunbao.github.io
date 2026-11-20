@@ -1,10 +1,10 @@
 ---
-title: "4.3.572 Language Sciences: Neuroscience of Language and Speech MSc"
+title: "5.3.572 Language Sciences: Neuroscience of Language and Speech MSc"
 description: "University Programs > United Kingdom > University College London > Language Sciences: Neuroscience of Language and Speech MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.572 Language Sciences: Neuroscience of Language and Speech MSc
+# 5.3.572 Language Sciences: Neuroscience of Language and Speech MSc
 
 ## Glossary
 

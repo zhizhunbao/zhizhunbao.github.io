@@ -1,10 +1,10 @@
 ---
-title: "4.3.443 Early Child Development and Clinical Applications MSc"
+title: "5.3.443 Early Child Development and Clinical Applications MSc"
 description: "University Programs > United Kingdom > University College London > Early Child Development and Clinical Applications MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.443 Early Child Development and Clinical Applications MSc
+# 5.3.443 Early Child Development and Clinical Applications MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.278 Advanced Audiology MSc"
+title: "5.3.278 Advanced Audiology MSc"
 description: "University Programs > United Kingdom > University College London > Advanced Audiology MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.278 Advanced Audiology MSc
+# 5.3.278 Advanced Audiology MSc
 
 ## Glossary
 

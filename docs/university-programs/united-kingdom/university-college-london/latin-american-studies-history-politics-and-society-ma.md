@@ -1,10 +1,10 @@
 ---
-title: "4.3.582 Latin American Studies: History, Politics and Society MA"
+title: "5.3.582 Latin American Studies: History, Politics and Society MA"
 description: "University Programs > United Kingdom > University College London > Latin American Studies: History, Politics and Society MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.582 Latin American Studies: History, Politics and Society MA
+# 5.3.582 Latin American Studies: History, Politics and Society MA
 
 ## Glossary
 

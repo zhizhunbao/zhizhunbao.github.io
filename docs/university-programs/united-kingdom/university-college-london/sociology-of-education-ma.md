@@ -1,10 +1,10 @@
 ---
-title: "4.3.727 Sociology of Education MA"
+title: "5.3.727 Sociology of Education MA"
 description: "University Programs > United Kingdom > University College London > Sociology of Education MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.727 Sociology of Education MA
+# 5.3.727 Sociology of Education MA
 
 ## Glossary
 

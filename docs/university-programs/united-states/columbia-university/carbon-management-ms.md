@@ -1,10 +1,10 @@
 ---
-title: "5.1.89 Carbon Management (MS)"
+title: "6.5.89 Carbon Management (MS)"
 description: "University Programs > United States > Columbia University > Carbon Management (MS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.89 Carbon Management (MS)
+# 6.5.89 Carbon Management (MS)
 
 ## Glossary
 

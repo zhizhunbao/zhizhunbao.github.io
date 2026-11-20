@@ -1,10 +1,10 @@
 ---
-title: "4.3.516 Geospatial Sciences (Building Information Modelling and Surveying) MSc"
+title: "5.3.516 Geospatial Sciences (Building Information Modelling and Surveying) MSc"
 description: "University Programs > United Kingdom > University College London > Geospatial Sciences (Building Information Modelling and Surveying) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.516 Geospatial Sciences (Building Information Modelling and Surveying) MSc
+# 5.3.516 Geospatial Sciences (Building Information Modelling and Surveying) MSc
 
 ## Glossary
 

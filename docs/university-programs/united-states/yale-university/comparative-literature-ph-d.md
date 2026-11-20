@@ -1,10 +1,10 @@
 ---
-title: "5.5.125 Comparative Literature (Ph.D.)"
+title: "6.4.125 Comparative Literature (Ph.D.)"
 description: "University Programs > United States > Yale University > Comparative Literature (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.125 Comparative Literature (Ph.D.)
+# 6.4.125 Comparative Literature (Ph.D.)
 
 ## Glossary
 

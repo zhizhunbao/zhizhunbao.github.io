@@ -1,10 +1,10 @@
 ---
-title: "5.1.100 M.S. Architecture and Urban Design"
+title: "6.5.100 M.S. Architecture and Urban Design"
 description: "University Programs > United States > Columbia University > M.S. Architecture and Urban Design: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.100 M.S. Architecture and Urban Design
+# 6.5.100 M.S. Architecture and Urban Design
 
 ## Glossary
 

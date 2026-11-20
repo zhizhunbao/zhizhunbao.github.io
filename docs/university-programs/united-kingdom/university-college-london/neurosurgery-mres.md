@@ -1,10 +1,10 @@
 ---
-title: "4.3.625 Neurosurgery MRes"
+title: "5.3.625 Neurosurgery MRes"
 description: "University Programs > United Kingdom > University College London > Neurosurgery MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.625 Neurosurgery MRes
+# 5.3.625 Neurosurgery MRes
 
 ## Glossary
 

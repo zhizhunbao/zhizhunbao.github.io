@@ -1,10 +1,10 @@
 ---
-title: "4.3.654 Philosophy, Politics and Economics of Health MA"
+title: "5.3.654 Philosophy, Politics and Economics of Health MA"
 description: "University Programs > United Kingdom > University College London > Philosophy, Politics and Economics of Health MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.654 Philosophy, Politics and Economics of Health MA
+# 5.3.654 Philosophy, Politics and Economics of Health MA
 
 ## Glossary
 

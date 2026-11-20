@@ -1,10 +1,10 @@
 ---
-title: "5.1.116 Strategic Communication"
+title: "6.5.116 Strategic Communication"
 description: "University Programs > United States > Columbia University > Strategic Communication: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.116 Strategic Communication
+# 6.5.116 Strategic Communication
 
 ## Glossary
 

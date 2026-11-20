@@ -1,10 +1,10 @@
 ---
-title: "5.4.200 Philosophy, Doctor of Philosophy"
+title: "6.3.200 Philosophy, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Philosophy, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.200 Philosophy, Doctor of Philosophy
+# 6.3.200 Philosophy, Doctor of Philosophy
 
 ## Glossary
 

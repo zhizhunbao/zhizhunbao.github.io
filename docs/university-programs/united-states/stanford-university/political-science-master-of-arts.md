@@ -1,10 +1,10 @@
 ---
-title: "5.4.132 Political Science, Master of Arts"
+title: "6.3.132 Political Science, Master of Arts"
 description: "University Programs > United States > Stanford University > Political Science, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.132 Political Science, Master of Arts
+# 6.3.132 Political Science, Master of Arts
 
 ## Glossary
 

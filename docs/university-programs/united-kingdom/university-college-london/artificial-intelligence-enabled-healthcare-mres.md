@@ -1,10 +1,10 @@
 ---
-title: "4.3.317 Artificial Intelligence Enabled Healthcare MRes"
+title: "5.3.317 Artificial Intelligence Enabled Healthcare MRes"
 description: "University Programs > United Kingdom > University College London > Artificial Intelligence Enabled Healthcare MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.317 Artificial Intelligence Enabled Healthcare MRes
+# 5.3.317 Artificial Intelligence Enabled Healthcare MRes
 
 ## Glossary
 

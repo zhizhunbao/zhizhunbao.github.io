@@ -1,10 +1,10 @@
 ---
-title: "4.1.30 Psychological and Behavioural Sciences, BA (Hons)"
+title: "5.2.30 Psychological and Behavioural Sciences, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Psychological and Behavioural Sciences, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.30 Psychological and Behavioural Sciences, BA (Hons)
+# 5.2.30 Psychological and Behavioural Sciences, BA (Hons)
 
 ## Glossary
 

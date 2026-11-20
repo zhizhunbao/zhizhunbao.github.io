@@ -1,10 +1,10 @@
 ---
-title: "4.3.387 Computational Cell Biophysics MRes"
+title: "5.3.387 Computational Cell Biophysics MRes"
 description: "University Programs > United Kingdom > University College London > Computational Cell Biophysics MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.387 Computational Cell Biophysics MRes
+# 5.3.387 Computational Cell Biophysics MRes
 
 ## Glossary
 

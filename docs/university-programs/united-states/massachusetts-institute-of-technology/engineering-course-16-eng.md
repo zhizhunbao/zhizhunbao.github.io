@@ -1,10 +1,10 @@
 ---
-title: "5.3.28 Engineering (Course 16-ENG)"
+title: "6.2.28 Engineering (Course 16-ENG)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Engineering (Course 16-ENG): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.28 Engineering (Course 16-ENG)
+# 6.2.28 Engineering (Course 16-ENG)
 
 ## Glossary
 

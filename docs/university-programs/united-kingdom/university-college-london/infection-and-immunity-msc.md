@@ -1,10 +1,10 @@
 ---
-title: "4.3.553 Infection and Immunity MSc"
+title: "5.3.553 Infection and Immunity MSc"
 description: "University Programs > United Kingdom > University College London > Infection and Immunity MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.553 Infection and Immunity MSc
+# 5.3.553 Infection and Immunity MSc
 
 ## Glossary
 

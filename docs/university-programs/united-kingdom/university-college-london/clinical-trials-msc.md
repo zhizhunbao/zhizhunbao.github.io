@@ -1,10 +1,10 @@
 ---
-title: "4.3.379 Clinical Trials MSc"
+title: "5.3.379 Clinical Trials MSc"
 description: "University Programs > United Kingdom > University College London > Clinical Trials MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.379 Clinical Trials MSc
+# 5.3.379 Clinical Trials MSc
 
 ## Glossary
 

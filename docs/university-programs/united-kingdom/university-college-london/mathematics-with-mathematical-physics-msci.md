@@ -1,10 +1,10 @@
 ---
-title: "4.3.192 Mathematics with Mathematical Physics MSci"
+title: "5.3.192 Mathematics with Mathematical Physics MSci"
 description: "University Programs > United Kingdom > University College London > Mathematics with Mathematical Physics MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.192 Mathematics with Mathematical Physics MSci
+# 5.3.192 Mathematics with Mathematical Physics MSci
 
 ## Glossary
 

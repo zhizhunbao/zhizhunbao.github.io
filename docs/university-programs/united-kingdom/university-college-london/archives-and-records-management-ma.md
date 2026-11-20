@@ -1,10 +1,10 @@
 ---
-title: "4.3.313 Archives and Records Management MA"
+title: "5.3.313 Archives and Records Management MA"
 description: "University Programs > United Kingdom > University College London > Archives and Records Management MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.313 Archives and Records Management MA
+# 5.3.313 Archives and Records Management MA
 
 ## Glossary
 

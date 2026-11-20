@@ -1,10 +1,10 @@
 ---
-title: "4.3.801 Low Intensity Cognitive Behavioural Interventions for Common Mental Health Problems PG Cert"
+title: "5.3.801 Low Intensity Cognitive Behavioural Interventions for Common Mental Health Problems PG Cert"
 description: "University Programs > United Kingdom > University College London > Low Intensity Cognitive Behavioural Interventions for Common Mental Health Problems PG Cert: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.801 Low Intensity Cognitive Behavioural Interventions for Common Mental Health Problems PG Cert
+# 5.3.801 Low Intensity Cognitive Behavioural Interventions for Common Mental Health Problems PG Cert
 
 ## Glossary
 

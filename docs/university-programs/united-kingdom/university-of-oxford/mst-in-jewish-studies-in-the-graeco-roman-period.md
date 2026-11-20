@@ -1,10 +1,10 @@
 ---
-title: "4.2.200 MSt in Jewish Studies in the Graeco-Roman Period"
+title: "5.1.200 MSt in Jewish Studies in the Graeco-Roman Period"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Jewish Studies in the Graeco-Roman Period: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.200 MSt in Jewish Studies in the Graeco-Roman Period
+# 5.1.200 MSt in Jewish Studies in the Graeco-Roman Period
 
 ## Glossary
 

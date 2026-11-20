@@ -1,10 +1,10 @@
 ---
-title: "5.5.154 Political Science (Ph.D.)"
+title: "6.4.154 Political Science (Ph.D.)"
 description: "University Programs > United States > Yale University > Political Science (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.154 Political Science (Ph.D.)
+# 6.4.154 Political Science (Ph.D.)
 
 ## Glossary
 

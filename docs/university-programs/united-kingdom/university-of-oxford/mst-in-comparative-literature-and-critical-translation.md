@@ -1,10 +1,10 @@
 ---
-title: "4.2.173 MSt in Comparative Literature and Critical Translation"
+title: "5.1.173 MSt in Comparative Literature and Critical Translation"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Comparative Literature and Critical Translation: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.173 MSt in Comparative Literature and Critical Translation
+# 5.1.173 MSt in Comparative Literature and Critical Translation
 
 ## Glossary
 

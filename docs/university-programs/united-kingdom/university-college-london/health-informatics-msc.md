@@ -1,10 +1,10 @@
 ---
-title: "4.3.533 Health Informatics MSc"
+title: "5.3.533 Health Informatics MSc"
 description: "University Programs > United Kingdom > University College London > Health Informatics MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.533 Health Informatics MSc
+# 5.3.533 Health Informatics MSc
 
 ## Glossary
 

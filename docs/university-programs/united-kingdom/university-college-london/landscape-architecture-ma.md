@@ -1,10 +1,10 @@
 ---
-title: "4.3.568 Landscape Architecture MA"
+title: "5.3.568 Landscape Architecture MA"
 description: "University Programs > United Kingdom > University College London > Landscape Architecture MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.568 Landscape Architecture MA
+# 5.3.568 Landscape Architecture MA
 
 ## Glossary
 

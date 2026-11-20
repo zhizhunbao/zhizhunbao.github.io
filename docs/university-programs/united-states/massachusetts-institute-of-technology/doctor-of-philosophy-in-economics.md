@@ -1,10 +1,10 @@
 ---
-title: "5.3.107 Doctor of Philosophy in Economics"
+title: "6.2.107 Doctor of Philosophy in Economics"
 description: "University Programs > United States > Massachusetts Institute of Technology > Doctor of Philosophy in Economics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.107 Doctor of Philosophy in Economics
+# 6.2.107 Doctor of Philosophy in Economics
 
 ## Glossary
 

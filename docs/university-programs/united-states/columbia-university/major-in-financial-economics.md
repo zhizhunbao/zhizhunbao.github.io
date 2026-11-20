@@ -1,10 +1,10 @@
 ---
-title: "5.1.47 Major in Financial Economics"
+title: "6.5.47 Major in Financial Economics"
 description: "University Programs > United States > Columbia University > Major in Financial Economics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.47 Major in Financial Economics
+# 6.5.47 Major in Financial Economics
 
 ## Glossary
 

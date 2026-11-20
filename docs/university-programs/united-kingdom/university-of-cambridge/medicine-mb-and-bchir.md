@@ -1,10 +1,10 @@
 ---
-title: "4.1.25 Medicine, MB and BChir"
+title: "5.2.25 Medicine, MB and BChir"
 description: "University Programs > United Kingdom > University of Cambridge > Medicine, MB and BChir: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.25 Medicine, MB and BChir
+# 5.2.25 Medicine, MB and BChir
 
 ## Glossary
 

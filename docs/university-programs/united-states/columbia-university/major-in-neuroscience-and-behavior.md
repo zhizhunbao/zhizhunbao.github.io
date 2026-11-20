@@ -1,10 +1,10 @@
 ---
-title: "5.1.64 Major in Neuroscience and Behavior"
+title: "6.5.64 Major in Neuroscience and Behavior"
 description: "University Programs > United States > Columbia University > Major in Neuroscience and Behavior: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.64 Major in Neuroscience and Behavior
+# 6.5.64 Major in Neuroscience and Behavior
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.1.40 MPhil in Education (Educational Policy, Leadership and Improvement) part-time"
+title: "5.2.40 MPhil in Education (Educational Policy, Leadership and Improvement) part-time"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Education (Educational Policy, Leadership and Improvement) part-time: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.40 MPhil in Education (Educational Policy, Leadership and Improvement) part-time
+# 5.2.40 MPhil in Education (Educational Policy, Leadership and Improvement) part-time
 
 ## Glossary
 

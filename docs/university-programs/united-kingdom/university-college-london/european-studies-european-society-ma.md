@@ -1,10 +1,10 @@
 ---
-title: "4.3.498 European Studies: European Society MA"
+title: "5.3.498 European Studies: European Society MA"
 description: "University Programs > United Kingdom > University College London > European Studies: European Society MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.498 European Studies: European Society MA
+# 5.3.498 European Studies: European Society MA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.61 Crime and Security Science MSci"
+title: "5.3.61 Crime and Security Science MSci"
 description: "University Programs > United Kingdom > University College London > Crime and Security Science MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.61 Crime and Security Science MSci
+# 5.3.61 Crime and Security Science MSci
 
 ## Glossary
 

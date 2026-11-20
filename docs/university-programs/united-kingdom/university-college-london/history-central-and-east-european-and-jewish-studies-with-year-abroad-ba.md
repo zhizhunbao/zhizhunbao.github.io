@@ -1,10 +1,10 @@
 ---
-title: "4.3.140 History (Central and East European) and Jewish Studies with Year Abroad BA"
+title: "5.3.140 History (Central and East European) and Jewish Studies with Year Abroad BA"
 description: "University Programs > United Kingdom > University College London > History (Central and East European) and Jewish Studies with Year Abroad BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.140 History (Central and East European) and Jewish Studies with Year Abroad BA
+# 5.3.140 History (Central and East European) and Jewish Studies with Year Abroad BA
 
 ## Glossary
 

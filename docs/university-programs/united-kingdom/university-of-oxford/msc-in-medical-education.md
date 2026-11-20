@@ -1,10 +1,10 @@
 ---
-title: "4.2.141 MSc in Medical Education"
+title: "5.1.141 MSc in Medical Education"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Medical Education: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.141 MSc in Medical Education
+# 5.1.141 MSc in Medical Education
 
 ## Glossary
 

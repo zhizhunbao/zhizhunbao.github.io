@@ -1,10 +1,10 @@
 ---
-title: "4.3.81 Economics and Statistics BSc (Econ)"
+title: "5.3.81 Economics and Statistics BSc (Econ)"
 description: "University Programs > United Kingdom > University College London > Economics and Statistics BSc (Econ): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.81 Economics and Statistics BSc (Econ)
+# 5.3.81 Economics and Statistics BSc (Econ)
 
 ## Glossary
 

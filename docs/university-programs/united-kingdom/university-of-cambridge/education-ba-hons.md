@@ -1,10 +1,10 @@
 ---
-title: "4.1.10 Education, BA (Hons)"
+title: "5.2.10 Education, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Education, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.10 Education, BA (Hons)
+# 5.2.10 Education, BA (Hons)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.656 Photonic and Electronic Systems MRes"
+title: "5.3.656 Photonic and Electronic Systems MRes"
 description: "University Programs > United Kingdom > University College London > Photonic and Electronic Systems MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.656 Photonic and Electronic Systems MRes
+# 5.3.656 Photonic and Electronic Systems MRes
 
 ## Glossary
 

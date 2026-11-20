@@ -1,10 +1,10 @@
 ---
-title: "5.1.101 M.S. Critical, Curatorial & Conceptual Practices"
+title: "6.5.101 M.S. Critical, Curatorial & Conceptual Practices"
 description: "University Programs > United States > Columbia University > M.S. Critical, Curatorial & Conceptual Practices: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.101 M.S. Critical, Curatorial & Conceptual Practices
+# 6.5.101 M.S. Critical, Curatorial & Conceptual Practices
 
 ## Glossary
 

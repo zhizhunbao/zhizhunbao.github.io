@@ -1,10 +1,10 @@
 ---
-title: "5.1.35 Major in Economics"
+title: "6.5.35 Major in Economics"
 description: "University Programs > United States > Columbia University > Major in Economics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.35 Major in Economics
+# 6.5.35 Major in Economics
 
 ## Glossary
 

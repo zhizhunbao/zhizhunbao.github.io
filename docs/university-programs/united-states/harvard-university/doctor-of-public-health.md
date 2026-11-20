@@ -1,10 +1,10 @@
 ---
-title: "5.2.109 Doctor of Public Health"
+title: "6.1.109 Doctor of Public Health"
 description: "University Programs > United States > Harvard University > Doctor of Public Health: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.109 Doctor of Public Health
+# 6.1.109 Doctor of Public Health
 
 ## Glossary
 

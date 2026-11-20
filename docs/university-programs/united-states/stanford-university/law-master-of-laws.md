@@ -1,10 +1,10 @@
 ---
-title: "5.4.117 Law, Master of Laws"
+title: "6.3.117 Law, Master of Laws"
 description: "University Programs > United States > Stanford University > Law, Master of Laws: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.117 Law, Master of Laws
+# 6.3.117 Law, Master of Laws
 
 ## Glossary
 

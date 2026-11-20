@@ -1,10 +1,10 @@
 ---
-title: "4.3.758 Telecommunications with Business MSc"
+title: "5.3.758 Telecommunications with Business MSc"
 description: "University Programs > United Kingdom > University College London > Telecommunications with Business MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.758 Telecommunications with Business MSc
+# 5.3.758 Telecommunications with Business MSc
 
 ## Glossary
 

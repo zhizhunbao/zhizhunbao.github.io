@@ -1,10 +1,10 @@
 ---
-title: "4.3.473 Educational Leadership (Pre-service) MA"
+title: "5.3.473 Educational Leadership (Pre-service) MA"
 description: "University Programs > United Kingdom > University College London > Educational Leadership (Pre-service) MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.473 Educational Leadership (Pre-service) MA
+# 5.3.473 Educational Leadership (Pre-service) MA
 
 ## Glossary
 

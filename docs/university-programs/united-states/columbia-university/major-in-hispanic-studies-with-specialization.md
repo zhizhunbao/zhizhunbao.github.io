@@ -1,10 +1,10 @@
 ---
-title: "5.1.52 Major in Hispanic Studies with Specialization"
+title: "6.5.52 Major in Hispanic Studies with Specialization"
 description: "University Programs > United States > Columbia University > Major in Hispanic Studies with Specialization: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.52 Major in Hispanic Studies with Specialization
+# 6.5.52 Major in Hispanic Studies with Specialization
 
 ## Glossary
 

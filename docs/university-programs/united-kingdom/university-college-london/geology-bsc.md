@@ -1,10 +1,10 @@
 ---
-title: "4.3.120 Geology BSc"
+title: "5.3.120 Geology BSc"
 description: "University Programs > United Kingdom > University College London > Geology BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.120 Geology BSc
+# 5.3.120 Geology BSc
 
 ## Glossary
 

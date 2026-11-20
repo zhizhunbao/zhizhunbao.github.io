@@ -1,10 +1,10 @@
 ---
-title: "3.3 Sungkyunkwan University"
+title: "4.3 Sungkyunkwan University"
 description: "University Programs > South Korea > Sungkyunkwan University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3 Sungkyunkwan University
+# 4.3 Sungkyunkwan University
 
 ## Glossary
 

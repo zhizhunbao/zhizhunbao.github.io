@@ -1,10 +1,10 @@
 ---
-title: "4.2.73 MPhil in History (US History)"
+title: "5.1.73 MPhil in History (US History)"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in History (US History): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.73 MPhil in History (US History)
+# 5.1.73 MPhil in History (US History)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.5.105 Master of Environmental Science/Master of Forest Science"
+title: "6.4.105 Master of Environmental Science/Master of Forest Science"
 description: "University Programs > United States > Yale University > Master of Environmental Science/Master of Forest Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.105 Master of Environmental Science/Master of Forest Science
+# 6.4.105 Master of Environmental Science/Master of Forest Science
 
 ## Glossary
 

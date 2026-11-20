@@ -1,10 +1,10 @@
 ---
-title: "5.2.83 Master of Science – Computational Biology and Quantitative Genetics"
+title: "6.1.83 Master of Science – Computational Biology and Quantitative Genetics"
 description: "University Programs > United States > Harvard University > Master of Science – Computational Biology and Quantitative Genetics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.83 Master of Science – Computational Biology and Quantitative Genetics
+# 6.1.83 Master of Science – Computational Biology and Quantitative Genetics
 
 ## Glossary
 

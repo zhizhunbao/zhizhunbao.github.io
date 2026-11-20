@@ -1,10 +1,10 @@
 ---
-title: "5.2.67 Master of Public Health – Clinical Effectiveness"
+title: "6.1.67 Master of Public Health – Clinical Effectiveness"
 description: "University Programs > United States > Harvard University > Master of Public Health – Clinical Effectiveness: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.67 Master of Public Health – Clinical Effectiveness
+# 6.1.67 Master of Public Health – Clinical Effectiveness
 
 ## Glossary
 

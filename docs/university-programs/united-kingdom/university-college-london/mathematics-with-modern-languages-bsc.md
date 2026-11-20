@@ -1,10 +1,10 @@
 ---
-title: "4.3.193 Mathematics with Modern Languages BSc"
+title: "5.3.193 Mathematics with Modern Languages BSc"
 description: "University Programs > United Kingdom > University College London > Mathematics with Modern Languages BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.193 Mathematics with Modern Languages BSc
+# 5.3.193 Mathematics with Modern Languages BSc
 
 ## Glossary
 

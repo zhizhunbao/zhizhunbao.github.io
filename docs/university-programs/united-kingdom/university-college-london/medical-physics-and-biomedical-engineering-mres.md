@@ -1,10 +1,10 @@
 ---
-title: "4.3.611 Medical Physics and Biomedical Engineering MRes"
+title: "5.3.611 Medical Physics and Biomedical Engineering MRes"
 description: "University Programs > United Kingdom > University College London > Medical Physics and Biomedical Engineering MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.611 Medical Physics and Biomedical Engineering MRes
+# 5.3.611 Medical Physics and Biomedical Engineering MRes
 
 ## Glossary
 

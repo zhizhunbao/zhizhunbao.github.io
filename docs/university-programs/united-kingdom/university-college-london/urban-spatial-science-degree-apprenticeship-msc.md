@@ -1,10 +1,10 @@
 ---
-title: "4.3.777 Urban Spatial Science Degree Apprenticeship MSc"
+title: "5.3.777 Urban Spatial Science Degree Apprenticeship MSc"
 description: "University Programs > United Kingdom > University College London > Urban Spatial Science Degree Apprenticeship MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.777 Urban Spatial Science Degree Apprenticeship MSc
+# 5.3.777 Urban Spatial Science Degree Apprenticeship MSc
 
 ## Glossary
 

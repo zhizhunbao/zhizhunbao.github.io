@@ -1,10 +1,10 @@
 ---
-title: "4.3.355 Child and Adolescent Mental Health MSc"
+title: "5.3.355 Child and Adolescent Mental Health MSc"
 description: "University Programs > United Kingdom > University College London > Child and Adolescent Mental Health MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.355 Child and Adolescent Mental Health MSc
+# 5.3.355 Child and Adolescent Mental Health MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.121 MSc in Genomic Medicine"
+title: "5.1.121 MSc in Genomic Medicine"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Genomic Medicine: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.121 MSc in Genomic Medicine
+# 5.1.121 MSc in Genomic Medicine
 
 ## Glossary
 

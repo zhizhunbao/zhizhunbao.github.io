@@ -1,10 +1,10 @@
 ---
-title: "5.1.50 Major in German Literature and Cultural History"
+title: "6.5.50 Major in German Literature and Cultural History"
 description: "University Programs > United States > Columbia University > Major in German Literature and Cultural History: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.50 Major in German Literature and Cultural History
+# 6.5.50 Major in German Literature and Cultural History
 
 ## Glossary
 

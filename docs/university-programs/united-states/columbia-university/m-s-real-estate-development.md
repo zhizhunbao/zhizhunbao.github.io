@@ -1,10 +1,10 @@
 ---
-title: "5.1.103 M.S. Real Estate Development"
+title: "6.5.103 M.S. Real Estate Development"
 description: "University Programs > United States > Columbia University > M.S. Real Estate Development: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.103 M.S. Real Estate Development
+# 6.5.103 M.S. Real Estate Development
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.397 Construction Economics and Management MSc"
+title: "5.3.397 Construction Economics and Management MSc"
 description: "University Programs > United Kingdom > University College London > Construction Economics and Management MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.397 Construction Economics and Management MSc
+# 5.3.397 Construction Economics and Management MSc
 
 ## Glossary
 

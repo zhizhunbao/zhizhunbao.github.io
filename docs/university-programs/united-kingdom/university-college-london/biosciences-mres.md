@@ -1,10 +1,10 @@
 ---
-title: "4.3.337 Biosciences MRes"
+title: "5.3.337 Biosciences MRes"
 description: "University Programs > United Kingdom > University College London > Biosciences MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.337 Biosciences MRes
+# 5.3.337 Biosciences MRes
 
 ## Glossary
 

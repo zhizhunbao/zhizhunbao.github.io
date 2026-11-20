@@ -1,10 +1,10 @@
 ---
-title: "4.3.156 Information Management for Business BSc"
+title: "5.3.156 Information Management for Business BSc"
 description: "University Programs > United Kingdom > University College London > Information Management for Business BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.156 Information Management for Business BSc
+# 5.3.156 Information Management for Business BSc
 
 ## Glossary
 

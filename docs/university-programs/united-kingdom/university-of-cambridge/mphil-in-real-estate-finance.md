@@ -1,10 +1,10 @@
 ---
-title: "4.1.51 MPhil in Real Estate Finance"
+title: "5.2.51 MPhil in Real Estate Finance"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Real Estate Finance: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.51 MPhil in Real Estate Finance
+# 5.2.51 MPhil in Real Estate Finance
 
 ## Glossary
 

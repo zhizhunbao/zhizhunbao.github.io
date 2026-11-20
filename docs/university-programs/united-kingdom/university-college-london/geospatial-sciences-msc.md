@@ -1,10 +1,10 @@
 ---
-title: "4.3.519 Geospatial Sciences MSc"
+title: "5.3.519 Geospatial Sciences MSc"
 description: "University Programs > United Kingdom > University College London > Geospatial Sciences MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.519 Geospatial Sciences MSc
+# 5.3.519 Geospatial Sciences MSc
 
 ## Glossary
 

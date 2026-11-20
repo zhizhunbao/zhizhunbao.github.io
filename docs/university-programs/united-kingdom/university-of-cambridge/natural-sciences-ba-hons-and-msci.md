@@ -1,10 +1,10 @@
 ---
-title: "4.1.28 Natural Sciences, BA (Hons) and MSci"
+title: "5.2.28 Natural Sciences, BA (Hons) and MSci"
 description: "University Programs > United Kingdom > University of Cambridge > Natural Sciences, BA (Hons) and MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.28 Natural Sciences, BA (Hons) and MSci
+# 5.2.28 Natural Sciences, BA (Hons) and MSci
 
 ## Glossary
 

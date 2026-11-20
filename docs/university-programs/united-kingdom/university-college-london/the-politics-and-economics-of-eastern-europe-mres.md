@@ -1,10 +1,10 @@
 ---
-title: "4.3.759 The Politics and Economics of Eastern Europe MRes"
+title: "5.3.759 The Politics and Economics of Eastern Europe MRes"
 description: "University Programs > United Kingdom > University College London > The Politics and Economics of Eastern Europe MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.759 The Politics and Economics of Eastern Europe MRes
+# 5.3.759 The Politics and Economics of Eastern Europe MRes
 
 ## Glossary
 

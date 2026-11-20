@@ -1,10 +1,10 @@
 ---
-title: "4.3.685 Public Management and Leadership MPA"
+title: "5.3.685 Public Management and Leadership MPA"
 description: "University Programs > United Kingdom > University College London > Public Management and Leadership MPA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.685 Public Management and Leadership MPA
+# 5.3.685 Public Management and Leadership MPA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.14 Major in Applied Mathematics"
+title: "6.5.14 Major in Applied Mathematics"
 description: "University Programs > United States > Columbia University > Major in Applied Mathematics: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.14 Major in Applied Mathematics
+# 6.5.14 Major in Applied Mathematics
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.4.177 French and Italian, Doctor of Philosophy"
+title: "6.3.177 French and Italian, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > French and Italian, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.177 French and Italian, Doctor of Philosophy
+# 6.3.177 French and Italian, Doctor of Philosophy
 
 ## Glossary
 

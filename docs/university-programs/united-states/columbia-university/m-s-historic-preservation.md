@@ -1,10 +1,10 @@
 ---
-title: "5.1.102 M.S. Historic Preservation"
+title: "6.5.102 M.S. Historic Preservation"
 description: "University Programs > United States > Columbia University > M.S. Historic Preservation: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.102 M.S. Historic Preservation
+# 6.5.102 M.S. Historic Preservation
 
 ## Glossary
 

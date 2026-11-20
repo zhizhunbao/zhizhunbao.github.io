@@ -1,10 +1,10 @@
 ---
-title: "5.1.107 Mechanical Engineering (MS)"
+title: "6.5.107 Mechanical Engineering (MS)"
 description: "University Programs > United States > Columbia University > Mechanical Engineering (MS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.107 Mechanical Engineering (MS)
+# 6.5.107 Mechanical Engineering (MS)
 
 ## Glossary
 

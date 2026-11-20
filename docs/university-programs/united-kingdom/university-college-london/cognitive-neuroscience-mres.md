@@ -1,10 +1,10 @@
 ---
-title: "4.3.381 Cognitive Neuroscience MRes"
+title: "5.3.381 Cognitive Neuroscience MRes"
 description: "University Programs > United Kingdom > University College London > Cognitive Neuroscience MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.381 Cognitive Neuroscience MRes
+# 5.3.381 Cognitive Neuroscience MRes
 
 ## Glossary
 

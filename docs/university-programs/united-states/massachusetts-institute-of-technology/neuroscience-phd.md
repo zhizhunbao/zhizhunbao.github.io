@@ -1,10 +1,10 @@
 ---
-title: "5.3.129 Neuroscience (PhD)"
+title: "6.2.129 Neuroscience (PhD)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Neuroscience (PhD): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.129 Neuroscience (PhD)
+# 6.2.129 Neuroscience (PhD)
 
 ## Glossary
 

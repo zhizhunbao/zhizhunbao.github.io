@@ -1,10 +1,10 @@
 ---
-title: "5.4.160 Classics, Doctor of Philosophy"
+title: "6.3.160 Classics, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Classics, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.160 Classics, Doctor of Philosophy
+# 6.3.160 Classics, Doctor of Philosophy
 
 ## Glossary
 

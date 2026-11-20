@@ -1,10 +1,10 @@
 ---
-title: "4.3.361 Civil Engineering (with Infrastructure Planning) MSc"
+title: "5.3.361 Civil Engineering (with Infrastructure Planning) MSc"
 description: "University Programs > United Kingdom > University College London > Civil Engineering (with Infrastructure Planning) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.361 Civil Engineering (with Infrastructure Planning) MSc
+# 5.3.361 Civil Engineering (with Infrastructure Planning) MSc
 
 ## Glossary
 

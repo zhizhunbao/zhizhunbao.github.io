@@ -1,10 +1,10 @@
 ---
-title: "4.1.45 MPhil in Modern British History"
+title: "5.2.45 MPhil in Modern British History"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Modern British History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.45 MPhil in Modern British History
+# 5.2.45 MPhil in Modern British History
 
 ## Glossary
 

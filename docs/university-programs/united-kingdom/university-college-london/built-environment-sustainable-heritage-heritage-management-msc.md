@@ -1,10 +1,10 @@
 ---
-title: "4.3.344 Built Environment: Sustainable Heritage (Heritage Management) MSc"
+title: "5.3.344 Built Environment: Sustainable Heritage (Heritage Management) MSc"
 description: "University Programs > United Kingdom > University College London > Built Environment: Sustainable Heritage (Heritage Management) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.344 Built Environment: Sustainable Heritage (Heritage Management) MSc
+# 5.3.344 Built Environment: Sustainable Heritage (Heritage Management) MSc
 
 ## Glossary
 

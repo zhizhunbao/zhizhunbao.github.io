@@ -1,10 +1,10 @@
 ---
-title: "4.3.458 Education (Advanced Practice) MA"
+title: "5.3.458 Education (Advanced Practice) MA"
 description: "University Programs > United Kingdom > University College London > Education (Advanced Practice) MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.458 Education (Advanced Practice) MA
+# 5.3.458 Education (Advanced Practice) MA
 
 ## Glossary
 

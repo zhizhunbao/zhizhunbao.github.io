@@ -1,10 +1,10 @@
 ---
-title: "4.3.715 Social Cognition: Research and Applications MSc"
+title: "5.3.715 Social Cognition: Research and Applications MSc"
 description: "University Programs > United Kingdom > University College London > Social Cognition: Research and Applications MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.715 Social Cognition: Research and Applications MSc
+# 5.3.715 Social Cognition: Research and Applications MSc
 
 ## Glossary
 

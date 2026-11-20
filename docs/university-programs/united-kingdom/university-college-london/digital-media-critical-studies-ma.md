@@ -1,10 +1,10 @@
 ---
-title: "4.3.434 Digital Media: Critical Studies MA"
+title: "5.3.434 Digital Media: Critical Studies MA"
 description: "University Programs > United Kingdom > University College London > Digital Media: Critical Studies MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.434 Digital Media: Critical Studies MA
+# 5.3.434 Digital Media: Critical Studies MA
 
 ## Glossary
 

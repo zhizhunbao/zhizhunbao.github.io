@@ -1,10 +1,10 @@
 ---
-title: "4.3.476 Emerging Digital Technologies MSc"
+title: "5.3.476 Emerging Digital Technologies MSc"
 description: "University Programs > United Kingdom > University College London > Emerging Digital Technologies MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.476 Emerging Digital Technologies MSc
+# 5.3.476 Emerging Digital Technologies MSc
 
 ## Glossary
 

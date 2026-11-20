@@ -1,10 +1,10 @@
 ---
-title: "4.2.77 MPhil in Islamic Studies and History"
+title: "5.1.77 MPhil in Islamic Studies and History"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Islamic Studies and History: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.77 MPhil in Islamic Studies and History
+# 5.1.77 MPhil in Islamic Studies and History
 
 ## Glossary
 

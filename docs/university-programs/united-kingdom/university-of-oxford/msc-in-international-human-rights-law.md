@@ -1,10 +1,10 @@
 ---
-title: "4.2.129 MSc in International Human Rights Law"
+title: "5.1.129 MSc in International Human Rights Law"
 description: "University Programs > United Kingdom > University of Oxford > MSc in International Human Rights Law: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.129 MSc in International Human Rights Law
+# 5.1.129 MSc in International Human Rights Law
 
 ## Glossary
 

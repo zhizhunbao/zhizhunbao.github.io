@@ -1,10 +1,10 @@
 ---
-title: "4.3.653 Philosophy, Logic, and Artificial Intelligence MASc"
+title: "5.3.653 Philosophy, Logic, and Artificial Intelligence MASc"
 description: "University Programs > United Kingdom > University College London > Philosophy, Logic, and Artificial Intelligence MASc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.653 Philosophy, Logic, and Artificial Intelligence MASc
+# 5.3.653 Philosophy, Logic, and Artificial Intelligence MASc
 
 ## Glossary
 

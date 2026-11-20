@@ -1,10 +1,10 @@
 ---
-title: "4.2.3 Biochemistry (Molecular and Cellular) (MBiochem)"
+title: "5.1.3 Biochemistry (Molecular and Cellular) (MBiochem)"
 description: "University Programs > United Kingdom > University of Oxford > Biochemistry (Molecular and Cellular) (MBiochem): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.3 Biochemistry (Molecular and Cellular) (MBiochem)
+# 5.1.3 Biochemistry (Molecular and Cellular) (MBiochem)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.522 Global Healthcare Management (Analytics) MSc"
+title: "5.3.522 Global Healthcare Management (Analytics) MSc"
 description: "University Programs > United Kingdom > University College London > Global Healthcare Management (Analytics) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.522 Global Healthcare Management (Analytics) MSc
+# 5.3.522 Global Healthcare Management (Analytics) MSc
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.5.36 Engineering Sciences (Mechanical) (B.A. or B.S.)"
+title: "6.4.36 Engineering Sciences (Mechanical) (B.A. or B.S.)"
 description: "University Programs > United States > Yale University > Engineering Sciences (Mechanical) (B.A. or B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.36 Engineering Sciences (Mechanical) (B.A. or B.S.)
+# 6.4.36 Engineering Sciences (Mechanical) (B.A. or B.S.)
 
 ## Glossary
 

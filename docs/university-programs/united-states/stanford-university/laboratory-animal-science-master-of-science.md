@@ -1,10 +1,10 @@
 ---
-title: "5.4.115 Laboratory Animal Science, Master of Science"
+title: "6.3.115 Laboratory Animal Science, Master of Science"
 description: "University Programs > United States > Stanford University > Laboratory Animal Science, Master of Science: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.115 Laboratory Animal Science, Master of Science
+# 6.3.115 Laboratory Animal Science, Master of Science
 
 ## Glossary
 

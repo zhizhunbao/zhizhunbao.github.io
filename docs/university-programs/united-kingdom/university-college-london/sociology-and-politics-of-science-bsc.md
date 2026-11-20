@@ -1,10 +1,10 @@
 ---
-title: "4.3.252 Sociology and Politics of Science BSc"
+title: "5.3.252 Sociology and Politics of Science BSc"
 description: "University Programs > United Kingdom > University College London > Sociology and Politics of Science BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.252 Sociology and Politics of Science BSc
+# 5.3.252 Sociology and Politics of Science BSc
 
 ## Glossary
 

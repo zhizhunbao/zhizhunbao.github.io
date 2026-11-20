@@ -1,10 +1,10 @@
 ---
-title: "3.4.1 약학부 약학전공"
+title: "4.4.1 약학부 약학전공"
 description: "University Programs > South Korea > Chung-Ang University > 약학부 약학전공: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.4.1 약학부 약학전공
+# 4.4.1 약학부 약학전공
 
 ## Glossary
 

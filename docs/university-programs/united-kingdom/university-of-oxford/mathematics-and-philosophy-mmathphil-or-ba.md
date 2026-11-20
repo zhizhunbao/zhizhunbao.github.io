@@ -1,10 +1,10 @@
 ---
-title: "4.2.34 Mathematics and Philosophy (MMathPhil or BA)"
+title: "5.1.34 Mathematics and Philosophy (MMathPhil or BA)"
 description: "University Programs > United Kingdom > University of Oxford > Mathematics and Philosophy (MMathPhil or BA): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.34 Mathematics and Philosophy (MMathPhil or BA)
+# 5.1.34 Mathematics and Philosophy (MMathPhil or BA)
 
 ## Glossary
 

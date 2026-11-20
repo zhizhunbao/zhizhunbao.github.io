@@ -1,10 +1,10 @@
 ---
-title: "5.5.24 Computing and the Arts (B.A.)"
+title: "6.4.24 Computing and the Arts (B.A.)"
 description: "University Programs > United States > Yale University > Computing and the Arts (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.24 Computing and the Arts (B.A.)
+# 6.4.24 Computing and the Arts (B.A.)
 
 ## Glossary
 

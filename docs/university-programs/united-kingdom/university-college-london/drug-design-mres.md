@@ -1,10 +1,10 @@
 ---
-title: "4.3.439 Drug Design MRes"
+title: "5.3.439 Drug Design MRes"
 description: "University Programs > United Kingdom > University College London > Drug Design MRes: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.439 Drug Design MRes
+# 5.3.439 Drug Design MRes
 
 ## Glossary
 

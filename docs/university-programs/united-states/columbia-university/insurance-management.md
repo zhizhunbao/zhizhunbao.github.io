@@ -1,10 +1,10 @@
 ---
-title: "5.1.98 Insurance Management"
+title: "6.5.98 Insurance Management"
 description: "University Programs > United States > Columbia University > Insurance Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.98 Insurance Management
+# 6.5.98 Insurance Management
 
 ## Glossary
 

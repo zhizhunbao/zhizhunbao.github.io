@@ -1,10 +1,10 @@
 ---
-title: "4.3.275 Urban Studies BSc"
+title: "5.3.275 Urban Studies BSc"
 description: "University Programs > United Kingdom > University College London > Urban Studies BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.275 Urban Studies BSc
+# 5.3.275 Urban Studies BSc
 
 ## Glossary
 

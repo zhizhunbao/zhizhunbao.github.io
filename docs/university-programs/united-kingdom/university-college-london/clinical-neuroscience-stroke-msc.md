@@ -1,10 +1,10 @@
 ---
-title: "4.3.375 Clinical Neuroscience: Stroke MSc"
+title: "5.3.375 Clinical Neuroscience: Stroke MSc"
 description: "University Programs > United Kingdom > University College London > Clinical Neuroscience: Stroke MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.375 Clinical Neuroscience: Stroke MSc
+# 5.3.375 Clinical Neuroscience: Stroke MSc
 
 ## Glossary
 

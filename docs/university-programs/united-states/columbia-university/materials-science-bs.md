@@ -1,10 +1,10 @@
 ---
-title: "5.1.79 Materials Science (BS)"
+title: "6.5.79 Materials Science (BS)"
 description: "University Programs > United States > Columbia University > Materials Science (BS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.79 Materials Science (BS)
+# 6.5.79 Materials Science (BS)
 
 ## Glossary
 

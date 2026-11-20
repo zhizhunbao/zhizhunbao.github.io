@@ -1,10 +1,10 @@
 ---
-title: "4.3.537 Health, Wellbeing and Sustainable Buildings MSc"
+title: "5.3.537 Health, Wellbeing and Sustainable Buildings MSc"
 description: "University Programs > United Kingdom > University College London > Health, Wellbeing and Sustainable Buildings MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.537 Health, Wellbeing and Sustainable Buildings MSc
+# 5.3.537 Health, Wellbeing and Sustainable Buildings MSc
 
 ## Glossary
 

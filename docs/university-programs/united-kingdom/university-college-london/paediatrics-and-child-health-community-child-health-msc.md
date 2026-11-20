@@ -1,10 +1,10 @@
 ---
-title: "4.3.637 Paediatrics and Child Health: Community Child Health MSc"
+title: "5.3.637 Paediatrics and Child Health: Community Child Health MSc"
 description: "University Programs > United Kingdom > University College London > Paediatrics and Child Health: Community Child Health MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.637 Paediatrics and Child Health: Community Child Health MSc
+# 5.3.637 Paediatrics and Child Health: Community Child Health MSc
 
 ## Glossary
 

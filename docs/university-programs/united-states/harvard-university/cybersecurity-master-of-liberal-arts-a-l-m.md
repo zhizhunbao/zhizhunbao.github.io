@@ -1,10 +1,10 @@
 ---
-title: "5.2.48 Cybersecurity, Master of Liberal Arts (A.L.M.)"
+title: "6.1.48 Cybersecurity, Master of Liberal Arts (A.L.M.)"
 description: "University Programs > United States > Harvard University > Cybersecurity, Master of Liberal Arts (A.L.M.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.48 Cybersecurity, Master of Liberal Arts (A.L.M.)
+# 6.1.48 Cybersecurity, Master of Liberal Arts (A.L.M.)
 
 ## Glossary
 

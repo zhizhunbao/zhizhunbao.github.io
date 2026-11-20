@@ -1,10 +1,10 @@
 ---
-title: "4.3.380 Cognitive and Decision Sciences MSc"
+title: "5.3.380 Cognitive and Decision Sciences MSc"
 description: "University Programs > United Kingdom > University College London > Cognitive and Decision Sciences MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.380 Cognitive and Decision Sciences MSc
+# 5.3.380 Cognitive and Decision Sciences MSc
 
 ## Glossary
 

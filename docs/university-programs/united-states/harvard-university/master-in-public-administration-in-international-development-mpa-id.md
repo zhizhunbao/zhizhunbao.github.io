@@ -1,10 +1,10 @@
 ---
-title: "5.2.58 Master in Public Administration in International Development (MPA/ID)"
+title: "6.1.58 Master in Public Administration in International Development (MPA/ID)"
 description: "University Programs > United States > Harvard University > Master in Public Administration in International Development (MPA/ID): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.58 Master in Public Administration in International Development (MPA/ID)
+# 6.1.58 Master in Public Administration in International Development (MPA/ID)
 
 ## Glossary
 

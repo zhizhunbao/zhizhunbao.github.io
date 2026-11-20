@@ -1,10 +1,10 @@
 ---
-title: "4.3.523 Global Healthcare Management (Finance) MSc"
+title: "5.3.523 Global Healthcare Management (Finance) MSc"
 description: "University Programs > United Kingdom > University College London > Global Healthcare Management (Finance) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.523 Global Healthcare Management (Finance) MSc
+# 5.3.523 Global Healthcare Management (Finance) MSc
 
 ## Glossary
 

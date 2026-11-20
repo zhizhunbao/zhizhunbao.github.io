@@ -1,10 +1,10 @@
 ---
-title: "4.3.692 Rehabilitation Engineering and Assistive Technologies MSc"
+title: "5.3.692 Rehabilitation Engineering and Assistive Technologies MSc"
 description: "University Programs > United Kingdom > University College London > Rehabilitation Engineering and Assistive Technologies MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.692 Rehabilitation Engineering and Assistive Technologies MSc
+# 5.3.692 Rehabilitation Engineering and Assistive Technologies MSc
 
 ## Glossary
 

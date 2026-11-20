@@ -1,10 +1,10 @@
 ---
-title: "4.3.532 Health in Urban Development MSc"
+title: "5.3.532 Health in Urban Development MSc"
 description: "University Programs > United Kingdom > University College London > Health in Urban Development MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.532 Health in Urban Development MSc
+# 5.3.532 Health in Urban Development MSc
 
 ## Glossary
 

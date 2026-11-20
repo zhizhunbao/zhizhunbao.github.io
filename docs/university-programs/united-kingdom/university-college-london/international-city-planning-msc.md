@@ -1,10 +1,10 @@
 ---
-title: "4.3.560 International City Planning MSc"
+title: "5.3.560 International City Planning MSc"
 description: "University Programs > United Kingdom > University College London > International City Planning MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.560 International City Planning MSc
+# 5.3.560 International City Planning MSc
 
 ## Glossary
 

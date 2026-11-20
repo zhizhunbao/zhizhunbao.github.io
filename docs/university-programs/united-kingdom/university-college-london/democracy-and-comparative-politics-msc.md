@@ -1,10 +1,10 @@
 ---
-title: "4.3.414 Democracy and Comparative Politics MSc"
+title: "5.3.414 Democracy and Comparative Politics MSc"
 description: "University Programs > United Kingdom > University College London > Democracy and Comparative Politics MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.414 Democracy and Comparative Politics MSc
+# 5.3.414 Democracy and Comparative Politics MSc
 
 ## Glossary
 

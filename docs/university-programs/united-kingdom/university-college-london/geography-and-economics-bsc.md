@@ -1,10 +1,10 @@
 ---
-title: "4.3.117 Geography and Economics BSc"
+title: "5.3.117 Geography and Economics BSc"
 description: "University Programs > United Kingdom > University College London > Geography and Economics BSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.117 Geography and Economics BSc
+# 5.3.117 Geography and Economics BSc
 
 ## Glossary
 

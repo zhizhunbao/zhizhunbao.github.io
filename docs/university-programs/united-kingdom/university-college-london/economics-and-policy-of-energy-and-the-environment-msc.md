@@ -1,10 +1,10 @@
 ---
-title: "4.3.452 Economics and Policy of Energy and the Environment MSc"
+title: "5.3.452 Economics and Policy of Energy and the Environment MSc"
 description: "University Programs > United Kingdom > University College London > Economics and Policy of Energy and the Environment MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.452 Economics and Policy of Energy and the Environment MSc
+# 5.3.452 Economics and Policy of Energy and the Environment MSc
 
 ## Glossary
 

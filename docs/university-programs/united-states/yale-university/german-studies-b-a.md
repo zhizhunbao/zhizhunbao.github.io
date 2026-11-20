@@ -1,10 +1,10 @@
 ---
-title: "5.5.44 German Studies (B.A.)"
+title: "6.4.44 German Studies (B.A.)"
 description: "University Programs > United States > Yale University > German Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.44 German Studies (B.A.)
+# 6.4.44 German Studies (B.A.)
 
 ## Glossary
 

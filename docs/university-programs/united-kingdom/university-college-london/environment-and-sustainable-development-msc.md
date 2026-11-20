@@ -1,10 +1,10 @@
 ---
-title: "4.3.489 Environment and Sustainable Development MSc"
+title: "5.3.489 Environment and Sustainable Development MSc"
 description: "University Programs > United Kingdom > University College London > Environment and Sustainable Development MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.489 Environment and Sustainable Development MSc
+# 5.3.489 Environment and Sustainable Development MSc
 
 ## Glossary
 

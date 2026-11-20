@@ -1,10 +1,10 @@
 ---
-title: "5.1.57 Major in Latin American and Caribbean Studies"
+title: "6.5.57 Major in Latin American and Caribbean Studies"
 description: "University Programs > United States > Columbia University > Major in Latin American and Caribbean Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.57 Major in Latin American and Caribbean Studies
+# 6.5.57 Major in Latin American and Caribbean Studies
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.197 MSt in Islamic Art and Architecture"
+title: "5.1.197 MSt in Islamic Art and Architecture"
 description: "University Programs > United Kingdom > University of Oxford > MSt in Islamic Art and Architecture: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.197 MSt in Islamic Art and Architecture
+# 5.1.197 MSt in Islamic Art and Architecture
 
 ## Glossary
 

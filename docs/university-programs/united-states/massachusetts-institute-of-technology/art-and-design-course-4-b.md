@@ -1,10 +1,10 @@
 ---
-title: "5.3.5 Art and Design (Course 4-B)"
+title: "6.2.5 Art and Design (Course 4-B)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Art and Design (Course 4-B): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.5 Art and Design (Course 4-B)
+# 6.2.5 Art and Design (Course 4-B)
 
 ## Glossary
 

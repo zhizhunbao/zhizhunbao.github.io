@@ -1,10 +1,10 @@
 ---
-title: "5.3.29 Engineering (Course 2-A)"
+title: "6.2.29 Engineering (Course 2-A)"
 description: "University Programs > United States > Massachusetts Institute of Technology > Engineering (Course 2-A): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.3.29 Engineering (Course 2-A)
+# 6.2.29 Engineering (Course 2-A)
 
 ## Glossary
 

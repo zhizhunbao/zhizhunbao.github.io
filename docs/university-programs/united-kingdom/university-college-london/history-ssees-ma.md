@@ -1,10 +1,10 @@
 ---
-title: "4.3.540 History (SSEES) MA"
+title: "5.3.540 History (SSEES) MA"
 description: "University Programs > United Kingdom > University College London > History (SSEES) MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.540 History (SSEES) MA
+# 5.3.540 History (SSEES) MA
 
 ## Glossary
 

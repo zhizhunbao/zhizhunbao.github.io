@@ -1,10 +1,10 @@
 ---
-title: "5.1.73 Major in Sociology"
+title: "6.5.73 Major in Sociology"
 description: "University Programs > United States > Columbia University > Major in Sociology: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.73 Major in Sociology
+# 6.5.73 Major in Sociology
 
 ## Glossary
 

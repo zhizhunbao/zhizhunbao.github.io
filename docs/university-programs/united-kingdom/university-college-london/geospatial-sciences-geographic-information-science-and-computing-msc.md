@@ -1,10 +1,10 @@
 ---
-title: "4.3.517 Geospatial Sciences (Geographic Information Science and Computing) MSc"
+title: "5.3.517 Geospatial Sciences (Geographic Information Science and Computing) MSc"
 description: "University Programs > United Kingdom > University College London > Geospatial Sciences (Geographic Information Science and Computing) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.517 Geospatial Sciences (Geographic Information Science and Computing) MSc
+# 5.3.517 Geospatial Sciences (Geographic Information Science and Computing) MSc
 
 ## Glossary
 

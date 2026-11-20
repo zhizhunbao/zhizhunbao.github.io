@@ -1,10 +1,10 @@
 ---
-title: "4.2.71 MPhil in History (Modern British History 1850-present)"
+title: "5.1.71 MPhil in History (Modern British History 1850-present)"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in History (Modern British History 1850-present): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.71 MPhil in History (Modern British History 1850-present)
+# 5.1.71 MPhil in History (Modern British History 1850-present)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.2.66 MPhil in History (British and European History 1700-1850)"
+title: "5.1.66 MPhil in History (British and European History 1700-1850)"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in History (British and European History 1700-1850): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.66 MPhil in History (British and European History 1700-1850)
+# 5.1.66 MPhil in History (British and European History 1700-1850)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.4.118 Law, Master of the Science of Law"
+title: "6.3.118 Law, Master of the Science of Law"
 description: "University Programs > United States > Stanford University > Law, Master of the Science of Law: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.118 Law, Master of the Science of Law
+# 6.3.118 Law, Master of the Science of Law
 
 ## Glossary
 

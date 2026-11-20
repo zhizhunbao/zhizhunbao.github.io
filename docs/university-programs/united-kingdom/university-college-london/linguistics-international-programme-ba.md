@@ -1,10 +1,10 @@
 ---
-title: "4.3.176 Linguistics (International Programme) BA"
+title: "5.3.176 Linguistics (International Programme) BA"
 description: "University Programs > United Kingdom > University College London > Linguistics (International Programme) BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.176 Linguistics (International Programme) BA
+# 5.3.176 Linguistics (International Programme) BA
 
 ## Glossary
 

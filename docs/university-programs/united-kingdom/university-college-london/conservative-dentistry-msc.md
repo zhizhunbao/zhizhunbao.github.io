@@ -1,10 +1,10 @@
 ---
-title: "4.3.396 Conservative Dentistry MSc"
+title: "5.3.396 Conservative Dentistry MSc"
 description: "University Programs > United Kingdom > University College London > Conservative Dentistry MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.396 Conservative Dentistry MSc
+# 5.3.396 Conservative Dentistry MSc
 
 ## Glossary
 

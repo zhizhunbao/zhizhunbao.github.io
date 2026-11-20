@@ -1,10 +1,10 @@
 ---
-title: "4.3.448 Eating Disorders and Clinical Nutrition MSc"
+title: "5.3.448 Eating Disorders and Clinical Nutrition MSc"
 description: "University Programs > United Kingdom > University College London > Eating Disorders and Clinical Nutrition MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.448 Eating Disorders and Clinical Nutrition MSc
+# 5.3.448 Eating Disorders and Clinical Nutrition MSc
 
 ## Glossary
 

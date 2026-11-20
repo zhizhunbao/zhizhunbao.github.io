@@ -1,10 +1,10 @@
 ---
-title: "5.2.17 Electrical Engineering (B.S.)"
+title: "6.1.17 Electrical Engineering (B.S.)"
 description: "University Programs > United States > Harvard University > Electrical Engineering (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.17 Electrical Engineering (B.S.)
+# 6.1.17 Electrical Engineering (B.S.)
 
 ## Glossary
 

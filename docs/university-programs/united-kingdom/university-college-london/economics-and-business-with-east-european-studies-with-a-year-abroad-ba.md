@@ -1,10 +1,10 @@
 ---
-title: "4.3.80 Economics and Business with East European Studies with a Year Abroad BA"
+title: "5.3.80 Economics and Business with East European Studies with a Year Abroad BA"
 description: "University Programs > United Kingdom > University College London > Economics and Business with East European Studies with a Year Abroad BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.80 Economics and Business with East European Studies with a Year Abroad BA
+# 5.3.80 Economics and Business with East European Studies with a Year Abroad BA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.552 Implant Dentistry MSc"
+title: "5.3.552 Implant Dentistry MSc"
 description: "University Programs > United Kingdom > University College London > Implant Dentistry MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.552 Implant Dentistry MSc
+# 5.3.552 Implant Dentistry MSc
 
 ## Glossary
 

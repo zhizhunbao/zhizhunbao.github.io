@@ -1,10 +1,10 @@
 ---
-title: "4.3.128 German and Philosophy BA"
+title: "5.3.128 German and Philosophy BA"
 description: "University Programs > United Kingdom > University College London > German and Philosophy BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.128 German and Philosophy BA
+# 5.3.128 German and Philosophy BA
 
 ## Glossary
 

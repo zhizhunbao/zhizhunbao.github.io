@@ -1,10 +1,10 @@
 ---
-title: "4.3.115 Geography (International Programme) BA"
+title: "5.3.115 Geography (International Programme) BA"
 description: "University Programs > United Kingdom > University College London > Geography (International Programme) BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.115 Geography (International Programme) BA
+# 5.3.115 Geography (International Programme) BA
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.1.48 MPhil in Precision Medical Imaging and AI"
+title: "5.2.48 MPhil in Precision Medical Imaging and AI"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Precision Medical Imaging and AI: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.48 MPhil in Precision Medical Imaging and AI
+# 5.2.48 MPhil in Precision Medical Imaging and AI
 
 ## Glossary
 

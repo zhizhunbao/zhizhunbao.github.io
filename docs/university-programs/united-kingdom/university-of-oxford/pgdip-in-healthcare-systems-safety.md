@@ -1,10 +1,10 @@
 ---
-title: "4.2.240 PGDip in Healthcare Systems Safety"
+title: "5.1.240 PGDip in Healthcare Systems Safety"
 description: "University Programs > United Kingdom > University of Oxford > PGDip in Healthcare Systems Safety: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.240 PGDip in Healthcare Systems Safety
+# 5.1.240 PGDip in Healthcare Systems Safety
 
 ## Glossary
 

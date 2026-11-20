@@ -1,10 +1,10 @@
 ---
-title: "5.1.61 Major in Medical Humanities"
+title: "6.5.61 Major in Medical Humanities"
 description: "University Programs > United States > Columbia University > Major in Medical Humanities: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.61 Major in Medical Humanities
+# 6.5.61 Major in Medical Humanities
 
 ## Glossary
 

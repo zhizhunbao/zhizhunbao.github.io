@@ -1,10 +1,10 @@
 ---
-title: "4.3.451 Ecology, Climate Change and Health MSc"
+title: "5.3.451 Ecology, Climate Change and Health MSc"
 description: "University Programs > United Kingdom > University College London > Ecology, Climate Change and Health MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.451 Ecology, Climate Change and Health MSc
+# 5.3.451 Ecology, Climate Change and Health MSc
 
 ## Glossary
 

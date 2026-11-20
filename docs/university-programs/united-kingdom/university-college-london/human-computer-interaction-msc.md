@@ -1,10 +1,10 @@
 ---
-title: "4.3.549 Human-Computer Interaction MSc"
+title: "5.3.549 Human-Computer Interaction MSc"
 description: "University Programs > United Kingdom > University College London > Human-Computer Interaction MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.549 Human-Computer Interaction MSc
+# 5.3.549 Human-Computer Interaction MSc
 
 ## Glossary
 

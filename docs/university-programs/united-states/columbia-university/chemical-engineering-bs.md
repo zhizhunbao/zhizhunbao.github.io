@@ -1,10 +1,10 @@
 ---
-title: "5.1.4 Chemical Engineering (BS)"
+title: "6.5.4 Chemical Engineering (BS)"
 description: "University Programs > United States > Columbia University > Chemical Engineering (BS): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.4 Chemical Engineering (BS)
+# 6.5.4 Chemical Engineering (BS)
 
 ## Glossary
 

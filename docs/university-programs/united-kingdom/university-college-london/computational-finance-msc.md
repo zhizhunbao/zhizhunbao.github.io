@@ -1,10 +1,10 @@
 ---
-title: "4.3.388 Computational Finance MSc"
+title: "5.3.388 Computational Finance MSc"
 description: "University Programs > United Kingdom > University College London > Computational Finance MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.388 Computational Finance MSc
+# 5.3.388 Computational Finance MSc
 
 ## Glossary
 

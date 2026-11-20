@@ -1,10 +1,10 @@
 ---
-title: "4.3.535 Health Psychology MSc"
+title: "5.3.535 Health Psychology MSc"
 description: "University Programs > United Kingdom > University College London > Health Psychology MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.535 Health Psychology MSc
+# 5.3.535 Health Psychology MSc
 
 ## Glossary
 

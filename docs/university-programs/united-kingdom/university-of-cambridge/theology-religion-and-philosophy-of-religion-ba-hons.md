@@ -1,10 +1,10 @@
 ---
-title: "4.1.31 Theology, Religion, and Philosophy of Religion, BA (Hons)"
+title: "5.2.31 Theology, Religion, and Philosophy of Religion, BA (Hons)"
 description: "University Programs > United Kingdom > University of Cambridge > Theology, Religion, and Philosophy of Religion, BA (Hons): the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.31 Theology, Religion, and Philosophy of Religion, BA (Hons)
+# 5.2.31 Theology, Religion, and Philosophy of Religion, BA (Hons)
 
 ## Glossary
 

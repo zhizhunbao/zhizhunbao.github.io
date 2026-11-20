@@ -1,10 +1,10 @@
 ---
-title: "5.1.115 Sports Management"
+title: "6.5.115 Sports Management"
 description: "University Programs > United States > Columbia University > Sports Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.115 Sports Management
+# 6.5.115 Sports Management
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.5.10 Astrophysics (B.S.)"
+title: "6.4.10 Astrophysics (B.S.)"
 description: "University Programs > United States > Yale University > Astrophysics (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.10 Astrophysics (B.S.)
+# 6.4.10 Astrophysics (B.S.)
 
 ## Glossary
 

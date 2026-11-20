@@ -1,10 +1,10 @@
 ---
-title: "4.3.480 Energy Systems and Data Analytics (ESDA) MSc"
+title: "5.3.480 Energy Systems and Data Analytics (ESDA) MSc"
 description: "University Programs > United Kingdom > University College London > Energy Systems and Data Analytics (ESDA) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.480 Energy Systems and Data Analytics (ESDA) MSc
+# 5.3.480 Energy Systems and Data Analytics (ESDA) MSc
 
 ## Glossary
 

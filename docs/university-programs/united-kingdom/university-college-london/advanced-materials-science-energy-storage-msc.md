@@ -1,10 +1,10 @@
 ---
-title: "4.3.283 Advanced Materials Science (Energy Storage) MSc"
+title: "5.3.283 Advanced Materials Science (Energy Storage) MSc"
 description: "University Programs > United Kingdom > University College London > Advanced Materials Science (Energy Storage) MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.283 Advanced Materials Science (Energy Storage) MSc
+# 5.3.283 Advanced Materials Science (Energy Storage) MSc
 
 ## Glossary
 

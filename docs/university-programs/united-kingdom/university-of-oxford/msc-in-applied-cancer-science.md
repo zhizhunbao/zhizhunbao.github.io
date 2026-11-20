@@ -1,10 +1,10 @@
 ---
-title: "4.2.101 MSc in Applied Cancer Science"
+title: "5.1.101 MSc in Applied Cancer Science"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Applied Cancer Science: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.101 MSc in Applied Cancer Science
+# 5.1.101 MSc in Applied Cancer Science
 
 ## Glossary
 

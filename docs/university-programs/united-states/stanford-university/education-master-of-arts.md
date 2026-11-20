@@ -1,10 +1,10 @@
 ---
-title: "5.4.99 Education, Master of Arts"
+title: "6.3.99 Education, Master of Arts"
 description: "University Programs > United States > Stanford University > Education, Master of Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.99 Education, Master of Arts
+# 6.3.99 Education, Master of Arts
 
 ## Glossary
 

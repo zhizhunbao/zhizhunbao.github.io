@@ -1,10 +1,10 @@
 ---
-title: "4.3.584 Law LLM"
+title: "5.3.584 Law LLM"
 description: "University Programs > United Kingdom > University College London > Law LLM: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.584 Law LLM
+# 5.3.584 Law LLM
 
 ## Glossary
 

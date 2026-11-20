@@ -1,10 +1,10 @@
 ---
-title: "4.3.490 Environment, Politics and Society MSc"
+title: "5.3.490 Environment, Politics and Society MSc"
 description: "University Programs > United Kingdom > University College London > Environment, Politics and Society MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.490 Environment, Politics and Society MSc
+# 5.3.490 Environment, Politics and Society MSc
 
 ## Glossary
 

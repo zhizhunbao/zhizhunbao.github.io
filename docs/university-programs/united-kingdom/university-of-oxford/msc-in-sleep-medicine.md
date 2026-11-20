@@ -1,10 +1,10 @@
 ---
-title: "4.2.154 MSc in Sleep Medicine"
+title: "5.1.154 MSc in Sleep Medicine"
 description: "University Programs > United Kingdom > University of Oxford > MSc in Sleep Medicine: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.154 MSc in Sleep Medicine
+# 5.1.154 MSc in Sleep Medicine
 
 ## Glossary
 

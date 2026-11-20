@@ -1,10 +1,10 @@
 ---
-title: "5.4.210 Theater and Performance Studies, Doctor of Philosophy"
+title: "6.3.210 Theater and Performance Studies, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Theater and Performance Studies, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.210 Theater and Performance Studies, Doctor of Philosophy
+# 6.3.210 Theater and Performance Studies, Doctor of Philosophy
 
 ## Glossary
 

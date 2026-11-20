@@ -1,10 +1,10 @@
 ---
-title: "4.3.534 Health MBA"
+title: "5.3.534 Health MBA"
 description: "University Programs > United Kingdom > University College London > Health MBA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.534 Health MBA
+# 5.3.534 Health MBA
 
 ## Glossary
 

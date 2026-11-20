@@ -1,10 +1,10 @@
 ---
-title: "3. South Korea"
+title: "4. South Korea"
 description: "University Programs > South Korea: universities in South Korea, numbered in the order of the JoongAng Ilbo university evaluation's latest overall ranking, one folder per university; definitions pending."
-ms.date: 2026-11-18
+ms.date: 2026-11-20
 ---
 
-# 3. South Korea
+# 4. South Korea
 
 ## Glossary
 

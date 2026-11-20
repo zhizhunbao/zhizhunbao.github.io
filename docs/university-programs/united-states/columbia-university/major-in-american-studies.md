@@ -1,10 +1,10 @@
 ---
-title: "5.1.12 Major in American Studies"
+title: "6.5.12 Major in American Studies"
 description: "University Programs > United States > Columbia University > Major in American Studies: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.12 Major in American Studies
+# 6.5.12 Major in American Studies
 
 ## Glossary
 

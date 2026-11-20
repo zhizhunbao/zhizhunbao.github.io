@@ -1,10 +1,10 @@
 ---
-title: "5.1.40 Major in English (for students who matriculated in 2024-5 and after)"
+title: "6.5.40 Major in English (for students who matriculated in 2024-5 and after)"
 description: "University Programs > United States > Columbia University > Major in English (for students who matriculated in 2024-5 and after): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.40 Major in English (for students who matriculated in 2024-5 and after)
+# 6.5.40 Major in English (for students who matriculated in 2024-5 and after)
 
 ## Glossary
 

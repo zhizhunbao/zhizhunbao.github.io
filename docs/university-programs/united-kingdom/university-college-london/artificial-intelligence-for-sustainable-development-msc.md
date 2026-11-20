@@ -1,10 +1,10 @@
 ---
-title: "4.3.319 Artificial Intelligence for Sustainable Development MSc"
+title: "5.3.319 Artificial Intelligence for Sustainable Development MSc"
 description: "University Programs > United Kingdom > University College London > Artificial Intelligence for Sustainable Development MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.319 Artificial Intelligence for Sustainable Development MSc
+# 5.3.319 Artificial Intelligence for Sustainable Development MSc
 
 ## Glossary
 

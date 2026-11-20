@@ -1,10 +1,10 @@
 ---
-title: "4.2.223 DPhil in Genomic Medicine and Statistics"
+title: "5.1.223 DPhil in Genomic Medicine and Statistics"
 description: "University Programs > United Kingdom > University of Oxford > DPhil in Genomic Medicine and Statistics: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.223 DPhil in Genomic Medicine and Statistics
+# 5.1.223 DPhil in Genomic Medicine and Statistics
 
 ## Glossary
 

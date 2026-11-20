@@ -1,10 +1,10 @@
 ---
-title: "5.5.31 Electrical Engineering (B.S.)"
+title: "6.4.31 Electrical Engineering (B.S.)"
 description: "University Programs > United States > Yale University > Electrical Engineering (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.31 Electrical Engineering (B.S.)
+# 6.4.31 Electrical Engineering (B.S.)
 
 ## Glossary
 

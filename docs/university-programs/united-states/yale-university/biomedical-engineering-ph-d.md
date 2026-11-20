@@ -1,10 +1,10 @@
 ---
-title: "5.5.118 Biomedical Engineering (Ph.D.)"
+title: "6.4.118 Biomedical Engineering (Ph.D.)"
 description: "University Programs > United States > Yale University > Biomedical Engineering (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.118 Biomedical Engineering (Ph.D.)
+# 6.4.118 Biomedical Engineering (Ph.D.)
 
 ## Glossary
 

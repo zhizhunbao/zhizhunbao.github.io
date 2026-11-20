@@ -1,10 +1,10 @@
 ---
-title: "3.2 Yonsei University"
+title: "4.2 Yonsei University"
 description: "University Programs > South Korea > Yonsei University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.2 Yonsei University
+# 4.2 Yonsei University
 
 ## Glossary
 

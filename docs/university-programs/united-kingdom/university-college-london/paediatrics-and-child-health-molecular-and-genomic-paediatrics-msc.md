@@ -1,10 +1,10 @@
 ---
-title: "4.3.640 Paediatrics and Child Health: Molecular and Genomic Paediatrics MSc"
+title: "5.3.640 Paediatrics and Child Health: Molecular and Genomic Paediatrics MSc"
 description: "University Programs > United Kingdom > University College London > Paediatrics and Child Health: Molecular and Genomic Paediatrics MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.640 Paediatrics and Child Health: Molecular and Genomic Paediatrics MSc
+# 5.3.640 Paediatrics and Child Health: Molecular and Genomic Paediatrics MSc
 
 ## Glossary
 

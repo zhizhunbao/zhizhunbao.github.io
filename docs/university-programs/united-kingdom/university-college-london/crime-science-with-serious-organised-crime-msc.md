@@ -1,10 +1,10 @@
 ---
-title: "4.3.407 Crime Science with Serious Organised Crime MSc"
+title: "5.3.407 Crime Science with Serious Organised Crime MSc"
 description: "University Programs > United Kingdom > University College London > Crime Science with Serious Organised Crime MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.407 Crime Science with Serious Organised Crime MSc
+# 5.3.407 Crime Science with Serious Organised Crime MSc
 
 ## Glossary
 

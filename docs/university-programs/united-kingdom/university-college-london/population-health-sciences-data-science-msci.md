@@ -1,10 +1,10 @@
 ---
-title: "4.3.226 Population Health Sciences (Data Science) MSci"
+title: "5.3.226 Population Health Sciences (Data Science) MSci"
 description: "University Programs > United Kingdom > University College London > Population Health Sciences (Data Science) MSci: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.226 Population Health Sciences (Data Science) MSci
+# 5.3.226 Population Health Sciences (Data Science) MSci
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "5.1.71 Major in Russian Language and Culture"
+title: "6.5.71 Major in Russian Language and Culture"
 description: "University Programs > United States > Columbia University > Major in Russian Language and Culture: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.71 Major in Russian Language and Culture
+# 6.5.71 Major in Russian Language and Culture
 
 ## Glossary
 

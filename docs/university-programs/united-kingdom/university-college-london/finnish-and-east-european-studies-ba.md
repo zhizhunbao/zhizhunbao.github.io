@@ -1,10 +1,10 @@
 ---
-title: "4.3.95 Finnish and East European Studies BA"
+title: "5.3.95 Finnish and East European Studies BA"
 description: "University Programs > United Kingdom > University College London > Finnish and East European Studies BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.95 Finnish and East European Studies BA
+# 5.3.95 Finnish and East European Studies BA
 
 ## Glossary
 

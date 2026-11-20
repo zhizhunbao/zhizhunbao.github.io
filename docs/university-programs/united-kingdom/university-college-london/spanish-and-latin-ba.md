@@ -1,10 +1,10 @@
 ---
-title: "4.3.256 Spanish and Latin BA"
+title: "5.3.256 Spanish and Latin BA"
 description: "University Programs > United Kingdom > University College London > Spanish and Latin BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.256 Spanish and Latin BA
+# 5.3.256 Spanish and Latin BA
 
 ## Glossary
 

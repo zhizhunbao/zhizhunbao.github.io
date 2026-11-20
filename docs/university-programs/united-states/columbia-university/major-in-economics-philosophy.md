@@ -1,10 +1,10 @@
 ---
-title: "5.1.37 Major in Economics-Philosophy"
+title: "6.5.37 Major in Economics-Philosophy"
 description: "University Programs > United States > Columbia University > Major in Economics-Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.37 Major in Economics-Philosophy
+# 6.5.37 Major in Economics-Philosophy
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.124 German and English BA"
+title: "5.3.124 German and English BA"
 description: "University Programs > United Kingdom > University College London > German and English BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.124 German and English BA
+# 5.3.124 German and English BA
 
 ## Glossary
 

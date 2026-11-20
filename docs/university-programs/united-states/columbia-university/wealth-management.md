@@ -1,10 +1,10 @@
 ---
-title: "5.1.118 Wealth Management"
+title: "6.5.118 Wealth Management"
 description: "University Programs > United States > Columbia University > Wealth Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.118 Wealth Management
+# 6.5.118 Wealth Management
 
 ## Glossary
 

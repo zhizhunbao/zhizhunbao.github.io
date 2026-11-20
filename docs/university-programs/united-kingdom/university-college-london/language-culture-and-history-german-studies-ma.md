@@ -1,10 +1,10 @@
 ---
-title: "4.3.578 Language, Culture and History: German Studies MA"
+title: "5.3.578 Language, Culture and History: German Studies MA"
 description: "University Programs > United Kingdom > University College London > Language, Culture and History: German Studies MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.578 Language, Culture and History: German Studies MA
+# 5.3.578 Language, Culture and History: German Studies MA
 
 ## Glossary
 

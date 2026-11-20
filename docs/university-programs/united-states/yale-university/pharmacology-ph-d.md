@@ -1,10 +1,10 @@
 ---
-title: "5.5.152 Pharmacology (Ph.D.)"
+title: "6.4.152 Pharmacology (Ph.D.)"
 description: "University Programs > United States > Yale University > Pharmacology (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.152 Pharmacology (Ph.D.)
+# 6.4.152 Pharmacology (Ph.D.)
 
 ## Glossary
 

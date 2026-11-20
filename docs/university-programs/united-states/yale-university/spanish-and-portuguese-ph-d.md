@@ -1,10 +1,10 @@
 ---
-title: "5.5.160 Spanish and Portuguese (Ph.D.)"
+title: "6.4.160 Spanish and Portuguese (Ph.D.)"
 description: "University Programs > United States > Yale University > Spanish and Portuguese (Ph.D.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.160 Spanish and Portuguese (Ph.D.)
+# 6.4.160 Spanish and Portuguese (Ph.D.)
 
 ## Glossary
 

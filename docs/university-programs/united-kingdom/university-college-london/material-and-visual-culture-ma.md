@@ -1,10 +1,10 @@
 ---
-title: "4.3.603 Material and Visual Culture MA"
+title: "5.3.603 Material and Visual Culture MA"
 description: "University Programs > United Kingdom > University College London > Material and Visual Culture MA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.603 Material and Visual Culture MA
+# 5.3.603 Material and Visual Culture MA
 
 ## Glossary
 

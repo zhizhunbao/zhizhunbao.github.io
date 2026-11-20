@@ -1,10 +1,10 @@
 ---
-title: "5.5.74 Russian, East European, and Eurasian Studies (B.A.)"
+title: "6.4.74 Russian, East European, and Eurasian Studies (B.A.)"
 description: "University Programs > United States > Yale University > Russian, East European, and Eurasian Studies (B.A.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.74 Russian, East European, and Eurasian Studies (B.A.)
+# 6.4.74 Russian, East European, and Eurasian Studies (B.A.)
 
 ## Glossary
 

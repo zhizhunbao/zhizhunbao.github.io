@@ -1,10 +1,10 @@
 ---
-title: "4.3.594 Major Infrastructure Delivery MBA"
+title: "5.3.594 Major Infrastructure Delivery MBA"
 description: "University Programs > United Kingdom > University College London > Major Infrastructure Delivery MBA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.594 Major Infrastructure Delivery MBA
+# 5.3.594 Major Infrastructure Delivery MBA
 
 ## Glossary
 

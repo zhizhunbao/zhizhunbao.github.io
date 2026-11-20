@@ -1,10 +1,10 @@
 ---
-title: "3.3.3 의학과"
+title: "4.3.3 의학과"
 description: "University Programs > South Korea > Sungkyunkwan University > 의학과: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 3.3.3 의학과
+# 4.3.3 의학과
 
 ## Glossary
 

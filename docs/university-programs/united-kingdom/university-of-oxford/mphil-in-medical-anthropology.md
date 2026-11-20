@@ -1,10 +1,10 @@
 ---
-title: "4.2.85 MPhil in Medical Anthropology"
+title: "5.1.85 MPhil in Medical Anthropology"
 description: "University Programs > United Kingdom > University of Oxford > MPhil in Medical Anthropology: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.2.85 MPhil in Medical Anthropology
+# 5.1.85 MPhil in Medical Anthropology
 
 ## Glossary
 

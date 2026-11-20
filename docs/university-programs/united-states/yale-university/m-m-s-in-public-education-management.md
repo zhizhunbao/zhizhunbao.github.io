@@ -1,10 +1,10 @@
 ---
-title: "5.5.95 M.M.S. in Public Education Management"
+title: "6.4.95 M.M.S. in Public Education Management"
 description: "University Programs > United States > Yale University > M.M.S. in Public Education Management: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.95 M.M.S. in Public Education Management
+# 6.4.95 M.M.S. in Public Education Management
 
 ## Glossary
 

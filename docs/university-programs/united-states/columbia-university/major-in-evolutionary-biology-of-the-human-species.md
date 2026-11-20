@@ -1,10 +1,10 @@
 ---
-title: "5.1.45 Major in Evolutionary Biology of the Human Species"
+title: "6.5.45 Major in Evolutionary Biology of the Human Species"
 description: "University Programs > United States > Columbia University > Major in Evolutionary Biology of the Human Species: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.45 Major in Evolutionary Biology of the Human Species
+# 6.5.45 Major in Evolutionary Biology of the Human Species
 
 ## Glossary
 

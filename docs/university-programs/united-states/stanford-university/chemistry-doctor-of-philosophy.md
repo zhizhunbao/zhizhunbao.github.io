@@ -1,10 +1,10 @@
 ---
-title: "5.4.158 Chemistry, Doctor of Philosophy"
+title: "6.3.158 Chemistry, Doctor of Philosophy"
 description: "University Programs > United States > Stanford University > Chemistry, Doctor of Philosophy: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.4.158 Chemistry, Doctor of Philosophy
+# 6.3.158 Chemistry, Doctor of Philosophy
 
 ## Glossary
 

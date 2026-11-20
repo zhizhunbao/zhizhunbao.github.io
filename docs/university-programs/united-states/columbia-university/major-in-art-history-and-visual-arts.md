@@ -1,10 +1,10 @@
 ---
-title: "5.1.17 Major in Art History and Visual Arts"
+title: "6.5.17 Major in Art History and Visual Arts"
 description: "University Programs > United States > Columbia University > Major in Art History and Visual Arts: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-19
 ---
 
-# 5.1.17 Major in Art History and Visual Arts
+# 6.5.17 Major in Art History and Visual Arts
 
 ## Glossary
 

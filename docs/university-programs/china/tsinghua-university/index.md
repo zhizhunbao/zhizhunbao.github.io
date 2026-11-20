@@ -1,10 +1,10 @@
 ---
-title: "2.1 Tsinghua University"
+title: "3.1 Tsinghua University"
 description: "University Programs > China > Tsinghua University: its rankings and its programs from the academic calendar, with faculty, degree level and degree, one page per program with its courses; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 2.1 Tsinghua University
+# 3.1 Tsinghua University
 
 ## Glossary
 
@@ -65,6 +65,7 @@ ms.date: 2026-11-18
 | **[计算机科学与技术](ug-24.md)**<br>计算机科学与技术 | (Definition pending) | （定义待补） | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm) |
 | **[车辆工程](ug-17.md)**<br>车辆工程 | (Definition pending) | （定义待补） | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm) |
 | **[马克思主义理论](ug-65.md)**<br>马克思主义理论 | (Definition pending) | （定义待补） | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm) |
+| **[Schwarzman Scholars](schwarzman-scholars.md)**<br>苏世民学者项目 | (Definition pending) | （定义待补） | [Tsinghua University, n.d.](https://www.schwarzmanscholars.org/frequently-asked-questions/) |
 | **[材料与化工（硕士专业学位）](0856-pm.md)**<br>材料与化工（硕士专业学位） | (Definition pending) | （定义待补） | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jxjywj/qhdxyqsydzyxwmc_202509.pdf) |
 | **[材料科学与工程（硕士）](0805-m.md)**<br>材料科学与工程（硕士） | (Definition pending) | （定义待补） | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jxjywj/qhdxyqsybsssxwxkmc_202509.pdf) |
 | **[材料与化工（博士专业学位）](0856-pd.md)**<br>材料与化工（博士专业学位） | (Definition pending) | （定义待补） | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jxjywj/qhdxyqsydzyxwmc_202509.pdf) |
@@ -210,6 +211,7 @@ ms.date: 2026-11-18
 | 风景园林<br>风景园林 | 建筑学院、紫荆书院、秀钟书院 | Bachelor's<br>学士 |  |  |  | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm) |
 | [马克思主义理论](ug-65.md)<br>马克思主义理论 | 日新书院、马克思主义学院 | Bachelor's<br>学士 |  |  |  | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm) |
 | 高分子材料与工程<br>高分子材料与工程 | 化学工程系、探微书院 | Bachelor's<br>学士 |  |  |  | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm) |
+| [Schwarzman Scholars](schwarzman-scholars.md)<br>苏世民学者项目 | Schwarzman College | Master's<br>硕士 |  | one year |  | [Tsinghua University, n.d.](https://www.schwarzmanscholars.org/frequently-asked-questions/) |
 | 世界史（硕士）<br>世界史（硕士） |  | Master's<br>硕士 | 硕士 |  |  | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jxjywj/qhdxyqsybsssxwxkmc_202509.pdf) |
 | 中共党史党建学（硕士）<br>中共党史党建学（硕士） |  | Master's<br>硕士 | 硕士 |  |  | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jxjywj/qhdxyqsybsssxwxkmc_202509.pdf) |
 | 中国史（硕士）<br>中国史（硕士） |  | Master's<br>硕士 | 硕士 |  |  | [Tsinghua University, n.d.](https://www.tsinghua.edu.cn/jxjywj/qhdxyqsybsssxwxkmc_202509.pdf) |
@@ -403,6 +405,8 @@ QS Quacquarelli Symonds. (2026b). *QS World University Rankings 2027: Top global
 ShanghaiRanking Consultancy. (2026b). *Academic Ranking of World Universities 2026* [Ranking table and its data file]. Retrieved November 5, 2026, from <https://www.shanghairanking.com/rankings/arwu/2026>
 
 Times Higher Education. (2026). *World University Rankings 2027* [Ranking table and its data file]. Retrieved November 5, 2026, from <https://www.timeshighereducation.com/world-university-rankings/latest/world-ranking>
+
+Tsinghua University. (n.d.). *Frequently asked questions* [Schwarzman Scholars]. Retrieved November 18, 2026, from <https://www.schwarzmanscholars.org/frequently-asked-questions/>
 
 Tsinghua University. (n.d.). *本科专业* [Undergraduate programs]. Retrieved November 18, 2026, from <https://www.tsinghua.edu.cn/jyjx/bksjy/bkzy.htm>
 

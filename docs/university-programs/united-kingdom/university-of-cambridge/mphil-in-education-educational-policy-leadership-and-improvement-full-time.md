@@ -1,10 +1,10 @@
 ---
-title: "4.1.39 MPhil in Education (Educational Policy, Leadership and Improvement) full-time"
+title: "5.2.39 MPhil in Education (Educational Policy, Leadership and Improvement) full-time"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Education (Educational Policy, Leadership and Improvement) full-time: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.39 MPhil in Education (Educational Policy, Leadership and Improvement) full-time
+# 5.2.39 MPhil in Education (Educational Policy, Leadership and Improvement) full-time
 
 ## Glossary
 

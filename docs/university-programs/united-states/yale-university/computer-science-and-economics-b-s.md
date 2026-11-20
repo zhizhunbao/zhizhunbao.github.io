@@ -1,10 +1,10 @@
 ---
-title: "5.5.20 Computer Science and Economics (B.S.)"
+title: "6.4.20 Computer Science and Economics (B.S.)"
 description: "University Programs > United States > Yale University > Computer Science and Economics (B.S.): the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.5.20 Computer Science and Economics (B.S.)
+# 6.4.20 Computer Science and Economics (B.S.)
 
 ## Glossary
 

@@ -1,10 +1,10 @@
 ---
-title: "4.3.64 Danish and German BA"
+title: "5.3.64 Danish and German BA"
 description: "University Programs > United Kingdom > University College London > Danish and German BA: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.64 Danish and German BA
+# 5.3.64 Danish and German BA
 
 ## Glossary
 

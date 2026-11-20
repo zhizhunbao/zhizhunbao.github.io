@@ -1,10 +1,10 @@
 ---
-title: "5.2.77 Master of Public Health – Nutrition"
+title: "6.1.77 Master of Public Health – Nutrition"
 description: "University Programs > United States > Harvard University > Master of Public Health – Nutrition: the courses of the program as the academic calendar lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 5.2.77 Master of Public Health – Nutrition
+# 6.1.77 Master of Public Health – Nutrition
 
 ## Glossary
 

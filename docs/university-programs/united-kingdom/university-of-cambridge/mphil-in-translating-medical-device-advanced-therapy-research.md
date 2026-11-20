@@ -1,10 +1,10 @@
 ---
-title: "4.1.52 MPhil in Translating Medical Device & Advanced Therapy Research"
+title: "5.2.52 MPhil in Translating Medical Device & Advanced Therapy Research"
 description: "University Programs > United Kingdom > University of Cambridge > MPhil in Translating Medical Device & Advanced Therapy Research: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.1.52 MPhil in Translating Medical Device & Advanced Therapy Research
+# 5.2.52 MPhil in Translating Medical Device & Advanced Therapy Research
 
 ## Glossary
 

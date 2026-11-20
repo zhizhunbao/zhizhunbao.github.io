@@ -1,10 +1,10 @@
 ---
-title: "4.3.728 Software Systems Engineering MSc"
+title: "5.3.728 Software Systems Engineering MSc"
 description: "University Programs > United Kingdom > University College London > Software Systems Engineering MSc: the courses of the program as the college lists them; definitions pending."
 ms.date: 2026-11-18
 ---
 
-# 4.3.728 Software Systems Engineering MSc
+# 5.3.728 Software Systems Engineering MSc
 
 ## Glossary
 
