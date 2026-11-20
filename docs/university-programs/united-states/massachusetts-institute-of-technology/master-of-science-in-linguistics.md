@@ -20,16 +20,18 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  | Program Requirements | 24.900 | Introduction to Linguistics | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
-|  | Program Requirements |  | At least one of the following subjects: | 12-36 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
-|  | Program Requirements > At least one of the following subjects: | 24.931 | Language and Its Structure I: Phonology |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
-|  | Program Requirements > At least one of the following subjects: | 24.932 | Language and Its Structure II: Syntax |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
-|  | Program Requirements > At least one of the following subjects: | 24.933 | Language and Its Structure III: Semantics and Pragmatics |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
-|  | Program Requirements | 24.921 | Independent Study: Linguistics (Focused on the student's language) | 24 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
-|  | Program Requirements | 24.THG | Graduate Thesis | 72 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  | Program Requirements | 24.900 | Introduction to Linguistics | 12 | [Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j) | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
+|  | Program Requirements |  | At least one of the following subjects: | 12-36 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
+|  | Program Requirements > At least one of the following subjects: | 24.931 | Language and Its Structure I: Phonology |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
+|  | Program Requirements > At least one of the following subjects: | 24.932 | Language and Its Structure II: Syntax |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
+|  | Program Requirements > At least one of the following subjects: | 24.933 | Language and Its Structure III: Semantics and Pragmatics |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
+|  | Program Requirements | 24.921 | Independent Study: Linguistics (Focused on the student's language) | 24 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
+|  | Program Requirements | 24.THG | Graduate Thesis | 72 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-linguistics/) |
 
 ## References
 
 Massachusetts Institute of Technology. (n.d.). *Master of Science in Linguistics*. Retrieved November 18, 2026, from <https://catalog.mit.edu/degree-charts/sm-linguistics/>
+
+MIT OpenCourseWare. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@mitocw/playlists>

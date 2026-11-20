@@ -1,6 +1,6 @@
 ---
 title: "1. Stanford Online"
-description: "Online Courses > Stanford Online: the playlists of the Stanford Online YouTube channel, free lecture recordings, matched to Stanford courses by the course code in the playlist title; definitions pending."
+description: "Online Courses > Stanford Online: the playlists of its YouTube channel, free lecture recordings, ordered by the course number in the playlist title, with the course name where the course is on this site; definitions pending."
 ms.date: 2026-11-20
 ---
 
@@ -20,13 +20,17 @@ ms.date: 2026-11-20
 | AA 222 | Engineering Design Optimization<br>工程设计优化 | n.d. | [Stanford AA222 I Engineering Design Optimization](https://www.youtube.com/playlist?list=PLoROMvodv4rO6UYVy7NKVMVL3izjvOqcs) |
 | AA 228V | Validation of Safety Critical Systems<br>安全关键系统的验证 | 2025 | [Stanford AA228V I Validation of Safety Critical Systems I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOq1LMLI8U7djzDb8--xpaC) |
 | AA 274A | Principles of Robot Autonomy I<br>机器人自主性原理 I | Autumn 2019 | [Stanford AA274A Principles of Robotic Autonomy \| Autumn 2019](https://www.youtube.com/playlist?list=PLR9iNyexfIkk) |
+| AA 289 |  | n.d. | [Stanford AA289/ENGR319 - Robotics and Autonomous Systems Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD) |
+| CEE 246A |  | n.d. | [Stanford CEE246A - Web3 Entrepreneurship: Future Models of Value Creation Connecting the Real and Digital Economy Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rOUC9tTF3wKaif0oFx13EJJ) |
 | CME 295 | Transformers and Large Language Models<br>Transformer 与大语言模型 | Autumn 2026 | [Stanford CME295: Transformers and Large Language Models \| Autumn 2026](https://www.youtube.com/playlist?list=PLakGfbKCei80) |
 | CME 295 | Transformers and Large Language Models<br>Transformer 与大语言模型 | Autumn 2025 | [Stanford CME295: Transformers and Large Language Models I Autumn 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy) |
 | CME 296 | Diffusion and Large Vision Models<br>扩散与大视觉模型 | n.d. | [Stanford CME296: Diffusion & Large Vision Models](https://www.youtube.com/playlist?list=PLoROMvodv4rNdy8rt2rZ4T2xM0OjADnfu) |
+| CS 25 |  | n.d. | [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
 | CS 105 | Introduction to Computers<br>计算机入门 | n.d. | [Stanford CS105 - Introduction to Computers Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN) |
 | CS 109 | Introduction to Probability for Computer Scientists<br>计算机科学家概率入门 | 2022 | [Stanford CS109 Introduction to Probability for Computer Scientists I 2022 I Chris Piech](https://www.youtube.com/playlist?list=PLoROMvodv4rOpr_A7B9SriE_iZmkanvUg) |
 | CS 149 | Parallel Computing<br>并行计算 | 2023 | [Stanford CS149 I Parallel Computing I 2023 I Kayvon Fatahalian and Kunle Olukotun](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp) |
 | CS 153 | Frontier Systems<br>前沿系统 | n.d. | [Stanford CS153 Frontier Systems](https://www.youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA) |
+| CS 183F |  | Spring 2017 | [Startup School: The First 100 Days - Stanford CS183F - Spring 2017](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) |
 | CS 193P | iOS Application Development<br>iOS 应用开发 | n.d. | [Stanford CS193p: iOS Development with SwiftUI](https://www.youtube.com/playlist?list=PLoROMvodv4rPHblRXKsJCQs8TLGpiCTrG) |
 | CS 193T | Thinking with AI: Strategies for Effective and Ethical Human-AI Collaboration<br>与人工智能一起思考：有效且合乎伦理的人机协作策略 | Autumn 2026 | [Stanford CS193T Thinking with AI \| Autumn 2026](https://www.youtube.com/playlist?list=PLDrJO3v_iAZY) |
 | CS 221 | Artificial Intelligence: Principles and Techniques<br>人工智能：原理与技术 | Autumn 2025 | [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rMeDqwS1yFl3j3sR_-MQNEN) |
@@ -63,17 +67,21 @@ ms.date: 2026-11-20
 | CS 336 | Language Modeling from Scratch<br>从零开始的语言建模 | Spring 2026 | [Stanford CS336: Language Modeling from Scratch \| Spring 2026](https://www.youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV) |
 | CS 336 | Language Modeling from Scratch<br>从零开始的语言建模 | 2025 | [Stanford CS336 Language Modeling from Scratch I 2025](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) |
 | CS 521 | Seminar on AI Safety<br>人工智能安全研讨课 | n.d. | [Stanford CS521 - AI Safety Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rNtnS3JSRRZzLWQo2dd6XNs) |
+| CS 545 |  | n.d. | [CS545 - Information and Data Analytics Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rO6w46MvMAiPAh7lfOhEIV7) |
 | CS 547 | Human-Computer Interaction Seminar<br>人机交互研讨课 | n.d. | [Stanford CS547 - Human-Computer Interaction Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD) |
 | ECON 295 | The AI Awakening: Implications for the Economy and Society<br>人工智能觉醒：对经济与社会的影响 | 2024 | [Stanford ECON295/CS323 I The AI Awakening: Implications for the Economy and Society I 2024](https://www.youtube.com/playlist?list=PLoROMvodv4rN1Xruk6giv3dapv0WIdz68) |
 | EE 104 | Introduction to Machine Learning<br>机器学习入门 | n.d. | [Stanford EE104: Introduction to Machine Learning Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK) |
+| EE 203 |  | n.d. | [Stanford EE203-The Entrepreneurial Engineer - Stanford Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rOqM6Xn8Q8uUjycZA3KtoxI) |
 | EE 259 | Principles of Sensing for Autonomy<br>自主性感知原理 | Spring 2023 | [Stanford EE259: Principles of Sensing for Autonomy I Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOhE007XQu707Dy52qXiZGV) |
 | EE 274 | Data Compression: Theory and Applications<br>数据压缩：理论与应用 | 2023 | [Stanford EE274 I Data Compression: Theory and Applications I 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) |
+| EE 292H |  | n.d. | [Stanford EE292H - Engineering and Climate Change Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rO-zslv4ot3OvZsL2E9_hRh) |
 | EE 292R | AI and Data for Science<br>面向科学的AI与数据 | n.d. | [Stanford EE292R AI and Data for Science](https://www.youtube.com/playlist?list=PLYiycvG2rxJ0) |
 | EE 364A | Convex Optimization I<br>凸优化 I | 2023 | [Stanford EE364A Convex Optimization I Stephen Boyd I 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h) |
 | EE 380 | Colloquium on Computer Systems<br>计算机系统研讨会 | n.d. | [Stanford EE380-Colloquium on Computer Systems - Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu) |
 | EE 402A | Topics in International Technology Management<br>国际技术管理专题 | n.d. | [EE402A - Topics in International Technology Management Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rOY_McwVddhHBnO2ey7F7oJ) |
 | EE 402T | Entrepreneurship in Asian High Tech Industries<br>亚洲高科技产业的创业 | n.d. | [Stanford EE402T - Entrepreneurship in Asian High-Tech Industries](https://www.youtube.com/playlist?list=PLoROMvodv4rMa0VlyvCv0h9dOyQcYxFZ0) |
 | ENGR 108 | Introduction to Matrix Methods<br>矩阵方法入门 | n.d. | [Stanford ENGR108: Introduction to Applied Linear Algebra —Vectors](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9) |
+| ENGR 319 |  | n.d. | [Stanford AA289/ENGR319 - Robotics and Autonomous Systems Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD) |
 | MS&E 435 | Economics of the AI Supercycle<br>人工智能超级周期经济学 | Spring 2026 | [MS&E435 \| Spring 2026](https://www.youtube.com/playlist?list=PLoROMvodv4rOAe_DtQYOCKy6_x3irEYV1) |
 | MS&E 472 | Entrepreneurial Thought Leaders' Seminar<br>创业思想领袖研讨课 | n.d. | [MS&E472 - Entrepreneurial Thought Leaders - Stanford Seminars](https://www.youtube.com/playlist?list=PLoROMvodv4rPE-kcGtKBgYtSMqEJKbESC) |
 
@@ -82,13 +90,6 @@ ms.date: 2026-11-20
 | Playlist |
 |---|
 | [Stanford XCS224U: Natural Language Understanding I Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp) |
-| [Stanford CEE246A - Web3 Entrepreneurship: Future Models of Value Creation Connecting the Real and Digital Economy Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rOUC9tTF3wKaif0oFx13EJJ) |
-| [Stanford CS25 - Transformers United](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
-| [Stanford AA289/ENGR319 - Robotics and Autonomous Systems Seminar](https://www.youtube.com/playlist?list=PLoROMvodv4rMeercb-kvGLUrOq4HR6BZD) |
-| [Startup School: The First 100 Days - Stanford CS183F - Spring 2017](https://www.youtube.com/playlist?list=PLoROMvodv4rNpMrTeeh-627Lajh6uSUgY) |
-| [Stanford EE203-The Entrepreneurial Engineer - Stanford Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rOqM6Xn8Q8uUjycZA3KtoxI) |
-| [CS545 - Information and Data Analytics Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rO6w46MvMAiPAh7lfOhEIV7) |
-| [Stanford EE292H - Engineering and Climate Change Seminar Series](https://www.youtube.com/playlist?list=PLoROMvodv4rO-zslv4ot3OvZsL2E9_hRh) |
 | [Engineering Leadership Webinars](https://www.youtube.com/playlist?list=PLRKgwg7cWnPk) |
 | [Product Management Q&A with Stanford](https://www.youtube.com/playlist?list=PLMa8O03c-H44) |
 | [Stanford Online AI Programs Top Questions](https://www.youtube.com/playlist?list=PLoROMvodv4rP_-KE8fzo9ss9CI7TzwEkd) |

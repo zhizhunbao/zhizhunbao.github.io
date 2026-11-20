@@ -73,78 +73,80 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  |  |  | Core Subjects | 36 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Core Subjects |  | Select three of the following subjects: |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Core Subjects > Select three of the following subjects: | 6.7300[J] | Introduction to Modeling and Simulation |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Core Subjects > Select three of the following subjects: | 15.C57[J] | Optimization Methods |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Core Subjects > Select three of the following subjects: | 16.920[J] | Numerical Methods for Partial Differential Equations |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Core Subjects > Select three of the following subjects: | 18.335[J] | Introduction to Numerical Methods |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  |  |  | Restricted Electives | 24 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives |  | Choose 24 units of coursework from the list below. |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  |  |  | Unrestricted Elective | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Unrestricted Elective |  | Choose any graduate-level subject. |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Thesis | CSE.THG | Graduate Thesis | 36 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 1.125 | Architecting and Engineering Software Systems | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 1.545[J] | Atomistic Modeling and Simulation of Materials and Structures | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 1.583[J] | Topology Optimization of Structures | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 1.723 | Computational Methods for Flow in Porous Media | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 2.098 | Introduction to Finite Element Methods | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 2.156 | Artificial Intelligence and Machine Learning for Engineering Design | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 2.168 | Learning Machines | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 2.29 | Numerical Fluid Mechanics | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 3.320 | Atomistic Computer Modeling of Materials | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 4.450[J] | Computational Structural Design and Optimization |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 4.453 | Creative Machine Learning for Design | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.7210[J] | Introduction to Mathematical Programming | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.7220[J] | Nonlinear Optimization | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.7230[J] | Algebraic Techniques and Semidefinite Optimization | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.7300[J] | Introduction to Modeling and Simulation | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.7810 | Algorithms for Inference | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.7830 | Bayesian Modeling and Inference | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.7900 | Machine Learning | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.7940 | Dynamic Programming and Reinforcement Learning | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.8300 | Advances in Computer Vision | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.8410 | Shape Analysis | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 6.C51 | Modeling with Machine Learning: from Algorithms to Applications | 6 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 9.520[J] | Statistical Learning Theory and Applications | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 9.660 | Computational Cognitive Science | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 10.551 | Systems Engineering | 9 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 10.552 | Modern Control Design | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 10.554[J] | Process Data Analytics | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 10.557 | Mixed-integer and Nonconvex Optimization | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 10.637[J] | Computational Chemistry | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 12.515 | Data and Models | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 12.521 | Computational Geophysical Modeling | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 12.714 | Computational Data Analysis | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 12.805 | Data Analysis in Physical Oceanography | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 12.850 | Computational Ocean Modeling | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 15.070[J] | Discrete Probability and Stochastic Processes | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 15.077[J] | Statistical Machine Learning and Data Science | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 15.083 | Integer Optimization | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 15.764[J] | The Theory of Operations Management | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 15.C57[J] | Optimization Methods | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 16.110 | Flight Vehicle Aerodynamics | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 16.225[J] | Computational Mechanics of Materials | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 16.413[J] | Principles of Autonomy and Decision Making | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 16.888[J] | Multidisciplinary Design Optimization | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 16.920[J] | Numerical Methods for Partial Differential Equations | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 16.930 | Advanced Topics in Numerical Methods for Partial Differential Equations | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 16.940 | Numerical Methods for Stochastic Modeling and Inference | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 18.335[J] | Introduction to Numerical Methods | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 18.336[J] | Fast Methods for Partial Differential and Integral Equations | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 18.337[J] | Parallel Computing and Scientific Machine Learning | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 18.338 | Eigenvalues of Random Matrices | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 18.369[J] | Mathematical Methods in Nanophotonics | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 18.435[J] | Quantum Computation | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 22.15 | Essential Numerical Methods | 6 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 22.212 | Nuclear Reactor Analysis II | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 22.213 | Nuclear Reactor Physics III | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | 22.315 | Applied Computational Fluid Dynamics and Heat Transfer | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | CSE.999 | Experiential Learning in Computational Science and Engineering |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
-|  | Restricted Electives | IDS.131[J] | Statistics, Computation and Applications | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  |  |  | Core Subjects | 36 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Core Subjects |  | Select three of the following subjects: |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Core Subjects > Select three of the following subjects: | 6.7300[J] | Introduction to Modeling and Simulation |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Core Subjects > Select three of the following subjects: | 15.C57[J] | Optimization Methods |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Core Subjects > Select three of the following subjects: | 16.920[J] | Numerical Methods for Partial Differential Equations |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Core Subjects > Select three of the following subjects: | 18.335[J] | Introduction to Numerical Methods |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  |  |  | Restricted Electives | 24 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives |  | Choose 24 units of coursework from the list below. |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  |  |  | Unrestricted Elective | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Unrestricted Elective |  | Choose any graduate-level subject. |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Thesis | CSE.THG | Graduate Thesis | 36 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 1.125 | Architecting and Engineering Software Systems | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 1.545[J] | Atomistic Modeling and Simulation of Materials and Structures | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 1.583[J] | Topology Optimization of Structures | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 1.723 | Computational Methods for Flow in Porous Media | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 2.098 | Introduction to Finite Element Methods | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 2.156 | Artificial Intelligence and Machine Learning for Engineering Design | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 2.168 | Learning Machines | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 2.29 | Numerical Fluid Mechanics | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 3.320 | Atomistic Computer Modeling of Materials | 12 | [n.d.](https://www.youtube.com/playlist?list=PL13CB8C2EDA4453ED) | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 4.450[J] | Computational Structural Design and Optimization |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 4.453 | Creative Machine Learning for Design | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.7210[J] | Introduction to Mathematical Programming | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.7220[J] | Nonlinear Optimization | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.7230[J] | Algebraic Techniques and Semidefinite Optimization | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.7300[J] | Introduction to Modeling and Simulation | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.7810 | Algorithms for Inference | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.7830 | Bayesian Modeling and Inference | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.7900 | Machine Learning | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.7940 | Dynamic Programming and Reinforcement Learning | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.8300 | Advances in Computer Vision | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.8410 | Shape Analysis | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 6.C51 | Modeling with Machine Learning: from Algorithms to Applications | 6 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 9.520[J] | Statistical Learning Theory and Applications | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 9.660 | Computational Cognitive Science | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 10.551 | Systems Engineering | 9 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 10.552 | Modern Control Design | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 10.554[J] | Process Data Analytics | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 10.557 | Mixed-integer and Nonconvex Optimization | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 10.637[J] | Computational Chemistry | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 12.515 | Data and Models | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 12.521 | Computational Geophysical Modeling | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 12.714 | Computational Data Analysis | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 12.805 | Data Analysis in Physical Oceanography | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 12.850 | Computational Ocean Modeling | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 15.070[J] | Discrete Probability and Stochastic Processes | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 15.077[J] | Statistical Machine Learning and Data Science | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 15.083 | Integer Optimization | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 15.764[J] | The Theory of Operations Management | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 15.C57[J] | Optimization Methods | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 16.110 | Flight Vehicle Aerodynamics | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 16.225[J] | Computational Mechanics of Materials | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 16.413[J] | Principles of Autonomy and Decision Making | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 16.888[J] | Multidisciplinary Design Optimization | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 16.920[J] | Numerical Methods for Partial Differential Equations | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 16.930 | Advanced Topics in Numerical Methods for Partial Differential Equations | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 16.940 | Numerical Methods for Stochastic Modeling and Inference | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 18.335[J] | Introduction to Numerical Methods | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 18.336[J] | Fast Methods for Partial Differential and Integral Equations | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 18.337[J] | Parallel Computing and Scientific Machine Learning | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 18.338 | Eigenvalues of Random Matrices | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 18.369[J] | Mathematical Methods in Nanophotonics | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 18.435[J] | Quantum Computation | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 22.15 | Essential Numerical Methods | 6 | [Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63_OOz8w5qDEoqErZ8Hj-fc) | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 22.212 | Nuclear Reactor Analysis II | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 22.213 | Nuclear Reactor Physics III | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | 22.315 | Applied Computational Fluid Dynamics and Heat Transfer | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | CSE.999 | Experiential Learning in Computational Science and Engineering |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
+|  | Restricted Electives | IDS.131[J] | Statistics, Computation and Applications | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-computational-science-engineering/) |
 
 ## References
 
 Massachusetts Institute of Technology. (n.d.). *Master of Science in Computational Science and Engineering*. Retrieved November 18, 2026, from <https://catalog.mit.edu/degree-charts/master-computational-science-engineering/>
+
+MIT OpenCourseWare. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@mitocw/playlists>

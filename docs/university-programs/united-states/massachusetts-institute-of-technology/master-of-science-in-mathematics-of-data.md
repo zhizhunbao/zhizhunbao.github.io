@@ -22,18 +22,20 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  | Program Requirements > Coursework |  | Select six subjects from the following list: | 72 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
-|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.226 | Probabilistic Methods in Combinatorics |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
-|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.338 | Eigenvalues of Random Matrices |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
-|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.408 | Topics in Theoretical Computer Science |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
-|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.655 | Mathematical Statistics |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
-|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.656[J] | Mathematical Statistics: a Non-Asymptotic Approach |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
-|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.657 | Topics in Statistics |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
-|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.675 | Theory of Probability |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
-|  | Program Requirements > Thesis | 18.THG | Graduate Thesis | 24 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  | Program Requirements > Coursework |  | Select six subjects from the following list: | 72 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.226 | Probabilistic Methods in Combinatorics |  | [Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP61cYB5ymvFiEbIb-wWHfaqO) | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.338 | Eigenvalues of Random Matrices |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.408 | Topics in Theoretical Computer Science |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.655 | Mathematical Statistics |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.656[J] | Mathematical Statistics: a Non-Asymptotic Approach |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.657 | Topics in Statistics |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+|  | Program Requirements > Coursework > Select six subjects from the following list: | 18.675 | Theory of Probability |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
+|  | Program Requirements > Thesis | 18.THG | Graduate Thesis | 24 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/sm-mathematics-data/) |
 
 ## References
 
 Massachusetts Institute of Technology. (n.d.). *Master of Science in Mathematics of Data*. Retrieved November 18, 2026, from <https://catalog.mit.edu/degree-charts/sm-mathematics-data/>
+
+MIT OpenCourseWare. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@mitocw/playlists>

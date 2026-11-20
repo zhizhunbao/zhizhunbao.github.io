@@ -58,58 +58,60 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  | Core Subjects | 1.200[J] | Transportation: Foundations and Methods | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Core Subjects | 11.251 | Frontier of Transportation Research | 3 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Core Subjects |  | Select one of the following: | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Core Subjects > Select one of the following: | 1.144[J] | Applied Category Theory for Engineering Design |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Core Subjects > Select one of the following: | 1.202 | Demand Modeling |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Core Subjects > Select one of the following: | 1.208 | Resilient Networks |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Core Subjects > Select one of the following: | 1.260[J] | Logistics Systems |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Core Subjects > Select one of the following: | 11.478 | Behavioral Science, AI, and Urban Mobility |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Computation/Analytics |  | Select one of the following: | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Computation/Analytics > Select one of the following: | 1.C51 | Machine Learning for Sustainable Systems |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Computation/Analytics > Select one of the following: (and) | 6.C51 | Modeling with Machine Learning: from Algorithms to Applications |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Computation/Analytics > Select one of the following: | 6.3732[J] | Statistics, Computation and Applications |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Computation/Analytics > Select one of the following: | 6.7900 | Machine Learning |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Computation/Analytics > Select one of the following: | 6.7910[J] | Statistical Learning Theory and Applications |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Computation/Analytics > Select one of the following: | 15.071 | The AI Edge |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Computation/Analytics > Select one of the following: | 15.072 | Advanced Analytics Edge |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society |  | Select one subject from the list below. | 6-12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Restricted Electives |  | Select a minimum of 24 units of transportation-related electives in consultation with advisor. | 24 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Thesis | 1.THG | Graduate Thesis | 24 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 2.65[J] | Sustainable Energy | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 2.810 | Manufacturing Processes and Systems | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 6.7260 | Network Science and Models | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 10.805[J] | Technology, Law, and the Working Environment | 9 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 11.255 | Negotiation and Dispute Resolution in the Public Sector | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 11.478 | Behavioral Science, AI, and Urban Mobility | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 11.526[J] | Comparative Land Use and Transportation Planning | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 11.540 | Urban Transportation Planning and Policy | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 15.020 | Economics of Energy, Innovation, and Sustainability | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 15.038[J] | Energy Economics and Policy | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 15.230 | Public Policy and the Private Sector | 9 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 15.655[J] | Law, Technology, and Public Policy | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 16.422 | Human Supervisory Control of Automated Systems | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 16.453[J] | Human Systems Engineering | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 16.71[J] | The Airline Industry | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 16.72 | Air Traffic Control | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | 16.89[J] | Space Systems Engineering | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | MAS.552[J] | City Science | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | MAS.750 | Human-Robot Interaction | 9 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | MAS.836 | Sensor Technologies for Interactive Environments | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | MAS.859[J] | Space Technology for the Development Leader | 6 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | IDS.333[J] | System Design and Management for a Changing World: Tools | 6 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | IDS.410 | Modeling and Assessment for Policy | 9 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | IDS.411 | Concepts and Research in Technology and Policy | 9 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | IDS.412[J] | Science, Technology, and Public Policy | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | IDS.521[J] | Energy Systems for Climate Change Mitigation | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | IDS.522 | Mapping and Evaluating New Energy Technologies | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | IDS.526[J] | Sustainability Science and Engineering | 9 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | STS.477[J] | Writing: Science, Technology, and Society | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
-|  | Policy, Technology, and Society Subjects | STS.487 | Foundations of Information Policy | 12 | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  | Core Subjects | 1.200[J] | Transportation: Foundations and Methods | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Core Subjects | 11.251 | Frontier of Transportation Research | 3 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Core Subjects |  | Select one of the following: | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Core Subjects > Select one of the following: | 1.144[J] | Applied Category Theory for Engineering Design |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Core Subjects > Select one of the following: | 1.202 | Demand Modeling |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Core Subjects > Select one of the following: | 1.208 | Resilient Networks |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Core Subjects > Select one of the following: | 1.260[J] | Logistics Systems |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Core Subjects > Select one of the following: | 11.478 | Behavioral Science, AI, and Urban Mobility |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Computation/Analytics |  | Select one of the following: | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Computation/Analytics > Select one of the following: | 1.C51 | Machine Learning for Sustainable Systems |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Computation/Analytics > Select one of the following: (and) | 6.C51 | Modeling with Machine Learning: from Algorithms to Applications |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Computation/Analytics > Select one of the following: | 6.3732[J] | Statistics, Computation and Applications |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Computation/Analytics > Select one of the following: | 6.7900 | Machine Learning |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Computation/Analytics > Select one of the following: | 6.7910[J] | Statistical Learning Theory and Applications |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Computation/Analytics > Select one of the following: | 15.071 | The AI Edge |  | [Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq) | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Computation/Analytics > Select one of the following: | 15.072 | Advanced Analytics Edge |  |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society |  | Select one subject from the list below. | 6-12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Restricted Electives |  | Select a minimum of 24 units of transportation-related electives in consultation with advisor. | 24 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Thesis | 1.THG | Graduate Thesis | 24 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 2.65[J] | Sustainable Energy | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 2.810 | Manufacturing Processes and Systems | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 6.7260 | Network Science and Models | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 10.805[J] | Technology, Law, and the Working Environment | 9 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 11.255 | Negotiation and Dispute Resolution in the Public Sector | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 11.478 | Behavioral Science, AI, and Urban Mobility | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 11.526[J] | Comparative Land Use and Transportation Planning | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 11.540 | Urban Transportation Planning and Policy | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 15.020 | Economics of Energy, Innovation, and Sustainability | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 15.038[J] | Energy Economics and Policy | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 15.230 | Public Policy and the Private Sector | 9 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 15.655[J] | Law, Technology, and Public Policy | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 16.422 | Human Supervisory Control of Automated Systems | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 16.453[J] | Human Systems Engineering | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 16.71[J] | The Airline Industry | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 16.72 | Air Traffic Control | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | 16.89[J] | Space Systems Engineering | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | MAS.552[J] | City Science | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | MAS.750 | Human-Robot Interaction | 9 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | MAS.836 | Sensor Technologies for Interactive Environments | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | MAS.859[J] | Space Technology for the Development Leader | 6 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | IDS.333[J] | System Design and Management for a Changing World: Tools | 6 | [Fall 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC) | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | IDS.410 | Modeling and Assessment for Policy | 9 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | IDS.411 | Concepts and Research in Technology and Policy | 9 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | IDS.412[J] | Science, Technology, and Public Policy | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | IDS.521[J] | Energy Systems for Climate Change Mitigation | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | IDS.522 | Mapping and Evaluating New Energy Technologies | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | IDS.526[J] | Sustainability Science and Engineering | 9 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | STS.477[J] | Writing: Science, Technology, and Society | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
+|  | Policy, Technology, and Society Subjects | STS.487 | Foundations of Information Policy | 12 |  | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/degree-charts/master-transportation/) |
 
 ## References
 
 Massachusetts Institute of Technology. (n.d.). *Master of Science in Transportation*. Retrieved November 18, 2026, from <https://catalog.mit.edu/degree-charts/master-transportation/>
+
+MIT OpenCourseWare. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@mitocw/playlists>

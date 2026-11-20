@@ -3,3 +3,5 @@ items:
   href: index.md
 - name: "1. Stanford Online"
   href: stanford-online/index.md
+- name: "2. MIT OpenCourseWare"
+  href: mit-opencourseware/index.md
