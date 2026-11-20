@@ -18,15 +18,48 @@
   <div class="row" style="gap:70px;align-items:flex-start;">
     <div class="col">
       <div class="group" style="border:none;padding:0 12px 0 12px;">
+        <div class="item">Platform landing zone</div>
+        <div class="item">Workload landing zones</div>
+        <div class="item">Accelerators</div>
+        <div class="item">Custom build</div>
         <div class="item">Design principles</div>
         <div class="item">Journey to the target architecture</div>
-        <div class="item">Design areas</div>
-        <div class="item">Implementation options</div>
+        <div class="item" id="f1">Design areas</div>
+        <div class="item" id="f2">Implementation options</div>
         <div class="item">Align</div>
         <div class="item">Enhance</div>
         <div class="item">Prepare your landing zone for migration</div>
       </div>
     </div>
+    <div class="col">
+      <div class="group">
+        <div class="title" id="t1">Design areas</div>
+        <div class="item">Azure billing and Active Directory tenant</div>
+        <div class="item">Identity and access management</div>
+        <div class="item">Resource organization</div>
+        <div class="item">Network topology and connectivity</div>
+        <div class="item">Security</div>
+        <div class="item">Management</div>
+        <div class="item">Governance</div>
+        <div class="item">Platform automation and DevOps</div>
+      </div>
+      <div class="group">
+        <div class="title" id="t2">Implementation options</div>
+        <div class="item">Azure Landing Zones IaC Accelerator</div>
+        <div class="item">Azure platform landing zone portal accelerator</div>
+      </div>
+    </div>
   </div>
+  <svg id="link" style="position:absolute;left:0;top:0;overflow:visible;pointer-events:none;"></svg>
 </div>
+<script>
+  const fig = document.getElementById('fig').getBoundingClientRect();
+  let p = '';
+  for (const [f, t] of [['f1','t1'], ['f2','t2']]) {
+    const a = document.getElementById(f).getBoundingClientRect(), b = document.getElementById(t).getBoundingClientRect();
+    const x1 = a.right - fig.left, y1 = a.top + a.height / 2 - fig.top, x2 = b.left - fig.left, y2 = b.top + b.height / 2 - fig.top, mx = (x1 + x2) / 2;
+    p += `<path d="M${x1},${y1} C${mx},${y1} ${mx},${y2} ${x2},${y2}" fill="none" stroke="#0f6cbd" stroke-width="1.5" stroke-dasharray="5 4"/>`;
+  }
+  document.getElementById('link').innerHTML = p;
+</script>
 </body></html>

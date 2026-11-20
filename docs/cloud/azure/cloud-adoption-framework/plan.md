@@ -1,14 +1,14 @@
 ---
 title: "26.2 Plan"
-description: "Microsoft Azure, 26.2 Plan: Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark."
-ms.date: 2026-10-27
+description: "Microsoft Azure, 26.2 Plan: Centralized, Shared management and Decentralized cloud operating models, Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark."
+ms.date: 2026-11-19
 ---
 
 # 26.2 Plan
 
 ## Classification
 
-![Plan, in its sections: Define operating model, Gain cloud skills, Plan migration (expanded into Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark), Estimate cloud costs, Document adoption plan.](media/plan.png)
+![Plan, in its sections: Define operating model (expanded into Centralized cloud operating model, Shared management cloud operating model, Decentralized cloud operating model), Gain cloud skills, Plan migration (expanded into Migration waves, Nonproduction environment, Downtime migration, Near-zero downtime migration, Rollback plan, Performance benchmark), Estimate cloud costs, Document adoption plan.](media/plan.png)
 
 ## Glossary
 
@@ -16,6 +16,9 @@ ms.date: 2026-10-27
 |---|---|---|---|
 | **Plan**<br>规划 | "A **cloud adoption plan** converts **your cloud strategy into an actionable plan** that's specific to your goals." | **云采用计划**把**你的云战略转化为可执行的计划**，并针对你的目标。 | [Microsoft, 2025d, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/#:~:text=A%20cloud%20adoption%20plan%20converts%20your%20cloud%20strategy) |
 | **Define operating model**<br>定义运营模式 | "A **cloud operating model** defines **how your organization manages cloud resources, team responsibilities, and collaboration**." | **云运营模式**定义了**你的组织如何管理云资源、团队职责和协作**。 | [Microsoft, 2025d, "Choose a cloud operating model" section, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/#:~:text=A%20cloud%20operating%20model%20defines%20how%20your%20organization) |
+| **Centralized cloud operating model**<br>集中式云运营模式 | "In a centralized model, **a single team is responsible** for **governance, security, and operations** across the entire cloud estate and all workloads." | 在集中式模式中，**由单个团队负责**整个云资产和所有工作负载的**治理、安全和运营**。 | [Microsoft, 2025d, "Choose a cloud operating model" section, item 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/#:~:text=In%20a%20centralized%20model%2C%20a%20single%20team) |
+| **Shared management cloud operating model**<br>共享管理云运营模式 | "In a shared management model, **cloud responsibilities are divided** between **platform teams and workload teams**." | 在共享管理模式中，**云职责被划分**给**平台团队和工作负载团队**。 | [Microsoft, 2025d, "Choose a cloud operating model" section, item 2](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/#:~:text=In%20a%20shared%20management%20model%2C%20cloud%20responsibilities) |
+| **Decentralized cloud operating model**<br>分散式云运营模式 | "In a decentralized model, **each team owns its platform landing zone** and **manages its workloads independently**, including governance and operations." | 在分散式模式中，**每个团队拥有自己的平台登陆区**，并**独立管理自己的工作负载**，包括治理和运营。 | [Microsoft, 2025d, "Choose a cloud operating model" section, item 3](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/#:~:text=In%20a%20decentralized%20model%2C%20each%20team) |
 | **Gain cloud skills**<br>获取云技能 | (context) "This article provides guidance to **equip your team with the skills necessary for successful Azure adoption**." | （语境）本文提供指导，帮助**让你的团队具备成功采用 Azure 所需的技能**。 | [Microsoft, 2025e, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/prepare-people-for-cloud#:~:text=This%20article%20provides%20guidance%20to%20equip%20your%20team) |
 | **Plan migration**<br>规划迁移 | "A **migration plan** defines **the specific order, timing, and approach for migrating workloads to Azure**." | **迁移计划**定义了**把工作负载迁移到 Azure 的具体顺序、时间和方法**。 | [Microsoft, 2025c, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:~:text=A%20migration%20plan%20defines%20the%20specific%20order%2C%20timing%2C) |
 | **Migration waves**<br>迁移波次 | (context) "Organize large portfolios into **migration waves**." | （语境）把大型项目组合组织成**迁移波次**。 | [Microsoft, 2025c, "Determine the migration sequence" section, para. 1](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration#:~:text=Organize%20large%20portfolios%20into%20migration%20waves) |
