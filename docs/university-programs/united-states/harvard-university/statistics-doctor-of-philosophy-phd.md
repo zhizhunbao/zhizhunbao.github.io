@@ -15,30 +15,32 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  | PhD Program > Courses | Statistics 210 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | PhD Program > Courses | Stat 300 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | PhD Program > Courses | Stat 398 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | PhD Program > Qualifying Examination | Stat 210 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | PhD Program > Qualifying Examination | Stat 211 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | PhD Program > Qualifying Examination | Stat 212 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | PhD Program > Qualifying Examination | Stat 213 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | PhD Program > Qualifying Examination | Stat 305 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | PhD Program > Post-Qualifying Talks (Research Presentations) | Statistics 300 | Research in Statistics |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | Statistics 109 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | Statistics 211 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | Stat 109a |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | Stat 110 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | Stat 111 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | CS 1810 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | CS 281 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | CS 1090a |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | AC 209a |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | CS 1090b |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | AC 209b |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
-|  | Master of Arts (AM) Program | Stat 109b |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  | PhD Program > Courses | Statistics 210 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | PhD Program > Courses | Stat 300 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | PhD Program > Courses | Stat 398 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | PhD Program > Qualifying Examination | Stat 210 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | PhD Program > Qualifying Examination | Stat 211 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | PhD Program > Qualifying Examination | Stat 212 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | PhD Program > Qualifying Examination | Stat 213 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | PhD Program > Qualifying Examination | Stat 305 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | PhD Program > Post-Qualifying Talks (Research Presentations) | Statistics 300 | Research in Statistics |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | Statistics 109 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | Statistics 211 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | Stat 109a |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | Stat 110 |  |  | [n.d.](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | Stat 111 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | CS 1810 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | CS 281 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | CS 1090a |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | AC 209a |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | CS 1090b |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | AC 209b |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
+|  | Master of Arts (AM) Program | Stat 109b |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/statistics) |
 
 ## References
 
 Harvard University. (n.d.). *Statistics, Doctor of Philosophy (PhD)*. Retrieved November 18, 2026, from <https://gsas.harvard.edu/policy/statistics>
+
+Harvard University. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@harvard/playlists>

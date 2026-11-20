@@ -31,7 +31,7 @@ ms.date: 2026-11-20
 | 2.907 |  | Fall 2024 | [MIT 15.371/10.807/2.907 Innovation Teams Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP63FBm4EY4n6fh8dcUAnetzi) |
 | 2.993 |  | IAP 2007 | [MIT 2.993 The Art and Science of Boat Design, IAP 2007](https://www.youtube.com/playlist?list=PL9AC9914FA0DF82DA) |
 | 2.997 |  | Fall 2009 | [MIT 2.997 Direct Solar/Thermal To Electrical Energy Conversion Technologies, Fall 2009](https://www.youtube.com/playlist?list=PLUl4u3cNGP62sv7_wYRKqvf1HsL4p54Kj) |
-| 3.020 | Thermodynamics of Materials (partial CI-M)<br>材料热力学（部分CI-M） | Spring 2021 | [MIT 3.020 Thermodynamics of Materials, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX) |
+| 3.020 | Thermodynamics of Materials<br>材料热力学 | Spring 2021 | [MIT 3.020 Thermodynamics of Materials, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX) |
 | 3.021 | Introduction to Modeling and Simulation<br>建模与仿真入门 | Spring 2012 | [MIT 3.021J Introduction to Modeling and Simulation, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP63eWjy1orBicyAXrunfs2jT) |
 | 3.054 | Cellular Solids: Structure, Properties, Applications<br>多孔固体：结构、性能与应用 | Spring 2015 | [MIT 3.054 Cellular Solids: Structure, Properties and Applications, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP611bupB7ohUYEScjWb60mWW) |
 | 3.054 | Cellular Solids: Structure, Properties, Applications<br>多孔固体：结构、性能与应用 | Spring 2014 | [Faculty Insights of MIT 3.054 Cellular Solids: Structure, Properties and Applications, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63JdHMGE-7Y5rI2s7MD60ts) |
@@ -63,7 +63,7 @@ ms.date: 2026-11-20
 | 5.111SC |  | n.d. | [How We Teach: 5.111SC Principles of Chemical Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP63vgoqGQDciPo6V5TPI0u9r) |
 | 5.112 |  | Fall 2005 | [MIT 5.112 Principles of Chemical Science, Fall 2005](https://www.youtube.com/playlist?list=PLB3953F4F875AB0B3) |
 | 5.301 |  | n.d. | [MIT 5.301 Chemistry Laboratory Techniques](https://www.youtube.com/playlist?list=PL57499F5778AAB619) |
-| 5.310 | Laboratory Chemistry (CI-M)<br>实验化学 (CI-M) | Fall 2019 | [MIT 5.310 Laboratory Chemistry, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ZhyqhOGKbSBzcOovEbb6y) |
+| 5.310 | Laboratory Chemistry<br>实验化学 | Fall 2019 | [MIT 5.310 Laboratory Chemistry, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ZhyqhOGKbSBzcOovEbb6y) |
 | 6.00 |  | Fall 2008 | [MIT 6.00 Intro to Computer Science & Programming, Fall 2008](https://www.youtube.com/playlist?list=PL4C4720A6F225E074) |
 | 6.00SC |  | n.d. | [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) |
 | 6.0001 |  | Fall 2016 | [6.0001 Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) |
@@ -287,7 +287,7 @@ ms.date: 2026-11-20
 | CMS.608 |  | Spring 2014 | [MIT CMS.608 Game Design, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63YWzCDORR965yCmHiCKF9Z) |
 | CMS.608 |  | Fall 2010 | [MIT CMS.608 / CMS.864 Game Design, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP61_JVg12Ukxft03EJ7xxdbR) |
 | CMS.611J |  | Fall 2014 | [MIT CMS.611J Creating Video Games, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP61V4W6yRm1Am5zI94m33dXk) |
-| CMS.701 | Current Debates in Media (CI-M)<br>媒体当前争论（CI-M） | Spring 2015 | [MIT CMS.701, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP63xToz7GWDscvz1snleEGy-) |
+| CMS.701 | Current Debates in Media<br>媒体当前争论 | Spring 2015 | [MIT CMS.701, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP63xToz7GWDscvz1snleEGy-) |
 | CMS.864 |  | Fall 2010 | [MIT CMS.608 / CMS.864 Game Design, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP61_JVg12Ukxft03EJ7xxdbR) |
 | CMS.930 |  | n.d. | [MIT CMS.930 Media, Education, and the Marketplace](https://www.youtube.com/playlist?list=PLBE602A6B51B18AC2) |
 | CMS.S63 |  | Fall 2019 | [MIT CMS.S63 Playful Augmented Reality Audio Design Exploration, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62P75vRBMeDw2yRicNbwRyR) |

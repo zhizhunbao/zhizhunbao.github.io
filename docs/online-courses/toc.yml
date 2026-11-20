@@ -5,3 +5,7 @@ items:
   href: stanford-online/index.md
 - name: "2. MIT OpenCourseWare"
   href: mit-opencourseware/index.md
+- name: "3. Harvard University"
+  href: harvard-university/index.md
+- name: "4. CS50"
+  href: cs50/index.md

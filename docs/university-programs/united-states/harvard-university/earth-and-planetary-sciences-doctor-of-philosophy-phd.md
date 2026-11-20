@@ -14,15 +14,17 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  | Plan of Study and Course Requirements | Applied Math 201 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
-|  | Plan of Study and Course Requirements | Statistics 230 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
-|  | Plan of Study and Course Requirements | Applied Math 104 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
-|  | Plan of Study and Course Requirements | Statistics 110 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
-|  | Plan of Study and Course Requirements | EPS 102 |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
-|  | Plan of Study and Course Requirements | Math 21a |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  | Plan of Study and Course Requirements | Applied Math 201 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
+|  | Plan of Study and Course Requirements | Statistics 230 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
+|  | Plan of Study and Course Requirements | Applied Math 104 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
+|  | Plan of Study and Course Requirements | Statistics 110 |  |  | [n.d.](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
+|  | Plan of Study and Course Requirements | EPS 102 |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
+|  | Plan of Study and Course Requirements | Math 21a |  |  |  | [Harvard University, n.d.](https://gsas.harvard.edu/policy/earth-and-planetary-sciences) |
 
 ## References
 
 Harvard University. (n.d.). *Earth and Planetary Sciences, Doctor of Philosophy (PhD)*. Retrieved November 18, 2026, from <https://gsas.harvard.edu/policy/earth-and-planetary-sciences>
+
+Harvard University. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@harvard/playlists>

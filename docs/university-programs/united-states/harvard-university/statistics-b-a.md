@@ -20,15 +20,17 @@ ms.date: 2026-11-18
 
 ## Courses
 
-| Level | Type | Course Code | Course Name | Credits | Source |
-|---|---|---|---|---|---|
-|  | Gateway Courses | Statistics 100 | Introduction to Statistics and Data Science (fall and spring) |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-|  | Gateway Courses | Statistics 102 | Introduction to Statistics for Life Sciences (spring) |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-|  | Gateway Courses | Statistics 104 | Introduction to Quantitative Methods for Economics (fall and spring) |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-|  | Gateway Courses | Statistics 110 | Introduction to Probability (fall) |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-|  | Gateway Courses | Statistics 111 | Introduction to Theoretical Statistics (spring) |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
-|  | Gateway Courses | Statistics 139 | Statistical Sleuthing Through Linear Models (fall) |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+| Level | Type | Course Code | Course Name | Credits | Recordings | Source |
+|---|---|---|---|---|---|---|
+|  | Gateway Courses | Statistics 100 | Introduction to Statistics and Data Science (fall and spring) |  |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+|  | Gateway Courses | Statistics 102 | Introduction to Statistics for Life Sciences (spring) |  |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+|  | Gateway Courses | Statistics 104 | Introduction to Quantitative Methods for Economics (fall and spring) |  |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+|  | Gateway Courses | Statistics 110 | Introduction to Probability (fall) |  | [n.d.](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+|  | Gateway Courses | Statistics 111 | Introduction to Theoretical Statistics (spring) |  |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
+|  | Gateway Courses | Statistics 139 | Statistical Sleuthing Through Linear Models (fall) |  |  | [Harvard University, n.d.](https://college.harvard.edu/academics/liberal-arts-sciences/concentrations) |
 
 ## References
 
 Harvard University. (n.d.). *Statistics (B.A.)*. Retrieved November 18, 2026, from <https://college.harvard.edu/academics/liberal-arts-sciences/concentrations>
+
+Harvard University. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@harvard/playlists>
