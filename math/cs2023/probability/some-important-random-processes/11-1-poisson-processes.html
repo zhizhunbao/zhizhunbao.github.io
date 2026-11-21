@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>11.1 Poisson Processes | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="11.1 Poisson Processes, part of 11 Some Important Random Processes: 12 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="111-poisson-processes">11.1 Poisson Processes</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/11-1-poisson-processes.png" alt="11.1 Poisson Processes: its 6 subsections, one group each listing the terms it defines (12 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>11.1 Poisson Processes</strong><br>泊松过程</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_1_counting_processes.php">Pishro-Nik, 2014, section 11.1</a></td>
+</tr>
+<tr>
+<td><strong>11.1.0 Introduction</strong><br>介绍</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_1_counting_processes.php">Pishro-Nik, 2014, section 11.1.0</a></td>
+</tr>
+<tr>
+<td><strong>11.1.1 Counting Processes</strong><br>计数过程</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_1_counting_processes.php">Pishro-Nik, 2014, section 11.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Counting Process</strong><br>计数过程</td>
+<td>&quot;A random process <span class="math">\(\{N(t), t \in [0,\infty) \}\)</span> is said to be a <strong>counting process</strong> if <span class="math">\(N(t)\)</span> is the number of events occurred from time <span class="math">\(0\)</span> up to and including time <span class="math">\(t\)</span>.&quot;</td>
+<td>若 <span class="math">\(N(t)\)</span> 表示从时刻 <span class="math">\(0\)</span> 起至（含）时刻 <span class="math">\(t\)</span> 为止发生的事件数，则称随机过程 <span class="math">\(\{N(t), t \in [0,\infty) \}\)</span> 为<strong>计数过程</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_1_counting_processes.php#:%7E:text=A%20random%20process%20is%20said%20to">Pishro-Nik, 2014, section 11.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Stationary Increments</strong><br>平稳增量</td>
+<td>&quot;A counting process has <strong>stationary increments</strong> if, for all <span class="math">\(t_2&gt;t_1\geq0\)</span>, <span class="math">\(N(t_2)-N(t_1)\)</span> has the same distribution as <span class="math">\(N(t_2-t_1)\)</span>.&quot;</td>
+<td>若对所有 <span class="math">\(t_2&gt;t_1\geq0\)</span>，<span class="math">\(N(t_2)-N(t_1)\)</span> 与 <span class="math">\(N(t_2-t_1)\)</span> 具有相同的分布，则称计数过程具有<strong>平稳增量</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_1_counting_processes.php#:%7E:text=A%20counting%20process%20has%20stationary%20increments">Pishro-Nik, 2014, section 11.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Independent Increments</strong><br>独立增量</td>
+<td>&quot;We say that <span class="math">\(X(t)\)</span> has <strong>independent increments</strong> if, for all <span class="math">\(0 \leq t_1 \lt t_2 \lt t_3 \cdots \lt t_n\)</span>, the random variables <span class="math">\(\begin{align*} X(t_2)-X(t_1), \; X(t_3)-X(t_2), \; \cdots, \; X(t_n)-X(t_{n-1}) \end{align*}\)</span> are independent.&quot;</td>
+<td>若对所有 <span class="math">\(0 \leq t_1 \lt t_2 \lt t_3 \cdots \lt t_n\)</span>，随机变量 <span class="math">\(\begin{align*} X(t_2)-X(t_1), \; X(t_3)-X(t_2), \; \cdots, \; X(t_n)-X(t_{n-1}) \end{align*}\)</span> 相互独立，则称 <span class="math">\(X(t)\)</span> 具有<strong>独立增量</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_1_counting_processes.php#:%7E:text=We%20say%20that%20has%20independent%20increments">Pishro-Nik, 2014, section 11.1.1</a></td>
+</tr>
+<tr>
+<td><strong>11.1.2 Basic Concepts of the Poisson Process</strong><br>泊松过程的基本概念</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_2_basic_concepts_of_the_poisson_process.php">Pishro-Nik, 2014, section 11.1.2</a></td>
+</tr>
+<tr>
+<td><strong>Poisson Process</strong><br>泊松过程</td>
+<td>&quot;Let <span class="math">\(\lambda&gt;0\)</span> be fixed. The counting process <span class="math">\(\{N(t), t \in [0, \infty)\}\)</span> is called a <strong>Poisson process</strong> with rate s <span class="math">\(\lambda\)</span> if all the following conditions hold: <span class="math">\(N(0)=0\)</span>; <span class="math">\(N(t)\)</span> has <strong>independent increments</strong>; the number of arrivals in any interval of length <span class="math">\(\tau&gt;0\)</span> has <span class="math">\(Poisson(\lambda \tau)\)</span> distribution.&quot;</td>
+<td>设 <span class="math">\(\lambda&gt;0\)</span> 为定值。若计数过程 <span class="math">\(\{N(t), t \in [0, \infty)\}\)</span> 满足以下全部条件，则称其为速率为 <span class="math">\(\lambda\)</span> 的<strong>泊松过程</strong>：<span class="math">\(N(0)=0\)</span>；<span class="math">\(N(t)\)</span> 具有<strong>独立增量</strong>；任意长度为 <span class="math">\(\tau&gt;0\)</span> 的区间内的到达数服从 <span class="math">\(Poisson(\lambda \tau)\)</span> 分布。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_2_basic_concepts_of_the_poisson_process.php#:%7E:text=Let%20be%20fixed.%20The%20counting%20process">Pishro-Nik, 2014, section 11.1.2</a></td>
+</tr>
+<tr>
+<td><strong>Poisson Process (Second Definition)</strong><br>泊松过程（第二定义）</td>
+<td>&quot;Let <span class="math">\(\lambda&gt;0\)</span> be fixed. The counting process <span class="math">\(\{N(t), t \in [0, \infty)\}\)</span> is called a <strong>Poisson process</strong> with rate <span class="math">\(\lambda\)</span> if all the following conditions hold: <span class="math">\(N(0)=0\)</span>; <span class="math">\(N(t)\)</span> has <strong>independent and stationary increments</strong> we have <span class="math">\(\begin{align*} &amp;P(N(\Delta)=0) =1-\lambda \Delta+ o(\Delta),\\ &amp;P(N(\Delta)=1)=\lambda \Delta+o(\Delta),\\ &amp;P(N(\Delta) \geq 2)=o(\Delta). \end{align*}\)</span>&quot;</td>
+<td>设 <span class="math">\(\lambda&gt;0\)</span> 为定值。若计数过程 <span class="math">\(\{N(t), t \in [0, \infty)\}\)</span> 满足以下全部条件，则称其为速率为 <span class="math">\(\lambda\)</span> 的<strong>泊松过程</strong>：<span class="math">\(N(0)=0\)</span>；<span class="math">\(N(t)\)</span> 具有<strong>独立且平稳的增量</strong>，我们有 <span class="math">\(\begin{align*} &amp;P(N(\Delta)=0) =1-\lambda \Delta+ o(\Delta),\\ &amp;P(N(\Delta)=1)=\lambda \Delta+o(\Delta),\\ &amp;P(N(\Delta) \geq 2)=o(\Delta). \end{align*}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_2_basic_concepts_of_the_poisson_process.php#:%7E:text=Let%20be%20fixed.%20The%20counting%20process">Pishro-Nik, 2014, section 11.1.2</a></td>
+</tr>
+<tr>
+<td><strong>Interarrival Times</strong><br>到达间隔时间</td>
+<td>&quot;If <span class="math">\(N(t)\)</span> is a Poisson process with rate <span class="math">\(\lambda\)</span>, then the <strong>interarrival times</strong> <span class="math">\(X_1\)</span>, <span class="math">\(X_2\)</span>, <span class="math">\(\cdots\)</span> are independent and <span class="math">\(\begin{align*} X_i \sim Exponential(\lambda), \; \textrm{ for }i=1,2,3, \cdots. \end{align*}\)</span>&quot;</td>
+<td>若 <span class="math">\(N(t)\)</span> 是速率为 <span class="math">\(\lambda\)</span> 的泊松过程，则<strong>到达间隔时间</strong> <span class="math">\(X_1\)</span>，<span class="math">\(X_2\)</span>，<span class="math">\(\cdots\)</span> 相互独立，且 <span class="math">\(\begin{align*} X_i \sim Exponential(\lambda), \; \textrm{ for }i=1,2,3, \cdots. \end{align*}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_2_basic_concepts_of_the_poisson_process.php#:%7E:text=If%20is%20a%20Poisson%20process%20with">Pishro-Nik, 2014, section 11.1.2</a></td>
+</tr>
+<tr>
+<td><strong>Arrival Times</strong><br>到达时间</td>
+<td>&quot;If <span class="math">\(N(t)\)</span> is a Poisson process with rate <span class="math">\(\lambda\)</span>, then the <strong>arrival times</strong> <span class="math">\(T_1\)</span>, <span class="math">\(T_2\)</span>, <span class="math">\(\cdots\)</span> have <span class="math">\(Gamma(n, \lambda)\)</span> distribution. In particular, for <span class="math">\(n=1,2,3,\cdots\)</span>, we have <span class="math">\(\begin{align*} E[T_n]=\frac{n}{\lambda}, \; \textrm{and} \; \textrm{Var}(T_n)=\frac{n}{\lambda^2}. \end{align*}\)</span>&quot;</td>
+<td>若 <span class="math">\(N(t)\)</span> 是速率为 <span class="math">\(\lambda\)</span> 的泊松过程，则<strong>到达时间</strong> <span class="math">\(T_1\)</span>，<span class="math">\(T_2\)</span>，<span class="math">\(\cdots\)</span> 服从 <span class="math">\(Gamma(n, \lambda)\)</span> 分布。特别地，对 <span class="math">\(n=1,2,3,\cdots\)</span>，有 <span class="math">\(\begin{align*} E[T_n]=\frac{n}{\lambda}, \; \textrm{and} \; \textrm{Var}(T_n)=\frac{n}{\lambda^2}. \end{align*}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_2_basic_concepts_of_the_poisson_process.php#:%7E:text=If%20is%20a%20Poisson%20process%20with">Pishro-Nik, 2014, section 11.1.2</a></td>
+</tr>
+<tr>
+<td><strong>Poisson Random Variable</strong><br>泊松随机变量</td>
+<td>&quot;Remember that a discrete random variable <span class="math">\(X\)</span> is said to be a <strong>Poisson random variable</strong> with parameter <span class="math">\(\mu\)</span>, shown as <span class="math">\(X \sim Poisson(\mu)\)</span>, if its range is <span class="math">\(R_X=\{0,1,2,3,...\}\)</span>, and its PMF is given by <span class="math">\(\begin{equation} \nonumber P_X(k) = \left\{ \begin{array}{l l} \frac{e^{-\mu} \mu^k}{k!}&amp; \quad \text{for } k \in R_X\\ 0 &amp; \quad \text{ otherwise} \end{array} \right. \end{equation}\)</span>&quot;</td>
+<td>若离散型随机变量 <span class="math">\(X\)</span> 的取值范围为 <span class="math">\(R_X=\{0,1,2,3,...\}\)</span>，且其 PMF 为 <span class="math">\(\begin{equation} \nonumber P_X(k) = \left\{ \begin{array}{l l} \frac{e^{-\mu} \mu^k}{k!}&amp; \quad \text{for } k \in R_X\\ 0 &amp; \quad \text{ otherwise} \end{array} \right. \end{equation}\)</span>，则称 <span class="math">\(X\)</span> 为参数为 <span class="math">\(\mu\)</span> 的<strong>泊松随机变量</strong>，记作 <span class="math">\(X \sim Poisson(\mu)\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_2_basic_concepts_of_the_poisson_process.php#:%7E:text=Remember%20that%20a%20discrete%20random%20variable">Pishro-Nik, 2014, section 11.1.2</a></td>
+</tr>
+<tr>
+<td><strong>Erlang Distribution</strong><br>爱尔朗分布</td>
+<td>&quot;The <span class="math">\(Gamma(n, \lambda)\)</span> is also called <strong>Erlang distribution</strong>, i.e, we can write <span class="math">\(\begin{align*} T_n \sim Erlang(n,\lambda)=Gamma(n, \lambda), \; \textrm{ for }n=1,2,3, \cdots. \end{align*}\)</span>&quot;</td>
+<td><span class="math">\(Gamma(n, \lambda)\)</span> 也称为<strong>爱尔朗分布</strong>，即我们可以写成 <span class="math">\(\begin{align*} T_n \sim Erlang(n,\lambda)=Gamma(n, \lambda), \; \textrm{ for }n=1,2,3, \cdots. \end{align*}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_2_basic_concepts_of_the_poisson_process.php#:%7E:text=The%20is%20also%20called%20Erlang%20distribution%2C">Pishro-Nik, 2014, section 11.1.2</a></td>
+</tr>
+<tr>
+<td><strong>11.1.3 Merging and Splitting Poisson Processes</strong><br>泊松过程的合并与分解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_3_merging_and_splitting_poisson_processes.php">Pishro-Nik, 2014, section 11.1.3</a></td>
+</tr>
+<tr>
+<td><strong>Merging Independent Poisson Processes</strong><br>独立泊松过程的合并</td>
+<td>&quot;Let also <span class="math">\(\begin{align*} N(t)=N_1(t)+N_2(t)+\cdots+N_m(t), \quad \textrm{for all } t \in [0, \infty). \end{align*}\)</span> Then, <span class="math">\(N(t)\)</span> is a <strong>Poisson process</strong> with rate <span class="math">\(\lambda_1+\lambda_2+\cdots+\lambda_m\)</span>.&quot;</td>
+<td>再令 <span class="math">\(\begin{align*} N(t)=N_1(t)+N_2(t)+\cdots+N_m(t), \quad \textrm{for all } t \in [0, \infty). \end{align*}\)</span> 则 <span class="math">\(N(t)\)</span> 是速率为 <span class="math">\(\lambda_1+\lambda_2+\cdots+\lambda_m\)</span> 的<strong>泊松过程</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_3_merging_and_splitting_poisson_processes.php#:%7E:text=Let%20also%20%5Cbegin%7Balign%2A%7D%20N%28t%29%3DN_1%28t%29%2BN_2%28t%29%2B%5Ccdots%2BN_m%28t%29%2C%20%5Cquad%20%5Ctextrm%7Bfor">Pishro-Nik, 2014, section 11.1.3</a></td>
+</tr>
+<tr>
+<td><strong>Splitting a Poisson Process</strong><br>泊松过程的分流</td>
+<td>&quot;For each arrival, a <strong>coin</strong> with <span class="math">\(P(H)=p\)</span> is tossed. If the coin lands heads up, the arrival is <strong>sent to the first process</strong> (<span class="math">\(N_1(t)\)</span>), otherwise it is sent to the second process.&quot;</td>
+<td>对每一次到达，抛一枚满足 <span class="math">\(P(H)=p\)</span> 的<strong>硬币</strong>。若硬币正面朝上，则该到达<strong>被送入第一个过程</strong>（<span class="math">\(N_1(t)\)</span>），否则被送入第二个过程。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_3_merging_and_splitting_poisson_processes.php#:%7E:text=For%20each%20arrival%2C%20a%20coin%20with">Pishro-Nik, 2014, section 11.1.3</a></td>
+</tr>
+<tr>
+<td><strong>11.1.4 Nonhomogeneous Poisson Processes</strong><br>非齐次泊松过程</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_4_nonhomogeneous_poisson_processes.php">Pishro-Nik, 2014, section 11.1.4</a></td>
+</tr>
+<tr>
+<td><strong>Nonhomogeneous Poisson Process</strong><br>非齐次泊松过程</td>
+<td>&quot;Let <span class="math">\(\lambda(t):[0,\infty) \mapsto [0,\infty)\)</span> be an integrable function. The counting process <span class="math">\(\{N(t), t \in [0, \infty)\}\)</span> is called a <strong>nonhomogeneous Poisson process</strong> with rate <span class="math">\(\lambda(t)\)</span> if all the following conditions hold.&quot;</td>
+<td>设 <span class="math">\(\lambda(t):[0,\infty) \mapsto [0,\infty)\)</span> 为可积函数。若计数过程 <span class="math">\(\{N(t), t \in [0, \infty)\}\)</span> 满足下列全部条件，则称其为速率为 <span class="math">\(\lambda(t)\)</span> 的<strong>非齐次泊松过程</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_4_nonhomogeneous_poisson_processes.php#:%7E:text=Let%20be%20an%20integrable%20function.%20The">Pishro-Nik, 2014, section 11.1.4</a></td>
+</tr>
+<tr>
+<td><strong>11.1.5 Solved Problems</strong><br>例题详解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter11/11_1_5_solved_probs.php">Pishro-Nik, 2014, section 11.1.5</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Pishro-Nik, H. (2014). <em>Introduction to probability, statistics, and random processes</em>. Kappa Research. Retrieved October 28, 2026, from <a href="https://www.probabilitycourse.com/">https://www.probabilitycourse.com/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28">10/28/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

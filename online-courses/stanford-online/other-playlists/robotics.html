@@ -1,0 +1,592 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.9.7 Robotics | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Other Playlists &gt; Robotics: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="197-robotics">1.9.7 Robotics</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Robotics</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=0rsms-e5_8s&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Extra Session - Particle Filter SLAM">Stanford AA274A Principles of Robotic Autonomy | Extra Session - Particle Filter SLAM</a></td>
+<td>1:04:32</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=8vLx1MFVK_4&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Decision Making Under Uncertainty">Stanford AA274A Principles of Robotic Autonomy | Decision Making Under Uncertainty</a></td>
+<td>1:11:13</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=l5kwVWOe0OM&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | State Machines">Stanford AA274A Principles of Robotic Autonomy | State Machines</a></td>
+<td>59:00</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=9kKEACFMQEM&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Modern Computer Vision">Stanford AA274A Principles of Robotic Autonomy | Modern Computer Vision</a></td>
+<td>1:14:06</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=Y3Y8pSOYOBo&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2026 | Skydio: Autonomy for a Family of Flying Robots">Stanford Robotics Seminar ENGR319 | Skydio: Autonomy for a Family of Flying Robots</a></td>
+<td>1:09:36</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=ot_whQ3xyJQ&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2026 | Bridging Rigorous Methods with Machine Learning">Stanford Robotics Seminar ENGR319 | Bridging Rigorous Methods with Machine Learning</a></td>
+<td>1:01:52</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=j0LGkdKtKaY&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Multi-Sensor Fusion">Stanford AA274A Principles of Robotic Autonomy | Multi-Sensor Fusion</a></td>
+<td>1:16:24</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=zuLrbOmj60M&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Course Overview: Validation of Safety Critical Systems (AA228V)">Stanford Course Overview: Validation of Safety Critical Systems (AA228V)</a></td>
+<td>3:04</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=fkug1jGSgzU&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | EKF SLAM">Stanford AA274A Principles of Robotic Autonomy | EKF SLAM</a></td>
+<td>1:18:58</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=vEDeUdZ-jnQ&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | The Robot Operating System (ROS)">Stanford AA274A Principles of Robotic Autonomy | The Robot Operating System (ROS)</a></td>
+<td>1:14:06</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=9y_lJdQmKcY&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | EKF Localization">Stanford AA274A Principles of Robotic Autonomy | EKF Localization</a></td>
+<td>1:18:27</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=pSBhRF6j-Zc&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Parametric Filtering">Stanford AA274A Principles of Robotic Autonomy | Parametric Filtering</a></td>
+<td>1:17:37</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=dG3-D-vDwe8&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Localization &amp; Filters">Stanford AA274A Principles of Robotic Autonomy | Localization &amp; Filters</a></td>
+<td>1:17:20</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=GsIRJJ5sYoU&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Classic Visual Recognition">Stanford AA274A Principles of Robotic Autonomy | Classic Visual Recognition</a></td>
+<td>1:19:31</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=8A3NmdQJRNc&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Image Processing">Stanford AA274A Principles of Robotic Autonomy | Image Processing</a></td>
+<td>1:11:47</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=idD08N4rgJU&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Stereo Vision">Stanford AA274A Principles of Robotic Autonomy | Stereo Vision</a></td>
+<td>49:46</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=QyG0PTgLBxQ&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Camera Models &amp; Calibration">Stanford AA274A Principles of Robotic Autonomy | Camera Models &amp; Calibration</a></td>
+<td>1:18:34</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=emb_KF3OSu0&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Sensors &amp; Intro to CV">Stanford AA274A Principles of Robotic Autonomy | Sensors &amp; Intro to CV</a></td>
+<td>1:16:14</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=AN4jXyWwV7Q&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Motion Planning Sampling-Based">Stanford AA274A Principles of Robotic Autonomy | Motion Planning Sampling-Based</a></td>
+<td>1:19:06</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=hFCIZjVkSaw&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Motion Planning Graph Search Methods">Stanford AA274A Principles of Robotic Autonomy | Motion Planning Graph Search Methods</a></td>
+<td>1:15:23</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=Izu4_AUiHyk&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Advanced Trajectory Optimization">Stanford AA274A Principles of Robotic Autonomy | Advanced Trajectory Optimization</a></td>
+<td>1:17:45</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=nluc4rMiipA&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Trajectory Tracking">Stanford AA274A Principles of Robotic Autonomy | Trajectory Tracking</a></td>
+<td>1:18:26</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=Kv5G2OlrIbU&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Trajectory Optimization">Stanford AA274A Principles of Robotic Autonomy | Trajectory Optimization</a></td>
+<td>1:14:40</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=Lgt5ONBtFI0&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA274A Principles of Robotic Autonomy | Autumn 2019 | Overview, Mobile Robot Kinematics">Stanford AA274A Principles of Robotic Autonomy | Overview, Mobile Robot Kinematics</a></td>
+<td>1:15:22</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=ZXMThMHFD_w&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 19: Model-Based RL">Stanford AA203 Optimal and Learning-Based Control | Lecture 19: Model-Based RL</a></td>
+<td>1:21:50</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=a1g9U_5zO54&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 18: RL Policy Optimization">Stanford AA203 Optimal and Learning-Based Control | Lecture 18: RL Policy Optimization</a></td>
+<td>1:20:18</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=zanXSI7zSws&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 17: RL Value-Based Methods">Stanford AA203 Optimal and Learning-Based Control | Lecture 17: RL Value-Based Methods</a></td>
+<td>1:17:40</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=cqPbt3OfRK4&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 16: Fundamentals of RL">Stanford AA203 Optimal and Learning-Based Control | Lecture 16: Fundamentals of RL</a></td>
+<td>1:13:51</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=udHX5Auj7ik&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 15: Imitation Learning">Stanford AA203 Optimal and Learning-Based Control | Lecture 15: Imitation Learning</a></td>
+<td>1:19:32</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=7YdOx-ih0II&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 14: Intro to IL and RL">Stanford AA203 Optimal and Learning-Based Control | Lecture 14: Intro to IL and RL</a></td>
+<td>1:13:42</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=RtJSHiqOdgQ&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 13: Intro to Learning">Stanford AA203 Optimal and Learning-Based Control | Lecture 13: Intro to Learning</a></td>
+<td>1:20:05</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=8Elrw30y0tg&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 12: Feasibility of MPC">Stanford AA203 Optimal and Learning-Based Control | Lecture 12: Feasibility of MPC</a></td>
+<td>1:15:26</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=3_gxaB_Pp3k&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 11: Introduction to MPC">Stanford AA203 Optimal and Learning-Based Control | Lecture 11: Introduction to MPC</a></td>
+<td>1:13:36</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=Fl5EjGhQjgs&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 10: Reachibility Analysis">Stanford AA203 Optimal and Learning-Based Control | Lecture 10: Reachibility Analysis</a></td>
+<td>1:17:06</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=C9mLpI8Td9g&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 9: Stochastic Dyn. Program">Stanford AA203 Optimal and Learning-Based Control | Lecture 9: Stochastic Dyn. Program</a></td>
+<td>1:17:01</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=1YdgSwEtf_s&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="AStanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 8: LQR-Style Algorithms">AStanford AA203 Optimal and Learning-Based Control | Lecture 8: LQR-Style Algorithms</a></td>
+<td>1:14:05</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=hy-e9g4nugE&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 7: Dynamic Programming">Stanford AA203 Optimal and Learning-Based Control | Lecture 7: Dynamic Programming</a></td>
+<td>1:15:15</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=zX8raxUa2DE&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 6: Direct Methods">Stanford AA203 Optimal and Learning-Based Control | Lecture 6: Direct Methods</a></td>
+<td>1:20:29</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=R4_fHzTo0IM&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 5: Computational Methods">Stanford AA203 Optimal and Learning-Based Control | Lecture 5: Computational Methods</a></td>
+<td>1:18:04</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=7rejaoMWviw&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 4: Indirect Methods">Stanford AA203 Optimal and Learning-Based Control | Lecture 4: Indirect Methods</a></td>
+<td>1:24:49</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=duZJ2_ajLso&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 3: Calculus of Variations">Stanford AA203 Optimal and Learning-Based Control | Lecture 3: Calculus of Variations</a></td>
+<td>1:22:57</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=FbkNYklySak&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 2: Optimization Theory">Stanford AA203 Optimal and Learning-Based Control | Lecture 2: Optimization Theory</a></td>
+<td>1:19:02</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=Au2stLALZew&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA203 Optimal and Learning-Based Control | Spring 2026 | Lecture 1: Course Overview">Stanford AA203 Optimal and Learning-Based Control | Lecture 1: Course Overview</a></td>
+<td>1:13:23</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=wfJpKjMwXpg&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Winter 2025 | Embodied Intelligence">Stanford Robotics Seminar ENGR319 | Embodied Intelligence</a></td>
+<td>1:06:32</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=NiRXiuWwrps&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Spring 2026 | Towards Trustworthy Autonomy">Stanford Robotics Seminar ENGR319 | Towards Trustworthy Autonomy</a></td>
+<td>34:35</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=8hohrUYuyx4&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Spring 2026 | Leveraging Geometry in Robot Learning">Stanford Robotics Seminar ENGR319 | Leveraging Geometry in Robot Learning</a></td>
+<td>1:03:31</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=3W36pd50Wqw&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Spring 2026 | Integrated Learning and Planning">Stanford Robotics Seminar ENGR319 | Integrated Learning and Planning</a></td>
+<td>57:53</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=dI8pLC1BLSM&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Spring 2026 | Interactive Autonomy">Stanford Robotics Seminar ENGR319 | Interactive Autonomy</a></td>
+<td>1:11:12</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=r3x_w3tEmB4&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Spring 2026 | Unlocking Autonomous Medical Robotics">Stanford Robotics Seminar ENGR319 | Unlocking Autonomous Medical Robotics</a></td>
+<td>1:02:32</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=b6uxaRL_ipw&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Spring 2026 | Mechanical Intelligence in Locomotion">Stanford Robotics Seminar ENGR319 | Mechanical Intelligence in Locomotion</a></td>
+<td>51:44</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=NUtaN10cVDc&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Spring 2026 | Robot Learning from Human Experience">Stanford Robotics Seminar ENGR319 | Robot Learning from Human Experience</a></td>
+<td>1:09:08</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=D7e7oUbtkFM&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Winter 2026 | Gen Control, Action Chunking, Moravec’s Paradox">Stanford Robotics Seminar ENGR319 | Gen Control, Action Chunking, Moravec’s Paradox</a></td>
+<td>53:50</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=_U0EUX2E3k0&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford AA228V I Validation of Safety Critical Systems I Explainability">Stanford AA228V I Validation of Safety Critical Systems I Explainability</a></td>
+<td>1:13:42</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=VHpW1a3uq_s&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Design and Control of Haptic Systems: The Challenges of Robotics">Design and Control of Haptic Systems: The Challenges of Robotics</a></td>
+<td>1:21</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=popjDuA-whA&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Winter 2026 | 𝚿0: An Open Foundation Model">Stanford Robotics Seminar ENGR319 | 𝚿0: An Open Foundation Model</a></td>
+<td>1:04:10</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=V2GTzEx_u8s&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="What Is A Haptic Device? Professor Allison Okamura Explains.">What Is A Haptic Device? Professor Allison Okamura Explains.</a></td>
+<td>0:42</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=MeGmBTfuQzU&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Sneak Peek: Design and Control of Haptic Systems">Sneak Peek: Design and Control of Haptic Systems</a></td>
+<td>1:02</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=rYPUpQj0sWs&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Course Overview: Design and Control of Haptic Systems (ME327)">Course Overview: Design and Control of Haptic Systems (ME327)</a></td>
+<td>3:39</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=NMFyMlwmwP8&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Winter 2026 | Bringing AI Up To Speed">Stanford Robotics Seminar ENGR319 | Bringing AI Up To Speed</a></td>
+<td>1:13:57</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=o5bW3C5OD6U&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Winter 2026 | Autonomous Navigation and Safe Humanoids">Stanford Robotics Seminar ENGR319 | Autonomous Navigation and Safe Humanoids</a></td>
+<td>44:16</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=PYh9k4cy25w&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Winter 2026 | Resilient Autonomy">Stanford Robotics Seminar ENGR319 | Resilient Autonomy</a></td>
+<td>59:55</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=RKFRO_G4YkA&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Winter 2026 | Robot Motion Learning w/Physics-Based PDE Priors">Stanford Robotics Seminar ENGR319 | Robot Motion Learning w/Physics-Based PDE Priors</a></td>
+<td>53:02</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=zdCJyn1OY-4&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2025 | The Dynamics of Fluid Physical Interaction">Stanford Robotics Seminar ENGR319 | The Dynamics of Fluid Physical Interaction</a></td>
+<td>1:15:11</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=v18Jo2ILXZ8&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2025 | Next Generation Dexterous Manipulation">Stanford Robotics Seminar ENGR319 | Next Generation Dexterous Manipulation</a></td>
+<td>1:09:41</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=MoI6yxW6fuE&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2025 | The Graph Physical AI Approach">Stanford Robotics Seminar ENGR319 | The Graph Physical AI Approach</a></td>
+<td>1:04:08</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=5uWtpDON7Vs&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2025 | Embodied Foundation Models">Stanford Robotics Seminar ENGR319 | Embodied Foundation Models</a></td>
+<td>29:09</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=CHD6DS6f21Y&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2025 | General Compliant Robot Interaction">Stanford Robotics Seminar ENGR319 | General Compliant Robot Interaction</a></td>
+<td>29:17</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=x0aLBWTBOuQ&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Webinar - AI Safety">Stanford Webinar - AI Safety</a></td>
+<td>51:04</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=3iIPRBi2K2w&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2025 | Adaptive Robots">Stanford Robotics Seminar ENGR319 | Adaptive Robots</a></td>
+<td>51:31</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=VRpK2YtWZ4I&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="AI-Robotics Frontier">AI-Robotics Frontier</a></td>
+<td>46:08</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=99wIpauDEmY&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2025 | Manipulation Data Pyramid">Stanford Robotics Seminar ENGR319 | Manipulation Data Pyramid</a></td>
+<td>1:03:51</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=eztufZ3xM4c&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Robotics Seminar ENGR319 | Autumn 2025 | Make Every Step an Experiment">Stanford Robotics Seminar ENGR319 | Make Every Step an Experiment</a></td>
+<td>1:03:22</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=YcTytFL1Bc0&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Webinar - From Pixels to Human Impact: Unlocking Real-World Value with Computer Vision">Stanford Webinar - From Pixels to Human Impact: Unlocking Real-World Value with Computer Vision</a></td>
+<td>1:02:06</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=Sa_lfHZ8qic&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Seminar - Robot Learning Without Action Chunking">Stanford Seminar - Robot Learning Without Action Chunking</a></td>
+<td>28:52</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=05SuBLowwKM&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Seminar - Learning to control large teams of robots">Stanford Seminar - Learning to control large teams of robots</a></td>
+<td>53:30</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=zRq_3f4qrcU&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Seminar - Towards Open World Robot Safety">Stanford Seminar - Towards Open World Robot Safety</a></td>
+<td>1:04:19</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=SqKBFo4_-0k&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Seminar - Towards Robots that Generalize and Adapt Efficiently">Stanford Seminar - Towards Robots that Generalize and Adapt Efficiently</a></td>
+<td>51:26</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=PWw7wDOsc4c&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Seminar - Where are the Field Robots?">Stanford Seminar - Where are the Field Robots?</a></td>
+<td>58:28</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=uQ-5BryUNv8&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Seminar - Modeling Humans for Humanoid Robots">Stanford Seminar - Modeling Humans for Humanoid Robots</a></td>
+<td>59:42</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=V6y3E0r4bMo&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford Seminar - Robot Skill Acquisition: Policy Representation and Data Generation">Stanford Seminar - Robot Skill Acquisition: Policy Representation and Data Generation</a></td>
+<td>55:52</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=ct4tdyyNDY4&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="Stanford CS25: V2 I Robotics and Imitation Learning">Stanford CS25: V2 I Robotics and Imitation Learning</a></td>
+<td>1:16:08</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=IT734HriiHQ&amp;list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp" title="AI and Robotics - Chelsea Finn &amp; Andrew Ng">AI and Robotics - Chelsea Finn &amp; Andrew Ng</a></td>
+<td>33:19</td>
+</tr>
+</tbody>
+</table>
+<p>(YouTube counts 83 videos; the playlist page lists 82.)</p>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Robotics</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp">https://www.youtube.com/playlist?list=PLoROMvodv4rNsMOMF1LG3ohsTqZVJVeVp</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

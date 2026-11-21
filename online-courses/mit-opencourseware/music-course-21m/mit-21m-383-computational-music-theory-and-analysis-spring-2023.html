@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.23.5 MIT 21M.383 Computational Music Theory and Analysis, Spring 2023 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Music (Course 21M) &gt; MIT 21M.383 Computational Music Theory and Analysis, Spring 2023: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2235-mit-21m383-computational-music-theory-and-analysis-spring-2023">2.23.5 MIT 21M.383 Computational Music Theory and Analysis, Spring 2023</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MIT 21M.383 Computational Music Theory and Analysis, Spring 2023</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21M.383</td>
+<td></td>
+<td>Spring 2023</td>
+<td>47</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=0lS7yWCavKw&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 0: Overview of 21M.383 Computational Music Theory for OCW Learners">Video 0: Overview of Computational Music Theory for OCW Learners</a></td>
+<td>1:28</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=e4L9pdUIDnc&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 1 Video: How Do Computers 'Hear' Music?">Class 1 Video: How Do Computers &quot;Hear&quot; Music?</a></td>
+<td>54:36</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=BZwdYmPS5f8&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 1a: music21 Coding Tutorial for OCW Learners">Video 1a: music21 Coding Tutorial for OCW Learners</a></td>
+<td>11:57</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=JneQrFoLq18&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 2 Video: Representation of Notes, Pitches, and Durations">Class 2 Video: Representation of Notes, Pitches, and Durations</a></td>
+<td>1:02:45</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=vyShGGc2X38&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 3a: Introduction to Pitch Representation">Video 3a: Introduction to Pitch Representation</a></td>
+<td>1:32</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=7jvRf3-gs5U&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 3b: Pitch Representation: Pros, Cons, and Stakeholders">Video 3b: Pitch Representation: Pros, Cons, and Stakeholders</a></td>
+<td>2:45</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=9Cxa0c8P9Qc&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 3c: How to Approach the Problem Sets">Video 3c: How to Approach the Problem Sets</a></td>
+<td>4:26</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=sBM2jr-ul6o&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 4 Video: Intro to Scores and Music Representation">Class 4 Video: Intro to Scores and Music Representation</a></td>
+<td>1:10:05</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=Xqn_u1O_q0s&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 4a: How to Read an Academic Article">Video 4a: How to Read an Academic Article</a></td>
+<td>7:05</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=f7Y0HMk86rw&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 4b: Music Representation in General">Video 4b: Music Representation in General</a></td>
+<td>8:24</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=gLWtkG2O_vs&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 5 Video: Music Representation (II)">Class 5 Video: Music Representation (II)</a></td>
+<td>51:49</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=JOZiPUdOU4M&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 6a: Music Representation (III): Unlocking Pitch in music21">Video 6a: Music Representation (III): Unlocking Pitch in music21</a></td>
+<td>18:21</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=VHjH6A9InR4&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 6b: Representations of Ontologies: Craig Sapp’s Rosetta Stone">Video 6b: Representations of Ontologies: Craig Sapp’s Rosetta Stone</a></td>
+<td>16:08</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=2UpHyGPVdgg&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 7 Video: Music Representation (IV) &amp; Hierarchies (I)">Class 7 Video: Music Representation (IV) &amp; Hierarchies (I)</a></td>
+<td>1:06:22</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=nr0RErrOPKk&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 7a: Unlocking Duration and Note Objects in music21">Video 7a: Unlocking Duration and Note Objects in music21</a></td>
+<td>14:38</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=FgCxLh3Y7pI&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 7b: Streams as Hierarchies: Types of Containers in music21">Video 7b: Streams as Hierarchies: Types of Containers in music21</a></td>
+<td>1:25</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=RQsIwQbXRsA&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 7c: music21 Streams, Corpus, and Meter Features">Video 7c: music21 Streams, Corpus, and Meter Features</a></td>
+<td>13:40</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=4XfaGkNEE9g&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 7d: Partwise vs. Timewise Polyphonic Representations">Video 7d: Partwise vs. Timewise Polyphonic Representations</a></td>
+<td>7:17</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=F-KsvLCM-Ns&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 8 Video: Hierarchies (II): Streams and Recursions">Class 8 Video: Hierarchies (II): Streams and Recursions</a></td>
+<td>44:47</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=gHT4d3Ep_M0&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 9a: Music Information Retrieval (MIR): Sound to Score and Music Theory">Video 9a: Music Information Retrieval (MIR): Sound to Score and Music Theory</a></td>
+<td>13:14</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=YiAqJs1KSCg&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 9b: Introduction to MusicXML">Video 9b: Introduction to MusicXML</a></td>
+<td>11:20</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=X84g21RcQuI&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 9c: Interview with Michael Good on MusicXML">Video 9c: Interview with Michael Good on MusicXML</a></td>
+<td>18:03</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=anyorDawmWc&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 10 Video: Equivalence and Intervals (I); Hierarchies (IV)">Class 10 Video: Equivalence and Intervals (I); Hierarchies (IV)</a></td>
+<td>1:03:52</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=VvIPQBBKyzM&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 10a: Review: Equivalence Classes and OPTIC">Video 10a: Review: Equivalence Classes and OPTIC</a></td>
+<td>15:45</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=Kfe5XlHX64E&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 11 Video: Equivalence and Intervals (II) and Filters in music21">Class 11 Video: Equivalence and Intervals (II) and Filters in music21</a></td>
+<td>54:32</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=SiKnNaJTdf0&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 12a: Painting Emotions in Music and Text">Video 12a: Painting Emotions in Music and Text</a></td>
+<td>21:30</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=9tIifUIgcXU&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 12b: Chorales as a Corpus">Video 12b: Chorales as a Corpus</a></td>
+<td>5:06</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=wbB_V78EcVA&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 12c: Graphing and Plotting in music21">Video 12c: Graphing and Plotting in music21</a></td>
+<td>9:03</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=NoIwRNQ8qLs&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 12d: How to Work with Ties in music21">Video 12d: How to Work with Ties in music21</a></td>
+<td>5:59</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=puGDVckzFK8&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 13 Video: Corpus Studies and Statistics">Class 13 Video: Corpus Studies and Statistics</a></td>
+<td>58:11</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=CSFPR1UDePI&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 14 Video: Corpus Studies and Statistics (II)">Class 14 Video: Corpus Studies and Statistics (II)</a></td>
+<td>47:37</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=0h3ShhOQ6zI&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 15 Video: Encoding Corpora and Voice Leading">Class 15 Video: Encoding Corpora and Voice Leading</a></td>
+<td>1:03:13</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=Uda1k3pnijc&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 17 Video: Introduction to Music Cognition">Class 17 Video: Introduction to Music Cognition</a></td>
+<td>15:17</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=Qs4G9ynralk&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Classes 18-21 Video: Brief Synopsis of Guest Sessions on Music Cognition">Classes 18-21 Video: Brief Synopsis of Guest Sessions on Music Cognition</a></td>
+<td>9:21</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=NnJ1vDNqlsk&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 22a: Chord Review and 13 Chords: Some Problems with Roots">Video 22a: Chord Review and 13 Chords: Some Problems with Roots</a></td>
+<td>15:09</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=UzcecPqqQPY&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 22b: Problem Sets 7-8: Working and Composing with Scales, Chords, and Roman Numerals">Video 22b: Problem Sets 7-8: Working and Composing with Scales, Chords, and Roman Numerals</a></td>
+<td>3:26</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=j4x7ceMhcr0&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 22c: Algorithmic Improvisation: Intro to George Lewis">Video 22c: Algorithmic Improvisation: Intro to George Lewis</a></td>
+<td>2:18</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=Mnz-LM2KVa4&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 23 Video: Algorithmic Composition">Class 23 Video: Algorithmic Composition</a></td>
+<td>52:29</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=yh6pjvu5tAM&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 24 Video: Algorithmic Composition (II)">Class 24 Video: Algorithmic Composition (II)</a></td>
+<td>1:11:04</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=AsRXbfCQ6hA&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 25 Video: Algorithmic Composition (III)">Class 25 Video: Algorithmic Composition (III)</a></td>
+<td>59:39</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=5aSNyl7_PNU&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 26a: Vocabulary Reduction">Video 26a: Vocabulary Reduction</a></td>
+<td>24:00</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=ivvxfWR1azI&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 27 Video: Feature Extraction and Machine Learning">Class 27 Video: Feature Extraction and Machine Learning</a></td>
+<td>1:10:15</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=SC-K2GC2LQk&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 28 Video: Feature Extraction and Machine Learning (II)">Class 28 Video: Feature Extraction and Machine Learning (II)</a></td>
+<td>51:10</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=ekgSqnLd0Ls&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 29a: Feature Extraction and Machine Learning (III): Artificial Intelligence">Video 29a: Feature Extraction and Machine Learning (III): Artificial Intelligence</a></td>
+<td>1:10:55</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=Lco0Jh892iA&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 30 Video: Mathematical and Statistical Musicology">Class 30 Video: Mathematical and Statistical Musicology</a></td>
+<td>1:02:21</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=s7TtenBwlYg&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Class 31 Video: Music Visualization and Optical Music Recognition">Class 31 Video: Music Visualization and Optical Music Recognition</a></td>
+<td>54:19</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=kEtov6pV_1Q&amp;list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R" title="Video 32a: Tipping the Iceberg">Video 32a: Tipping the Iceberg</a></td>
+<td>19:35</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>MIT 21M.383 Computational Music Theory and Analysis, Spring 2023</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R">https://www.youtube.com/playlist?list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

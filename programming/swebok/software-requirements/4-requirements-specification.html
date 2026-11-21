@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4. Requirements Specification | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="SWEBOK, Chapter 1: Software Requirements: 4. Requirements Specification: 26 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="4-requirements-specification">4. Requirements Specification</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Requirements Specification</strong><br>需求规格说明</td>
+<td>&quot;Requirements specification concerns <strong>recording the requirements</strong> so they can be both <strong>remembered and communicated</strong>.&quot;</td>
+<td>需求规格说明关注<strong>把需求记录下来</strong>，使其既能<strong>被记住，也能被传达</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4, para. 1, p. 1-10</a></td>
+</tr>
+<tr>
+<td><strong>Audience Analysis</strong><br>受众分析</td>
+<td>&quot;The most basic recommendation for requirements documentation is to <strong>base decisions</strong> on an <strong>audience analysis</strong>.&quot;</td>
+<td>对需求文档最基本的建议是：<strong>做决定</strong>要以一次<strong>受众分析</strong>为依据。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4, para. 6, p. 1-11</a></td>
+</tr>
+<tr>
+<td><strong>Natural Language Requirements Specifications</strong><br>自然语言需求规格说明</td>
+<td>&quot;<strong>Natural language requirements specifications</strong> express requirements in <strong>common, ordinary language</strong>.&quot;</td>
+<td><strong>自然语言需求规格说明</strong>用<strong>普通的日常语言</strong>表达需求。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.1, para. 1, p. 1-11</a></td>
+</tr>
+<tr>
+<td><strong>Unstructured Natural Language Requirements Specification</strong><br>非结构化自然语言需求规格说明</td>
+<td>&quot;A typical <strong>unstructured natural language requirements specification</strong> is a <strong>collection of statements in natural language</strong>, such as, “The system shall . . . .”&quot;</td>
+<td>典型的<strong>非结构化自然语言需求规格说明</strong>是<strong>一组自然语言陈述</strong>，例如「系统应……」。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.1, para. 2, p. 1-11</a></td>
+</tr>
+<tr>
+<td><strong>Business Rules</strong><br>业务规则</td>
+<td>&quot;For example, <strong>business rules</strong> are statements that <strong>define or constrain some aspect of the structure or the behavior of the business</strong> to be automated.&quot;</td>
+<td>例如，<strong>业务规则</strong>是<strong>定义或约束待自动化业务的结构或行为某一方面</strong>的陈述。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.1, para. 2, p. 1-11</a></td>
+</tr>
+<tr>
+<td><strong>Structured Natural Language Requirements Specification</strong><br>结构化自然语言需求规格说明</td>
+<td>&quot;<strong>Structured natural language requirements specifications</strong> impose <strong>constraints on how the requirements are expressed</strong>; the goal is to <strong>increase precision and conciseness</strong>.&quot;</td>
+<td><strong>结构化自然语言需求规格说明</strong>对<strong>需求的表达方式加以约束</strong>，目标是<strong>提高精确性和简洁性</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.2, para. 1, p. 1-12</a></td>
+</tr>
+<tr>
+<td><strong>Actor-Action Format</strong><br>参与者-动作格式</td>
+<td>&quot;The simplest example might be the <strong>actor-action format</strong>. The <strong>actor</strong> is the entity responsible for carrying out the action, and <strong>action</strong> is what needs to happen.&quot;</td>
+<td>最简单的例子可能是<strong>参与者-动作格式</strong>。<strong>参与者</strong>是负责执行动作的实体，<strong>动作</strong>是需要发生的事。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.2, para. 2, p. 1-12</a></td>
+</tr>
+<tr>
+<td><strong>Use Case Specification Template</strong><br>用例规格说明模板</td>
+<td>&quot;Another example is a <strong>use case specification template</strong>, as shown in <strong>Figure 1.6</strong>.&quot;</td>
+<td>另一个例子是<strong>用例规格说明模板</strong>，如<strong>图 1.6</strong> 所示。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.2, para. 3, p. 1-12</a></td>
+</tr>
+<tr>
+<td><strong>User Story Format</strong><br>用户故事格式</td>
+<td>&quot;The <strong>user story format</strong>, “<strong>As a &lt;role&gt; I want &lt;capability&gt; so that &lt;benefit&gt;</strong>” as well as decision tables are other examples.&quot;</td>
+<td><strong>用户故事格式</strong>「<strong>作为 &lt;角色&gt;，我想要 &lt;能力&gt;，以便 &lt;收益&gt;</strong>」以及决策表是另外的例子。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.2, para. 4, p. 1-12</a></td>
+</tr>
+<tr>
+<td><strong>Decision Tables</strong><br>决策表</td>
+<td>&quot;The user story format, “As a &lt;role&gt; I want &lt;capability&gt; so that &lt;benefit&gt;” as well as <strong>decision tables</strong> are <strong>other examples</strong>.&quot;</td>
+<td>用户故事格式「作为 &lt;角色&gt;，我想要 &lt;能力&gt;，以便 &lt;收益&gt;」以及<strong>决策表</strong>是<strong>另外的例子</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.2, para. 4, p. 1-12</a></td>
+</tr>
+<tr>
+<td><strong>Acceptance Criteria-Based Requirements Specification</strong><br>基于验收标准的需求规格说明</td>
+<td>&quot;In acceptance-based criteria requirements specification, the requirements are <strong>written using test case language</strong>, which is <strong>very precise</strong>.&quot;</td>
+<td>在基于验收标准的需求规格说明中，需求<strong>用测试用例语言写成</strong>，而测试用例语言<strong>非常精确</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.3, para. 9, p. 1-13</a></td>
+</tr>
+<tr>
+<td><strong>Test Driven Development (TDD)</strong><br>测试驱动开发（TDD）</td>
+<td>&quot;The main idea of <strong>TDD</strong> is that <strong>test cases precede construction</strong>.&quot;</td>
+<td><strong>TDD</strong> 的核心思想是<strong>测试用例先于构造</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.3, para. 2, p. 1-12</a></td>
+</tr>
+<tr>
+<td><strong>Acceptance Test Driven Development (ATDD)</strong><br>验收测试驱动开发（ATDD）</td>
+<td>&quot;<strong>ATDD</strong> [2*, s3.2.3, s8.2] is a part of the <strong>larger test driven development (TDD) approach</strong>.&quot;</td>
+<td><strong>ATDD</strong> [2*, s3.2.3, s8.2] 是<strong>更大的测试驱动开发（TDD）方法</strong>的一部分。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.3, para. 2, p. 1-12</a></td>
+</tr>
+<tr>
+<td><strong>Behavior Driven Development (BDD)</strong><br>行为驱动开发（BDD）</td>
+<td>&quot;In <strong>BDD</strong>, the unit of functionality is described as a <strong>user story</strong>, in a form such as this: “As a &lt;role&gt; I want &lt;capability&gt; so that &lt;benefit&gt;.”&quot;</td>
+<td>在 <strong>BDD</strong> 中，功能单元被描述为一个<strong>用户故事</strong>，形式如：「作为 &lt;角色&gt;，我想要 &lt;能力&gt;，以便 &lt;收益&gt;。」</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.3, para. 5, p. 1-13</a></td>
+</tr>
+<tr>
+<td><strong>Scenarios</strong><br>场景</td>
+<td>&quot;This leads to the identification and specification of a set of “<strong>scenarios</strong>” in this form: “<strong>Given &lt;some context&gt; [and &lt;possibly more context&gt;], when &lt;stimulus&gt; then &lt;outcome&gt;</strong> [and &lt;possibly more outcomes&gt;].”&quot;</td>
+<td>由此识别并规定一组如下形式的「<strong>场景</strong>」：「<strong>假定 &lt;某种情境&gt;［以及 &lt;可能更多的情境&gt;］，当 &lt;刺激&gt; 时，则 &lt;结果&gt;</strong>［以及 &lt;可能更多的结果&gt;］。」</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.3, para. 5, p. 1-13</a></td>
+</tr>
+<tr>
+<td><strong>Model-Based Requirements Specification</strong><br>基于模型的需求规格说明</td>
+<td>&quot;Another approach to <strong>avoiding the inherent ambiguity of natural languages</strong> is to <strong>use modeling languages</strong> such as selected elements of the unified modeling language™ (UML) or systems modeling language™ (SysML).&quot;</td>
+<td><strong>避免自然语言固有歧义</strong>的另一种方法是<strong>使用建模语言</strong>，例如统一建模语言™（UML）或系统建模语言™（SysML）中选定的元素。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.4, para. 1, p. 1-14</a></td>
+</tr>
+<tr>
+<td><strong>Structural Models</strong><br>结构模型</td>
+<td>&quot;<strong>Structural models</strong> for <strong>specifying policies to be enforced</strong>: These are logical class models as described in, for example, [9, c8].&quot;</td>
+<td><strong>结构模型</strong>用于<strong>规定要执行的规则</strong>：它们是逻辑类模型，例如 [9, c8] 所述。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.4, para. 1, item 1, p. 1-14</a></td>
+</tr>
+<tr>
+<td><strong>Behavioral Models</strong><br>行为模型</td>
+<td>&quot;<strong>Behavioral models</strong> for <strong>specifying processes to be carried out</strong>: These models include use case modeling as described in [9, c7], interaction diagrams as described in [9, c9] and state modeling as described in [9, c10].&quot;</td>
+<td><strong>行为模型</strong>用于<strong>规定要完成的流程</strong>：包括 [9, c7] 所述的用例建模、[9, c9] 所述的交互图和 [9, c10] 所述的状态建模。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.4, para. 1, item 2, p. 1-14</a></td>
+</tr>
+<tr>
+<td><strong>Agile Modeling</strong><br>敏捷建模</td>
+<td>&quot;Agile modeling (see, for example, [10]) is the <strong>least formal</strong>. Agile models can be <strong>little more than rough sketches</strong> whose goal is to communicate important information rather than demonstrate proper use of modeling notations.&quot;</td>
+<td>敏捷建模（例如见 [10]）<strong>形式化程度最低</strong>。敏捷模型可以<strong>只是粗略的草图</strong>，目的是传达重要信息，而不是展示建模符号的正确用法。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.4, para. 2, item 1, p. 1-14</a></td>
+</tr>
+<tr>
+<td><strong>Semiformal Modeling</strong><br>半形式化建模</td>
+<td>&quot;Semiformal modeling, for example [9, c6-12], provides a <strong>definition of the modeling language semantics</strong> ([9, Appendix L]), but that definition has <strong>not been formally proved to be complete and consistent</strong>.&quot;</td>
+<td>半形式化建模（例如 [9, c6-12]）提供了<strong>建模语言语义的定义</strong>（[9, Appendix L]），但该定义<strong>没有被形式化地证明是完整且一致的</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.4, para. 2, item 2, p. 1-14</a></td>
+</tr>
+<tr>
+<td><strong>Formal Modeling</strong><br>形式化建模</td>
+<td>&quot;Formal modeling, for example, Z, the Vienna development method (VDM), specification and description language (SDL) and [5, c7] have <strong>very precisely defined semantics</strong> that allow specifications to be <strong>mechanically analyzed</strong> for the presence or absence of specific properties to help avoid critical reasoning errors.&quot;</td>
+<td>形式化建模（例如 Z、维也纳开发方法（VDM）、规格与描述语言（SDL）以及 [5, c7]）具有<strong>定义非常精确的语义</strong>，使规格说明能被<strong>机械地分析</strong>是否具有特定属性，帮助避免关键的推理错误。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.4, para. 2, item 3, p. 1-14</a></td>
+</tr>
+<tr>
+<td><strong>Correctness by Construction</strong><br>构造即正确</td>
+<td>&quot;The term <strong>correctness by construction</strong> has been <strong>used for development in this context</strong>.&quot;</td>
+<td><strong>构造即正确</strong>一词<strong>被用于这种语境下的开发</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.4, para. 2, item 3, p. 1-14</a></td>
+</tr>
+<tr>
+<td><strong>Additional Attributes of Requirements</strong><br>需求的附加属性</td>
+<td>&quot;Over and above the basic requirements statements already described, <strong>documenting additional attributes</strong> for some or all requirements <strong>can be useful</strong>.&quot;</td>
+<td>在已述的基本需求陈述之外，为部分或全部需求<strong>记录附加属性</strong>，<strong>会有用</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.5, para. 1, p. 1-14</a></td>
+</tr>
+<tr>
+<td><strong>Planguage</strong><br>Planguage（规划语言）</td>
+<td>&quot;<strong>Gilb’s Planguage</strong> (short for Planning Language) [7] recommends attributes such as <strong>scale, meter, minimum, target, outstanding, past, trend and record</strong>.&quot;</td>
+<td><strong>Gilb 的 Planguage</strong>（Planning Language 的简称）[7] 推荐的属性有<strong>标度、计量方法、最低值、目标值、杰出值、过去值、趋势和纪录</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.5, para. 2, p. 1-15</a></td>
+</tr>
+<tr>
+<td><strong>Incremental Specification</strong><br>增量式规格说明</td>
+<td>&quot;In this approach, a version of the requirements specification <strong>contains only the differences</strong> — <strong>additions, modifications and deletions</strong> — from the previous version.&quot;</td>
+<td>在这种方法中，一个版本的需求规格说明<strong>只包含与上一版的差异</strong>，即<strong>新增、修改和删除</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.6, para. 1, p. 1-15</a></td>
+</tr>
+<tr>
+<td><strong>Comprehensive Specification</strong><br>全面式规格说明</td>
+<td>&quot;In this approach, each version’s requirements specification <strong>contains all requirements</strong>, <strong>not just changes</strong> from the previous version.&quot;</td>
+<td>在这种方法中，每个版本的需求规格说明<strong>包含全部需求</strong>，<strong>不只是与上一版相比的变化</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 4.6, para. 2, p. 1-15</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>IEEE Computer Society. (n.d.). <em>SWEBOK Guide V4.0 topics</em>. Retrieved November 7, 2026, from <a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics">https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics</a></p>
+<p>Washizaki, H. (Ed.). (2026). <em>Guide to the software engineering body of knowledge (SWEBOK Guide), version 4.0a</em>. IEEE Computer Society. <a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-07 20:20:09-05:00">11/07/2026 20:20:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

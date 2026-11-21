@@ -1,0 +1,960 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.2 Other Playlists | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; CS50 &gt; Other Playlists: the playlists whose title names no course number, in the channel&#39;s order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="42-other-playlists">4.2 Other Playlists</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Other Playlists</strong><br>其他播放列表</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/@cs50/playlists">CS50, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="playlists">Playlists</h2>
+<table>
+<thead>
+<tr>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3</td>
+<td><a href="50-second-lectures.html">4.2.1 50 Second Lectures</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="the-cs50-show.html">4.2.2 The CS50 Show</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="the-cs50-show-with-david-j-malan-season-1.html">4.2.3 The CS50 Show with David J. Malan | Season 1</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="cs50x-en-espanol.html">4.2.4 CS50x en Español</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="cs50x-em-portugues.html">4.2.5 CS50x em Português</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="cs50-office-hours-reels.html">4.2.6 CS50 Office Hours Reels</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="cs50-tech-talks.html">4.2.7 CS50 Tech Talks</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="teasers-cs50-s-introduction-to-2d-game-development.html">4.2.8 Teasers - CS50's Introduction to 2D Game Development</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="cs50-seminars-fall-2025.html">4.2.9 CS50 Seminars - Fall 2025</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="cs50x-2026-sections.html">4.2.10 CS50x 2026 Sections</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="cs50-s-computer-science-for-business.html">4.2.11 CS50's Computer Science for Business</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="cs50-s-introduction-to-2d-game-development.html">4.2.12 CS50's Introduction to 2D Game Development</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="cs50-fair-2024-at-yale.html">4.2.13 CS50 Fair 2024 at Yale</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="cs50-fair-2024-at-harvard.html">4.2.14 CS50 Fair 2024 at Harvard</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="cs50-s-48-hour-film-projects.html">4.2.15 CS50's 48-Hour Film Projects</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="cs50-seminars-fall-2024.html">4.2.16 CS50 Seminars - Fall 2024</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="cs50-sections-fall-2024.html">4.2.17 CS50 Sections - Fall 2024</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="cs50-s-introduction-to-programming-with-r.html">4.2.18 CS50's Introduction to Programming with R</a></td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="cs50p-shorts.html">4.2.19 CS50P Shorts</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="cs50-fair-2023-at-yale.html">4.2.20 CS50 Fair 2023 at Yale</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="cs50-fair-2023-at-harvard.html">4.2.21 CS50 Fair 2023 at Harvard</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="cs50-s-introduction-to-cybersecurity.html">4.2.22 CS50's Introduction to Cybersecurity</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="cs50-educator-workshop-2023.html">4.2.23 CS50 Educator Workshop 2023</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="cs50-s-introduction-to-artificial-intelligence-with-python.html">4.2.24 CS50's Introduction to Artificial Intelligence with Python</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="cs50-s-introduction-to-databases-with-sql.html">4.2.25 CS50's Introduction to Databases with SQL</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="visitas-thinks-big-2023-harvard-university.html">4.2.26 Visitas Thinks Big 2023 - Harvard University</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="cs50-fair-harvard-2022.html">4.2.27 CS50 Fair Harvard 2022</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="cs50-fair-yale-2022.html">4.2.28 CS50 Fair Yale 2022</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="cs50-intros.html">4.2.29 CS50 Intros</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="cs50-educator-workshop-2022.html">4.2.30 CS50 Educator Workshop 2022</a></td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="hello-cs50x.html">4.2.31 Hello, CS50x</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="cs50p-shorts-2022.html">4.2.32 CS50P Shorts 2022</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="cs50-s-introduction-to-programming-with-python-cs50p.html">4.2.33 CS50's Introduction to Programming with Python (CS50P)</a></td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="cs50-reels.html">4.2.34 CS50 Reels</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="visitas-thinks-big-2022-harvard-university.html">4.2.35 Visitas Thinks Big 2022 - Harvard University</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="about-cs50.html">4.2.36 About CS50</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="cs50-seminars-2021.html">4.2.37 CS50 Seminars 2021</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="cs50-educator-workshop-2021.html">4.2.38 CS50 Educator Workshop 2021</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="teasers-cs50-s-introduction-to-game-development.html">4.2.39 Teasers - CS50's Introduction to Game Development</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="passing-tcp-ip-packet-cs50-2020.html">4.2.40 Passing TCP/IP Packet - CS50 2020</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="walkthroughs-cs50-labs-2020.html">4.2.41 Walkthroughs - CS50 Labs 2020</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="cs50-walkthroughs-2020.html">4.2.42 CS50 Walkthroughs 2020</a></td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="cs50-office-hours-2020-clips.html">4.2.43 CS50 Office Hours 2020 Clips</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="office-hours-with-david-and-brian.html">4.2.44 Office Hours with David and Brian</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="cs50-s-web-programming-with-python-and-javascript-cs50w-2020.html">4.2.45 CS50's Web Programming with Python and JavaScript (CS50W) 2020</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="cs50-s-introduction-to-artificial-intelligence-with-python-2020.html">4.2.46 CS50's Introduction to Artificial Intelligence with Python 2020</a></td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="cs50-fair-2019.html">4.2.47 CS50 Fair 2019</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="cs50-lecture-clips-2019.html">4.2.48 CS50 Lecture Clips 2019</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="cs50-2019-walkthroughs-speller.html">4.2.49 CS50 2019 - Walkthroughs - Speller</a></td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="cs50-2019-games-track.html">4.2.50 CS50 2019 - Games Track</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="cs50-2019-android-track.html">4.2.51 CS50 2019 - Android Track</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="cs50-2019-web-track.html">4.2.52 CS50 2019 - Web Track</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="filter-more-comfortable.html">4.2.53 filter (more comfortable)</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="filter-less-comfortable.html">4.2.54 filter (less comfortable)</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="cs50-2019-ios-track.html">4.2.55 CS50 2019 - iOS Track</a></td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="cs50-walkthroughs-2019.html">4.2.56 CS50 Walkthroughs 2019</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="visitas-thinks-big-2019-harvard-university.html">4.2.57 Visitas Thinks Big 2019 - Harvard University</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="cs50-podcast.html">4.2.58 CS50 Podcast</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="cs50-for-lawyers-2019.html">4.2.59 CS50 for Lawyers 2019</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="cs50-beyond-2019.html">4.2.60 CS50 Beyond 2019</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs50-plays-twitch.html">4.2.61 CS50 Plays Twitch</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="cs50-seminars-2018.html">4.2.62 CS50 Seminars 2018</a></td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="cs50-on-twitch.html">4.2.63 CS50 on Twitch</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="cs50-lecture-clips-2018.html">4.2.64 CS50 Lecture Clips 2018</a></td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="cs50-en-espanol-2018.html">4.2.65 CS50 en Español 2018</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="visitas-thinks-big-2018-harvard-university.html">4.2.66 Visitas Thinks Big 2018 - Harvard University</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="cs50-tech-talks-2018.html">4.2.67 CS50 Tech Talks 2018</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="cs50-en-espanol-2017.html">4.2.68 CS50 en Español 2017</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="cs50-s-introduction-to-game-development-2018.html">4.2.69 CS50's Introduction to Game Development 2018</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="cs50-s-mobile-app-development-with-react-native-2018.html">4.2.70 CS50's Mobile App Development with React Native 2018</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="cs50-s-web-programming-with-python-and-javascript.html">4.2.71 CS50's Web Programming with Python and JavaScript</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="mispellings.html">4.2.72 Mispellings</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="cs50-seminars-2017.html">4.2.73 CS50 Seminars 2017</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="sentimental.html">4.2.74 Sentimental</a></td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="cs50-shorts.html">4.2.75 CS50 Shorts</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="cs50-tech-talks-2017.html">4.2.76 CS50 Tech Talks 2017</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs50-supersection-2017.html">4.2.77 CS50 Supersection 2017</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="cs50-s-computer-science-for-business-professionals-2017.html">4.2.78 CS50's Computer Science for Business Professionals 2017</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="cs50-s-understanding-technology-2017.html">4.2.79 CS50's Understanding Technology 2017</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="cs50-presents-project-5050.html">4.2.80 CS50 Presents: Project 5050</a></td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="cs50-explained-2016-in-virtual-reality.html">4.2.81 CS50 Explained 2016 in Virtual Reality</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="cs50-ap-workshop-2017.html">4.2.82 CS50 AP Workshop 2017</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="visitas-thinks-big-2017.html">4.2.83 Visitas Thinks Big 2017</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="a-celebration-of-cs-at-harvard-in-honor-of-harry-lewis.html">4.2.84 A Celebration of CS at Harvard in Honor of Harry Lewis</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="visitas-puzzles-2017-solutions.html">4.2.85 Visitas Puzzles 2017 Solutions</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs50-live-in-vr-season-3.html">4.2.86 CS50 Live in VR, Season 3</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="cs50x-puzzle-day-2017-solutions.html">4.2.87 CS50x Puzzle Day 2017 Solutions</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="cs50-live-clips-season-3.html">4.2.88 CS50 Live Clips, Season 3</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="cs50-live-season-3.html">4.2.89 CS50 Live, Season 3</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="wecode-2017-keynotes.html">4.2.90 WeCode 2017 Keynotes</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="cs50-music-videos.html">4.2.91 CS50 Music Videos</a></td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="cs50-explained-2016.html">4.2.92 CS50 Explained 2016</a></td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="cs50-sections-2015.html">4.2.93 CS50 Sections 2015</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="hsa-dev-bootcamp-2016.html">4.2.94 HSA Dev Bootcamp 2016</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="mashup.html">4.2.95 Mashup</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="c-50-finance.html">4.2.96 C$50 Finance</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="sentiments.html">4.2.97 Sentiments</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="cs50-puppetry.html">4.2.98 CS50 Puppetry</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="cs50-outros-2016.html">4.2.99 CS50 Outros 2016</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="mashup-rw7yyf.html">4.2.100 Mashup</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="c-50-finance-ir-4f1.html">4.2.101 C$50 Finance</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="cs50-seminars-2016.html">4.2.102 CS50 Seminars 2016</a></td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="cs50-vr-around-the-world.html">4.2.103 CS50 VR around the World</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="cs50-puzzle-day-2016.html">4.2.104 CS50 Puzzle Day 2016</a></td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="cs50-walkthroughs.html">4.2.105 CS50 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="cs50x-coding-contest-2016-postmortems.html">4.2.106 CS50x Coding Contest 2016 Postmortems</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="computer-science-for-business-leaders-july-2016.html">4.2.107 Computer Science for Business Leaders - July 2016</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="visitas-thinks-big-2016.html">4.2.108 Visitas Thinks Big 2016</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="cs50-seminars-2016-p4ojab.html">4.2.109 CS50 Seminars 2016</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="computer-science-for-business-leaders-march-2016.html">4.2.110 Computer Science for Business Leaders, March 2016</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="cs50-ap-cambridge-workshop-2016.html">4.2.111 CS50 AP Cambridge Workshop 2016</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="wecode-2016.html">4.2.112 WECode 2016</a></td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="cs50x-puzzle-day-2016.html">4.2.113 CS50x Puzzle Day 2016</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs50-fairs-2015.html">4.2.114 CS50 Fairs 2015</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="cs50-performances-2015.html">4.2.115 CS50 Performances 2015</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="cs50-hackathon-2015.html">4.2.116 CS50 Hackathon 2015</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="ai-series.html">4.2.117 AI Series</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="week-10-2015-section.html">4.2.118 Week 10 2015 Section</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="2015-mdc.html">4.2.119 2015 MDC</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="week-9-2015-walkthroughs.html">4.2.120 Week 9 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="week-9-section-2015.html">4.2.121 Week 9 Section 2015</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="week-8-2015-walkthroughs.html">4.2.122 Week 8 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="performances-2015.html">4.2.123 Performances 2015</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="cs50-seminars-2015.html">4.2.124 CS50 Seminars 2015</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="week-8-section-2015.html">4.2.125 Week 8 Section 2015</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="week-7-2015-walkthroughs.html">4.2.126 Week 7 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="week-7-2015-section.html">4.2.127 Week 7 2015 Section</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="week-6-2015-section.html">4.2.128 Week 6 2015 Section</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="cs50-yale-sections-2015.html">4.2.129 CS50 Yale Sections 2015</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="cs50-2015-seinfeld50.html">4.2.130 CS50 2015 Seinfeld50</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="week-5-2015-section.html">4.2.131 Week 5 2015 Section</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="week-4-2015-section.html">4.2.132 Week 4 2015 Section</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="week-3-2015-section.html">4.2.133 Week 3 2015 Section</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="week-5-2015-walkthroughs.html">4.2.134 Week 5 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="week-4-2015-walkthroughs.html">4.2.135 Week 4 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="week-3-2015-walkthroughs.html">4.2.136 Week 3 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="week-9-2015-shorts.html">4.2.137 Week 9 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="week-8-2015-shorts.html">4.2.138 Week 8 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="week-7-2015-shorts.html">4.2.139 Week 7 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="week-6-2015-shorts.html">4.2.140 Week 6 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="week-5-2015-shorts.html">4.2.141 Week 5 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="week-4-2015-shorts.html">4.2.142 Week 4 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="week-3-2015-shorts.html">4.2.143 Week 3 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="week-2-2015-shorts.html">4.2.144 Week 2 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="week-0-2015-shorts.html">4.2.145 Week 0 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="week-2-2015-walkthroughs.html">4.2.146 Week 2 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="week-1-2015-shorts.html">4.2.147 Week 1 2015 Shorts</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="week-1-2015-walkthroughs.html">4.2.148 Week 1 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="week-0-2015-walkthroughs.html">4.2.149 Week 0 2015 Walkthroughs</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="cs50-explained-2014.html">4.2.150 CS50 Explained 2014</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="cs50-hackathon-at-miami-dade-college.html">4.2.151 CS50 Hackathon at Miami Dade College</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="visitas-thinks-big-2015.html">4.2.152 Visitas Thinks Big 2015</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="cs50-s-deep-thoughts-by-daven-farnham.html">4.2.153 CS50's Deep Thoughts by Daven Farnham</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="week-9-2014.html">4.2.154 Week 9 2014</a></td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="week-8-2014.html">4.2.155 Week 8 2014</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="cs50-seminars-2014.html">4.2.156 CS50 Seminars 2014</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="week-7-2014.html">4.2.157 Week 7 2014</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="week-5-2014.html">4.2.158 Week 5 2014</a></td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="week-4-2014.html">4.2.159 Week 4 2014</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="week-3-2014.html">4.2.160 Week 3 2014</a></td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="week-2-2014.html">4.2.161 Week 2 2014</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="week-1-2014.html">4.2.162 Week 1 2014</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="performances-2014.html">4.2.163 Performances 2014</a></td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="week-0-2014.html">4.2.164 Week 0 2014</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="teasers.html">4.2.165 Teasers</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="2014-talks.html">4.2.166 2014 Talks</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="harvard-tour.html">4.2.167 Harvard Tour</a></td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="segments.html">4.2.168 Segments</a></td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="cs50-live.html">4.2.169 CS50 Live</a></td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="cs50-fair-2013-in-slow-motion.html">4.2.170 CS50 Fair 2013 in Slow Motion</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs50-reviews-2013.html">4.2.171 CS50 Reviews 2013</a></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="cs50-performances.html">4.2.172 CS50 Performances</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs50-shorts-2013.html">4.2.173 CS50 Shorts 2013</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="week-9-2013.html">4.2.174 Week 9 2013</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="cs50-seminars-2013.html">4.2.175 CS50 Seminars 2013</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="week-7-2013.html">4.2.176 Week 7 2013</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs50-outtakes-2013.html">4.2.177 CS50 Outtakes 2013</a></td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="cs50-walkthroughs-lectures.html">4.2.178 CS50 Walkthroughs (Lectures)</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="week-5-2013.html">4.2.179 Week 5 2013</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="week-4-2013.html">4.2.180 Week 4 2013</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="week-3-2013.html">4.2.181 Week 3 2013</a></td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="cs50-sections-2013.html">4.2.182 CS50 Sections 2013</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="week-2-2013.html">4.2.183 Week 2 2013</a></td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="week-1-2013.html">4.2.184 Week 1 2013</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="week-0-2013.html">4.2.185 Week 0 2013</a></td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="cs50-walkthroughs-problem-sets.html">4.2.186 CS50 Walkthroughs (Problem Sets)</a></td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="arrested-development-50-next-time-2013.html">4.2.187 Arrested Development 50 - Next Time 2013</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="cs50-events.html">4.2.188 CS50 Events</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="cs50-films.html">4.2.189 CS50 Films</a></td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="fall-preview.html">4.2.190 Fall Preview</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs-teasers.html">4.2.191 CS Teasers</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="cs50-reviews-2012.html">4.2.192 CS50 Reviews 2012</a></td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="cs50-walkthroughs-2012.html">4.2.193 CS50 Walkthroughs 2012</a></td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="cs50-seminars-2012.html">4.2.194 CS50 Seminars 2012</a></td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="cs50-sections-2012.html">4.2.195 CS50 Sections 2012</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>CS50. (n.d.). <em>Playlists</em> [YouTube channel]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/@cs50/playlists">https://www.youtube.com/@cs50/playlists</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

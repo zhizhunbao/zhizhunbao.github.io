@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>9.1 Graphs - General Introduction | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="9.1 Graphs - General Introduction, part of 9 Graph Theory: 12 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="91-graphs---general-introduction">9.1 Graphs - General Introduction</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/9-1-graphs-general-introduction.png" alt="9.1 Graphs - General Introduction: its 12 terms, in 9 Graph Theory."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>9.1 Graphs - General Introduction</strong><br>图：概述</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html">Doerr &amp; Levasseur, n.d., section 9.1</a></td>
+</tr>
+<tr>
+<td><strong>Simple Directed Graph</strong><br>简单有向图</td>
+<td>&quot;A <strong>simple directed graph</strong> consists of <strong>a nonempty set of vertices, <span class="math">\(V\text{,}\)</span> and a set of edges, <span class="math">\(E\text{,}\)</span></strong> that is a subset of the set <span class="math">\(V \times V\text{.}\)</span>&quot;</td>
+<td><strong>简单有向图</strong>由<strong>非空顶点集 <span class="math">\(V\)</span>， 和边集 <span class="math">\(E\)</span>，</strong> 组成，其中 <span class="math">\(E\)</span>， 是集合 <span class="math">\(V \times V\)</span>。 的子集。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-simple-directed-graph">Doerr &amp; Levasseur, n.d., Definition 9.1.1</a></td>
+</tr>
+<tr>
+<td><strong>Simple Undirected Graph</strong><br>简单无向图</td>
+<td>&quot;A <strong>simple undirected graph</strong> consists of a nonempty set <span class="math">\(V\text{,}\)</span> called a <strong>vertex set</strong>, and a set <span class="math">\(E\)</span> of <strong>two-element subsets of <span class="math">\(V\text{,}\)</span></strong> called the edge set.&quot;</td>
+<td><strong>简单无向图</strong>由称为<strong>顶点集</strong>的非空集合 <span class="math">\(V\)</span>， 和 <span class="math">\(V\)</span>， 的若干<strong>二元子集</strong>构成的集合 <span class="math">\(E\)</span> 组成，<span class="math">\(E\)</span> 称为边集。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-undirected-graph">Doerr &amp; Levasseur, n.d., Definition 9.1.5</a></td>
+</tr>
+<tr>
+<td><strong>Complete Undirected Graph</strong><br>完全无向图</td>
+<td>&quot;A <strong>complete undirected graph</strong> on <span class="math">\(n\)</span> vertices is an undirected graph with the property that <strong>each pair of distinct vertices are connected to one another</strong>. Such a graph is usually denoted by <span class="math">\(K_n\text{.}\)</span>&quot;</td>
+<td><span class="math">\(n\)</span> 个顶点上的<strong>完全无向图</strong>是具有如下性质的无向图：<strong>每一对不同的顶点都彼此相连</strong>。这样的图通常记作 <span class="math">\(K_n\)</span>。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-complete-undirected-graph">Doerr &amp; Levasseur, n.d., Definition 9.1.10</a></td>
+</tr>
+<tr>
+<td><strong>Multigraph</strong><br>多重图</td>
+<td>&quot;A <strong>multigraph</strong> is a set of vertices <span class="math">\(V\)</span> with a set of edges that can contain <strong>more than one edge between the vertices</strong>.&quot;</td>
+<td><strong>多重图</strong>是顶点集 <span class="math">\(V\)</span> 连同一个边集，<strong>该边集可以在顶点之间含有多于一条边</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-multigraph">Doerr &amp; Levasseur, n.d., Definition 9.1.11</a></td>
+</tr>
+<tr>
+<td><strong>Subgraph</strong><br>子图</td>
+<td>&quot;Let <span class="math">\(G=(V,E)\)</span> be a graph of any kind: directed, directed multigraph, or undirected. <strong><span class="math">\(G'=(V',E')\)</span> is a subgraph of <span class="math">\(G\)</span></strong> if <span class="math">\(V' \neq \emptyset\text{,}\)</span> <span class="math">\(V' \subseteq V\)</span> and <span class="math">\(e \in E'\)</span> only if <span class="math">\(e \in E\)</span> and the vertices of <span class="math">\(e\)</span> are in <span class="math">\(V'\text{.}\)</span> You create a subgraph of <span class="math">\(G\)</span> by <strong>removing zero or more vertices</strong> and all edges that include the removed vertices and then you possibly remove some other edges.&quot;</td>
+<td>设 <span class="math">\(G=(V,E)\)</span> 为任意一种图：有向图、有向多重图或无向图。若 <span class="math">\(V' \neq \emptyset\)</span>，<span class="math">\(V' \subseteq V\)</span>，且仅当 <span class="math">\(e \in E\)</span> 且 <span class="math">\(e\)</span> 的顶点在 <span class="math">\(V'\)</span>。 中时 <span class="math">\(e \in E'\)</span>，则 <strong><span class="math">\(G'=(V',E')\)</span> 是 <span class="math">\(G\)</span> 的子图</strong>。要得到 <span class="math">\(G\)</span> 的子图，可以<strong>删去零个或多个顶点</strong>以及所有含被删顶点的边，然后再可能删去其他一些边。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-subgraph">Doerr &amp; Levasseur, n.d., Definition 9.1.17</a></td>
+</tr>
+<tr>
+<td><strong>Connected Component</strong><br>连通分量</td>
+<td>&quot;Given a graph <span class="math">\(G=(V,E)\text{,}\)</span> let <span class="math">\(C\)</span> be the relation “is connected to” on <span class="math">\(V\text{.}\)</span> Then the <strong>connected components</strong> of <span class="math">\(G\)</span> are the <strong>induced subgraphs</strong> of <span class="math">\(G\)</span> each with a vertex set that is an equivalence class with respect to <span class="math">\(C\text{.}\)</span>&quot;</td>
+<td>给定图 <span class="math">\(G=(V,E)\)</span>，设 <span class="math">\(C\)</span> 为 <span class="math">\(V\)</span>。 上的关系“与……相连”。则 <span class="math">\(G\)</span> 的<strong>连通分量</strong>是 <span class="math">\(G\)</span> 的<strong>导出子图</strong>，其顶点集是关于 <span class="math">\(C\)</span> 的一个等价类。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-connected-component">Doerr &amp; Levasseur, n.d., Definition 9.1.20</a></td>
+</tr>
+<tr>
+<td><strong>Tournament Graph</strong><br>竞赛图</td>
+<td>&quot;A <strong>tournament graph</strong> is <strong>a directed graph</strong> with the property that no edge connects a vertex to itself, and between any two vertices there is at most one edge.&quot;</td>
+<td><strong>竞赛图</strong>是<strong>有向图</strong>，具有如下性质：没有边把顶点连到它自身，且任意两个顶点之间至多有一条边。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-tournament-graph">Doerr &amp; Levasseur, n.d., Definition 9.1.25</a></td>
+</tr>
+<tr>
+<td><strong>Isomorphic Graphs</strong><br>同构图</td>
+<td>&quot;Two graphs <span class="math">\((V, E)\)</span> and <span class="math">\((V', E')\)</span> are <strong>isomorphic</strong> if there exists <strong>a bijection <span class="math">\(f:V\to V'\)</span></strong> such that <span class="math">\(\left(v_i,v_j\right)\in E\)</span> if and only if <span class="math">\(\left(f\left(v_i\right),f\left(v_j\right)\right)\in E'\text{.}\)</span> For multigraphs, we add that the number of edges connecting <span class="math">\(v_i\)</span> to <span class="math">\(v_j\)</span> must equal the number of edges from <span class="math">\(f\left(v_i\right)\)</span> to <span class="math">\(f\left(v_j\right)\text{.}\)</span>&quot;</td>
+<td>若<strong>存在双射 <span class="math">\(f:V\to V'\)</span></strong>，使得 <span class="math">\(\left(v_i,v_j\right)\in E\)</span> 当且仅当 <span class="math">\(\left(f\left(v_i\right),f\left(v_j\right)\right)\in E'\)</span>，则两个图 <span class="math">\((V, E)\)</span> 和 <span class="math">\((V', E')\)</span> <strong>同构</strong>。对于多重图，我们补充：连接 <span class="math">\(v_i\)</span> 与 <span class="math">\(v_j\)</span> 的边数必须等于从 <span class="math">\(f\left(v_i\right)\)</span> 到 <span class="math">\(f\left(v_j\right)\)</span>。 的边数。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-isomorphic-graphs">Doerr &amp; Levasseur, n.d., Definition 9.1.31</a></td>
+</tr>
+<tr>
+<td><strong>Degree of a vertex</strong><br>顶点的度</td>
+<td>&quot;Let <span class="math">\(v\)</span> be a vertex of an undirected graph. The <strong>degree of <span class="math">\(v\text{,}\)</span></strong> denoted <span class="math">\(deg(v)\text{,}\)</span> is the <strong>number of edges that connect <span class="math">\(v\)</span> to the other vertices</strong> in the graph.&quot;</td>
+<td>设 <span class="math">\(v\)</span> 为无向图的顶点。<span class="math">\(v\)</span> 的<strong>度</strong>，记作 <span class="math">\(deg(v)\)</span>，是图中<strong>连接 <span class="math">\(v\)</span> 与其他顶点的边数</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-degree-of-a-vertex">Doerr &amp; Levasseur, n.d., Definition 9.1.32</a></td>
+</tr>
+<tr>
+<td><strong>Degree Sequence of a Graph</strong><br>图的度序列</td>
+<td>&quot;The <strong>degree sequence</strong> of a simple undirected graph is the <strong>non-increasing sequence of its vertex degrees</strong>.&quot;</td>
+<td>简单无向图的<strong>度序列</strong>是其<strong>顶点度数的非递增序列</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-degree-sequence">Doerr &amp; Levasseur, n.d., Definition 9.1.33</a></td>
+</tr>
+<tr>
+<td><strong>Graphic Sequence</strong><br>图序列</td>
+<td>&quot;A finite nonincreasing sequence of integers <span class="math">\(d_1,d_2, \ldots, d_n\)</span> is <strong>graphic</strong> if there exists a <strong>simple undirected graph with <span class="math">\(n\)</span> vertices having the sequence as its degree sequence</strong>.&quot;</td>
+<td>若存在一个 <span class="math">\(n\)</span> 个顶点的<strong>简单无向图</strong>，其度序列恰为整数的有限非递增序列 <span class="math">\(d_1,d_2, \ldots, d_n\)</span>，则该序列是<strong>可图的</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-graphs-introduction.html#def-graphic-sequence">Doerr &amp; Levasseur, n.d., Definition 9.1.36</a></td>
+</tr>
+<tr>
+<td><strong>Graph</strong><br>图</td>
+<td>&quot;In a mathematician's terminology, a graph is a <strong>collection of points and lines</strong> connecting <strong>some (possibly empty) subset of them</strong>.&quot;</td>
+<td>按数学家的术语，图是<strong>点和线的集合</strong>，这些线连接<strong>其中某个子集的点</strong>（子集可能为空）。</td>
+<td><a href="https://mathworld.wolfram.com/Graph.html#:%7E:text=a%20graph%20is%20a%20collection%20of%20points%20and%20lines">Weisstein, n.d.-a, &quot;Graph&quot; entry, para. 3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Doerr, A., &amp; Levasseur, K. (n.d.). <em>Applied discrete structures</em>. Retrieved October 28, 2026, from <a href="https://discretemath.org/ads/index-ads.html">https://discretemath.org/ads/index-ads.html</a></p>
+<p>Weisstein, E. W. (n.d.-a). <em>Graph</em>. MathWorld: A Wolfram Resource. Retrieved October 27, 2026, from <a href="https://mathworld.wolfram.com/Graph.html">https://mathworld.wolfram.com/Graph.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-29 19:52:55-04:00">10/29/2026 19:52:55</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

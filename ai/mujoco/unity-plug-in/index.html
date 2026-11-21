@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>10. Unity Plug-in | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 10. Unity Plug-in: 10.1 Design principles, 10.2 Implementation notes.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="10-unity-plug-in">10. Unity Plug-in</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/unity-plug-in.png" alt="10. Unity Plug-in: its 2 entries from the official menu, in menu order and numbered here, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>10 Unity Plug-in</strong><br>Unity 插件</td>
+<td>&quot;The MuJoCo Unity plug-in <strong>allows the Unity Editor and runtime to use the MuJoCo physics engine</strong>.&quot;</td>
+<td>MuJoCo 的 Unity 插件<strong>让 Unity 编辑器和运行时能够使用 MuJoCo 物理引擎</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#introduction">Google DeepMind, n.d., &quot;Introduction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="design-principles.html">10.1 Design principles</a></strong><br>设计原则</td>
+<td>(context) &quot;The plug-in design provides <strong>a one-to-one mapping between MJCF elements and Unity components</strong>.&quot;</td>
+<td>（语境）插件的设计提供了 <strong>MJCF 元素与 Unity 组件之间的一一对应</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#design-principles">Google DeepMind, n.d., &quot;Design principles&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="implementation-notes.html">10.2 Implementation notes</a></strong><br>实现说明</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#implementation-notes">Google DeepMind, n.d., &quot;Implementation notes&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Importer</strong><br>导入器</td>
+<td>&quot;The importer is <strong>invoked from the Editor’s Asset menu</strong>: click on “Import MuJoCo Scene” and select the XML file with your model’s MJCF specification.&quot;</td>
+<td>导入器<strong>从编辑器的 Asset 菜单调用</strong>：点击“Import MuJoCo Scene”，再选择包含模型 MJCF 描述的 XML 文件。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#importer">Google DeepMind, n.d., &quot;Importer&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Context menus</strong><br>右键菜单</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#context-menus">Google DeepMind, n.d., &quot;Context menus&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Add mesh renderer</strong><br>添加网格渲染器</td>
+<td>&quot;“Add mesh renderer” <strong>adds components to the same game object that render the geom</strong>:&quot;</td>
+<td>“Add mesh renderer”<strong>向同一个游戏对象添加渲染该 geom 的组件</strong>：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#context-menus">Google DeepMind, n.d., &quot;Context menus&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>MjMeshFilter</strong><br>MjMeshFilter 组件类</td>
+<td>&quot;a MjMeshFilter that <strong>creates a procedural mesh that is recreated when the geom shape properties change</strong>.&quot;</td>
+<td>一个 MjMeshFilter，它<strong>创建一个程序化网格，在 geom 形状属性变化时重新生成</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#context-menus">Google DeepMind, n.d., &quot;Context menus&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Convert to free object</strong><br>转换为自由物体</td>
+<td>&quot;“Convert to free object” <strong>adds two new game objects: a parent with an MjBody component and a sibling with an MjFreeJoint component</strong>.&quot;</td>
+<td>“Convert to free object”<strong>添加两个新的游戏对象：一个带 MjBody 组件的父对象和一个带 MjFreeJoint 组件的兄弟对象</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#context-menus">Google DeepMind, n.d., &quot;Context menus&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>“world” geoms</strong><br>“世界”geom</td>
+<td>&quot;This action only applies to “world” geoms – <strong>those that do not currently have an MjBody parent</strong>.&quot;</td>
+<td>这个操作只适用于“世界”geom，即<strong>当前没有 MjBody 父对象的 geom</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#context-menus">Google DeepMind, n.d., &quot;Context menus&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>MjBody</strong><br>MjBody 组件类</td>
+<td>(context) &quot;“Convert to free object” adds two new game objects: <strong>a parent with an MjBody component</strong> and a sibling with an MjFreeJoint component.&quot;</td>
+<td>（语境）“Convert to free object”添加两个新的游戏对象：<strong>一个带 MjBody 组件的父对象</strong>和一个带 MjFreeJoint 组件的兄弟对象。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#context-menus">Google DeepMind, n.d., &quot;Context menus&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>MjFreeJoint</strong><br>MjFreeJoint 组件类</td>
+<td>(context) &quot;“Convert to free object” adds two new game objects: a parent with an MjBody component and <strong>a sibling with an MjFreeJoint component</strong>.&quot;</td>
+<td>（语境）“Convert to free object”添加两个新的游戏对象：一个带 MjBody 组件的父对象和<strong>一个带 MjFreeJoint 组件的兄弟对象</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#context-menus">Google DeepMind, n.d., &quot;Context menus&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>MjGeom</strong><br>MjGeom 组件类</td>
+<td>(context) &quot;For convenience, we provide a context menu for “freeing” a world geom (i.e., <strong>an MjGeom component without any MjBody ancestor</strong>) by adding a parent MjBody and a sibling MjFreeJoint.&quot;</td>
+<td>（语境）为了方便，我们提供一个右键菜单，通过添加父 MjBody 和兄弟 MjFreeJoint 来“释放”一个世界 geom（即<strong>没有任何 MjBody 祖先的 MjGeom 组件</strong>）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#tips-to-unity-users">Google DeepMind, n.d., &quot;Tips to Unity users&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Add a matching MuJoCo geom</strong><br>添加匹配的 MuJoCo geom</td>
+<td>&quot;Right-clicking a Unity Collider <strong>offers the option to “Add a matching MuJoCo geom” to the same game object</strong>.&quot;</td>
+<td>右键点击一个 Unity Collider，<strong>会出现向同一个游戏对象“添加匹配的 MuJoCo geom”的选项</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#context-menus">Google DeepMind, n.d., &quot;Context menus&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Mouse spring</strong><br>鼠标弹簧</td>
+<td>&quot;When the selected game object has an MjBody component, <strong>spring forces can be applied to this body towards the mouse cursor</strong> through a control-left-drag action in the Scene view.&quot;</td>
+<td>当选中的游戏对象带有 MjBody 组件时，在场景视图中按住 Ctrl 并左键拖动，<strong>就可以对这个刚体施加指向鼠标光标的弹簧力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/unity.html#mouse-spring">Google DeepMind, n.d., &quot;Mouse spring&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Unity Plug-in</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/unity.html">https://mujoco.readthedocs.io/en/stable/unity.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

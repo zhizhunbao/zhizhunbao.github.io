@@ -1,0 +1,762 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.9.53 Donald Knuth Lectures | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Other Playlists &gt; Donald Knuth Lectures: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1953-donald-knuth-lectures">1.9.53 Donald Knuth Lectures</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Donald Knuth Lectures</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PL94E35692EB9D36F3">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=jbrMBOF61e0&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: TeX For Beginners - Session 1 (Donald Ervin Knuth on February 23, 1981)">TeX For Beginners - Session 1 (Donald Ervin Knuth on February 23, 1981)</a></td>
+<td>1:01:59</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=YRnpzxtdntw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: TeX For Beginners - Session 2 (February 24, 1981)">TeX For Beginners - Session 2 (February 24, 1981)</a></td>
+<td>56:57</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=V1EmAqGQSFA&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: TeX For Beginners - Session 3 (February 26, 1981)">TeX For Beginners - Session 3 (February 26, 1981)</a></td>
+<td>1:04:49</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=Yp9vAbvTo9I&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: TeX For Beginners - Session 4 (February 25, 1981)">TeX For Beginners - Session 4 (February 25, 1981)</a></td>
+<td>1:02:06</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=JSOPnsFQGU8&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: TeX For Beginners - Session 5 (February 27, 1981)">TeX For Beginners - Session 5 (February 27, 1981)</a></td>
+<td>16:27</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=cUXgJfy7W7k&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Advanced TeXarcana - Session 1 (March 2, 1981)">Advanced TeXarcana - Session 1 (March 2, 1981)</a></td>
+<td>1:00:26</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=VkbucteDmWQ&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Advanced TeXarcana - Session 2 (March 3, 1981)">Advanced TeXarcana - Session 2 (March 3, 1981)</a></td>
+<td>1:01:54</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=qfGUdCDWINY&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Advanced TeXarcana - Session 3 (March 4, 1981)">Advanced TeXarcana - Session 3 (March 4, 1981)</a></td>
+<td>1:06:26</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=mQrNOv77PLE&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Advanced TeXarcana - Session 4 (March 5, 1981)">Advanced TeXarcana - Session 4 (March 5, 1981)</a></td>
+<td>1:04:23</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=fBRSfnwWixY&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Advanced TeXarcana - Session 5 (March 6, 1981)">Advanced TeXarcana - Session 5 (March 6, 1981)</a></td>
+<td>1:00:43</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=H7CKoZpNF3M&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Can computers help produce beautiful books? (December 1, 1987)">Can computers help produce beautiful books? (December 1, 1987)</a></td>
+<td>1:01:33</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=OJsMXu3EPCw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Robert W Floyd, In Memoriam (March 20, 2002)">Robert W Floyd, In Memoriam (March 20, 2002)</a></td>
+<td>1:07:07</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=CDokMxVtB3k&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - All Questions Answered (May 12, 2011)">Donald Knuth - All Questions Answered (May 12, 2011)</a></td>
+<td>1:08:51</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=gAXdDEQveKw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 2014 Kailath Lecture: Stanford Professor Donald Knuth">2014 Kailath Lecture: Stanford Professor Donald Knuth</a></td>
+<td>52:50</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=P4AaGQIo0HY&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth—'(3/2)-ary Trees' (2014)">Donald Knuth—&quot;(3/2)-ary Trees&quot;</a></td>
+<td>1:16:16</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=48iJx8FVuis&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth—'Universal Commafree Codes' (2015)">Donald Knuth—&quot;Universal Commafree Codes&quot;</a></td>
+<td>1:16:59</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=DjZB9HvddQk&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Don Knuth—'Hamiltonian Paths in Antiquity' (2016)">Don Knuth—&quot;Hamiltonian Paths in Antiquity&quot;</a></td>
+<td>1:11:47</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=_cR9zDlvP88&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Don Knuth—'Dancing Links' (2018)">Don Knuth—&quot;Dancing Links&quot;</a></td>
+<td>1:30:25</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=BxQw4CdxLr8&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Don Knuth—'A Conjecture That Had To Be True' (2017)">Don Knuth—&quot;A Conjecture That Had To Be True&quot;</a></td>
+<td>1:07:02</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=vkUNH9r6UCI&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture - Don Knuth: The Analysis of Algorithms (2015, recreating 1969)">Don Knuth: The Analysis of Algorithms (2015, recreating 1969)</a></td>
+<td>54:25</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=ZK4jnuCWl0Y&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Don Knuth—'Hamiltonian Paths in Antiquity' (2016) (360 Degrees)">Don Knuth—&quot;Hamiltonian Paths in Antiquity&quot; (360 Degrees)</a></td>
+<td>1:11:47</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=b3FZLzlSrlE&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'The MMIX Architecture Simulator: A Testbed for Buzzword-Compliant Pipelines'">&quot;The MMIX Architecture Simulator: A Testbed for Buzzword-Compliant Pipelines&quot;</a></td>
+<td>1:37:15</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=r_pPF5npnio&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'MMIX: A RISC Computer for the New Millennium' (February 9, 1999)">Donald Knuth - &quot;MMIX: A RISC Computer for the New Millennium&quot; (February 9, 1999)</a></td>
+<td>1:23:48</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=TMTnWEQrMng&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Trees and Alphabetic Codes' (1998)">Donald Knuth - &quot;Trees and Alphabetic Codes&quot;</a></td>
+<td>1:17:01</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=sI7k2l2D4pI&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Constructing Bubblesort at Random: One-Dimensional Particle Physics'">&quot;Constructing Bubblesort at Random: One-Dimensional Particle Physics&quot;</a></td>
+<td>1:04:28</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=mY9UP4b9nSc&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Fast Input/Output with Many Disks, Using a Magic Trick'">Donald Knuth - &quot;Fast Input/Output with Many Disks, Using a Magic Trick&quot;</a></td>
+<td>1:09:28</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=xpBHhFfoMIQ&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Lattices of Trees, Part I' (1997)">Donald Knuth - &quot;Lattices of Trees, Part I&quot;</a></td>
+<td>1:15:07</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=9WQbcNYryKE&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - '35 years of (Linear) Probing' (October 29, 1997)">Donald Knuth - &quot;35 years of (Linear) Probing&quot; (October 29, 1997)</a></td>
+<td>1:11:02</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=0TOK73ij7C0&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Don Knuth—'The Associative Law, or the Anatomy of Rotations in Binary Trees'">Don Knuth—&quot;The Associative Law, or the Anatomy of Rotations in Binary Trees&quot;</a></td>
+<td>1:10:16</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=LftaV1XLvrE&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Experiments with Digital Halftones'">Donald Knuth - &quot;Experiments with Digital Halftones&quot;</a></td>
+<td>1:12:25</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=sf_wrj4QYzo&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Spanning Trees and Aspects' (2009)">Donald Knuth - &quot;Spanning Trees and Aspects&quot;</a></td>
+<td>1:24:57</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=-HzQYeqS9Wc&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth—'Fun With Zero-Suppressed Binary Decision Diagrams (ZDDs)' (2008)">Donald Knuth—&quot;Fun With Zero-Suppressed Binary Decision Diagrams (ZDDs)&quot;</a></td>
+<td>1:33:00</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=SQE21efsf7Y&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Fun With Binary Decision Diagrams (BDDs)' (June 5, 2008)">Donald Knuth - &quot;Fun With Binary Decision Diagrams (BDDs)&quot; (June 5, 2008)</a></td>
+<td>1:41:53</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=Xv-7xkMLaAw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Sideways Heaps' (2007)">Donald Knuth - &quot;Sideways Heaps&quot;</a></td>
+<td>1:18:01</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=hatfAErfCmY&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Cool Graphs' (June 6, 2007)">Donald Knuth - &quot;Cool Graphs&quot; (June 6, 2007)</a></td>
+<td>1:26:31</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=lyqRhfN4Nhc&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Trees, Rivers, and RNA' (2006)">Donald Knuth - &quot;Trees, Rivers, and RNA&quot;</a></td>
+<td>1:24:01</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=o22BAuQj3ds&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Platologic Computation' (October 24, 2006)">Donald Knuth - &quot;Platologic Computation&quot; (October 24, 2006)</a></td>
+<td>1:32:53</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=GYGGBYmgdQ8&amp;list=PL94E35692EB9D36F3" title="Donald Knuth - 'Integer Partitions and Set Partitions: A Marvelous Connection' (May 6, 2005)">Donald Knuth - &quot;Integer Partitions and Set Partitions: A Marvelous Connection&quot; (May 6, 2005)</a></td>
+<td>1:30:27</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=h25QHIE4d2s&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Sand Piles and Spanning Trees' (2004)">Donald Knuth - &quot;Sand Piles and Spanning Trees&quot;</a></td>
+<td>1:40:19</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=eHtYGJOU3C8&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Hooray for Probability Theory' (October 29, 2004)">Donald Knuth - &quot;Hooray for Probability Theory&quot; (October 29, 2004)</a></td>
+<td>1:36:16</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=LDHlaxewCmE&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Finding All Spanning Trees' (2003)">Donald Knuth - &quot;Finding All Spanning Trees&quot;</a></td>
+<td>1:22:24</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=KjbuyB4dQa0&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Notation' (October 17, 2003)">Donald Knuth - &quot;Notation&quot; (October 17, 2003)</a></td>
+<td>1:29:25</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=zyWe3lcfaYw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Chains of Subsets' (2002)">Donald Knuth - &quot;Chains of Subsets&quot;</a></td>
+<td>1:18:25</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=df_7hydjaT0&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Trees, Forests, and Polyominoes' (2000)">Donald Knuth - &quot;Trees, Forests, and Polyominoes&quot;</a></td>
+<td>1:25:14</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=U2W1y0a7PhU&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'The Joy of Asymptotics' (May 30, 2000)">Donald Knuth - &quot;The Joy of Asymptotics&quot; (May 30, 2000)</a></td>
+<td>1:08:43</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=R9gRLnddOBg&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Dancing Links' (February 22, 2000)">Donald Knuth - &quot;Dancing Links&quot; (February 22, 2000)</a></td>
+<td>1:35:05</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=VW3vgJYYIok&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth—'Planar Graphs and Ternary Trees' (2013)">Donald Knuth—&quot;Planar Graphs and Ternary Trees&quot;</a></td>
+<td>1:21:37</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=txaGsawljjA&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Trees and chordal graphs' (2012)">Donald Knuth - &quot;Trees and chordal graphs&quot;</a></td>
+<td>1:14:53</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=axUgEAgrSB8&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth - 'Bayesian trees and BDDs' (2011)">Donald Knuth - &quot;Bayesian trees and BDDs&quot;</a></td>
+<td>1:13:50</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=cI6tt9QfRdo&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Donald Knuth—'Why Pi?'(2010)">Donald Knuth—&quot;Why Pi?&quot;</a></td>
+<td>1:39:33</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=ab9_2VRI4-A&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: CS144C classroom lecture about disk storage and B-trees">CS144C classroom lecture about disk storage and B-trees</a></td>
+<td>54:37</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=Lg5rrgIfWWg&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 1 - Monotonic squares - Part 1">&quot;Aha&quot; Sessions - Problem 1 - Monotonic squares - Part 1</a></td>
+<td>48:14</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=pTPgabUxuJ8&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 1 - Monotonic squares - Part 2">&quot;Aha&quot; Sessions - Problem 1 - Monotonic squares - Part 2</a></td>
+<td>1:05:49</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=XKNOawsE8GM&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 1 - Monotonic squares - Part 3">&quot;Aha&quot; Sessions - Problem 1 - Monotonic squares - Part 3</a></td>
+<td>1:18:41</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=rI14d__RDFM&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 1 - wrapup, Problem 2 - Code Breaking Part 1">&quot;Aha&quot; Sessions - Problem 1 - wrapup, Problem 2 - Code Breaking Part 1</a></td>
+<td>56:57</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=hvm8aecFlq0&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 2 - Code Breaking Part 2">&quot;Aha&quot; Sessions - Problem 2 - Code Breaking Part 2</a></td>
+<td>1:19:41</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=Mul4LOQI1oY&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 2 - Code Breaking Part 3">&quot;Aha&quot; Sessions - Problem 2 - Code Breaking Part 3</a></td>
+<td>1:20:20</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=fVYdpgwvUcs&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 2 - Code Breaking Part 4">&quot;Aha&quot; Sessions - Problem 2 - Code Breaking Part 4</a></td>
+<td>55:05</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=abdFXzbkVoU&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 2 - Code Breaking Part 5">&quot;Aha&quot; Sessions - Problem 2 - Code Breaking Part 5</a></td>
+<td>20:22</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=rdD-k9PtvKI&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 2 - Code Breaking Wrap Up">&quot;Aha&quot; Sessions - Problem 2 - Code Breaking Wrap Up</a></td>
+<td>1:19:37</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=laZTDJ9fJ4M&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 3 - Hardware fault detection Part 1">&quot;Aha&quot; Sessions - Problem 3 - Hardware fault detection Part 1</a></td>
+<td>58:09</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=4yXtutfH030&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 3 - Hardware fault detection Part 2">&quot;Aha&quot; Sessions - Problem 3 - Hardware fault detection Part 2</a></td>
+<td>19:14</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=vHDyyHg5Aro&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 3 - Hardware fault detection Part 3">&quot;Aha&quot; Sessions - Problem 3 - Hardware fault detection Part 3</a></td>
+<td>1:13:16</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=zIQUiOe8L4Y&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 3 - Hardware fault detection Part 4">&quot;Aha&quot; Sessions - Problem 3 - Hardware fault detection Part 4</a></td>
+<td>1:14:02</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=ofHHbOc5vRE&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 3 - Hardware fault detection Part 5">&quot;Aha&quot; Sessions - Problem 3 - Hardware fault detection Part 5</a></td>
+<td>58:44</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=wNzSLo20xCg&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 3 - Hardware fault detection Part 6">&quot;Aha&quot; Sessions - Problem 3 - Hardware fault detection Part 6</a></td>
+<td>13:46</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=9v3uby0yzB4&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 3 - Hardware fault detection Part 7">&quot;Aha&quot; Sessions - Problem 3 - Hardware fault detection Part 7</a></td>
+<td>1:14:52</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=zGPADe1quB4&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 3 - Wrap Up, Problem 4 - Distributed stability Part 1">&quot;Aha&quot; Sessions - Problem 3 - Wrap Up, Problem 4 - Distributed stability Part 1</a></td>
+<td>1:05:29</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=C3NTCIyDJYs&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 4 - Distributed stability Part 2">&quot;Aha&quot; Sessions - Problem 4 - Distributed stability Part 2</a></td>
+<td>1:14:25</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=1VkvaTX8q2Y&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 4 - Distributed stability Part 3">&quot;Aha&quot; Sessions - Problem 4 - Distributed stability Part 3</a></td>
+<td>1:13:36</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=rvuJWonSRjA&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 4 - Distributed stability Wrap Up">&quot;Aha&quot; Sessions - Problem 4 - Distributed stability Wrap Up</a></td>
+<td>1:08:08</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=juUk6mPdnNc&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 5 - Final Art Projects">&quot;Aha&quot; Sessions - Problem 5 - Final Art Projects</a></td>
+<td>1:22:09</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=SNSZ6O7iGqw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: 'Aha' Sessions - Problem 5 - High-tech art Part 2">&quot;Aha&quot; Sessions - Problem 5 - High-tech art Part 2</a></td>
+<td>1:10:45</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=KZy5p-uxh34&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Computer aids to writing">Mathematical Writing - Computer aids to writing</a></td>
+<td>49:50</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=tgGvP_W1xz4&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Final truths">Mathematical Writing - Final truths</a></td>
+<td>41:19</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=rnm-y9_Gsqc&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Comments on student work">Mathematical Writing - Comments on student work</a></td>
+<td>52:10</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=nnCdq2q10gc&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Examples of good style">Mathematical Writing - Examples of good style</a></td>
+<td>51:09</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=D30jFPqP6KE&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Scientific American Saga (2)">Mathematical Writing - Scientific American Saga (2)</a></td>
+<td>52:20</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=JMU16brUDuo&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Quotations">Mathematical Writing - Quotations</a></td>
+<td>51:19</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=PNSSpuL04fw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Illustrations (2)">Mathematical Writing - Illustrations (2)</a></td>
+<td>47:32</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=1m6LzCE8XSY&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Illustrations (1)">Mathematical Writing - Illustrations (1)</a></td>
+<td>50:00</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=zzEAEdWrAaA&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Scientific American Saga (1)">Mathematical Writing - Scientific American Saga (1)</a></td>
+<td>51:20</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=PfwraRJYIFI&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Refereeing (2)">Mathematical Writing - Refereeing (2)</a></td>
+<td>49:27</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=B0acu5nhG0w&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Refereeing (1)">Mathematical Writing - Refereeing (1)</a></td>
+<td>51:43</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=5gD4D3UaYsA&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - User manuals; Galley proofs">Mathematical Writing - User manuals; Galley proofs</a></td>
+<td>50:22</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=ObxmXC2NCMA&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Literate Programming (2)">Mathematical Writing - Literate Programming (2)</a></td>
+<td>52:11</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=U8LttJ1rvWI&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Literate Programming (1)">Mathematical Writing - Literate Programming (1)</a></td>
+<td>58:31</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=A3kEmsVuXF8&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Presenting algorithms">Mathematical Writing - Presenting algorithms</a></td>
+<td>52:17</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=E6S4yed60po&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Preparing books for publication (3)">Mathematical Writing - Preparing books for publication (3)</a></td>
+<td>55:09</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=A3kEmsVuXF8&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Presenting algorithms">Mathematical Writing - Presenting algorithms</a></td>
+<td>52:17</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=yrLCYnOr02E&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Preparing books for publication (2)">Mathematical Writing - Preparing books for publication (2)</a></td>
+<td>50:33</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=z_leSH2bcNA&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Preparing books for publication (1)">Mathematical Writing - Preparing books for publication (1)</a></td>
+<td>54:33</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=dXCuGRwNH7I&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Comments on student answers (2)">Mathematical Writing - Comments on student answers (2)</a></td>
+<td>52:39</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=WAMGwZ0pQys&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Comments on student answers (1)">Mathematical Writing - Comments on student answers (1)</a></td>
+<td>53:21</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=_ToUVXQo_DE&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Minicourse on technical writing (2)">Mathematical Writing - Minicourse on technical writing (2)</a></td>
+<td>54:22</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=mert0kmZvVM&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Mathematical Writing - Minicourse on technical writing (1)">Mathematical Writing - Minicourse on technical writing (1)</a></td>
+<td>51:41</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=3DKo219ZHMw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Don Knuth - 'Pi and The Art of Computer Programming' (2019)">Don Knuth - &quot;Pi and The Art of Computer Programming&quot;</a></td>
+<td>1:02:26</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=zg6YRqT4Duo&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Don Knuth - Twintrees, Baxter Permutations, and Floorplans (2022) LIVE STREAM">Don Knuth - Twintrees, Baxter Permutations, and Floorplans LIVE STREAM</a></td>
+<td>1:11:35</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=Wc4aorVPbi8&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Don Knuth - Twintrees, Baxter Permutations, and Floorplans (2022)">Don Knuth - Twintrees, Baxter Permutations, and Floorplans</a></td>
+<td>1:08:50</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=PUJ_XdmSDZw&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture - Dancing Cells, Dr. Donald Knuth I 2023">Dancing Cells, Dr. Donald Knuth I 2023</a></td>
+<td>1:32:47</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=au26uZfuxVY&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Dr. Don Knuth - Strong Components and Weak Components (2024)">Dr. Don Knuth - Strong Components and Weak Components</a></td>
+<td>1:26:50</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=Hi8r_63LGyg&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture - Strong Components and Weak Components, Dr. Donald Knuth I 2024">Strong Components and Weak Components, Dr. Donald Knuth I 2024</a></td>
+<td>1:24:12</td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="https://www.youtube.com/watch?v=MKiRte-tnMY&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Dr. Don Knuth - Adventures with Knight's Tours (2025)">Dr. Don Knuth - Adventures with Knight's Tours</a></td>
+<td>1:56:06</td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="https://www.youtube.com/watch?v=kAk9GBVKsgk&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 1 (July 28, 1982)">The Internal Details of TeX82 - Session 1 (July 28, 1982)</a></td>
+<td>1:05:21</td>
+</tr>
+<tr>
+<td>105</td>
+<td><a href="https://www.youtube.com/watch?v=3RDtSdN7jPI&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 2 (July 28, 1982)">The Internal Details of TeX82 - Session 2 (July 28, 1982)</a></td>
+<td>59:06</td>
+</tr>
+<tr>
+<td>106</td>
+<td><a href="https://www.youtube.com/watch?v=7B_9keAK6Qk&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 3 (July 28, 1982)">The Internal Details of TeX82 - Session 3 (July 28, 1982)</a></td>
+<td>1:04:50</td>
+</tr>
+<tr>
+<td>107</td>
+<td><a href="https://www.youtube.com/watch?v=9astSKJdsV0&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 4 (July 28, 1982)">The Internal Details of TeX82 - Session 4 (July 28, 1982)</a></td>
+<td>1:10:11</td>
+</tr>
+<tr>
+<td>108</td>
+<td><a href="https://www.youtube.com/watch?v=WiHIOn1bemg&amp;list=PL94E35692EB9D36F3" title="0Stanford Lecture: The Internal Details of TeX82 - Session 5 (July 29, 1982)">The Internal Details of TeX82 - Session 5 (July 29, 1982)</a></td>
+<td>1:03:19</td>
+</tr>
+<tr>
+<td>109</td>
+<td><a href="https://www.youtube.com/watch?v=mxOZ-fSvr9Y&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 6 (July 29, 1982)">The Internal Details of TeX82 - Session 6 (July 29, 1982)</a></td>
+<td>1:05:43</td>
+</tr>
+<tr>
+<td>110</td>
+<td><a href="https://www.youtube.com/watch?v=nLJnNZxLEnk&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 7 (July 29, 1982)">The Internal Details of TeX82 - Session 7 (July 29, 1982)</a></td>
+<td>1:04:58</td>
+</tr>
+<tr>
+<td>111</td>
+<td><a href="https://www.youtube.com/watch?v=BMq3cCQ8ysQ&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 8 (July 29, 1982)">The Internal Details of TeX82 - Session 8 (July 29, 1982)</a></td>
+<td>1:03:00</td>
+</tr>
+<tr>
+<td>112</td>
+<td><a href="https://www.youtube.com/watch?v=gza2a-JuWJg&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 9 (July 30, 1982)">The Internal Details of TeX82 - Session 9 (July 30, 1982)</a></td>
+<td>1:03:33</td>
+</tr>
+<tr>
+<td>113</td>
+<td><a href="https://www.youtube.com/watch?v=Uf3vpKWpu7A&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 10 (July 30, 1982)">The Internal Details of TeX82 - Session 10 (July 30, 1982)</a></td>
+<td>1:04:32</td>
+</tr>
+<tr>
+<td>114</td>
+<td><a href="https://www.youtube.com/watch?v=eotEOydYrco&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 11 (July 30, 1982)">The Internal Details of TeX82 - Session 11 (July 30, 1982)</a></td>
+<td>1:05:32</td>
+</tr>
+<tr>
+<td>115</td>
+<td><a href="https://www.youtube.com/watch?v=eKttYyTf_30&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: The Internal Details of TeX82 - Session 12 (July 30, 1982)">The Internal Details of TeX82 - Session 12 (July 30, 1982)</a></td>
+<td>1:03:50</td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href="https://www.youtube.com/watch?v=-1AajkwngqM&amp;list=PL94E35692EB9D36F3" title="Stanford Lecture: Dr. Don Knuth - Claude and The Art of Computer Programming (2026)">Dr. Don Knuth - Claude and The Art of Computer Programming</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>(YouTube counts 119 videos; the playlist page lists 116.)</p>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Donald Knuth Lectures</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PL94E35692EB9D36F3">https://www.youtube.com/playlist?list=PL94E35692EB9D36F3</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

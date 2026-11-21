@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.2 More about Functions | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="6.2 More about Functions, part of 6 Functions: 18 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="62-more-about-functions">6.2 More about Functions</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/6-2-more-about-functions.png" alt="6.2 More about Functions: its 18 terms, in 6 Functions."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6 Functions</strong><br>函数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/C_functions.html">Sundstrom, 2022, chapter 6</a></td>
+</tr>
+<tr>
+<td><strong>6.2 More about Functions</strong><br>函数的更多内容</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Polygon</strong><br>多边形</td>
+<td>&quot;A polygon is <strong>a closed plane figure formed by the joining of three or more straight lines</strong>.&quot;</td>
+<td>多边形是<strong>由三条或更多直线首尾相接形成的封闭平面图形</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#PA_diagonals">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Regular Polygon</strong><br>正多边形</td>
+<td>&quot;A regular polygon is one that has <strong>equal-length sides and congruent interior angles</strong>.&quot;</td>
+<td>正多边形是<strong>各边等长且各内角全等</strong>的多边形。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#PA_diagonals">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Diagonal of a Polygon</strong><br>多边形的对角线</td>
+<td>&quot;A diagonal of a polygon is <strong>a line segment that connects two nonadjacent vertices of the polygon</strong>.&quot;</td>
+<td>多边形的对角线是<strong>连接多边形两个不相邻顶点的线段</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#PA_diagonals">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Triangle</strong><br>三角形</td>
+<td>&quot;For example, a triangle is <strong>a polygon that has three sides</strong>&quot;</td>
+<td>例如，三角形是<strong>有三条边的多边形</strong></td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#PA_diagonals">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Quadrilateral</strong><br>四边形</td>
+<td>&quot;a quadrilateral is <strong>a polygon that has four sides</strong> and includes squares, rectangles, and parallelograms&quot;</td>
+<td>四边形是<strong>有四条边的多边形</strong>，包括正方形、长方形和平行四边形</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#PA_diagonals">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Pentagon</strong><br>五边形</td>
+<td>&quot;a pentagon is <strong>a polygon that has five sides</strong>&quot;</td>
+<td>五边形是<strong>有五条边的多边形</strong></td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#PA_diagonals">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Octagon</strong><br>八边形</td>
+<td>&quot;and an octagon is <strong>a polygon that has eight sides</strong>.&quot;</td>
+<td>八边形是<strong>有八条边的多边形</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#PA_diagonals">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Derivative</strong><br>导数</td>
+<td>(context) &quot;In calculus, we learned <strong>how to find the derivatives of certain functions</strong>.&quot;</td>
+<td>（语境）在微积分中，我们学过<strong>如何求某些函数的导数</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#PA_derivatives">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Equal Functions</strong><br>相等函数</td>
+<td>&quot;Two functions <span class="math">\(f\)</span> and <span class="math">\(g\)</span> are equal provided that <strong>The domain of</strong> <span class="math">\(f\)</span> <strong>equals the domain of</strong> <span class="math">\(g\text{.}\)</span> That is, <span class="math">\(\text{ dom} ( f ) = \text{ dom} ( g )\text{.}\)</span> <strong>The codomain of</strong> <span class="math">\(f\)</span> <strong>equals the codomain of</strong> <span class="math">\(g\text{.}\)</span> That is, <span class="math">\(\text{ codom} ( f ) = \text{ codom} ( g )\text{.}\)</span> <strong>For each</strong> <span class="math">\(x\)</span> <strong>in the domain of</strong> <span class="math">\(f\)</span> (which equals the domain of <span class="math">\(g\)</span>), <span class="math">\(f( x ) = g( x )\text{.}\)</span>&quot;</td>
+<td>两个函数 <span class="math">\(f\)</span> 和 <span class="math">\(g\)</span> 相等，如果：<span class="math">\(f\)</span> <strong>的定义域等于</strong> <span class="math">\(g\)</span> <strong>的定义域</strong>，即 <span class="math">\(\text{ dom} ( f ) = \text{ dom} ( g )\)</span>；<span class="math">\(f\)</span> <strong>的陪域等于</strong> <span class="math">\(g\)</span> <strong>的陪域</strong>，即 <span class="math">\(\text{ codom} ( f ) = \text{ codom} ( g )\)</span>；<strong>对</strong> <span class="math">\(f\)</span> <strong>定义域中的每个</strong> <span class="math">\(x\)</span>（它也等于 <span class="math">\(g\)</span> 的定义域），<span class="math">\(f( x ) = g( x )\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#functionequality">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Identity Function</strong><br>恒等函数</td>
+<td>&quot;Let <span class="math">\(A\)</span> be a nonempty set. The identity function on the set <span class="math">\(\boldsymbol{A}\)</span> denoted by <span class="math">\(I_A\)</span>, is the function <span class="math">\(I_A: A \to A\)</span> defined by <span class="math">\(I_A ( x ) = x\)</span> for every <span class="math">\(x\)</span> in <span class="math">\(A\text{.}\)</span> That is, for the identity map, <strong>the output is always equal to the input</strong>.&quot;</td>
+<td>设 <span class="math">\(A\)</span> 是非空集合。集合 <span class="math">\(\boldsymbol{A}\)</span> 上的恒等函数记作 <span class="math">\(I_A\)</span>，是由 <span class="math">\(I_A ( x ) = x\)</span>（对 <span class="math">\(A\)</span> 中的每个 <span class="math">\(x\)</span>）定义的函数 <span class="math">\(I_A: A \to A\)</span>。也就是说，对恒等映射，<strong>输出总是等于输入</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#pr_equalfunc">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Average of a Finite Set of Numbers</strong><br>有限数集的平均数</td>
+<td>&quot;Let <span class="math">\(A = \left\{ a_1, a_2, \ldots, a_n \right\}\)</span> be a finite set whose elements are the distinct real numbers <span class="math">\(a_1, a_2, \ldots, a_n\text{.}\)</span> We define the average of the set <span class="math">\(A\)</span> to be the real number <span class="math">\(\bar{A}\text{,}\)</span> where <span class="math">\(\bar{A} = \frac{a_1 + a_2 + \cdots + a_n}{n}\text{.}\)</span>&quot;</td>
+<td>设 <span class="math">\(A = \left\{ a_1, a_2, \ldots, a_n \right\}\)</span> 是有限集，其元素是互不相同的实数 <span class="math">\(a_1, a_2, \ldots, a_n\)</span>。定义集合 <span class="math">\(A\)</span> 的平均数为实数 <span class="math">\(\bar{A}\)</span>，其中 <span class="math">\(\bar{A} = \frac{a_1 + a_2 + \cdots + a_n}{n}\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#pr_average">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Sequence</strong><br>数列</td>
+<td>&quot;An (infinite) sequence is <strong>a function whose domain is</strong> <span class="math">\(\mathbb{N}\)</span> or some infinite subset of <span class="math">\(\mathbb{N} \cup \left\{ 0 \right\}\text{.}\)</span>&quot;</td>
+<td>（无穷）数列是<strong>一个函数，其定义域是</strong> <span class="math">\(\mathbb{N}\)</span>，或 <span class="math">\(\mathbb{N} \cup \left\{ 0 \right\}\)</span> 的某个无穷子集。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#sequence">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Function of Two Variables</strong><br>二元函数</td>
+<td>&quot;Since the domain of this function is <span class="math">\(\mathbb Z \times \mathbb Z\)</span> and <strong>each element of</strong> <span class="math">\(\mathbb Z \times \mathbb Z\)</span> <strong>is an ordered pair of integers</strong>, we frequently call this type of function a function of two variables.&quot;</td>
+<td>由于这个函数的定义域是 <span class="math">\(\mathbb Z \times \mathbb Z\)</span>，而 <span class="math">\(\mathbb Z \times \mathbb Z\)</span> <strong>的每个元素</strong>都<strong>是整数有序对</strong>，我们常把这类函数称为二元函数。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#li-508">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Projection Function</strong><br>投影函数</td>
+<td>&quot;One projection function will <strong>map an ordered pair to its first coordinate</strong>, and the other projection function will <strong>map the ordered pair to its second coordinate</strong>.&quot;</td>
+<td>一个投影函数<strong>把有序对映射到它的第一个坐标</strong>，另一个投影函数<strong>把有序对映射到它的第二个坐标</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#sym_projfunc">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Matrix</strong><br>矩阵</td>
+<td>&quot;A 2 by 2 matrix over <span class="math">\(\mathbb{R}\)</span> is <strong>a rectangular array of four real numbers arranged in two rows and two columns</strong>.&quot;</td>
+<td><span class="math">\(\mathbb{R}\)</span> 上的 2 乘 2 矩阵是<strong>排成两行两列的四个实数组成的矩形阵列</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#sym_determinant">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Determinant</strong><br>行列式</td>
+<td>&quot;The determinant of the 2 by 2 matrix <span class="math">\(A\text{,}\)</span> denoted by <span class="math">\(\det( A )\text{,}\)</span> is defined as <span class="math">\(\det( A ) = ad - bc\text{.}\)</span>&quot;</td>
+<td>2 乘 2 矩阵 <span class="math">\(A\)</span> 的行列式记作 <span class="math">\(\det( A )\)</span>，定义为 <span class="math">\(\det( A ) = ad - bc\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#sym_determinant">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Transpose</strong><br>转置</td>
+<td>&quot;The transpose of the matrix <span class="math">\(\boldsymbol{A}\)</span>, denoted by <span class="math">\(A^T\text{,}\)</span> is the 2 by 2 matrix over <span class="math">\(\mathbb{R}\)</span> defined by <span class="math">\(A^T = \left[ {\begin{array}{*{20}c} a &amp; c \\ b &amp; d \end{array} } \right]\text{.}\)</span>&quot;</td>
+<td>矩阵 <span class="math">\(\boldsymbol{A}\)</span> 的转置记作 <span class="math">\(A^T\)</span>，是由 <span class="math">\(A^T = \left[ {\begin{array}{*{20}c} a &amp; c \\ b &amp; d \end{array} } \right]\)</span> 定义的 <span class="math">\(\mathbb{R}\)</span> 上的 2 乘 2 矩阵。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#sym_transpose">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+<tr>
+<td><strong>Fundamental Theorem of Calculus</strong><br>微积分基本定理</td>
+<td>&quot;In fact, one form of the Fundamental Theorem of Calculus states that <span class="math">\(\int_a^b {f( x ) \, dx} = F( b ) - F( a )\text{,}\)</span> where <span class="math">\(F\)</span> is <strong>any antiderivative of</strong> <span class="math">\(f\text{,}\)</span> that is, where <span class="math">\(F \,' = f\text{.}\)</span>&quot;</td>
+<td>事实上，微积分基本定理的一种形式是 <span class="math">\(\int_a^b {f( x ) \, dx} = F( b ) - F( a )\)</span>，其中 <span class="math">\(F\)</span> 是 <span class="math">\(f\)</span> <strong>的任意一个原函数</strong>，即 <span class="math">\(F \,' = f\)</span>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_moreaboutfunctions.html#activity-35">Sundstrom, 2022, section 6.2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Sundstrom, T. (2022). <em>Mathematical reasoning: Writing and proof</em> (Version 2.1; PreTeXt edition by Grand Valley State University). Retrieved October 30, 2026, from <a href="https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html">https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 13:36:26-04:00">10/30/2026 13:36:26</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

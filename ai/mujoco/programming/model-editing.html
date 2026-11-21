@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.8 Model Editing | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 5.8 Model Editing: Overview, Model Parsing &amp; Loading, Model Compilation, Model Encoding &amp; Saving, MJZ Archives, Custom formats, Usage.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="58-model-editing">5.8 Model Editing</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/model-editing.png" alt="5.8 Model Editing: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.8 Model Editing</strong><br>模型编辑</td>
+<td>(context) &quot;It is possible to <strong>create and modify models using the mjSpec struct and related API</strong>.&quot;</td>
+<td>（语境）可以<strong>用 mjSpec 结构体和相关 API 创建和修改模型</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-editing">Google DeepMind, n.d., &quot;Model Editing&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Overview</strong><br>概述</td>
+<td>&quot;The API augments the traditional workflow of creating and editing models using XML files, <strong>breaking up the parse and compile steps</strong>.&quot;</td>
+<td>这套 API 扩充了用 XML 文件创建和编辑模型的传统工作流程，<strong>把解析和编译两个步骤拆开</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#overview">Google DeepMind, n.d., &quot;Overview&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Model Parsing &amp; Loading</strong><br>模型解析与加载</td>
+<td>&quot;As summarized in Model instances, model description files (MJCF, MJZ, URDF, USD) are <strong>parsed into an mjSpec using mj_parse</strong> (or mjSpec.from_file() / mjSpec.from_string() in Python).&quot;</td>
+<td>如“模型实例”一节所概述，模型描述文件（MJCF、MJZ、URDF、USD）<strong>用 mj_parse 解析为 mjSpec</strong>（在 Python 中用 mjSpec.from_file() 或 mjSpec.from_string()）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-parsing-loading">Google DeepMind, n.d., &quot;Model Parsing &amp; Loading&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Model Compilation</strong><br>模型编译</td>
+<td>&quot;Once a high-level mjSpec is created—by parsing a file, loading an archive, or constructing it programmatically—it is <strong>compiled into an mjModel using mj_compile</strong>.&quot;</td>
+<td>高层的 mjSpec 一旦创建（通过解析文件、加载归档或以编程方式构建），就<strong>用 mj_compile 编译成 mjModel</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-compilation">Google DeepMind, n.d., &quot;Model Compilation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Model Encoding &amp; Saving</strong><br>模型编码与保存</td>
+<td>&quot;Model specs and compiled models can be <strong>serialized to files using mj_encode</strong>, or directly saved to XML strings using mj_saveXMLString or mj_saveXML.&quot;</td>
+<td>模型 spec 和编译后的模型可以<strong>用 mj_encode 序列化到文件</strong>，或用 mj_saveXMLString 或 mj_saveXML 直接保存为 XML 字符串。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-encoding-saving">Google DeepMind, n.d., &quot;Model Encoding &amp; Saving&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>MJCF XML</strong><br>MJCF XML 格式</td>
+<td>&quot;Flattens <strong>the spec into a single MJCF XML file</strong> using mj_saveXML.&quot;</td>
+<td>用 mj_saveXML 把<strong>spec 展平为单个 MJCF XML 文件</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-encoding-saving">Google DeepMind, n.d., &quot;Model Encoding &amp; Saving&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>MJZ Archive</strong><br>MJZ 归档</td>
+<td>&quot;Bundles <strong>the spec and all associated external assets (meshes, textures, included XMLs) into a self-contained Zip archive</strong> via the built-in mjz_encoder.&quot;</td>
+<td>通过内置的 mjz_encoder 把<strong>spec 及所有关联的外部资源（网格、纹理、被包含的 XML）打包成一个自包含的 Zip 归档</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-encoding-saving">Google DeepMind, n.d., &quot;Model Encoding &amp; Saving&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>MJB Binary</strong><br>MJB 二进制</td>
+<td>&quot;Serializes <strong>the compiled mjModel in MuJoCo binary format</strong> via mj_saveModel.&quot;</td>
+<td>通过 mj_saveModel 把<strong>编译后的 mjModel 序列化为 MuJoCo 二进制格式</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-encoding-saving">Google DeepMind, n.d., &quot;Model Encoding &amp; Saving&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>TXT</strong><br>TXT 文本</td>
+<td>&quot;Writes <strong>a human-readable text dump</strong> via mj_printModel.&quot;</td>
+<td>通过 mj_printModel 写出<strong>人类可读的文本转储</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-encoding-saving">Google DeepMind, n.d., &quot;Model Encoding &amp; Saving&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>MJZ Archives</strong><br>MJZ 归档</td>
+<td>&quot;The MJZ format (extension .mjz or .zip) provides <strong>a convenient way to bundle an entire model and all of its referenced assets into a single Zip archive</strong>.&quot;</td>
+<td>MJZ 格式（扩展名 .mjz 或 .zip）提供了<strong>一种方便的方式，把整个模型及其引用的所有资源打包成单个 Zip 归档</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#mjz-archives">Google DeepMind, n.d., &quot;MJZ Archives&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Root XML Discovery</strong><br>根 XML 查找</td>
+<td>(context) &quot;When decoding an .mjz archive, MuJoCo <strong>searches for the root model XML file in the following order</strong>:&quot;</td>
+<td>（语境）解码 .mjz 归档时，MuJoCo <strong>按以下顺序查找根模型 XML 文件</strong>：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#root-xml-discovery">Google DeepMind, n.d., &quot;Root XML Discovery&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Custom formats</strong><br>自定义格式</td>
+<td>(context) &quot;Adding support for new file formats can be done with <strong>mjp_registerDecoder and mjp_registerEncoder</strong>.&quot;</td>
+<td>（语境）可以用 <strong>mjp_registerDecoder 和 mjp_registerEncoder</strong> 添加对新文件格式的支持。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#custom-formats">Google DeepMind, n.d., &quot;Custom formats&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Usage</strong><br>用法</td>
+<td>(context) &quot;Here we describe <strong>the C API for procedural model editing</strong>, but it is also exposed in the Python bindings.&quot;</td>
+<td>（语境）这里介绍<strong>用于程序化模型编辑的 C API</strong>，它也在 Python 绑定中提供。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#usage">Google DeepMind, n.d., &quot;Usage&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Model elements</strong><br>模型元素</td>
+<td>&quot;Model elements corresponding to MJCF are <strong>exposed to the user as C structs with the mjs prefix</strong>.&quot;</td>
+<td>对应 MJCF 的模型元素<strong>以带 mjs 前缀的 C 结构体提供给用户</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#model-elements">Google DeepMind, n.d., &quot;Model elements&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Memory management</strong><br>内存管理</td>
+<td>&quot;The library <strong>takes ownership of all elements and frees them when the parent mjSpec is deleted</strong> using mj_deleteSpec.&quot;</td>
+<td>库<strong>拥有所有元素的所有权，并在用 mj_deleteSpec 删除父 mjSpec 时释放它们</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#memory-management">Google DeepMind, n.d., &quot;Memory management&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Attachment</strong><br>附加</td>
+<td>&quot;Attachment allows the user to <strong>move or copy a subtree from one model into another</strong>, while also copying or moving related referenced assets and referencing elements from outside the kinematic tree (e.g., actuators and sensors).&quot;</td>
+<td>附加允许用户<strong>把一个子树从一个模型移动或复制到另一个模型中</strong>，同时复制或移动相关的被引用资源，以及运动学树之外引用它的元素（例如执行器和传感器）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#attachment">Google DeepMind, n.d., &quot;Attachment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>shallow copy</strong><br>浅复制</td>
+<td>&quot;The default behavior (“shallow copy”) is to <strong>move the child into the parent while attaching</strong>, so subsequent changes to the child will also change the parent.&quot;</td>
+<td>默认行为（“浅复制”）是<strong>在附加时把子模型移入父模型</strong>，因此之后对子模型的修改也会改变父模型。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#attachment">Google DeepMind, n.d., &quot;Attachment&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Attribute Merging</strong><br>属性合并</td>
+<td>&quot;A conflict occurs when <strong>both the parent and child specify authored values for the same field and those values differ</strong>.&quot;</td>
+<td>当<strong>父模型和子模型对同一字段都指定了显式设置的值，且这些值不同</strong>时，就发生冲突。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#attribute-merging">Google DeepMind, n.d., &quot;Attribute Merging&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>warning (default)</strong><br>warning（默认）</td>
+<td>&quot;Parent values take precedence. Whenever a conflict is detected, <strong>a warning is emitted but the parent value is not modified</strong>.&quot;</td>
+<td>父模型的值优先。每当检测到冲突时，<strong>发出一个警告，但父模型的值不被修改</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#attribute-merging">Google DeepMind, n.d., &quot;Attribute Merging&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>merge</strong><br>merge（合并）</td>
+<td>&quot;Attribute values are <strong>merged using a per-field strategy</strong> as described in the table below.&quot;</td>
+<td>属性值<strong>按逐字段策略合并</strong>，见下表。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#attribute-merging">Google DeepMind, n.d., &quot;Attribute Merging&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>error</strong><br>error（报错）</td>
+<td>&quot;Any conflict results in <strong>a compile error</strong>.&quot;</td>
+<td>任何冲突都会导致<strong>编译错误</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#attribute-merging">Google DeepMind, n.d., &quot;Attribute Merging&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>Default classes</strong><br>默认类</td>
+<td>&quot;As explained in the Default settings section, default classes are <strong>first loaded as a tree of dummy elements, which are then used to initialize elements which reference them</strong>.&quot;</td>
+<td>如“默认设置”一节所述，默认类<strong>先被加载为一棵由虚元素组成的树，再用来初始化引用它们的元素</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#default-classes">Google DeepMind, n.d., &quot;Default classes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>In-place recompilation</strong><br>就地重新编译</td>
+<td>&quot;In contrast, mj_recompile <strong>updates an existing mjModel and mjData pair in-place, while preserving the simulation state</strong>.&quot;</td>
+<td>相比之下，mj_recompile <strong>就地更新已有的一对 mjModel 和 mjData，同时保留仿真状态</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html#in-place-recompilation">Google DeepMind, n.d., &quot;In-place recompilation&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Model Editing</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/programming/modeledit.html">https://mujoco.readthedocs.io/en/stable/programming/modeledit.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

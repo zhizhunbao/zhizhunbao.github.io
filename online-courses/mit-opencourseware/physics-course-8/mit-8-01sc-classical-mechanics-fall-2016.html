@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.8.1 MIT 8.01SC Classical Mechanics, Fall 2016 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Physics (Course 8) &gt; MIT 8.01SC Classical Mechanics, Fall 2016: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="281-mit-801sc-classical-mechanics-fall-2016">2.8.1 MIT 8.01SC Classical Mechanics, Fall 2016</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MIT 8.01SC Classical Mechanics, Fall 2016</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8.01SC</td>
+<td></td>
+<td>Fall 2016</td>
+<td>215</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=F3N5EkMX_ks&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="8.01SC Classical Mechanics Introduction">Classical Mechanics Introduction</a></td>
+<td>2:15</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=5ucfHd8FWKw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="0.1 Vectors vs. Scalars">0.1 Vectors vs. Scalars</a></td>
+<td>1:07</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=Jf2PgGInUEk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="0.2 Vector Operators">0.2 Vector Operators</a></td>
+<td>2:14</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=Bq0fDYtbfBA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="0.3 Coordinate Systems and Unit Vectors">0.3 Coordinate Systems and Unit Vectors</a></td>
+<td>1:04</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=pW6tqp1zRrg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="0.4 Vectors - Magnitude and Direction">0.4 Vectors - Magnitude and Direction</a></td>
+<td>0:40</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=VZm6mxu2xlk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="0.5 Vector Decomposition into components">0.5 Vector Decomposition into components</a></td>
+<td>1:38</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=esHLwySu4XU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="0.6 Going Between Representations">0.6 Going Between Representations</a></td>
+<td>1:36</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=i4u7SZjoAs4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="1.0 Week 1 Introduction (8.01 Classical Mechanics)">1.0 Week 1 Introduction (8.01 Classical Mechanics)</a></td>
+<td>2:15</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=ErlP_SBcA1s&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="1.1 Coordinate Systems and Unit Vectors in 1D">1.1 Coordinate Systems and Unit Vectors in 1D</a></td>
+<td>3:06</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=kJxsMnRZXqE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="1.2 Position Vector in 1D">1.2 Position Vector in 1D</a></td>
+<td>2:25</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=W1lxlbJ0BZU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="1.3 Displacement Vector in 1D">1.3 Displacement Vector in 1D</a></td>
+<td>3:28</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=otGGuHt36XA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="1.4 Average Velocity in 1D">1.4 Average Velocity in 1D</a></td>
+<td>2:18</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=YdyhDdXaSP4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="1.5 Instantaneous Velocity in 1D">1.5 Instantaneous Velocity in 1D</a></td>
+<td>5:40</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=jtOxRPQDuJs&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="1.7 Worked Example: Derivatives in Kinematics">1.7 Worked Example: Derivatives in Kinematics</a></td>
+<td>3:08</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=xZn4l1TSvPQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="2.1 Introduction to Acceleration">2.1 Introduction to Acceleration</a></td>
+<td>3:26</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=qxNJGKrx3EY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="2.2 Acceleration in 1D">2.2 Acceleration in 1D</a></td>
+<td>4:29</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=qmCbc9dbwXU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="2.3 Worked Example: Acceleration from Position">2.3 Worked Example: Acceleration from Position</a></td>
+<td>3:45</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=H7xmTMQ265s&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="2.4 Integration">2.4 Integration</a></td>
+<td>22:34</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=Q3v_2znHCvg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="3.1 Coordinate System and Position Vector in 2D">3.1 Coordinate System and Position Vector in 2D</a></td>
+<td>2:17</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=oOQmu6ICxg4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="3.2 Instantaneous Velocity in 2D">3.2 Instantaneous Velocity in 2D</a></td>
+<td>6:12</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=sgymEX-4FxE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="3.3 Instantaneous Acceleration in 2D">3.3 Instantaneous Acceleration in 2D</a></td>
+<td>5:20</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=83NmtaE7fEk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="3.4 Projectile Motion">3.4 Projectile Motion</a></td>
+<td>6:12</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=_zl4b5MnPF0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="3.5 Demo: Shooting an Apple">3.5 Demo: Shooting an Apple</a></td>
+<td>0:52</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=rqTAICbKHYM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="3.5 Demo: Relative Motion Gun">3.5 Demo: Relative Motion Gun</a></td>
+<td>0:35</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=5zXYEVWSIsg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.1.1 Three Questions Before Starting">PS.1.1 Three Questions Before Starting</a></td>
+<td>2:07</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=PQfYJ2TjpEU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.1.2 Shooting the apple solution">PS.1.2 Shooting the apple solution</a></td>
+<td>10:19</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=pb5hUGBjS3A&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="P.1.3 Worked Example: Braking Car">P.1.3 Worked Example: Braking Car</a></td>
+<td>6:47</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=ZjGjNsmsNBU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="P.1.4 Sketch the Motion">P.1.4 Sketch the Motion</a></td>
+<td>2:10</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=SjK2lmRFxc4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="P.1.5 Worked Example: Pedestrian and Bike at Intersection">P.1.5 Worked Example: Pedestrian and Bike at Intersection</a></td>
+<td>13:59</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=yLb_a1EE888&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="4.0 Week 2 Introduction">4.0 Week 2 Introduction</a></td>
+<td>2:23</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=89SjJv30kGU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="4.1 Newton's First and Second Laws">4.1 Newton's First and Second Laws</a></td>
+<td>4:16</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=4K539RaRDXU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="4.2 Newton's Third Law">4.2 Newton's Third Law</a></td>
+<td>7:15</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=QCA3zOe2xdA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="4.3 Reference Frames">4.3 Reference Frames</a></td>
+<td>9:26</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=z0xyQKalezI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="4.4 Non-inertial Reference Frames">4.4 Non-inertial Reference Frames</a></td>
+<td>4:38</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=NiCMMn12CIs&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="5.1 Universal Law of Gravitation">5.1 Universal Law of Gravitation</a></td>
+<td>6:55</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=_mqFIqnCPak&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="5.2 Worked Example: Gravity - Superposition">5.2 Worked Example: Gravity - Superposition</a></td>
+<td>8:46</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=gl9c9qJRqcM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="5.3 Gravity at the surface of the Earth: The value of g.">5.3 Gravity at the surface of the Earth: The value of g.</a></td>
+<td>4:49</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=IV9NhNIrrDw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="6.1 Contact Forces">6.1 Contact Forces</a></td>
+<td>3:18</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=mLLUgcvQLgY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="6.2 Static Friction">6.2 Static Friction</a></td>
+<td>3:20</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=RBaBEjzMr4E&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="7.1 Pushing Pulling and Tension">7.1 Pushing Pulling and Tension</a></td>
+<td>4:17</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=CfBeCHrQj_U&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="7.2 Ideal Rope">7.2 Ideal Rope</a></td>
+<td>4:58</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=dHMGV_WOG7w&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="7.3 Solving Pulley Systems">7.3 Solving Pulley Systems</a></td>
+<td>9:56</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=rCP_-Wuikwo&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="7.4 Hooke's Law">7.4 Hooke's Law</a></td>
+<td>6:00</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=sffRo1-_D8E&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.1.1 Friction at the Nanoscale">DD.1.1 Friction at the Nanoscale</a></td>
+<td>39:12</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=7WDiK3flILc&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.2.1 Worked Example - Sliding Block">PS.2.1 Worked Example - Sliding Block</a></td>
+<td>6:20</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=63U4_OxohOw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.2.2 Worked Example - Stacked Blocks - Free Body Diagrams and Applying Newtons 2nd Law">PS.2.2 Worked Example - Stacked Blocks - Free Body Diagrams and Applying Newtons 2nd Law</a></td>
+<td>8:13</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=uhaFP0xEmzM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.2.2 Worked Example - Stacked Blocks - Solve for the Maximum Force">PS.2.2 Worked Example - Stacked Blocks - Solve for the Maximum Force</a></td>
+<td>4:44</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=l062G7RC8-o&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.2.2 Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together">PS.2.2 Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together</a></td>
+<td>5:28</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=XeTsZhYHY_E&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.2.3 Window Washer Free Body Diagrams">PS.2.3 Window Washer Free Body Diagrams</a></td>
+<td>10:13</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=ozIdCgo5uI4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.2.3 Window Washer Solution">PS.2.3 Window Washer Solution</a></td>
+<td>2:26</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=sfH3Jw6LZm8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="Newton's 3rd Law Pairs">Newton's 3rd Law Pairs</a></td>
+<td>4:18</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=aAybYawUPC4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="Internal and External Forces">Internal and External Forces</a></td>
+<td>3:44</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=_r7pI2_FjSg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="Applying Newton's 2nd Law">Applying Newton's 2nd Law</a></td>
+<td>3:17</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=dlJtUvRaGdE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="8.0 Week 3 Introduction">8.0 Week 3 Introduction</a></td>
+<td>1:27</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=uo86ir31pn0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="8.1 Polar Coordinates">8.1 Polar Coordinates</a></td>
+<td>3:35</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=S9_Oe51XkVY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="8.2 Circular Motion: Position and Velocity Vectors">8.2 Circular Motion: Position and Velocity Vectors</a></td>
+<td>6:02</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=q785KV5ZIN0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="8.3 Angular Velocity">8.3 Angular Velocity</a></td>
+<td>5:31</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=emrHcqEvXpw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="9.1 Uniform Circular Motion">9.1 Uniform Circular Motion</a></td>
+<td>3:50</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=l_NW5pPXhg4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="9.2 Uniform Circular Motion: Direction of the Acceleration">9.2 Uniform Circular Motion: Direction of the Acceleration</a></td>
+<td>3:36</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=_0PrwAbgoMA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="10.1 Circular Motion - Acceleration">10.1 Circular Motion - Acceleration</a></td>
+<td>4:00</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=prCwfSiWuq0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="10.2 Angular Acceleration">10.2 Angular Acceleration</a></td>
+<td>6:21</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=lufK0UlJ7aE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="10.3 Worked Example - Angular position from angular acceleration.">10.3 Worked Example - Angular position from angular acceleration.</a></td>
+<td>4:45</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=tniGFmPQc0E&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="11.1 Newton's 2nd Law and Circular Motion">11.1 Newton's 2nd Law and Circular Motion</a></td>
+<td>3:17</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=ofgusnhQ07Q&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="11.2 Worked Example - Car on a Banked Turn">11.2 Worked Example - Car on a Banked Turn</a></td>
+<td>7:37</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=WLHAaaGHfe8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="11.3 Demo: Rotating Bucket">11.3 Demo: Rotating Bucket</a></td>
+<td>0:40</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=gEX7MjWwocE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.3.1 Worked Example - Orbital Circular Motion - Radius">PS.3.1 Worked Example - Orbital Circular Motion - Radius</a></td>
+<td>3:44</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=bX4liSWB4Gk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.3.1 Worked Example - Orbital Circular Motion - Velocity">PS.3.1 Worked Example - Orbital Circular Motion - Velocity</a></td>
+<td>1:07</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=vkWY73HnNYA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.3.1 Worked Example - Orbital Circular Motion - Period">PS.3.1 Worked Example - Orbital Circular Motion - Period</a></td>
+<td>1:40</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=0mGd0JUmgm8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="12.0 Week 4 Introduction">12.0 Week 4 Introduction</a></td>
+<td>2:16</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=FNOfxJxceIM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="12.1 Pulley Problems">12.1 Pulley Problems</a></td>
+<td>10:30</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=gWLC3r6EHl0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="12.2 Constraint Condition">12.2 Constraint Condition</a></td>
+<td>7:07</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=GuiIyYbI0HM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="12.3 Virtual Displacement">12.3 Virtual Displacement</a></td>
+<td>3:43</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=lw9W32ezQhM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="12.4 Solve the System of Equations">12.4 Solve the System of Equations</a></td>
+<td>4:04</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=3V5y9uq5au0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="12.5 Worked Example: 2 Blocks and 2 Pulleys">12.5 Worked Example: 2 Blocks and 2 Pulleys</a></td>
+<td>8:41</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=9NS0JcjNdp4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="13.1 Rope Hanging Between Trees">13.1 Rope Hanging Between Trees</a></td>
+<td>3:36</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=NBOL5X13UFY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="13.2 Differential Analysis of a Massive Rope">13.2 Differential Analysis of a Massive Rope</a></td>
+<td>15:34</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=cadbtBS5qf4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="13.3 Differential Elements">13.3 Differential Elements</a></td>
+<td>1:04</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=5QKJG0FZTio&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="13.4 Density">13.4 Density</a></td>
+<td>0:52</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=Veyh-DhI8lE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="13.5 Demo: Wrapping Friction">13.5 Demo: Wrapping Friction</a></td>
+<td>1:01</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=vUg50UI1aqs&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="13.6 Summary for Differential Analysis">13.6 Summary for Differential Analysis</a></td>
+<td>1:18</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=30Ww1HsRblM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="14.1 Intro to resistive forces">14.1 Intro to resistive forces</a></td>
+<td>4:52</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=JTePtoM_MeM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="14.2 Resistive forces - low speed case">14.2 Resistive forces - low speed case</a></td>
+<td>8:26</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=flwYlUfw4WU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="14.3 Resistive forces - high speed case">14.3 Resistive forces - high speed case</a></td>
+<td>10:50</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=n1cXiw3s72k&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="15.0 Week 5 Introduction">15.0 Week 5 Introduction</a></td>
+<td>2:28</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=1GvCIlHihEA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="15.1 Momentum and Impulse">15.1 Momentum and Impulse</a></td>
+<td>7:21</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=xtpW7fw8s34&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="15.2 Impulse is a Vector">15.2 Impulse is a Vector</a></td>
+<td>3:16</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=bEpq3yjismU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="15.3 Worked Example - Bouncing Ball">15.3 Worked Example - Bouncing Ball</a></td>
+<td>6:38</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=sxv80X2jQYQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="15.4 Momentum of a System of Point Particles">15.4 Momentum of a System of Point Particles</a></td>
+<td>4:45</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=Cslq_ZYdYwE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="15.5 Force on a System of Particles">15.5 Force on a System of Particles</a></td>
+<td>9:06</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=Vg8t8_IOHDg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="16.1 Cases of Constant Momentum">16.1 Cases of Constant Momentum</a></td>
+<td>5:34</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=w7z_z-lucyU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="16.2 Momentum Diagrams">16.2 Momentum Diagrams</a></td>
+<td>5:18</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=ol1COj0LACs&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="17.1 Definition of the Center of Mass">17.1 Definition of the Center of Mass</a></td>
+<td>4:32</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=-b0dFcebPcs&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="17.2 Worked Example - Center of Mass of 3 Objects">17.2 Worked Example - Center of Mass of 3 Objects</a></td>
+<td>7:14</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=e548hRYcXlg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="17.3 Center of Mass of a Continuous System">17.3 Center of Mass of a Continuous System</a></td>
+<td>2:55</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=CFh3gu-z_rc&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="17.5 Worked Example - Center of Mass of a Uniform Rod">17.5 Worked Example - Center of Mass of a Uniform Rod</a></td>
+<td>5:51</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=QPV-DmpGXeQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="17.6 Velocity and Acceleration of the Center of Mass">17.6 Velocity and Acceleration of the Center of Mass</a></td>
+<td>4:16</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=xxGA-7soXiw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="17.7 Reduction of a System to a Point Particle">17.7 Reduction of a System to a Point Particle</a></td>
+<td>4:03</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=D2lW7o32fzk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="18.0 Week 6 Introduction">18.0 Week 6 Introduction</a></td>
+<td>0:53</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=sN-m5WkbMyI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="18.1 Relative Velocity">18.1 Relative Velocity</a></td>
+<td>1:57</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=L5jhg4q1Xvo&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="18.2 Set up a Recoil Problem">18.2 Set up a Recoil Problem</a></td>
+<td>6:28</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=7TljYDljC5w&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="18.3 Solve for Velocity in the Ground Frame">18.3 Solve for Velocity in the Ground Frame</a></td>
+<td>3:00</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=V-fy33vi-64&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="18.4 Solve for Velocity in the Moving Frame">18.4 Solve for Velocity in the Moving Frame</a></td>
+<td>2:09</td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="https://www.youtube.com/watch?v=YGR5_Hf9dDg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="19.1 Rocket Problem 1 - Set up the Problem">19.1 Rocket Problem 1 - Set up the Problem</a></td>
+<td>3:48</td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="https://www.youtube.com/watch?v=7Mv5hT1nugQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="19.2 Rocket Problem 2 - Momentum Diagrams">19.2 Rocket Problem 2 - Momentum Diagrams</a></td>
+<td>5:00</td>
+</tr>
+<tr>
+<td>105</td>
+<td><a href="https://www.youtube.com/watch?v=Xsg27_uGVZA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="19.3 Rocket Problem 3 - Mass Relations">19.3 Rocket Problem 3 - Mass Relations</a></td>
+<td>2:50</td>
+</tr>
+<tr>
+<td>106</td>
+<td><a href="https://www.youtube.com/watch?v=uua2hbbp7h4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="19.4 Rocket Problem 4 - Solution">19.4 Rocket Problem 4 - Solution</a></td>
+<td>5:30</td>
+</tr>
+<tr>
+<td>107</td>
+<td><a href="https://www.youtube.com/watch?v=SLPRYIb7RdI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="19.5 Rocket Problem 5 - Thrust and External Forces">19.5 Rocket Problem 5 - Thrust and External Forces</a></td>
+<td>3:28</td>
+</tr>
+<tr>
+<td>108</td>
+<td><a href="https://www.youtube.com/watch?v=UPnqIKBAMaQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="19.6 Rocket Problem 6 - Solution for No External Forces">19.6 Rocket Problem 6 - Solution for No External Forces</a></td>
+<td>5:10</td>
+</tr>
+<tr>
+<td>109</td>
+<td><a href="https://www.youtube.com/watch?v=9VJetX_EQqs&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="19.7 Rocket Problem 7 - Solution with External Forces">19.7 Rocket Problem 7 - Solution with External Forces</a></td>
+<td>5:07</td>
+</tr>
+<tr>
+<td>110</td>
+<td><a href="https://www.youtube.com/watch?v=dvWKCH0ocu8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.6.1 Rocket Sled - Differential Equation">PS.6.1 Rocket Sled - Differential Equation</a></td>
+<td>3:11</td>
+</tr>
+<tr>
+<td>111</td>
+<td><a href="https://www.youtube.com/watch?v=7Kq8BINVDiw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.6.1 Rocket Sled - Integrate the Rocket Equation">PS.6.1 Rocket Sled - Integrate the Rocket Equation</a></td>
+<td>3:33</td>
+</tr>
+<tr>
+<td>112</td>
+<td><a href="https://www.youtube.com/watch?v=bHocXJ4rv5g&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.6.1 Rocket Sled - Solve for Initial Velocity">PS.6.1 Rocket Sled - Solve for Initial Velocity</a></td>
+<td>1:03</td>
+</tr>
+<tr>
+<td>113</td>
+<td><a href="https://www.youtube.com/watch?v=nWaoEjE8a8M&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.6.2 Snowplow Problem">PS.6.2 Snowplow Problem</a></td>
+<td>8:11</td>
+</tr>
+<tr>
+<td>114</td>
+<td><a href="https://www.youtube.com/watch?v=0qEIs6ie2q8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="20.0 Week 7 Introduction">20.0 Week 7 Introduction</a></td>
+<td>2:04</td>
+</tr>
+<tr>
+<td>115</td>
+<td><a href="https://www.youtube.com/watch?v=efpiHD_2O8E&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="20.1 Kinetic Energy">20.1 Kinetic Energy</a></td>
+<td>2:41</td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href="https://www.youtube.com/watch?v=d9ugFckUBcg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="20.2 Work by a Constant Force">20.2 Work by a Constant Force</a></td>
+<td>3:44</td>
+</tr>
+<tr>
+<td>117</td>
+<td><a href="https://www.youtube.com/watch?v=QAdiRwOLl0A&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="20.3 Work by a Non-Constant Force">20.3 Work by a Non-Constant Force</a></td>
+<td>6:20</td>
+</tr>
+<tr>
+<td>118</td>
+<td><a href="https://www.youtube.com/watch?v=m8_3VwHy7tE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="20.4 Integrate adt and adx">20.4 Integrate adt and adx</a></td>
+<td>4:50</td>
+</tr>
+<tr>
+<td>119</td>
+<td><a href="https://www.youtube.com/watch?v=TF93gm1_O8M&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="20.5 Work-Kinetic Energy Theorem">20.5 Work-Kinetic Energy Theorem</a></td>
+<td>1:56</td>
+</tr>
+<tr>
+<td>120</td>
+<td><a href="https://www.youtube.com/watch?v=FSW9EQNZvxI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="20.6 Power">20.6 Power</a></td>
+<td>1:07</td>
+</tr>
+<tr>
+<td>121</td>
+<td><a href="https://www.youtube.com/watch?v=2TZa151GC-0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="21.1 Scalar Product Properties">21.1 Scalar Product Properties</a></td>
+<td>7:47</td>
+</tr>
+<tr>
+<td>122</td>
+<td><a href="https://www.youtube.com/watch?v=CsHQ35j_1kY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="21.2 Scalar Product in Cartesian Coordinates">21.2 Scalar Product in Cartesian Coordinates</a></td>
+<td>4:50</td>
+</tr>
+<tr>
+<td>123</td>
+<td><a href="https://www.youtube.com/watch?v=zLGu1dlP0UY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="21.3 Kinetic Energy as a Scalar Product">21.3 Kinetic Energy as a Scalar Product</a></td>
+<td>2:01</td>
+</tr>
+<tr>
+<td>124</td>
+<td><a href="https://www.youtube.com/watch?v=oQqskrRWGco&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="21.4 Work in 2D and 3D">21.4 Work in 2D and 3D</a></td>
+<td>5:25</td>
+</tr>
+<tr>
+<td>125</td>
+<td><a href="https://www.youtube.com/watch?v=i2_731Gi9bg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="21.5 Work-Kinetic Energy Theorem in 2D and 3D">21.5 Work-Kinetic Energy Theorem in 2D and 3D</a></td>
+<td>5:51</td>
+</tr>
+<tr>
+<td>126</td>
+<td><a href="https://www.youtube.com/watch?v=ykwNGB9kuaA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="21.6 Worked Example: Block Going Down a Ramp">21.6 Worked Example: Block Going Down a Ramp</a></td>
+<td>5:59</td>
+</tr>
+<tr>
+<td>127</td>
+<td><a href="https://www.youtube.com/watch?v=fLuyZ7ayDog&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="22.1 Path Independence - Gravity">22.1 Path Independence - Gravity</a></td>
+<td>5:39</td>
+</tr>
+<tr>
+<td>128</td>
+<td><a href="https://www.youtube.com/watch?v=0jWwl0bt6aU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="22.2 Path Dependence - Friction">22.2 Path Dependence - Friction</a></td>
+<td>5:17</td>
+</tr>
+<tr>
+<td>129</td>
+<td><a href="https://www.youtube.com/watch?v=nfawe03nvAY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="22.3 Conservative Forces">22.3 Conservative Forces</a></td>
+<td>2:30</td>
+</tr>
+<tr>
+<td>130</td>
+<td><a href="https://www.youtube.com/watch?v=OwNr82QgkP8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="22.4 Non-conservative Forces">22.4 Non-conservative Forces</a></td>
+<td>1:44</td>
+</tr>
+<tr>
+<td>131</td>
+<td><a href="https://www.youtube.com/watch?v=ZBlHexE8m6A&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="22.5 Summary of Work and Kinetic Energy">22.5 Summary of Work and Kinetic Energy</a></td>
+<td>7:00</td>
+</tr>
+<tr>
+<td>132</td>
+<td><a href="https://www.youtube.com/watch?v=Lpd_TddOSZY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.7.1 Worked Example - Collision and Sliding on a Rough Surface">PS.7.1 Worked Example - Collision and Sliding on a Rough Surface</a></td>
+<td>6:47</td>
+</tr>
+<tr>
+<td>133</td>
+<td><a href="https://www.youtube.com/watch?v=EX0uHJbIw68&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="23.0 Week 8 Introduction">23.0 Week 8 Introduction</a></td>
+<td>0:55</td>
+</tr>
+<tr>
+<td>134</td>
+<td><a href="https://www.youtube.com/watch?v=nCDOa63Jd6M&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="23.1 Introduction to Potential Energy">23.1 Introduction to Potential Energy</a></td>
+<td>9:51</td>
+</tr>
+<tr>
+<td>135</td>
+<td><a href="https://www.youtube.com/watch?v=ThZH56PUwNc&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="23.2 Potential Energy of Gravity near the Surface of the Earth">23.2 Potential Energy of Gravity near the Surface of the Earth</a></td>
+<td>3:54</td>
+</tr>
+<tr>
+<td>136</td>
+<td><a href="https://www.youtube.com/watch?v=0EMIK-6LUE4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="23.3 Potential Energy Reference State">23.3 Potential Energy Reference State</a></td>
+<td>5:01</td>
+</tr>
+<tr>
+<td>137</td>
+<td><a href="https://www.youtube.com/watch?v=_7JPHNCT1Qo&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="23.4 Potential Energy of a Spring">23.4 Potential Energy of a Spring</a></td>
+<td>5:20</td>
+</tr>
+<tr>
+<td>138</td>
+<td><a href="https://www.youtube.com/watch?v=t2PkbsWjG80&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="23.5 Potential Energy of Gravitation">23.5 Potential Energy of Gravitation</a></td>
+<td>7:40</td>
+</tr>
+<tr>
+<td>139</td>
+<td><a href="https://www.youtube.com/watch?v=z5JfWSocZUQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="24.1 Mechanical Energy and Energy Conservation">24.1 Mechanical Energy and Energy Conservation</a></td>
+<td>5:56</td>
+</tr>
+<tr>
+<td>140</td>
+<td><a href="https://www.youtube.com/watch?v=huPKjd3wLyc&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="24.2 Energy State Diagrams">24.2 Energy State Diagrams</a></td>
+<td>5:34</td>
+</tr>
+<tr>
+<td>141</td>
+<td><a href="https://www.youtube.com/watch?v=NCCzjtqZ28M&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="24.3 Worked Example - Block Sliding Down Circular Slope">24.3 Worked Example - Block Sliding Down Circular Slope</a></td>
+<td>7:28</td>
+</tr>
+<tr>
+<td>142</td>
+<td><a href="https://www.youtube.com/watch?v=1UdGbyj8924&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="24.4 Newton's 2nd Law and Energy Conservation">24.4 Newton's 2nd Law and Energy Conservation</a></td>
+<td>5:28</td>
+</tr>
+<tr>
+<td>143</td>
+<td><a href="https://www.youtube.com/watch?v=EHCACV8rdig&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="25.1 Force is the Derivative of Potential">25.1 Force is the Derivative of Potential</a></td>
+<td>3:59</td>
+</tr>
+<tr>
+<td>144</td>
+<td><a href="https://www.youtube.com/watch?v=DYi8KTt8688&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="25.2 Stable and Unstable Equilibrium Points">25.2 Stable and Unstable Equilibrium Points</a></td>
+<td>7:22</td>
+</tr>
+<tr>
+<td>145</td>
+<td><a href="https://www.youtube.com/watch?v=cwO5KdgBQh0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="25.3 Reading Potential Energy Diagrams">25.3 Reading Potential Energy Diagrams</a></td>
+<td>5:22</td>
+</tr>
+<tr>
+<td>146</td>
+<td><a href="https://www.youtube.com/watch?v=MoRip5VVdkI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="26.0 Week 9 Introduction">26.0 Week 9 Introduction</a></td>
+<td>1:34</td>
+</tr>
+<tr>
+<td>147</td>
+<td><a href="https://www.youtube.com/watch?v=YLDRzy8Dcgo&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="26.1 Momentum in Collisions">26.1 Momentum in Collisions</a></td>
+<td>4:12</td>
+</tr>
+<tr>
+<td>148</td>
+<td><a href="https://www.youtube.com/watch?v=4ZnijNan49U&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="26.2 Kinetic Energy in Collisions">26.2 Kinetic Energy in Collisions</a></td>
+<td>5:14</td>
+</tr>
+<tr>
+<td>149</td>
+<td><a href="https://www.youtube.com/watch?v=CcJoqITNvh0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="26.3 Totally Inelastic Collisions">26.3 Totally Inelastic Collisions</a></td>
+<td>4:47</td>
+</tr>
+<tr>
+<td>150</td>
+<td><a href="https://www.youtube.com/watch?v=6-7BOpZ2k04&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="27.1 Worked Example: Elastic 1D Collision">27.1 Worked Example: Elastic 1D Collision</a></td>
+<td>10:33</td>
+</tr>
+<tr>
+<td>151</td>
+<td><a href="https://www.youtube.com/watch?v=B6a9FaYI730&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="27.2 Relative Velocity in 1D">27.2 Relative Velocity in 1D</a></td>
+<td>3:43</td>
+</tr>
+<tr>
+<td>152</td>
+<td><a href="https://www.youtube.com/watch?v=ayIgWaBE0aw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="27.3 Kinetic Energy and Momentum Equation">27.3 Kinetic Energy and Momentum Equation</a></td>
+<td>7:09</td>
+</tr>
+<tr>
+<td>153</td>
+<td><a href="https://www.youtube.com/watch?v=yA203Lrd39E&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="27.4 Worked Example: Elastic 1D Collision Again">27.4 Worked Example: Elastic 1D Collision Again</a></td>
+<td>5:23</td>
+</tr>
+<tr>
+<td>154</td>
+<td><a href="https://www.youtube.com/watch?v=1s6_4qX-u2o&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="27.5 Worked Example: Gravitational Slingshot">27.5 Worked Example: Gravitational Slingshot</a></td>
+<td>4:45</td>
+</tr>
+<tr>
+<td>155</td>
+<td><a href="https://www.youtube.com/watch?v=UE-O9TiKOw0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="27.6 2D Collisions">27.6 2D Collisions</a></td>
+<td>6:46</td>
+</tr>
+<tr>
+<td>156</td>
+<td><a href="https://www.youtube.com/watch?v=-M8swpL-Ij8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.2.1 Position in the CM Frame">DD.2.1 Position in the CM Frame</a></td>
+<td>4:33</td>
+</tr>
+<tr>
+<td>157</td>
+<td><a href="https://www.youtube.com/watch?v=KmGPMec8-iU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.2.2 Relative Velocity is Independent of Reference Frame">DD.2.2 Relative Velocity is Independent of Reference Frame</a></td>
+<td>3:43</td>
+</tr>
+<tr>
+<td>158</td>
+<td><a href="https://www.youtube.com/watch?v=7x62TdS0Nn0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.2.3 1D Elastic Collision Velocities in CM Frame">DD.2.3 1D Elastic Collision Velocities in CM Frame</a></td>
+<td>3:46</td>
+</tr>
+<tr>
+<td>159</td>
+<td><a href="https://www.youtube.com/watch?v=jAcdLZRhYNU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.2.4 Worked Example: 1D Elastic Collision in CM Frame">DD.2.4 Worked Example: 1D Elastic Collision in CM Frame</a></td>
+<td>6:02</td>
+</tr>
+<tr>
+<td>160</td>
+<td><a href="https://www.youtube.com/watch?v=Uoukes39gb0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.2.5 Kinetic Energy in Different Reference Frames">DD.2.5 Kinetic Energy in Different Reference Frames</a></td>
+<td>6:06</td>
+</tr>
+<tr>
+<td>161</td>
+<td><a href="https://www.youtube.com/watch?v=mjrQHIJj1iI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.2.6 Kinetic Energy in the CM Frame">DD.2.6 Kinetic Energy in the CM Frame</a></td>
+<td>4:27</td>
+</tr>
+<tr>
+<td>162</td>
+<td><a href="https://www.youtube.com/watch?v=oRzzwpZ0ei4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.2.7 Change in the Kinetic Energy">DD.2.7 Change in the Kinetic Energy</a></td>
+<td>3:53</td>
+</tr>
+<tr>
+<td>163</td>
+<td><a href="https://www.youtube.com/watch?v=efH7pq9YVQw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="28.0 Week 10 Introduction">28.0 Week 10 Introduction</a></td>
+<td>2:36</td>
+</tr>
+<tr>
+<td>164</td>
+<td><a href="https://www.youtube.com/watch?v=u_LAfG5uIpY&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="28.1 Rigid Bodies">28.1 Rigid Bodies</a></td>
+<td>3:01</td>
+</tr>
+<tr>
+<td>165</td>
+<td><a href="https://www.youtube.com/watch?v=ZApVXJZF7pE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="28.2 Introduction to Translation and Rotation">28.2 Introduction to Translation and Rotation</a></td>
+<td>2:39</td>
+</tr>
+<tr>
+<td>166</td>
+<td><a href="https://www.youtube.com/watch?v=2oK7Eb0YZ9U&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="28.3 Review of Angular Velocity and Acceleration">28.3 Review of Angular Velocity and Acceleration</a></td>
+<td>3:14</td>
+</tr>
+<tr>
+<td>167</td>
+<td><a href="https://www.youtube.com/watch?v=0QF_uCgZW4Y&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="29.1 Kinetic Energy of Rotation">29.1 Kinetic Energy of Rotation</a></td>
+<td>6:27</td>
+</tr>
+<tr>
+<td>168</td>
+<td><a href="https://www.youtube.com/watch?v=1AJbVRQTZlA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="29.2 Moment of Inertia of a Rod">29.2 Moment of Inertia of a Rod</a></td>
+<td>4:20</td>
+</tr>
+<tr>
+<td>169</td>
+<td><a href="https://www.youtube.com/watch?v=BPnbq6BobdA&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="29.3 Moment of Inertia of a Disc">29.3 Moment of Inertia of a Disc</a></td>
+<td>5:41</td>
+</tr>
+<tr>
+<td>170</td>
+<td><a href="https://www.youtube.com/watch?v=r2Qb0vsxa8Y&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="29.4 Parallel Axis Theorem">29.4 Parallel Axis Theorem</a></td>
+<td>4:11</td>
+</tr>
+<tr>
+<td>171</td>
+<td><a href="https://www.youtube.com/watch?v=QmCQUBSsKwQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="29.5 Deep Dive - Moment of Inertia of a Sphere">29.5 Deep Dive - Moment of Inertia of a Sphere</a></td>
+<td>5:32</td>
+</tr>
+<tr>
+<td>172</td>
+<td><a href="https://www.youtube.com/watch?v=cMu0hsvgkGk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="29.6 Deep Dive - Derivation of the Parallel Axis Theorem">29.6 Deep Dive - Derivation of the Parallel Axis Theorem</a></td>
+<td>5:38</td>
+</tr>
+<tr>
+<td>173</td>
+<td><a href="https://www.youtube.com/watch?v=X9K8LT7SCZ0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="30.1 Introduction to Torque and Rotational Dynamics">30.1 Introduction to Torque and Rotational Dynamics</a></td>
+<td>9:52</td>
+</tr>
+<tr>
+<td>174</td>
+<td><a href="https://www.youtube.com/watch?v=9yFkrh7-igc&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="30.2 Cross Product">30.2 Cross Product</a></td>
+<td>5:09</td>
+</tr>
+<tr>
+<td>175</td>
+<td><a href="https://www.youtube.com/watch?v=jM-JYT2j6Yw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="30.3 Cross Product in Cartesian Coordinates">30.3 Cross Product in Cartesian Coordinates</a></td>
+<td>7:55</td>
+</tr>
+<tr>
+<td>176</td>
+<td><a href="https://www.youtube.com/watch?v=1BU28txGAFI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="30.4 Torque">30.4 Torque</a></td>
+<td>2:04</td>
+</tr>
+<tr>
+<td>177</td>
+<td><a href="https://www.youtube.com/watch?v=ByTlCmDoEnk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="30.5 Torque from Gravity">30.5 Torque from Gravity</a></td>
+<td>4:44</td>
+</tr>
+<tr>
+<td>178</td>
+<td><a href="https://www.youtube.com/watch?v=O_M8asN10oQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="31.1 Relationship between Torque and Angular Acceleration">31.1 Relationship between Torque and Angular Acceleration</a></td>
+<td>9:06</td>
+</tr>
+<tr>
+<td>179</td>
+<td><a href="https://www.youtube.com/watch?v=PKOhhK7kPi4&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="31.2 Internal Torques Cancel in Pairs">31.2 Internal Torques Cancel in Pairs</a></td>
+<td>3:26</td>
+</tr>
+<tr>
+<td>180</td>
+<td><a href="https://www.youtube.com/watch?v=reUjl788R9Q&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="31.3 Worked Example - Find the Moment of Inertia of a Disc from a Falling Mass">31.3 Worked Example - Find the Moment of Inertia of a Disc from a Falling Mass</a></td>
+<td>7:20</td>
+</tr>
+<tr>
+<td>181</td>
+<td><a href="https://www.youtube.com/watch?v=FlHKTvUjD6g&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="31.4 Worked Example - Atwood Machine">31.4 Worked Example - Atwood Machine</a></td>
+<td>11:02</td>
+</tr>
+<tr>
+<td>182</td>
+<td><a href="https://www.youtube.com/watch?v=uRUAnKCyyig&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="31.5 Massive Pulley Problems">31.5 Massive Pulley Problems</a></td>
+<td>3:45</td>
+</tr>
+<tr>
+<td>183</td>
+<td><a href="https://www.youtube.com/watch?v=2guwjwIHmGg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="31.7 Worked Example - Two Blocks and a Pulley Using Energy">31.7 Worked Example - Two Blocks and a Pulley Using Energy</a></td>
+<td>7:37</td>
+</tr>
+<tr>
+<td>184</td>
+<td><a href="https://www.youtube.com/watch?v=IWD-Aue6aIk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="PS.10.1 Worked Example - Blocks with Friction and Massive Pulley">PS.10.1 Worked Example - Blocks with Friction and Massive Pulley</a></td>
+<td>16:08</td>
+</tr>
+<tr>
+<td>185</td>
+<td><a href="https://www.youtube.com/watch?v=6h3T3qIkxqw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="32.0 Week 11 Introduction">32.0 Week 11 Introduction</a></td>
+<td>1:52</td>
+</tr>
+<tr>
+<td>186</td>
+<td><a href="https://www.youtube.com/watch?v=Idx3VgOpUDk&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="32.1 Angular Momentum for a Point Particle">32.1 Angular Momentum for a Point Particle</a></td>
+<td>2:39</td>
+</tr>
+<tr>
+<td>187</td>
+<td><a href="https://www.youtube.com/watch?v=WwvDJqtHNBU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="32.2 Calculating Angular Momentum">32.2 Calculating Angular Momentum</a></td>
+<td>3:08</td>
+</tr>
+<tr>
+<td>188</td>
+<td><a href="https://www.youtube.com/watch?v=d2POYCmmM8A&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="32.3 Worked Example - Angular Momentum About Different Points">32.3 Worked Example - Angular Momentum About Different Points</a></td>
+<td>6:10</td>
+</tr>
+<tr>
+<td>189</td>
+<td><a href="https://www.youtube.com/watch?v=2tSUT6HDeaw&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="32.4 Angular Momentum of Circular Motion">32.4 Angular Momentum of Circular Motion</a></td>
+<td>3:27</td>
+</tr>
+<tr>
+<td>190</td>
+<td><a href="https://www.youtube.com/watch?v=mHVnpuhfpvI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="33.1 Worked Example - Angular Momentum of 2 Rotating Point Particles">33.1 Worked Example - Angular Momentum of 2 Rotating Point Particles</a></td>
+<td>7:00</td>
+</tr>
+<tr>
+<td>191</td>
+<td><a href="https://www.youtube.com/watch?v=rd9d0WBFzt8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="33.2 Angular Momentum of a Symmetric Object">33.2 Angular Momentum of a Symmetric Object</a></td>
+<td>4:11</td>
+</tr>
+<tr>
+<td>192</td>
+<td><a href="https://www.youtube.com/watch?v=tO6Wh_HhifI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="33.4 If Momentum is Zero then Angular Momentum is Independent of Origin">33.4 If Momentum is Zero then Angular Momentum is Independent of Origin</a></td>
+<td>5:42</td>
+</tr>
+<tr>
+<td>193</td>
+<td><a href="https://www.youtube.com/watch?v=NbXDgm7UyVM&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="33.5 Kinetic Energy of a Symmetric Object">33.5 Kinetic Energy of a Symmetric Object</a></td>
+<td>2:34</td>
+</tr>
+<tr>
+<td>194</td>
+<td><a href="https://www.youtube.com/watch?v=DSk8HTcB7x0&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="34.1 Torque Causes Angular Momentum to Change - Point Particle">34.1 Torque Causes Angular Momentum to Change - Point Particle</a></td>
+<td>2:59</td>
+</tr>
+<tr>
+<td>195</td>
+<td><a href="https://www.youtube.com/watch?v=x5WavAj2M8A&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="34.2 Torque Causes Angular Momentum to Change - System of Particles">34.2 Torque Causes Angular Momentum to Change - System of Particles</a></td>
+<td>3:56</td>
+</tr>
+<tr>
+<td>196</td>
+<td><a href="https://www.youtube.com/watch?v=W3TqFzVh_rE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="34.3 Angular Impulse">34.3 Angular Impulse</a></td>
+<td>3:42</td>
+</tr>
+<tr>
+<td>197</td>
+<td><a href="https://www.youtube.com/watch?v=3JzsqGZ6opI&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="34.4 Demo: Bicycle Wheel Demo">34.4 Demo: Bicycle Wheel Demo</a></td>
+<td>0:38</td>
+</tr>
+<tr>
+<td>198</td>
+<td><a href="https://www.youtube.com/watch?v=c15RtHXBVuQ&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="34.5 Worked Example - Particle Hits Pivoted Ring">34.5 Worked Example - Particle Hits Pivoted Ring</a></td>
+<td>8:13</td>
+</tr>
+<tr>
+<td>199</td>
+<td><a href="https://www.youtube.com/watch?v=EhgF2OViDDs&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="35.0 Week 12 Introduction">35.0 Week 12 Introduction</a></td>
+<td>1:35</td>
+</tr>
+<tr>
+<td>200</td>
+<td><a href="https://www.youtube.com/watch?v=oILq3xz_XtU&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="35.1 Translation and Rotation of a Wheel">35.1 Translation and Rotation of a Wheel</a></td>
+<td>3:18</td>
+</tr>
+<tr>
+<td>201</td>
+<td><a href="https://www.youtube.com/watch?v=WxkwkGEVu-E&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="35.2 Rolling Wheel in the Center of Mass Frame">35.2 Rolling Wheel in the Center of Mass Frame</a></td>
+<td>2:24</td>
+</tr>
+<tr>
+<td>202</td>
+<td><a href="https://www.youtube.com/watch?v=lkeX42KQjac&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="35.3 Rolling Wheel in the Ground Frame">35.3 Rolling Wheel in the Ground Frame</a></td>
+<td>2:28</td>
+</tr>
+<tr>
+<td>203</td>
+<td><a href="https://www.youtube.com/watch?v=1UD560RQ684&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="35.4 Rolling Without Slipping Slipping and Skidding">35.4 Rolling Without Slipping Slipping and Skidding</a></td>
+<td>5:57</td>
+</tr>
+<tr>
+<td>204</td>
+<td><a href="https://www.youtube.com/watch?v=4r1xgrWbALg&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="35.5 Contact Point of a Wheel Rolling Without Slipping">35.5 Contact Point of a Wheel Rolling Without Slipping</a></td>
+<td>3:38</td>
+</tr>
+<tr>
+<td>205</td>
+<td><a href="https://www.youtube.com/watch?v=hxa6jAYA980&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="36.1 Friction on a Rolling Wheel">36.1 Friction on a Rolling Wheel</a></td>
+<td>4:08</td>
+</tr>
+<tr>
+<td>206</td>
+<td><a href="https://www.youtube.com/watch?v=CfTLS6YYPms&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="36.2 Worked Example - Wheel Rolling Without Slipping Down Inclined Plane - Torque Method">36.2 Worked Example - Wheel Rolling Without Slipping Down Inclined Plane - Torque Method</a></td>
+<td>6:05</td>
+</tr>
+<tr>
+<td>207</td>
+<td><a href="https://www.youtube.com/watch?v=cHKyuSAySyE&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="36.3 Demo: Spool Demo">36.3 Demo: Spool Demo</a></td>
+<td>0:44</td>
+</tr>
+<tr>
+<td>208</td>
+<td><a href="https://www.youtube.com/watch?v=TvdmaZR6m8Q&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="36.4 Worked Example - Yoyo Pulled Along the Ground">36.4 Worked Example - Yoyo Pulled Along the Ground</a></td>
+<td>6:13</td>
+</tr>
+<tr>
+<td>209</td>
+<td><a href="https://www.youtube.com/watch?v=RX88J2e4W0M&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="36.5 Analyze Force and Torque in Translation and Rotation Problems">36.5 Analyze Force and Torque in Translation and Rotation Problems</a></td>
+<td>3:06</td>
+</tr>
+<tr>
+<td>210</td>
+<td><a href="https://www.youtube.com/watch?v=ZMa-xKcM2L8&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="37.1 Kinetic Energy of Translation and Rotation">37.1 Kinetic Energy of Translation and Rotation</a></td>
+<td>7:46</td>
+</tr>
+<tr>
+<td>211</td>
+<td><a href="https://www.youtube.com/watch?v=xh_LCHvzp-Q&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="37.2 Worked Example - Wheel Rolling Without Slipping Down Inclined Plane">37.2 Worked Example - Wheel Rolling Without Slipping Down Inclined Plane</a></td>
+<td>4:14</td>
+</tr>
+<tr>
+<td>212</td>
+<td><a href="https://www.youtube.com/watch?v=V1I-vrXGl3A&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="37.3 Angular Momentum of Translation and Rotation">37.3 Angular Momentum of Translation and Rotation</a></td>
+<td>6:55</td>
+</tr>
+<tr>
+<td>213</td>
+<td><a href="https://www.youtube.com/watch?v=ThP6wQkf5ec&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.3.1 Deep Dive - Gyroscopes - Free Body Diagrams, Torque, and Rotating Vectors">DD.3.1 Deep Dive - Gyroscopes - Free Body Diagrams, Torque, and Rotating Vectors</a></td>
+<td>16:57</td>
+</tr>
+<tr>
+<td>214</td>
+<td><a href="https://www.youtube.com/watch?v=jOPA3XY-V3U&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.3.2 Deep Dive - Gyroscopes - Precessional Angular Velocity and Titled Gyroscopes">DD.3.2 Deep Dive - Gyroscopes - Precessional Angular Velocity and Titled Gyroscopes</a></td>
+<td>13:58</td>
+</tr>
+<tr>
+<td>215</td>
+<td><a href="https://www.youtube.com/watch?v=5oLLnCGStUc&amp;list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV" title="DD.3.3 Deep Dive - Gyroscopes - Nutation and Total Angular Momentum">DD.3.3 Deep Dive - Gyroscopes - Nutation and Total Angular Momentum</a></td>
+<td>13:25</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>MIT 8.01SC Classical Mechanics, Fall 2016</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV">https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>18.3 Encryption and Key Management | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 18.3 Encryption and key management: Encryption at rest (Platform-managed keys, Customer-managed keys, DEK, KEK), Encryption in transit, Azure Key Vault (Secrets, Key and Certificate Management, Standard and Premium tiers).">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="183-encryption-and-key-management">18.3 Encryption and Key Management</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/encryption-and-key-management.png" alt="Encryption and key management, 3 terms: Encryption at rest, Encryption in transit, Azure Key Vault. Encryption at rest expands to Platform-managed keys, Customer-managed keys, Data encryption key (DEK) and Key encryption key (KEK); Azure Key Vault expands to Secrets Management, Key Management, Certificate Management, Standard tier and Premium tier."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Encryption at rest</strong><br>静态加密</td>
+<td>(context) &quot;Encryption at rest is a <strong>common security requirement</strong>. Azure <strong>encrypts data at rest by default</strong> by using <strong>platform-managed keys</strong>.&quot;</td>
+<td>（语境）静态加密是一项<strong>常见的安全要求</strong>。Azure <strong>默认对静态数据进行加密</strong>，使用的是<strong>平台管理的密钥</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest#:%7E:text=Encryption%20at%20rest%20is%20a%20common%20security%20requirement">Microsoft, 2026b, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Platform-managed keys</strong><br>平台管理的密钥</td>
+<td>&quot;<strong>Platform-managed keys (default)</strong> (also sometimes called service-managed keys): Azure <strong>automatically handles all aspects of encryption key management</strong>, including key generation, storage, rotation, and backup.&quot;</td>
+<td><strong>平台管理的密钥（默认）</strong>（有时也叫服务管理的密钥）：Azure <strong>自动处理加密密钥管理的所有方面</strong>，包括密钥的生成、存储、轮换和备份。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest#:%7E:text=Azure%20automatically%20handles%20all%20aspects%20of%20encryption%20key%20management">Microsoft, 2026b, &quot;Key management options&quot; section, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Customer-managed keys</strong><br>客户管理的密钥</td>
+<td>&quot;<strong>Customer-managed keys (optional)</strong>: Organizations that require <strong>greater control over their encryption keys</strong> can choose to <strong>manage their own keys by using Azure Key Vault or Azure Key Vault Managed HSM</strong>.&quot;</td>
+<td><strong>客户管理的密钥（可选）</strong>：需要<strong>更严格地控制自己的加密密钥</strong>的组织，可以选择<strong>用 Azure Key Vault 或 Azure Key Vault 托管 HSM 来管理自己的密钥</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest#:%7E:text=Organizations%20that%20require%20greater%20control%20over%20their%20encryption%20keys">Microsoft, 2026b, &quot;Key management options&quot; section, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Data encryption key (DEK)</strong><br>数据加密密钥</td>
+<td>&quot;<strong>Data encryption key (DEK)</strong> - A <strong>symmetric AES-256 key</strong> that <strong>encrypts a partition or block of data</strong>, sometimes also referred to as a data key.&quot;</td>
+<td><strong>数据加密密钥（DEK）</strong>：一个<strong>对称的 AES-256 密钥</strong>，用来<strong>加密一个分区或一块数据</strong>，有时也叫数据密钥。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest#:%7E:text=A%20symmetric%20AES-256%20key%20that%20encrypts%20a%20partition">Microsoft, 2026b, &quot;Envelope encryption with a key hierarchy&quot; section, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Key encryption key (KEK)</strong><br>密钥加密密钥</td>
+<td>&quot;<strong>Key encryption key (KEK)</strong> - An encryption key that <strong>encrypts the DEKs</strong> by using <strong>envelope encryption</strong>, also referred to as wrapping.&quot;</td>
+<td><strong>密钥加密密钥（KEK）</strong>：一个用<strong>信封加密</strong>（也叫包装）来<strong>加密各个 DEK</strong> 的加密密钥。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest#:%7E:text=An%20encryption%20key%20that%20encrypts%20the%20DEKs">Microsoft, 2026b, &quot;Envelope encryption with a key hierarchy&quot; section, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>Encryption in transit</strong><br>传输中加密</td>
+<td>(context) &quot;Azure provides many mechanisms to help <strong>keep data private</strong> as it <strong>moves from one location to another</strong>.&quot;</td>
+<td>（语境）Azure 提供许多机制，帮助<strong>保持数据私密</strong>，在数据<strong>从一个位置移动到另一个位置</strong>时。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-overview#:%7E:text=Azure%20provides%20many%20mechanisms%20to%20help%20keep%20data%20private">Microsoft, 2026c, &quot;Encryption in transit&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Key Vault</strong><br>Azure 密钥保管库</td>
+<td>(context) &quot;Azure Key Vault is <strong>one of several key management solutions in Azure</strong>, and helps solve the following problems:&quot;</td>
+<td>（语境）Azure 密钥保管库是 <strong>Azure 中的几种密钥管理解决方案之一</strong>，用来解决下面这些问题：</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview#:%7E:text=is%20one%20of%20several%20key%20management%20solutions%20in%20Azure">Microsoft, 2026a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Secrets Management</strong><br>机密管理</td>
+<td>&quot;<strong>Secrets Management</strong> - Azure Key Vault can be used to <strong>Securely store and tightly control access</strong> to <strong>tokens, passwords, certificates, API keys, and other secrets</strong>&quot;</td>
+<td><strong>机密管理</strong>：Azure 密钥保管库可用于<strong>安全地存储和严格控制访问</strong>，对象是<strong>令牌、密码、证书、API 密钥和其他机密</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview#:%7E:text=Azure%20Key%20Vault%20can%20be%20used%20to%20Securely%20store">Microsoft, 2026a, para. 1, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Key Management</strong><br>密钥管理</td>
+<td>&quot;<strong>Key Management</strong> - Azure Key Vault can be used as a Key Management solution. Azure Key Vault makes it easy to <strong>create and control the encryption keys used to encrypt your data</strong>.&quot;</td>
+<td><strong>密钥管理</strong>：Azure 密钥保管库可用作密钥管理解决方案，让你能轻松<strong>创建和控制用来加密数据的加密密钥</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview#:%7E:text=makes%20it%20easy%20to%20create%20and%20control%20the%20encryption%20keys">Microsoft, 2026a, para. 1, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>Certificate Management</strong><br>证书管理</td>
+<td>&quot;<strong>Certificate Management</strong> - Azure Key Vault lets you easily <strong>provision, manage, and deploy public and private Transport Layer Security/Secure Sockets Layer (TLS/SSL) certificates</strong> for use with Azure and your internal connected resources.&quot;</td>
+<td><strong>证书管理</strong>：Azure 密钥保管库让你能轻松<strong>预配、管理和部署公共与私有的传输层安全性/安全套接字层（TLS/SSL）证书</strong>，供 Azure 和内部联网资源使用。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview#:%7E:text=lets%20you%20easily%20provision%2C%20manage%2C%20and%20deploy">Microsoft, 2026a, para. 1, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>Standard tier</strong><br>标准层</td>
+<td>&quot;<strong>Standard tier</strong> - Encrypts data using <strong>software libraries validated to FIPS 140 Level 1</strong>&quot;</td>
+<td><strong>标准层</strong>：用<strong>通过 FIPS 140 Level 1 验证的软件库</strong>加密数据。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview#:%7E:text=Encrypts%20data%20using%20software%20libraries%20validated">Microsoft, 2026a, para. 2, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Premium tier</strong><br>高级层</td>
+<td>&quot;<strong>Premium tier</strong> - Offers <strong>HSM-protected keys</strong>, generated and protected by FIPS 140-3 Level 3 validated Marvell LiquidSecurity HSMs, for the <strong>highest level of cryptographic protection</strong>&quot;</td>
+<td><strong>高级层</strong>：提供 <strong>HSM 保护的密钥</strong>，由通过 FIPS 140-3 Level 3 验证的 Marvell LiquidSecurity HSM 生成和保护，达到<strong>最高级别的加密保护</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview#:%7E:text=Offers%20HSM-protected%20keys">Microsoft, 2026a, para. 2, list item 2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2026b, July 21). <em>Azure data encryption at rest</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest">https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest</a></li>
+<li>Microsoft. (2026c, September 18). <em>Azure encryption overview</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-overview">https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-overview</a></li>
+<li>Microsoft. (2026a, September 22). <em>About Azure Key Vault</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/key-vault/general/overview">https://learn.microsoft.com/en-us/azure/key-vault/general/overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 18:15:17-05:00">11/04/2026 18:15:17</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

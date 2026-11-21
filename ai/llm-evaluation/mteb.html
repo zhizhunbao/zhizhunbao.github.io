@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>MTEB | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="LLM Evaluation: MTEB (Massive Text Embedding Benchmark), the benchmark for embedding models; terms quoted from its documentation and the MMTEB paper.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="mteb">MTEB</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/mteb.png" alt="MTEB: its 16 terms, in LLM Evaluation."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MTEB (Massive Text Embedding Benchmark)</strong><br>MTEB（大规模文本嵌入基准）</td>
+<td>&quot;MTEB is the go-to documentation for <strong>evaluating embeddings models</strong> across <strong>a variety of tasks, modalities and domains</strong>.&quot;</td>
+<td>MTEB 是<strong>评测嵌入模型</strong>的首选文档，覆盖<strong>多种任务、模态和领域</strong>。</td>
+<td><a href="https://docs.mteb.org/#mteb">MTEB, n.d.-a, &quot;MTEB&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>MTEB Task</strong><br>MTEB 任务</td>
+<td>(context) &quot;MTEB covers <strong>more than a 1000 different tasks</strong> from covering a diverse set of tasks from <strong>historic Swedish patent classification to documentation retrieval for Python</strong>.&quot;</td>
+<td>（语境）MTEB 涵盖<strong>一千多项不同任务</strong>，种类多样，从<strong>历史上的瑞典专利分类到 Python 文档检索</strong>。</td>
+<td><a href="https://docs.mteb.org/#mteb">MTEB, n.d.-a, &quot;MTEB&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>MTEB Extension</strong><br>MTEB 扩展</td>
+<td>(context) &quot;This package was initially introduced as a package for <strong>evaluating text embeddings predominantly for English</strong>, but have since been <strong>extended for broad languages coverage and multiple modalities</strong>&quot;</td>
+<td>（语境）这个包最初是作为<strong>主要针对英语的文本嵌入评测</strong>包推出的，后来已<strong>扩展到广泛的语言覆盖和多种模态</strong>。</td>
+<td><a href="https://docs.mteb.org/#mteb">MTEB, n.d.-a, &quot;MTEB&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Task Category</strong><br>任务类别</td>
+<td>&quot;While MTEB covers multiple task types, we categorize them into <strong>5 broad categories based on the type of evaluation they require</strong>, these categories are <strong>not mutually exclusive</strong> but provide a useful way to navigate the large collection of tasks in MTEB.&quot;</td>
+<td>MTEB 涵盖多种任务类型，我们把它们<strong>按所需的评测类型分为 5 个大类</strong>；这些类别<strong>并不互斥</strong>，但为浏览 MTEB 中的大量任务提供了一个有用的途径。</td>
+<td><a href="https://docs.mteb.org/overview/#tasks">MTEB, n.d.-b, &quot;Tasks&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Retrieval</strong><br>检索</td>
+<td>&quot;<strong>Asymmetric matching</strong> between queries and a corpus across <strong>different embedding regions</strong>.&quot;</td>
+<td>查询与语料库之间的<strong>非对称匹配</strong>，跨越<strong>不同的嵌入区域</strong>。</td>
+<td><a href="https://docs.mteb.org/overview/#tasks">MTEB, n.d.-b, &quot;Tasks&quot;, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Classification</strong><br>分类</td>
+<td>&quot;Embeddings <strong>linearly separable by category</strong>, evaluated using <strong>a classifier or regression probe</strong>.&quot;</td>
+<td>嵌入<strong>可按类别线性分开</strong>，用<strong>分类器或回归探针</strong>来评测。</td>
+<td><a href="https://docs.mteb.org/overview/#tasks">MTEB, n.d.-b, &quot;Tasks&quot;, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>Clustering</strong><br>聚类</td>
+<td>&quot;<strong>Globally coherent embeddings</strong> where distances reflect <strong>semantic grouping</strong>.&quot;</td>
+<td><strong>全局一致的嵌入</strong>，其距离反映<strong>语义分组</strong>。</td>
+<td><a href="https://docs.mteb.org/overview/#tasks">MTEB, n.d.-b, &quot;Tasks&quot;, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>Semantic Similarity</strong><br>语义相似度</td>
+<td>&quot;<strong>Fine-grained similarity</strong> between item pairs, where <strong>cosine similarity reflects human judgments</strong>.&quot;</td>
+<td>成对条目之间的<strong>细粒度相似度</strong>，其中<strong>余弦相似度反映人的判断</strong>。</td>
+<td><a href="https://docs.mteb.org/overview/#tasks">MTEB, n.d.-b, &quot;Tasks&quot;, list item 4</a></td>
+</tr>
+<tr>
+<td><strong>Pair Classification</strong><br>成对分类</td>
+<td>&quot;Embeddings capturing <strong>relationships between item pairs</strong>, such as <strong>entailment or paraphrase</strong>.&quot;</td>
+<td>嵌入捕捉<strong>成对条目之间的关系</strong>，如<strong>蕴涵或复述</strong>。</td>
+<td><a href="https://docs.mteb.org/overview/#tasks">MTEB, n.d.-b, &quot;Tasks&quot;, list item 5</a></td>
+</tr>
+<tr>
+<td><strong>MMTEB (Massive Multilingual Text Embedding Benchmark)</strong><br>MMTEB（大规模多语言文本嵌入基准）</td>
+<td>(context) &quot;we introduce the Massive Multilingual Text Embedding Benchmark (MMTEB) – <strong>a large-scale, community-driven expansion of MTEB</strong>, covering <strong>over 500 quality-controlled evaluation tasks</strong> across 250+ languages.&quot;</td>
+<td>（语境）我们推出大规模多语言文本嵌入基准（MMTEB），它是<strong>对 MTEB 的大规模、社区驱动的扩展</strong>，涵盖 250 多种语言中的 <strong>500 多项经过质量控制的评测任务</strong>。</td>
+<td><a href="https://arxiv.org/html/2502.13595">Enevoldsen et al., 2025, Abstract</a></td>
+</tr>
+<tr>
+<td><strong>Open Science Effort</strong><br>开放科学协作</td>
+<td>(context) &quot;To ensure the broad applicability of MMTEB across various domains, we <strong>recruited a diverse group of contributors</strong>. We actively encouraged participation from industry professionals, low-resource language communities, and academic researchers. To clarify authorship assignment and recognize desired contributions, we implemented a point-based system, similar to Lovenia et al. (2024). To facilitate transparency, <strong>coordination was managed through GitHub</strong>.&quot;</td>
+<td>（语境）为确保 MMTEB 在各领域广泛适用，我们<strong>招募了多样的贡献者群体</strong>。我们积极鼓励业界专业人士、低资源语言社区和学术研究者参与。为明确署名分配并认可所需的贡献，我们实行了一套积分制，类似 Lovenia 等（2024）。为便于透明，<strong>协调工作通过 GitHub 进行</strong>。</td>
+<td><a href="https://arxiv.org/html/2502.13595#S2.SS1">Enevoldsen et al., 2025, section 2.1, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Main Score</strong><br>主得分</td>
+<td>&quot;<strong>The primary metric</strong> used to <strong>evaluate task performance</strong>.&quot;</td>
+<td>用于<strong>评估任务表现</strong>的<strong>主要指标</strong>。</td>
+<td><a href="https://arxiv.org/html/2502.13595#A2.SS4">Enevoldsen et al., 2025, appendix B.4, Table 5</a></td>
+</tr>
+<tr>
+<td><strong>Average Score</strong><br>平均得分</td>
+<td>(context) &quot;For our performance metrics, we report <strong>average scores across all tasks</strong>, scores per task category, and <strong>weighted by task category</strong>.&quot;</td>
+<td>（语境）在表现指标上，我们报告<strong>所有任务上的平均得分</strong>、各任务类别的得分，以及<strong>按任务类别加权</strong>的得分。</td>
+<td><a href="https://arxiv.org/html/2502.13595#S3.SS2">Enevoldsen et al., 2025, section 3.2, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Borda Count</strong><br>波达计数</td>
+<td>(context) &quot;We compute <strong>model ranks</strong> using <strong>the Borda count method</strong> (Colombo et al., 2022), derived from social choice theory.&quot;</td>
+<td>（语境）我们用 <strong>Borda 计数法</strong>（Colombo 等，2022）计算<strong>模型排名</strong>，该方法源自社会选择理论。</td>
+<td><a href="https://arxiv.org/html/2502.13595#S3.SS2">Enevoldsen et al., 2025, section 3.2, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Preference Voter</strong><br>偏好投票者</td>
+<td>(context) &quot;To compute this score, we consider <strong>each task as a preference voter</strong> voting for each model, and scores are <strong>aggregated according to the Borda Count method</strong>.&quot;</td>
+<td>（语境）为计算这一得分，我们把<strong>每项任务视为一个偏好投票者</strong>，为每个模型投票，得分<strong>按 Borda 计数法汇总</strong>。</td>
+<td><a href="https://arxiv.org/html/2502.13595#S3.SS2">Enevoldsen et al., 2025, section 3.2, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Downsampling</strong><br>降采样</td>
+<td>(context) &quot;we introduce <strong>a novel downsampling method based on inter-task correlation</strong>, ensuring a diverse selection while <strong>preserving relative model rankings</strong>.&quot;</td>
+<td>（语境）我们引入<strong>一种基于任务间相关性的新降采样方法</strong>，确保选择多样，同时<strong>保持模型的相对排名</strong>。</td>
+<td><a href="https://arxiv.org/html/2502.13595">Enevoldsen et al., 2025, Abstract</a></td>
+</tr>
+<tr>
+<td><strong>English Leakage</strong><br>英语泄漏</td>
+<td>(context) &quot;While MMTEB filters out machine-translated datasets, it <strong>permits (human) translations</strong>. This inclusion leads to tasks like SIB200ClusteringS2S, where labels from English samples are transferred to their translations, potentially <strong>introducing bias towards English</strong> or models trained on translated content.&quot;</td>
+<td>（语境）MMTEB 虽然过滤掉了机器翻译的数据集，但<strong>允许（人工）翻译</strong>。这一做法带来了像 SIB200ClusteringS2S 这样的任务：英语样本的标签被转用到其译文上，可能<strong>引入偏向英语</strong>或偏向用译文训练的模型的偏差。</td>
+<td><a href="https://arxiv.org/html/2502.13595#Sx1.SS0.SSS0.Px1">Enevoldsen et al., 2025, &quot;Limitations&quot;, &quot;English Leakage&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Enevoldsen, K., Chung, I., Kerboua, I., Kardos, M., Mathur, A., Stap, D., Gala, J., Siblini, W., Krzemiński, D., Winata, G. I., Sturua, S., Utpala, S., Ciancone, M., Schaeffer, M., Sequeira, G., Misra, D., Dhakal, S., Rystrøm, J., Solomatin, R., . . . Muennighoff, N. (2025). <em>MMTEB: Massive multilingual text embedding benchmark</em> (arXiv:2502.13595). arXiv. <a href="https://doi.org/10.48550/arXiv.2502.13595">https://doi.org/10.48550/arXiv.2502.13595</a></p>
+<p>MTEB. (n.d.-a). <em>MTEB: Massive Text Embedding Benchmark</em> [Documentation]. Retrieved November 10, 2026, from <a href="https://docs.mteb.org/">https://docs.mteb.org/</a></p>
+<p>MTEB. (n.d.-b). Overview. In <em>MTEB documentation</em>. Retrieved November 10, 2026, from <a href="https://docs.mteb.org/overview/">https://docs.mteb.org/overview/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-10">11/10/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

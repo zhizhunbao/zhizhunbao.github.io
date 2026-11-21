@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1. Database Engine | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="SQL Server, 1. Database Engine: SQL Database Engine, SQL Server editions, Ghost cleanup, Index, Page, Extent, Query processing, Disk I/O, Security cache, Thread, Task, Transaction log, Locking, Optimized locking, Deadlock, Memory management.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1-database-engine">1. Database Engine</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/database-engine.png" alt="Database Engine: SQL Database Engine, SQL Server editions, Ghost cleanup, Index, Page, Extent, Query processing, Disk I/O, Security cache, Thread, Task, Transaction log, Locking, Optimized locking, Deadlock, Memory management."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="sql-database-engine.html">SQL Database Engine</a></strong><br>SQL 数据库引擎</td>
+<td>&quot;The <strong>Microsoft SQL Database Engine</strong> is the <strong>core service for storing, processing, and securing data</strong>.&quot;</td>
+<td><strong>Microsoft SQL 数据库引擎</strong>是<strong>存储、处理和保护数据的核心服务</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/database-engine/sql-database-engine#:%7E:text=The%20Microsoft%20SQL%20Database%20Engine%20is%20the%20core">Microsoft, 2026e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sql-server-editions.html">SQL Server editions</a></strong><br>SQL Server 版本</td>
+<td>(context) &quot;The <strong>different editions of SQL Server</strong> accommodate the <strong>unique performance, runtime, and price requirements</strong> of organizations and individuals.&quot;</td>
+<td>（语境）<strong>SQL Server 的不同版本</strong>适应组织和个人<strong>在性能、运行时和价格方面的不同需求</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2025#:%7E:text=The%20different%20editions%20of%20SQL%20Server%20accommodate%20the">Microsoft, 2025b, para. 4</a></td>
+</tr>
+<tr>
+<td><strong><a href="ghost-cleanup.html">Ghost cleanup</a></strong><br>幽灵清理</td>
+<td>&quot;<strong>Ghost cleanup</strong> is a <strong>background process</strong> that <strong>physically removes the rows</strong> that were marked for deletion by DML statements.&quot;</td>
+<td><strong>幽灵清理</strong>是一个<strong>后台进程</strong>，用于<strong>物理删除</strong>被 DML 语句标记为删除的行。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/ghost-row-cleanup-process-guide#:%7E:text=Ghost%20cleanup%20is%20a%20background%20process%20that%20physically">Microsoft, 2025c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="indexes.html">Index</a></strong><br>索引</td>
+<td>&quot;An <strong>index</strong> is an <strong>on-disk or in-memory structure</strong> associated with a table or view that <strong>speeds retrieval of rows</strong> from the table or view.&quot;</td>
+<td><strong>索引</strong>是与表或视图关联的<strong>磁盘上或内存中的结构</strong>，可以<strong>加快从表或视图中检索行的速度</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide#:%7E:text=An%20index%20is%20an%20on-disk%20or%20in-memory%20structure">Microsoft, 2026a, &quot;Index basics&quot; section, para. 3</a></td>
+</tr>
+<tr>
+<td><strong><a href="page.html">Page</a></strong><br>页</td>
+<td>&quot;A <em><strong>page</strong></em> is a <strong>fundamental unit of data storage</strong> in the Database Engine.&quot;</td>
+<td><strong>页</strong>是数据库引擎中<strong>数据存储的基本单位</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide#:%7E:text=A%20page%20is%20a%20fundamental%20unit%20of%20data">Microsoft, 2025e, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="extent.html">Extent</a></strong><br>区</td>
+<td>&quot;An <em><strong>extent</strong></em> is a <strong>collection of eight physically contiguous pages</strong>, used to <strong>manage pages efficiently</strong>.&quot;</td>
+<td><strong>区</strong>是<strong>由八个物理上连续的页组成的集合</strong>，用于<strong>高效管理页</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide#:%7E:text=An%20extent%20is%20a%20collection%20of%20eight%20physically">Microsoft, 2025e, para. 3</a></td>
+</tr>
+<tr>
+<td><strong><a href="query-processing.html">Query processing</a></strong><br>查询处理</td>
+<td>(context) &quot;The SQL Server Database Engine <strong>processes queries</strong> on various <strong>data storage architectures</strong> such as local tables, partitioned tables, and tables distributed across multiple servers.&quot;</td>
+<td>（语境）SQL Server 数据库引擎在各种<strong>数据存储架构</strong>（如本地表、分区表和分布在多台服务器上的表）上<strong>处理查询</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/query-processing-architecture-guide#:%7E:text=The%20SQL%20Server%20Database%20Engine%20processes%20queries%20on">Microsoft, 2026c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="disk-i-o.html">Disk I/O</a></strong><br>磁盘 I/O</td>
+<td>(context) &quot;The primary purpose of a SQL Server database is to <strong>store and retrieve data</strong>, so <strong>intensive disk input/output (I/O)</strong> is a <strong>core characteristic of the Database Engine</strong>.&quot;</td>
+<td>（语境）SQL Server 数据库的主要用途是<strong>存储和检索数据</strong>，因此<strong>密集的磁盘输入/输出</strong>（I/O）是<strong>数据库引擎的核心特征</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-storage-guide#:%7E:text=The%20primary%20purpose%20of%20a%20SQL%20Server%20database">Microsoft, 2026d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="security-cache.html">Security cache</a></strong><br>安全缓存</td>
+<td>&quot;The <strong>security cache</strong> <strong>stores permissions</strong> for a user or a login for various securable objects in a database or server.&quot;</td>
+<td><strong>安全缓存</strong>为数据库或服务器中的各种可保护对象<strong>存储</strong>用户或登录名的<strong>权限</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/security-cache#:%7E:text=The%20security%20cache%20stores%20permissions%20for%20a%20user">Microsoft, 2025g, &quot;Security cache definition&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="thread.html">Thread</a></strong><br>线程</td>
+<td>&quot;<strong>Threads</strong> are the <strong>smallest units of processing</strong> that are executed by an operating system, and allow the application logic to be <strong>separated into several concurrent execution paths</strong>.&quot;</td>
+<td><strong>线程</strong>是操作系统执行的<strong>最小处理单元</strong>，使应用程序逻辑可以<strong>拆分为多个并发执行路径</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide#:%7E:text=Threads%20are%20the%20smallest%20units%20of%20processing%20that">Microsoft, 2025h, &quot;Operating system task scheduling&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="task.html">Task</a></strong><br>任务</td>
+<td>&quot;A <em><strong>task</strong></em> represents the <strong>unit of work</strong> that needs to be completed to <strong>fulfill the request</strong>.&quot;</td>
+<td><strong>任务</strong>表示为<strong>完成请求</strong>而需要完成的<strong>工作单元</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide#:%7E:text=A%20task%20represents%20the%20unit%20of%20work%20that">Microsoft, 2025h, &quot;Tasks&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="transaction-log.html">Transaction log</a></strong><br>事务日志</td>
+<td>&quot;Every SQL Server database has a <strong>transaction log</strong> that <strong>records all transactions</strong> and the <strong>database modifications</strong> that are made by each transaction.&quot;</td>
+<td>每个 SQL Server 数据库都有一个<strong>事务日志</strong>，用于<strong>记录所有事务</strong>以及每个事务所做的<strong>数据库修改</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide#:%7E:text=Every%20SQL%20Server%20database%20has%20a%20transaction%20log">Microsoft, 2025f, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="locking.html">Locking</a></strong><br>锁定</td>
+<td>&quot;<strong>Locking</strong> is a <strong>mechanism</strong> used by the Database Engine to <strong>synchronize access</strong> by multiple users to the same piece of data at the same time.&quot;</td>
+<td><strong>锁定</strong>是数据库引擎使用的一种<strong>机制</strong>，用于<strong>同步</strong>多个用户对同一数据的<strong>同时访问</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide#:%7E:text=Locking%20is%20a%20mechanism%20used%20by%20the%20Database">Microsoft, 2026f, &quot;Locking in the Database Engine&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="optimized-locking.html">Optimized locking</a></strong><br>优化锁定</td>
+<td>&quot;<strong>Optimized locking</strong> offers an <strong>improved transaction locking mechanism</strong> to <strong>reduce lock blocking and lock memory consumption</strong> for concurrent transactions.&quot;</td>
+<td><strong>优化锁定</strong>提供了<strong>改进的事务锁定机制</strong>，可<strong>减少并发事务的锁阻塞和锁内存消耗</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/performance/optimized-locking#:%7E:text=Optimized%20locking%20offers%20an%20improved%20transaction%20locking%20mechanism">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="deadlock.html">Deadlock</a></strong><br>死锁</td>
+<td>&quot;A <strong>deadlock</strong> occurs when <strong>two or more tasks permanently block each other</strong> by each task having a lock on a resource that the other tasks are trying to lock.&quot;</td>
+<td>当<strong>两个或多个任务相互永久阻塞</strong>时就会发生<strong>死锁</strong>，即每个任务都持有另一些任务正试图锁定的资源上的锁。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-deadlocks-guide#:%7E:text=A%20deadlock%20occurs%20when%20two%20or%20more%20tasks">Microsoft, 2025a, &quot;Understand deadlocks&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="memory-management.html">Memory management</a></strong><br>内存管理</td>
+<td>(context) &quot;SQL Server <strong>dynamically acquires and frees memory</strong> as required.&quot;</td>
+<td>（语境）SQL Server 会根据需要<strong>动态获取和释放内存</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/memory-management-architecture-guide#:%7E:text=SQL%20Server%20dynamically%20acquires%20and%20frees%20memory%20as">Microsoft, 2025d, &quot;SQL Server memory architecture&quot; section, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2025a, October 9). <em>Deadlocks guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-deadlocks-guide">https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-deadlocks-guide</a></li>
+<li>Microsoft. (2025b, November 19). <em>Editions and supported features of SQL Server 2025</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2025">https://learn.microsoft.com/en-us/sql/sql-server/editions-and-components-of-sql-server-2025</a></li>
+<li>Microsoft. (2025c, December 8). <em>Ghost cleanup process guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/ghost-row-cleanup-process-guide">https://learn.microsoft.com/en-us/sql/relational-databases/ghost-row-cleanup-process-guide</a></li>
+<li>Microsoft. (2025d, December 29). <em>Memory management architecture guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/memory-management-architecture-guide">https://learn.microsoft.com/en-us/sql/relational-databases/memory-management-architecture-guide</a></li>
+<li>Microsoft. (2025e, December 29). <em>Page and extent architecture guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide">https://learn.microsoft.com/en-us/sql/relational-databases/pages-and-extents-architecture-guide</a></li>
+<li>Microsoft. (2025f, August 28). <em>SQL Server transaction log architecture and management guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide">https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide</a></li>
+<li>Microsoft. (2025g, April 29). <em>Security cache concepts</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/security-cache">https://learn.microsoft.com/en-us/sql/relational-databases/security-cache</a></li>
+<li>Microsoft. (2025h, June 3). <em>Thread and task architecture guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide">https://learn.microsoft.com/en-us/sql/relational-databases/thread-and-task-architecture-guide</a></li>
+<li>Microsoft. (2026a, September 14). <em>Index architecture and design guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide">https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-index-design-guide</a></li>
+<li>Microsoft. (2026b, October 20). <em>Optimized locking</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/performance/optimized-locking">https://learn.microsoft.com/en-us/sql/relational-databases/performance/optimized-locking</a></li>
+<li>Microsoft. (2026c, October 3). <em>Query processing architecture guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/query-processing-architecture-guide">https://learn.microsoft.com/en-us/sql/relational-databases/query-processing-architecture-guide</a></li>
+<li>Microsoft. (2026d, April 29). <em>SQL Server I/O fundamentals</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-storage-guide">https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-storage-guide</a></li>
+<li>Microsoft. (2026e, March 10). <em>The Microsoft SQL Database Engine</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/database-engine/sql-database-engine">https://learn.microsoft.com/en-us/sql/database-engine/sql-database-engine</a></li>
+<li>Microsoft. (2026f, April 22). <em>Transaction locking and row versioning guide</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide">https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-26 22:40:27-04:00">10/26/2026 22:40:27</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.3 Train | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Ultralytics YOLO, 6.3 Train: Training Options, GPU Options, Real-Time Metrics, Projects, Models, Cloud Training, AutoTrain.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="63-train">6.3 Train</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/train.png" alt="6.3 Train: its parts from the official menu, each with the entries the menu lists under it, in Ultralytics YOLO."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6.3 Train</strong><br>训练</td>
+<td>&quot;Ultralytics Platform provides <strong>comprehensive tools for training YOLO models, from organizing experiments to running cloud training jobs with real-time metrics streaming</strong>.&quot;</td>
+<td>Ultralytics Platform 提供<strong>训练 YOLO 模型的全套工具，从组织实验到运行带实时指标流的云端训练任务</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/train/#model-training">Ultralytics, n.d.-c, &quot;Model Training&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Training Options</strong><br>训练方式</td>
+<td>(context) &quot;Ultralytics Platform supports <strong>multiple training approaches</strong>:&quot;</td>
+<td>（语境）Ultralytics 平台支持<strong>多种训练方式</strong>：</td>
+<td><a href="https://docs.ultralytics.com/platform/train/#training-options">Ultralytics, n.d.-c, &quot;Training Options&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cloud Training</strong><br>云端训练</td>
+<td>&quot;<strong>Train on Ultralytics Cloud GPUs</strong>&quot;</td>
+<td><strong>在 Ultralytics 云端 GPU 上训练</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/train/#training-options">Ultralytics, n.d.-c, &quot;Training Options&quot;, table, row 1</a></td>
+</tr>
+<tr>
+<td><strong>Local Training</strong><br>本地训练</td>
+<td>&quot;<strong>Train locally, stream metrics to the platform</strong>&quot;</td>
+<td><strong>在本地训练，把指标推送到平台</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/train/#training-options">Ultralytics, n.d.-c, &quot;Training Options&quot;, table, row 2</a></td>
+</tr>
+<tr>
+<td><strong>Colab Training</strong><br>Colab 训练</td>
+<td>&quot;<strong>Use Google Colab with platform integration</strong>&quot;</td>
+<td><strong>借助平台集成使用 Google Colab</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/train/#training-options">Ultralytics, n.d.-c, &quot;Training Options&quot;, table, row 3</a></td>
+</tr>
+<tr>
+<td><strong>Automatic GPU Routing</strong><br>GPU 自动路由</td>
+<td>&quot;When you select a GPU cheaper than the RTX PRO 6000 and Ultralytics-managed capacity is free, the Platform <strong>runs your job on an RTX PRO 6000 while still billing your selected GPU's hourly rate</strong>.&quot;</td>
+<td>当你选择比 RTX PRO 6000 便宜的 GPU 且 Ultralytics 管理的算力空闲时，平台会<strong>在 RTX PRO 6000 上运行你的任务，但仍按你所选 GPU 的小时费率计费</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/train/#training-options">Ultralytics, n.d.-c, &quot;Training Options&quot;, Automatic GPU Routing, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>GPU Options</strong><br>GPU 选项</td>
+<td>(context) &quot;<strong>Available GPUs for cloud training on Ultralytics Cloud</strong>:&quot;</td>
+<td>（语境）<strong>Ultralytics 云上可用于云端训练的 GPU</strong>：</td>
+<td><a href="https://docs.ultralytics.com/platform/train/#gpu-options">Ultralytics, n.d.-c, &quot;GPU Options&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Real-Time Metrics</strong><br>实时指标</td>
+<td>(context) &quot;On the model's Train tab, view <strong>live metrics and available validation results</strong>:&quot;</td>
+<td>（语境）在模型的 Train 标签页上查看<strong>实时指标和可用的验证结果</strong>：</td>
+<td><a href="https://docs.ultralytics.com/platform/train/#real-time-metrics">Ultralytics, n.d.-c, &quot;Real-Time Metrics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Automatic Checkpoints</strong><br>自动检查点</td>
+<td>&quot;The best checkpoint (<code>best.pt</code>, the highest-fitness epoch) is <strong>uploaded to the Platform periodically while training runs and again when the run ends</strong>&quot;</td>
+<td>最佳检查点（<code>best.pt</code>，即适应度最高的轮次）会<strong>在训练运行期间定期上传到平台，并在运行结束时再上传一次</strong></td>
+<td><a href="https://docs.ultralytics.com/platform/train/#real-time-metrics">Ultralytics, n.d.-c, &quot;Real-Time Metrics&quot;, Automatic Checkpoints, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Projects</strong><br>项目</td>
+<td>&quot;Ultralytics Platform projects <strong>provide an effective solution for organizing and managing your models</strong>.&quot;</td>
+<td>Ultralytics Platform 的项目<strong>提供一种组织和管理模型的有效方案</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/train/projects/#projects">Ultralytics, n.d.-e, &quot;Projects&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Models</strong><br>模型</td>
+<td>&quot;Ultralytics Platform provides <strong>comprehensive model management for training, analyzing, and deploying YOLO models</strong>.&quot;</td>
+<td>Ultralytics Platform 提供<strong>全面的模型管理，用于训练、分析和部署 YOLO 模型</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/train/models/#models">Ultralytics, n.d.-d, &quot;Models&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cloud Training</strong><br>云端训练</td>
+<td>&quot;Ultralytics Platform Cloud Training <strong>offers single-click training on cloud GPUs</strong>, making model training accessible without complex setup.&quot;</td>
+<td>Ultralytics Platform 的云端训练<strong>提供一键式云 GPU 训练</strong>，无需复杂配置就能训练模型。</td>
+<td><a href="https://docs.ultralytics.com/platform/train/cloud-training/#cloud-training">Ultralytics, n.d.-b, &quot;Cloud Training&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AutoTrain</strong><br>自动训练</td>
+<td>&quot;AutoTrain <strong>uses Ask AI to help you train, compare, and improve models through a conversation</strong>.&quot;</td>
+<td>AutoTrain <strong>借助 Ask AI，通过对话帮你训练、比较和改进模型</strong>。</td>
+<td><a href="https://docs.ultralytics.com/platform/train/autotrain/#autotrain-with-ask-ai">Ultralytics, n.d.-a, &quot;AutoTrain with Ask AI&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Ultralytics. (n.d.-a). <em>AutoTrain with Ask AI</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/train/autotrain/">https://docs.ultralytics.com/platform/train/autotrain/</a></p>
+<p>Ultralytics. (n.d.-b). <em>Cloud Training</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/train/cloud-training/">https://docs.ultralytics.com/platform/train/cloud-training/</a></p>
+<p>Ultralytics. (n.d.-c). <em>Model Training</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/train/">https://docs.ultralytics.com/platform/train/</a></p>
+<p>Ultralytics. (n.d.-d). <em>Models</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/train/models/">https://docs.ultralytics.com/platform/train/models/</a></p>
+<p>Ultralytics. (n.d.-e). <em>Projects</em>. Ultralytics YOLO Docs (ultralytics 8.4.194). Retrieved October 31, 2026, from <a href="https://docs.ultralytics.com/platform/train/projects/">https://docs.ultralytics.com/platform/train/projects/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

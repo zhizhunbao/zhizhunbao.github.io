@@ -1,0 +1,216 @@
+{
+ "Git": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "working tree": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "are pulled out of",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "提取出来",
+    0
+   ]
+  ]
+ },
+ "modified": {
+  "verbs": [
+   [
+    "means",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "表示",
+    0
+   ]
+  ]
+ },
+ "git add": {
+  "verbs": [
+   [
+    "Add",
+    0
+   ],
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "添加到",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "staging area (index)": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "staged": {
+  "verbs": [
+   [
+    "means",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "表示",
+    0
+   ]
+  ]
+ },
+ "commit": {
+  "verbs": [
+   [
+    "takes a picture of",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "拍一张照片",
+    0
+   ]
+  ]
+ },
+ "Git directory": {
+  "verbs": [
+   [
+    "is",
+    0
+   ],
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ],
+   [
+    "是",
+    0
+   ]
+  ]
+ },
+ "committed": {
+  "verbs": [
+   [
+    "means",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "表示",
+    0
+   ]
+  ]
+ },
+ "remote repository": {
+  "verbs": [
+   [
+    "see",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "请参阅",
+    0
+   ]
+  ]
+ },
+ "push": {
+  "verbs": [
+   [
+    "have to push",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "推送到",
+    0
+   ]
+  ]
+ },
+ "pull": {
+  "verbs": [
+   [
+    "means",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "意味着",
+    0
+   ]
+  ]
+ },
+ "clone": {
+  "verbs": [
+   [
+    "is",
+    0
+   ]
+  ],
+  "zhVerbs": [
+   [
+    "是",
+    0
+   ]
+  ]
+ }
+}

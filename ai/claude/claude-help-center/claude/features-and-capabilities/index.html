@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.2 Features and Capabilities | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Claude Help Center: 1.2 Features and Capabilities, 26 entries; definitions in this site&#39;s own words.">
+      <link rel="icon" href="../../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../../">
+      <meta name="kb:navrel" content="../../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="12-features-and-capabilities">1.2 Features and Capabilities</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.2 Features and Capabilities</strong><br>功能与能力</td>
+<td>(Summary) The <strong>things Claude can make or connect to</strong>, from <strong>artifacts and research to plugins</strong>.</td>
+<td>（概述）<strong>Claude 能创建或连接的内容</strong>，<strong>从 Artifact、研究到插件</strong>。</td>
+<td><a href="https://support.claude.com/en/collections/18031719-features-and-capabilities">Anthropic, n.d., &quot;Features and Capabilities&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-1-artifacts.html">1.2.1 Artifacts</a></strong><br>Artifact</td>
+<td>(Summary) A <strong>finished piece of work</strong> from Claude, such as a slide deck or small app, that <strong>sits next to the chat</strong> and can be revised and passed on.</td>
+<td>（概述）Claude 产出的<strong>成品</strong>，例如幻灯片或小应用，<strong>显示在对话旁边</strong>，可以继续修改并分享给别人。</td>
+<td><a href="https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them">Anthropic, n.d., &quot;What are artifacts and how do I use them?&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-2-claude-dashboards.html">1.2.2 Claude Dashboards</a></strong><br>Claude Dashboards</td>
+<td>(Summary) An artifact type that <strong>answers business questions with charts</strong>, after Claude <strong>generates SQL against a connected data source</strong>.</td>
+<td>（概述）一种 Artifact，<strong>用图表回答业务问题</strong>，由 Claude <strong>针对已连接的数据源生成 SQL</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/17454700-get-started-with-claude-dashboards">Anthropic, n.d., &quot;Get started with Claude Dashboards&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-3-claude-docs.html">1.2.3 Claude Docs</a></strong><br>Claude Docs</td>
+<td>(Summary) A <strong>shared writing space</strong> where Claude <strong>drafts and comments</strong> alongside your colleagues, with no separate editor needed.</td>
+<td>（概述）一个<strong>共享写作空间</strong>，Claude 与同事一起在其中<strong>起草并批注</strong>，无需另用编辑器。</td>
+<td><a href="https://support.claude.com/en/articles/16923645-get-started-with-claude-docs">Anthropic, n.d., &quot;Get started with Claude Docs&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-4-claude-design.html">1.2.4 Claude Design</a></strong><br>Claude Design</td>
+<td>(Summary) An artifact template for <strong>visual work such as mock-ups and prototypes</strong>, made through conversation and <strong>adjusted directly on a canvas</strong>.</td>
+<td>（概述）用于<strong>样稿、原型等视觉作品</strong>的 Artifact 模板，通过对话生成，并可<strong>直接在画布上调整</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/14604416-get-started-with-claude-design">Anthropic, n.d., &quot;Get started with Claude Design&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-5-set-up-your-design-system-in-claude-design.html">1.2.5 Design System</a></strong><br>设计系统</td>
+<td>(Summary) A <strong>stored set of brand rules</strong> (colour, type, components, layout) that Claude <strong>pulls from your files</strong> and reuses in each new design.</td>
+<td>（概述）一套<strong>保存下来的品牌规则</strong>（颜色、字体、组件、布局），由 Claude <strong>从你的文件中提取</strong>，并在每个新设计中沿用。</td>
+<td><a href="https://support.claude.com/en/articles/14604397-set-up-your-design-system-in-claude-design">Anthropic, n.d., &quot;Set up your design system in Claude Design&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-6-move-from-standalone-claude-design-to-claude.html">1.2.6 Standalone Claude Design</a></strong><br>独立版 Claude Design</td>
+<td>(Summary) The <strong>separate site for Claude Design</strong>, being replaced by the version inside Claude; it <strong>turns read-only after December 14, 2026</strong>.</td>
+<td>（概述）<strong>Claude Design 的独立网站</strong>，正被 Claude 内的版本取代；<strong>2026 年 12 月 14 日之后变为只读</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/17440474-move-from-standalone-claude-design-to-claude">Anthropic, n.d., &quot;Move from standalone Claude Design to Claude&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-7-when-to-use-web-search-extended-thinking-and-research.html">1.2.7 When to Use Web Search, Extended Thinking, and Research</a></strong><br>何时使用网页搜索、扩展思考与研究</td>
+<td>(Summary) A guide comparing three features by <strong>the kind of question each suits</strong>, with web search <strong>for simple factual lookups</strong>.</td>
+<td>（概述）一篇比较三项功能的指南，按<strong>各自适合的问题类型</strong>说明，其中网页搜索<strong>适合简单的事实查询</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/11095361-when-should-i-use-web-search-extended-thinking-and-research">Anthropic, n.d., &quot;When should I use web search, extended thinking, and research?&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-8-research.html">1.2.8 Research</a></strong><br>研究</td>
+<td>(Summary) A mode in which Claude <strong>chains many searches</strong>, choosing each next step from earlier results, to <strong>study a question in depth</strong>.</td>
+<td>（概述）一种模式，Claude <strong>连续进行多次搜索</strong>，根据前面的结果决定下一步，以<strong>深入研究一个问题</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/11088861-use-research-on-claude">Anthropic, n.d., &quot;Use research on Claude&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-9-create-and-edit-files-with-claude.html">1.2.9 File Creation</a></strong><br>文件创建</td>
+<td>(Summary) A capability where Claude <strong>runs code inside the chat</strong> to <strong>produce downloadable Office and PDF files</strong> from plain requests.</td>
+<td>（概述）一项能力，Claude <strong>在对话中运行代码</strong>，根据普通请求<strong>生成可下载的 Office 和 PDF 文件</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/12111783-create-and-edit-files-with-claude">Anthropic, n.d., &quot;Create and edit files with Claude&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-10-projects.html">1.2.10 Projects</a></strong><br>项目</td>
+<td>(Summary) <strong>Separate workspaces</strong> that each keep <strong>their own chats and reference material</strong>.</td>
+<td>（概述）<strong>彼此独立的工作区</strong>，各自保存<strong>自己的聊天和参考资料</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/9517075-what-are-projects">Anthropic, n.d., &quot;What are projects?&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-11-retrieval-augmented-generation-rag-for-projects.html">1.2.11 Retrieval Augmented Generation (RAG) for Projects</a></strong><br>项目的检索增强生成（RAG）</td>
+<td>(Summary) A mode Claude <strong>enters automatically</strong> as project files near the context limit, so a project <strong>can hold far more material</strong>.</td>
+<td>（概述）当项目文件接近上下文上限时，Claude <strong>自动进入</strong>的一种模式，使项目<strong>能容纳多得多的资料</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/11473015-retrieval-augmented-generation-rag-for-projects">Anthropic, n.d., &quot;Retrieval augmented generation (RAG) for projects&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-12-skills.html">1.2.12 Skills</a></strong><br>技能</td>
+<td>(Summary) <strong>Packaged instructions and files</strong> that Claude <strong>brings in only when a task needs them</strong>, so the same job is done the same way each time.</td>
+<td>（概述）<strong>打包好的说明和文件</strong>，Claude <strong>仅在任务需要时载入</strong>，让同一项工作每次都按同样方式完成。</td>
+<td><a href="https://support.claude.com/en/articles/12512176-what-are-skills">Anthropic, n.d., &quot;What are skills?&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-13-how-to-create-custom-skills.html">1.2.13 Custom Skills</a></strong><br>自定义技能</td>
+<td>(Summary) Skills <strong>you write yourself</strong> to give Claude <strong>your own know-how and procedures</strong>, from a short note to a multi-file package.</td>
+<td>（概述）<strong>你自己编写</strong>的技能，向 Claude 提供<strong>你自己的知识和流程</strong>，可以是一段简短说明，也可以是多文件的包。</td>
+<td><a href="https://support.claude.com/en/articles/12512198-how-to-create-custom-skills">Anthropic, n.d., &quot;How to create custom skills&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-14-use-plugins-in-claude.html">1.2.14 Plugins</a></strong><br>插件</td>
+<td>(Summary) <strong>One installable bundle</strong> of skills, connectors and sub-agents that <strong>sets Claude up for a given role or team</strong>.</td>
+<td>（概述）<strong>一个可安装的组合包</strong>，含技能、连接器和子代理，<strong>让 Claude 适配特定角色或团队</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/13837440-use-plugins-in-claude">Anthropic, n.d., &quot;Use plugins in Claude&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-15-browse-skills-connectors-and-plugins-in-one-directory.html">1.2.15 Unified Directory</a></strong><br>统一目录</td>
+<td>(Summary) <strong>One catalogue</strong> where skills, connectors and plugins <strong>are found and installed</strong>, including those an organization publishes.</td>
+<td>（概述）<strong>一个统一目录</strong>，用于<strong>查找和安装</strong>技能、连接器和插件，也包括组织发布的内容。</td>
+<td><a href="https://support.claude.com/en/articles/14328846-browse-skills-connectors-and-plugins-in-one-directory">Anthropic, n.d., &quot;Browse skills, connectors, and plugins in one directory&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-16-manage-plugins-skills-and-connectors-from-one-plugins-page.html">1.2.16 Plugins Page</a></strong><br>插件页</td>
+<td>(Summary) The <strong>single page that replaces</strong> the former separate tabs for skills, connectors and plugins, <strong>under Plugins in the sidebar</strong>.</td>
+<td>（概述）<strong>取代原来技能、连接器、插件各自标签页的单一页面</strong>，位于<strong>侧边栏的 Plugins 下</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/17740565-manage-plugins-skills-and-connectors-from-one-plugins-page">Anthropic, n.d., &quot;Manage plugins, skills, and connectors from one Plugins page&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-17-use-claude-in-xcode.html">1.2.17 Claude in Xcode</a></strong><br>Xcode 中的 Claude</td>
+<td>(Summary) Claude <strong>built into Apple's Xcode 26</strong> as the model behind its <strong>coding help features</strong>.</td>
+<td>（概述）<strong>集成在 Apple Xcode 26 中</strong>的 Claude，是其<strong>编码辅助功能</strong>背后的模型。</td>
+<td><a href="https://support.claude.com/en/articles/12293051-use-claude-in-xcode">Anthropic, n.d., &quot;Use Claude in Xcode&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-18-use-claude-in-microsoft-foundry.html">1.2.18 Claude in Microsoft Foundry</a></strong><br>Microsoft Foundry 中的 Claude</td>
+<td>(Summary) Claude models <strong>offered through Microsoft Foundry</strong>, so that Azure customers can <strong>build applications under their existing agreements</strong>.</td>
+<td>（概述）<strong>通过 Microsoft Foundry 提供</strong>的 Claude 模型，让 Azure 客户<strong>在现有协议下构建应用</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/12864745-use-claude-in-microsoft-foundry">Anthropic, n.d., &quot;Use Claude in Microsoft Foundry&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-19-visual-and-interactive-content.html">1.2.19 Visual and Interactive Content</a></strong><br>可视化与交互内容</td>
+<td>(Summary) Replies that <strong>go beyond plain text</strong>, such as data widgets and diagrams, along with <strong>clickable questions</strong> in place of typing.</td>
+<td>（概述）<strong>不只是纯文本</strong>的回复，例如数据小组件和图表，还有用来代替打字的<strong>可点选问题</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/13641943-visual-and-interactive-content">Anthropic, n.d., &quot;Visual and interactive content&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-20-custom-visuals-in-chat-and-cowork.html">1.2.20 Custom Visuals</a></strong><br>自定义可视化</td>
+<td>(Summary) Diagrams and charts Claude <strong>draws from scratch</strong> and <strong>shows within its reply</strong>, in beta on web and desktop.</td>
+<td>（概述）Claude <strong>从零绘制</strong>并<strong>显示在回复中</strong>的图表，目前在网页端和桌面端处于测试阶段。</td>
+<td><a href="https://support.claude.com/en/articles/13979539-custom-visuals-in-chat-and-cowork">Anthropic, n.d., &quot;Custom visuals in chat and Cowork&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-21-available-beta-and-research-preview-features.html">1.2.21 Beta and Research Preview Labels</a></strong><br>测试版与研究预览标签</td>
+<td>(Summary) <strong>Two labels for unfinished features</strong>; a research preview is <strong>at an earlier stage and may change more</strong>.</td>
+<td>（概述）<strong>标记未完成功能的两种标签</strong>；研究预览<strong>阶段更早，变动可能更大</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/14503520-available-beta-and-research-preview-features">Anthropic, n.d., &quot;Available beta and research preview features&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-22-monthly-recap.html">1.2.22 Monthly Recap</a></strong><br>月度回顾</td>
+<td>(Summary) A <strong>personal report of how you used Claude</strong> over the month, <strong>shown only when memory is on</strong>.</td>
+<td>（概述）<strong>关于你当月如何使用 Claude 的个人报告</strong>，<strong>仅在开启记忆时显示</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/15672559-see-your-monthly-recap">Anthropic, n.d., &quot;See your monthly recap&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-23-claude-science.html">1.2.23 Claude Science</a></strong><br>Claude Science</td>
+<td>(Summary) A <strong>beta desktop application for scientists</strong> in which Claude <strong>writes and runs analysis code</strong> from a plain-language task.</td>
+<td>（概述）<strong>面向科研的测试版桌面应用</strong>，Claude 根据用自然语言描述的任务<strong>编写并运行分析代码</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/16563838-get-started-with-claude-science">Anthropic, n.d., &quot;Get started with Claude Science&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-24-use-salesforce-in-claude.html">1.2.24 Salesforce in Claude</a></strong><br>Claude 中的 Salesforce</td>
+<td>(Summary) A <strong>plugin linking Claude to Salesforce data</strong>, with ready-made sales skills, so reps can <strong>do CRM work from the chat</strong>.</td>
+<td>（概述）<strong>将 Claude 接入 Salesforce 数据的插件</strong>，附带现成的销售技能，让销售人员<strong>在对话中完成客户管理工作</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/16952186-use-salesforce-in-claude">Anthropic, n.d., &quot;Use Salesforce in Claude&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-25-use-claude-in-google-docs-sheets-and-slides.html">1.2.25 Claude for Google Workspace</a></strong><br>Claude for Google Workspace</td>
+<td>(Summary) A <strong>sidebar inside Docs, Sheets and Slides</strong> through which Claude <strong>changes the open file directly</strong>.</td>
+<td>（概述）<strong>位于 Google 文档、表格和幻灯片内的侧边栏</strong>，Claude 通过它<strong>直接修改打开的文件</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/16951679-use-claude-in-google-docs-sheets-and-slides">Anthropic, n.d., &quot;Use Claude in Google Docs, Sheets, and Slides&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-2-26-claude-duet.html">1.2.26 Claude Duet</a></strong><br>Claude Duet</td>
+<td>(Summary) A <strong>research preview you text like a person</strong>, which acts in your connected apps and <strong>checks with you before risky steps</strong>.</td>
+<td>（概述）一个<strong>像给人发消息一样使用的研究预览版</strong>，可在你已连接的应用中操作，并在<strong>执行高风险步骤前先征求你的确认</strong>。</td>
+<td><a href="https://support.claude.com/en/articles/17631495-get-started-with-claude-duet">Anthropic, n.d., &quot;Get started with Claude Duet&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Anthropic. (n.d.). <em>Claude Help Center</em>. Retrieved November 8, 2026, from <a href="https://support.claude.com/en/">https://support.claude.com/en/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-10 20:22:20-05:00">11/10/2026 20:22:20</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

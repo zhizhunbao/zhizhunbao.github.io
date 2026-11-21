@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.2.5 Jobs | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 4.2.5 Jobs: 4.2.5.1 Writing a Job spec, 4.2.5.2 Handling Pod and container failures, 4.2.5.3 Success policy, 4.2.5.4 Job termination and cleanup, 4.2.5.5 Job patterns.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="425-jobs">4.2.5 Jobs</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/workloads-controllers-job.png" alt="4.2.5 Jobs: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4.2.5 Jobs</strong><br>Job</td>
+<td>&quot;Jobs represent <strong>one-off tasks</strong> that <strong>run to completion and then stop</strong>.&quot;</td>
+<td>Job 代表<strong>一次性任务</strong>，它们<strong>运行至完成后即停止</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=Jobs%20represent%20one-off%20tasks%20that%20run%20to">The Kubernetes Authors, n.d., &quot;Jobs&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.2.5.1 Writing a Job spec</strong><br>编写 Job 规约</td>
+<td>&quot;There are <strong>three main types of task</strong> suitable to <strong>run as a Job</strong>:&quot;</td>
+<td>有<strong>三种主要类型的任务</strong>适合<strong>以 Job 运行</strong>：</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=There%20are%20three%20main%20types%20of%20task">The Kubernetes Authors, n.d., &quot;Parallel execution for Jobs&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Non-parallel Jobs</strong><br>非并行 Job</td>
+<td>&quot;Non-parallel Jobsnormally, <strong>only one Pod is started</strong>, unless <strong>the Pod fails</strong>.&quot;</td>
+<td>非并行 Job：通常<strong>只启动一个 Pod</strong>，除非<strong>该 Pod 失败</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=Non-parallel%20Jobsnormally%2C%20only%20one%20Pod%20is%20started%2C">The Kubernetes Authors, n.d., &quot;Parallel execution for Jobs&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>fixed completion count</strong><br>固定完成计数</td>
+<td>&quot;<strong>Parallel Jobs with a <em>fixed completion count</em></strong>:specify <strong>a non-zero positive value for <code>.spec.completions</code></strong>.&quot;</td>
+<td><strong>具有<em>固定完成计数</em>的并行 Job</strong>：指定 <strong><code>.spec.completions</code> 的一个非零正值</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=Parallel%20Jobs%20with%20a%20%2Afixed%20completion%20count%2A%3Aspecify">The Kubernetes Authors, n.d., &quot;Parallel execution for Jobs&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>work queue</strong><br>工作队列</td>
+<td>&quot;<strong>Parallel Jobs with a <em>work queue</em></strong>:do <strong>not specify <code>.spec.completions</code></strong>, default to <code>.spec.parallelism</code>.&quot;</td>
+<td><strong>使用<em>工作队列</em>的并行 Job</strong>：此时<strong>不指定 <code>.spec.completions</code></strong>，默认取 <code>.spec.parallelism</code>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=Parallel%20Jobs%20with%20a%20%2Awork%20queue%2A%3Ado%20not">The Kubernetes Authors, n.d., &quot;Parallel execution for Jobs&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>NonIndexed</strong><br>NonIndexed</td>
+<td>&quot;<code>NonIndexed</code> (default): <strong>the Job is considered complete</strong> when there have been <strong><code>.spec.completions</code> successfully completed Pods</strong>.&quot;</td>
+<td><code>NonIndexed</code>（默认）：<strong>Job 被视为完成</strong>，当<strong>成功完成的 Pod 数达到 <code>.spec.completions</code></strong> 时。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=%60NonIndexed%60%20%28default%29%3A%20the%20Job%20is%20considered%20complete">The Kubernetes Authors, n.d., &quot;Completion mode&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Indexed</strong><br>Indexed</td>
+<td>&quot;<code>Indexed</code>: <strong>the Pods of a Job</strong> get <strong>an associated completion index</strong> from <strong>0 to <code>.spec.completions-1</code></strong>.&quot;</td>
+<td><code>Indexed</code>：<strong>Job 的各个 Pod</strong> 获得<strong>一个关联的完成索引</strong>，范围是 <strong>0 到 <code>.spec.completions-1</code></strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=%60Indexed%60%3A%20the%20Pods%20of%20a%20Job%20get">The Kubernetes Authors, n.d., &quot;Completion mode&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>4.2.5.2 Handling Pod and container failures</strong><br>处理 Pod 和容器失败</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#handling-pod-and-container-failures">The Kubernetes Authors, n.d., &quot;Handling Pod and container failures&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Pod backoff failure policy</strong><br>Pod 回退失败策略</td>
+<td>(context) &quot;There are situations where you want to <strong>fail a Job</strong> after <strong>some amount of retries</strong> due to <strong>a logical error in configuration</strong> etc.&quot;</td>
+<td>（语境）有些情况下，你希望<strong>让 Job 失败</strong>，在<strong>若干次重试</strong>之后，原因是<strong>配置中的逻辑错误</strong>等。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=There%20are%20situations%20where%20you%20want%20to">The Kubernetes Authors, n.d., &quot;Pod backoff failure policy&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.2.5.3 Success policy</strong><br>成功策略</td>
+<td>&quot;When creating an Indexed Job, you can <strong>define when a Job can be declared as succeeded</strong> using <strong>a <code>.spec.successPolicy</code></strong>, based on <strong>the pods that succeeded</strong>.&quot;</td>
+<td>创建 Indexed Job 时，你可以<strong>定义何时可以宣告 Job 成功</strong>，方法是用<strong>一个 <code>.spec.successPolicy</code></strong>，依据是<strong>成功的 Pod</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=When%20creating%20an%20Indexed%20Job%2C%20you%20can">The Kubernetes Authors, n.d., &quot;Success policy&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.2.5.4 Job termination and cleanup</strong><br>Job 的终止与清理</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#job-termination-and-cleanup">The Kubernetes Authors, n.d., &quot;Job termination and cleanup&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Terminal Job conditions</strong><br>Job 终止状况</td>
+<td>&quot;A Job has <strong>two possible terminal states</strong>, each of which has <strong>a corresponding Job condition</strong>:&quot;</td>
+<td>Job 有<strong>两种可能的终止状态</strong>，每种都有<strong>对应的 Job 状况</strong>：</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=A%20Job%20has%20two%20possible%20terminal%20states%2C">The Kubernetes Authors, n.d., &quot;Terminal Job conditions&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.2.5.5 Job patterns</strong><br>Job 模式</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#job-patterns">The Kubernetes Authors, n.d., &quot;Job patterns&quot;</a></td>
+</tr>
+<tr>
+<td><strong>work items</strong><br>工作项</td>
+<td>&quot;The Job object can be used to <strong>process a set</strong> of <strong>independent but related <em>work items</em></strong>.&quot;</td>
+<td>Job 对象可用来<strong>处理一组</strong>相互<strong>独立但又相关的<em>工作项</em></strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=The%20Job%20object%20can%20be%20used%20to">The Kubernetes Authors, n.d., &quot;Job patterns&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>batch job</strong><br>批处理作业</td>
+<td>(context) &quot;Here we are just considering <strong>one set of work items</strong> that the user wants to <strong>manage together</strong> — a <em>batch job</em>.&quot;</td>
+<td>（语境）这里我们只考虑<strong>一组工作项</strong>，用户想<strong>把它们一起管理</strong>，即<em>批处理作业</em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/#:%7E:text=Here%20we%20are%20just%20considering%20one%20set">The Kubernetes Authors, n.d., &quot;Job patterns&quot;, para. 2</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Jobs</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/controllers/job/">https://kubernetes.io/docs/concepts/workloads/controllers/job/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

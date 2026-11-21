@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.2.1 Success Criteria and Evaluations | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Claude Platform Docs, 4. Best Practices: 4.2.1 Success Criteria and Evaluations; terms defined in this site&#39;s own words (Summary rows).">
+      <link rel="icon" href="../../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../../">
+      <meta name="kb:navrel" content="../../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="421-success-criteria-and-evaluations">4.2.1 Success Criteria and Evaluations</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Success Criteria and Evaluations</strong><br>成功标准与评估</td>
+<td>(Summary) The <strong>measurable goals</strong> for an LLM application and the <strong>tests that check performance against them</strong>.</td>
+<td>（概述）LLM 应用的<strong>可衡量目标</strong>，以及<strong>据此检验表现的测试</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Success Criteria</strong><br>成功标准</td>
+<td>(Summary) Goals for an application that are <strong>specific and measurable</strong>, and also <strong>achievable and relevant</strong> to what its users need.</td>
+<td>（概述）应用要达到的目标，要<strong>具体且可衡量</strong>，同时<strong>可实现并且切合</strong>用户的需要。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Define your success criteria&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Task Fidelity</strong><br>任务保真度</td>
+<td>(Summary) <strong>How well the model must perform</strong> the task itself, including <strong>rare or difficult inputs</strong>.</td>
+<td>（概述）<strong>模型完成任务本身要好到什么程度</strong>，包括<strong>少见或困难的输入</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Task fidelity&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Consistency</strong><br>一致性</td>
+<td>(Summary) <strong>How similar the answers must be</strong> when the model receives <strong>similar inputs</strong>, such as the same question asked twice.</td>
+<td>（概述）<strong>回答要相近到什么程度</strong>，指模型收到<strong>相似输入</strong>时，例如同一个问题问两次。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Consistency&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Relevance and Coherence</strong><br>相关性与连贯性</td>
+<td>(Summary) Whether the output <strong>directly addresses the request</strong> and presents its information in a <strong>logical, easy-to-follow order</strong>.</td>
+<td>（概述）输出是否<strong>直接回应请求</strong>，并以<strong>合乎逻辑、容易跟上的顺序</strong>呈现信息。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Relevance and coherence&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Tone and Style</strong><br>语气与风格</td>
+<td>(Summary) Whether the <strong>style of the output</strong> matches expectations and its language <strong>suits the intended audience</strong>.</td>
+<td>（概述）<strong>输出的风格</strong>是否符合预期，用语是否<strong>适合目标读者</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Tone and style&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Privacy Preservation</strong><br>隐私保护</td>
+<td>(Summary) How the model <strong>handles personal or sensitive information</strong>, and whether it <strong>follows instructions not to use or share</strong> certain details.</td>
+<td>（概述）模型如何<strong>处理个人或敏感信息</strong>，以及是否<strong>遵守不使用、不分享</strong>某些细节的指示。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Privacy preservation&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Context Utilization</strong><br>上下文利用</td>
+<td>(Summary) How effectively the model <strong>uses the context it was given</strong> and <strong>builds on earlier information</strong> in the conversation.</td>
+<td>（概述）模型能否有效<strong>利用给它的上下文</strong>，并<strong>在先前的信息之上继续</strong>对话。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Context utilization&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Latency</strong><br>延迟</td>
+<td>(Summary) The <strong>response time that is acceptable</strong>, which depends on the application's <strong>real-time needs and user expectations</strong>.</td>
+<td>（概述）<strong>可接受的响应时间</strong>，取决于应用的<strong>实时性需要与用户预期</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Latency&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Price</strong><br>价格</td>
+<td>(Summary) The <strong>budget for running the model</strong>, shaped by <strong>cost per call, model size and how often</strong> it is used.</td>
+<td>（概述）<strong>运行模型的预算</strong>，由<strong>每次调用的成本、模型大小与使用频率</strong>决定。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Price&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Evaluation (Eval)</strong><br>评估</td>
+<td>(Summary) A set of test cases that <strong>mirrors the real task</strong>, with edge cases, built so that <strong>grading can be automated</strong> and run in volume.</td>
+<td>（概述）一组<strong>贴近真实任务</strong>的测试用例，包含边界情况，设计成<strong>可以自动评分</strong>并大量运行。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Eval design principles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Edge Case</strong><br>边界情况</td>
+<td>(Summary) An input that is <strong>rare or hard to handle</strong>, such as missing, overly long, harmful or <strong>ambiguous data</strong>.</td>
+<td>（概述）<strong>少见或难处理</strong>的输入，例如缺失、过长、有害或<strong>含糊的数据</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Eval design principles&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Exact Match Evaluation</strong><br>精确匹配评估</td>
+<td>(Summary) An eval that checks whether the output <strong>equals a predefined correct answer</strong>, usually <strong>after normalizing</strong> spacing and case.</td>
+<td>（概述）检查输出是否<strong>等于预先给定的正确答案</strong>的评估，通常<strong>先做规范化</strong>（空白与大小写）。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Task fidelity (sentiment analysis): exact match evaluation&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Cosine Similarity Evaluation</strong><br>余弦相似度评估</td>
+<td>(Summary) An eval that measures <strong>how close two outputs are</strong> by comparing the <strong>vectors of their sentence embeddings</strong>.</td>
+<td>（概述）衡量<strong>两段输出有多接近</strong>的评估，做法是比较它们的<strong>句向量</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Consistency (FAQ bot): cosine similarity evaluation&quot;</a></td>
+</tr>
+<tr>
+<td><strong>ROUGE-L</strong><br>ROUGE-L</td>
+<td>(Summary) A score for <strong>generated summaries</strong> based on the <strong>longest common subsequence</strong> shared with a reference summary.</td>
+<td>（概述）给<strong>生成的摘要</strong>打的分，依据与参考摘要共有的<strong>最长公共子序列</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Relevance and coherence (summarization): ROUGE-L evaluation&quot;</a></td>
+</tr>
+<tr>
+<td><strong>LLM-Based Likert Scale</strong><br>基于 LLM 的李克特量表</td>
+<td>(Summary) A rating scale on which <strong>an LLM judges a subjective quality</strong>, such as tone, by <strong>assigning a score</strong>.</td>
+<td>（概述）一种评分量表，由 <strong>LLM 评判主观品质</strong>（如语气）并<strong>给出分数</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Tone and style (customer service): LLM-based Likert scale&quot;</a></td>
+</tr>
+<tr>
+<td><strong>LLM-Based Binary Classification</strong><br>基于 LLM 的二分类</td>
+<td>(Summary) A check in which <strong>an LLM sorts each output into one of two classes</strong>, for example whether it <strong>contains protected information</strong>.</td>
+<td>（概述）一种检查，由 <strong>LLM 把每条输出分到两类之一</strong>，例如是否<strong>含有受保护的信息</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Privacy preservation (medical chatbot): LLM-based binary classification&quot;</a></td>
+</tr>
+<tr>
+<td><strong>LLM-Based Ordinal Scale</strong><br>基于 LLM 的顺序量表</td>
+<td>(Summary) A <strong>fixed, ordered scale</strong> (1 to 5) on which <strong>an LLM rates an output</strong>, for example how well it uses context.</td>
+<td>（概述）一个<strong>固定且有序的量表</strong>（1 到 5），由 <strong>LLM 给输出评级</strong>，例如对上下文的利用程度。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Context utilization (conversation assistant): LLM-based ordinal scale&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Code-Based Grading</strong><br>基于代码的评分</td>
+<td>(Summary) Grading by <strong>rules written in code</strong>, such as exact or string match: <strong>fastest and most reliable</strong>, but without nuance.</td>
+<td>（概述）用<strong>写成代码的规则</strong>评分，如精确匹配或字符串匹配：<strong>最快也最可靠</strong>，但缺少细微判断。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Grade your evaluations&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Human Grading</strong><br>人工评分</td>
+<td>(Summary) Grading done <strong>by people</strong>: the most flexible and highest in quality, but <strong>slow and expensive</strong>.</td>
+<td>（概述）<strong>由人</strong>完成的评分：最灵活、质量最高，但<strong>慢而且贵</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Grade your evaluations&quot;</a></td>
+</tr>
+<tr>
+<td><strong>LLM-Based Grading</strong><br>基于 LLM 的评分</td>
+<td>(Summary) Grading done <strong>by a model following a rubric</strong>: fast and scalable for complex judgments, once its <strong>reliability has been tested</strong>.</td>
+<td>（概述）<strong>由模型按评分细则</strong>完成的评分：对复杂判断又快又可扩展，前提是<strong>先验证过它的可靠性</strong>。</td>
+<td><a href="https://platform.claude.com/docs/en/test-and-evaluate/develop-tests">Anthropic, n.d., &quot;Define Success and Build Evaluations&quot;, &quot;Grade your evaluations&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Anthropic. (n.d.). <em>Claude Platform Docs</em>. Retrieved November 8, 2026, from <a href="https://platform.claude.com/docs/en/home">https://platform.claude.com/docs/en/home</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-10 20:22:20-05:00">11/10/2026 20:22:20</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

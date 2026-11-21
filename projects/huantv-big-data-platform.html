@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>Smart-TV Big Data Platform | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Two smart-TV big data platforms, each processing over a billion device records a day with sub-second queries. HuanTV&#39;s moved in 2022 from self-managed CDH Hadoop on Tencent Cloud to Alibaba Cloud EMR and from xxl-job to Apache DolphinScheduler; Gozen Data&#39;s was built on Alibaba Cloud with an OSS data warehouse, EMR, DolphinScheduler and ClickHouse.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Peng Wang">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="smart-tv-big-data-platform">Smart-TV Big Data Platform</h1>
+
+<p>Two smart-TV big data platforms, each processing over a billion device records a day with sub-second queries. HuanTV's moved in 2022 from self-managed CDH Hadoop on Tencent Cloud to Alibaba Cloud EMR and from xxl-job to Apache DolphinScheduler; Gozen Data's was built on Alibaba Cloud with an OSS data warehouse, EMR, DolphinScheduler and ClickHouse.</p>
+<ul>
+<li><strong>Role:</strong> Senior Big Data Architect: Architecture, Development &amp; Operations</li>
+<li><strong>Organization:</strong> Guangzhou Huan Technology (HuanTV), Guangzhou</li>
+<li><strong>Dates:</strong> Apr 2015 – Sep 2022</li>
+<li><strong>Stack:</strong> CDH Hadoop (Hive, Spark), Tencent Cloud (COS, EMR), Alibaba Cloud (EMR, DataWorks, Quick BI), ClickHouse, Kafka, Apache DolphinScheduler, Kubernetes, NGINX + Lua, GitLab, Jira, Confluence, JumpServer</li>
+</ul>
+<h2 id="what-it-does">What it does</h2>
+<p>Collects, stores and analyzes smart-TV device data (viewing, advertising exposure and audience labels) for two companies: HuanTV, the employer, and its partner Gozen Data (勾正数据). In 2021 and 2022 I was still employed by HuanTV but worked at Gozen Data. Each company had its own platform, two in all, and each handled over a billion device records a day, queried in under a second with ClickHouse and Spark.</p>
+<p>In 2022 HuanTV's self-managed CDH Hadoop clusters on Tencent Cloud virtual machines were migrated to Alibaba Cloud EMR (VPC and VPN, security groups, auto-scaling), with infrastructure cost down 35%, and its scheduling moved from xxl-job to Apache DolphinScheduler. Gozen Data built a second platform of its own on Alibaba Cloud.</p>
+<h2 id="architecture">Architecture</h2>
+<h3 id="huantv-platform-on-tencent-cloud">HuanTV platform on Tencent Cloud</h3>
+<p>HuanTV's platform before the 2022 migration, drawn from my platform usage guide.</p>
+<p><img src="media/huantv-big-data-platform/huantv-architecture.png" alt="HuanTV Big Data Platform on Tencent Cloud: 1 outside the platform (smart TVs, data partners, engineers, analysts); on Tencent Cloud, 2 collection (collection servers, FTP server), 3 storage in COS (raw_data, preprocess, clean), 4 the CDH Hadoop cluster (Hive, Spark), 5 serving (ClickHouse, Superset, Hue) and 6 the gateway hadoop-gateway-01 (command line, job directories, xxl-job); green arrows 1 to 7 are the data pipeline, orange 8 to 11 the queries, grey 12 to 13 engineer access."></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Item</th>
+<th>What it is</th>
+<th>Talks to</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td>Outside the platform</td>
+<td>Everything that sends data to the platform or uses it, outside Tencent Cloud.</td>
+<td>2, 5, 6</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>Smart TV</td>
+<td>TVs in homes running the collection SDK, which reports viewing, ad exposure and heartbeats.</td>
+<td>2.1</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>Data partner</td>
+<td>Another company's server that sends its data as files over FTP.</td>
+<td>2.2</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>Engineer</td>
+<td>A team member's computer, used to build and run jobs.</td>
+<td>6.1</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>Analyst</td>
+<td>A colleague reading dashboards or downloading data in a browser.</td>
+<td>5.2, 5.3</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>Collection</td>
+<td>Receives device logs and partner files and puts them in COS.</td>
+<td>1, 3</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>Collection servers</td>
+<td>Servers that receive the TVs' logs and upload them to COS as daily or hourly files.</td>
+<td>1.1, 3.1</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>FTP server</td>
+<td>Receives partners' file uploads; scripts on it copy the files to COS.</td>
+<td>1.2, 3.1</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>Storage (COS)</td>
+<td>Tencent Cloud object storage, the platform's main storage, in three top-level folders.</td>
+<td>2, 4</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>raw_data</td>
+<td>Raw logs as received, mostly unstructured, in folders by company, brand and project.</td>
+<td>2, 4.2</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>preprocess</td>
+<td>Structured raw data that Hive reads directly (Hive database <code>original</code>).</td>
+<td>4</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>clean</td>
+<td>Tables cleaned by the business logic, as compressed ORC files (Hive database <code>base</code>).</td>
+<td>4</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>Hadoop cluster (CDH)</td>
+<td>Self-managed CDH Hadoop on Tencent Cloud virtual machines.</td>
+<td>3, 5, 6</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>Hive</td>
+<td>External tables over the COS folders, one database per project.</td>
+<td>3, 5.1, 5.3</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Spark</td>
+<td>The live-ott-spark ETL jobs, written to the coding standard below.</td>
+<td>3, 6</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>Serving</td>
+<td>Answers the analysts' queries.</td>
+<td>1.4, 4</td>
+</tr>
+<tr>
+<td>5.1</td>
+<td>ClickHouse</td>
+<td>The database for fast queries over billions of rows, synced from Hive.</td>
+<td>4.1, 5.2</td>
+</tr>
+<tr>
+<td>5.2</td>
+<td>Superset</td>
+<td>Dashboards on ClickHouse, including data monitoring charts.</td>
+<td>1.4, 5.1</td>
+</tr>
+<tr>
+<td>5.3</td>
+<td>Hue</td>
+<td>SQL on Hive in the browser, also used to download data.</td>
+<td>1.4, 4.1</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>Gateway (hadoop-gateway-01)</td>
+<td>The cluster's entry and bastion machine: all command-line work goes through it.</td>
+<td>1.3, 4</td>
+</tr>
+<tr>
+<td>6.1</td>
+<td>Command line</td>
+<td>The Hive and Spark clients engineers use to run queries and submit jobs.</td>
+<td>1.3, 4.2</td>
+</tr>
+<tr>
+<td>6.2</td>
+<td>Job directories</td>
+<td><code>/hwdata/job</code>, one directory per package, each with <code>bin</code>, <code>lib</code>, <code>log</code> and <code>data</code>.</td>
+<td>6.3</td>
+</tr>
+<tr>
+<td>6.3</td>
+<td>xxl-job</td>
+<td>The scheduler that runs the job scripts on a timetable, with an executor per job type.</td>
+<td>4, 6.2</td>
+</tr>
+<tr>
+<td>①</td>
+<td>send logs</td>
+<td>The TVs send their logs to the collection servers.</td>
+<td>1.1 to 2.1</td>
+</tr>
+<tr>
+<td>②</td>
+<td>upload files</td>
+<td>The collection servers upload their files to COS.</td>
+<td>2.1 to 3.1</td>
+</tr>
+<tr>
+<td>③</td>
+<td>upload</td>
+<td>A partner uploads its files to the FTP server.</td>
+<td>1.2 to 2.2</td>
+</tr>
+<tr>
+<td>④</td>
+<td>copy</td>
+<td>Scripts copy the partner files to COS.</td>
+<td>2.2 to 3.1</td>
+</tr>
+<tr>
+<td>⑤</td>
+<td>start jobs</td>
+<td>xxl-job starts the Hive and Spark jobs.</td>
+<td>6.3 to 4</td>
+</tr>
+<tr>
+<td>⑥</td>
+<td>read, write</td>
+<td>Spark reads <code>raw_data</code> and <code>preprocess</code> and writes <code>clean</code>.</td>
+<td>4.2 and 3</td>
+</tr>
+<tr>
+<td>⑦</td>
+<td>sync</td>
+<td>Hive tables are synced into ClickHouse.</td>
+<td>4.1 to 5.1</td>
+</tr>
+<tr>
+<td>⑧</td>
+<td>open dashboard</td>
+<td>An analyst opens a Superset dashboard.</td>
+<td>1.4 to 5.2</td>
+</tr>
+<tr>
+<td>⑨</td>
+<td>query</td>
+<td>Superset queries ClickHouse.</td>
+<td>5.2 to 5.1</td>
+</tr>
+<tr>
+<td>⑩</td>
+<td>query, download</td>
+<td>An analyst runs SQL or downloads data in Hue.</td>
+<td>1.4 to 5.3</td>
+</tr>
+<tr>
+<td>⑪</td>
+<td>run SQL</td>
+<td>Hue runs the SQL on Hive.</td>
+<td>5.3 to 4.1</td>
+</tr>
+<tr>
+<td>⑫</td>
+<td>log in</td>
+<td>An engineer logs in to the gateway.</td>
+<td>1.3 to 6.1</td>
+</tr>
+<tr>
+<td>⑬</td>
+<td>submit jobs</td>
+<td>The engineer submits Spark jobs from the command line.</td>
+<td>6.1 to 4.2</td>
+</tr>
+</tbody>
+</table>
+<h3 id="gozen-data-platform-on-alibaba-cloud">Gozen Data platform on Alibaba Cloud</h3>
+<p>Gozen Data's platform on Alibaba Cloud, 2021 to 2022, drawn from my work notes.</p>
+<p><img src="media/huantv-big-data-platform/gozen-architecture.png" alt="Gozen Data Platform on Alibaba Cloud: 1 outside the platform (smart TVs, data partners, engineers, ad platforms, analysts); on Alibaba Cloud, 2 collection (collection API, Kafka, Flume, FTP server), 3 the data warehouse in OSS (ODS, CDM, ADS), 4 processing on EMR (DolphinScheduler, Hive, Spark), 5 serving (ClickHouse, Quick BI, HMP tag API, Redis) and 6 operations (VPN gateway, JumpServer, team tools, CloudMonitor); green arrows 1 to 10 are the data pipeline, orange 11 to 14 the queries, grey 15 to 17 engineer access."></p>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Item</th>
+<th>What it is</th>
+<th>Talks to</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td>Outside the platform</td>
+<td>Everything that sends data to the platform or uses it, outside Alibaba Cloud.</td>
+<td>2, 5, 6</td>
+</tr>
+<tr>
+<td>1.1</td>
+<td>Smart TV</td>
+<td>TVs in homes running the collection SDK, which reports viewing, ad exposure and heartbeats.</td>
+<td>2.1</td>
+</tr>
+<tr>
+<td>1.2</td>
+<td>Data partner</td>
+<td>Another company's server that sends its data as files over FTP.</td>
+<td>2.4</td>
+</tr>
+<tr>
+<td>1.3</td>
+<td>Engineer</td>
+<td>A team member's computer, used to build and run jobs.</td>
+<td>6.1</td>
+</tr>
+<tr>
+<td>1.4</td>
+<td>Ad platform</td>
+<td>Another company's ad server, which asks for a device's tags on each ad request.</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>Analyst</td>
+<td>A colleague or client reading reports in a browser.</td>
+<td>5.2</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td>Collection</td>
+<td>Receives device logs and partner files and lands them in OSS.</td>
+<td>1, 3</td>
+</tr>
+<tr>
+<td>2.1</td>
+<td>Collection API</td>
+<td>OpenResty servers (NGINX with Lua scripts) that receive the logs of our own TVs and write each log type to its own Kafka topic; third-party data comes over FTP instead (2.4).</td>
+<td>1.1, 2.2</td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>Kafka</td>
+<td>The message queue that buffers the real-time logs.</td>
+<td>2.1, 2.3</td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>Flume</td>
+<td>Consumes the Kafka topics and writes the logs to OSS as files.</td>
+<td>2.2, 3.1</td>
+</tr>
+<tr>
+<td>2.4</td>
+<td>FTP server</td>
+<td>Receives partners' file uploads, which are copied to OSS.</td>
+<td>1.2, 3.1</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td>Data warehouse (OSS)</td>
+<td>The layered data warehouse, one OSS path per layer (see &quot;Data warehouse layers and storage design&quot; below).</td>
+<td>2, 4</td>
+</tr>
+<tr>
+<td>3.1</td>
+<td>ODS</td>
+<td>Raw data as received.</td>
+<td>2.3, 2.4, 4.3</td>
+</tr>
+<tr>
+<td>3.2</td>
+<td>CDM</td>
+<td>DWD cleaned detail tables, DWS wide tables and DIM dimension tables.</td>
+<td>4.2, 4.3</td>
+</tr>
+<tr>
+<td>3.3</td>
+<td>ADS</td>
+<td>Each project's metrics, one folder per project.</td>
+<td>4.2, 4.3</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td>Processing (EMR)</td>
+<td>The Alibaba Cloud E-MapReduce cluster that turns raw data into warehouse tables.</td>
+<td>3, 5</td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>DolphinScheduler</td>
+<td>The workflow scheduler that starts the daily ETL jobs; it runs behind a load balancer.</td>
+<td>4.2, 4.3</td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Hive</td>
+<td>SQL tables mapped onto the OSS paths, queried through Hue.</td>
+<td>3, 5.1</td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>Spark</td>
+<td>The Spark ETL jobs, written to the coding standard below, that clean, structure and aggregate the data.</td>
+<td>3, 5.3</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td>Serving</td>
+<td>Answers the queries of analysts and ad platforms.</td>
+<td>1, 4</td>
+</tr>
+<tr>
+<td>5.1</td>
+<td>ClickHouse</td>
+<td>The database for sub-second queries, loaded from Hive tables.</td>
+<td>4.2, 5.2</td>
+</tr>
+<tr>
+<td>5.2</td>
+<td>Quick BI</td>
+<td>Alibaba Cloud's reporting service: reports and dashboards on ClickHouse.</td>
+<td>1.5, 5.1</td>
+</tr>
+<tr>
+<td>5.3</td>
+<td>HMP tag API</td>
+<td>Gives ad platforms the audience tags of a device, keyed by hashed device IDs, and controls cross-screen frequency.</td>
+<td>1.4, 4.3, 5.4</td>
+</tr>
+<tr>
+<td>5.4</td>
+<td>Redis</td>
+<td>Holds the tag API's settings: tags, clients and white lists.</td>
+<td>5.3</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td>Operations</td>
+<td>How the team reaches and runs the platform.</td>
+<td>1.3, 4</td>
+</tr>
+<tr>
+<td>6.1</td>
+<td>VPN gateway</td>
+<td>Alibaba Cloud's VPN gateway, the engineers' way into the private network.</td>
+<td>1.3, 6.2</td>
+</tr>
+<tr>
+<td>6.2</td>
+<td>JumpServer</td>
+<td>The bastion host engineers log in through to reach the servers.</td>
+<td>6.1, 4</td>
+</tr>
+<tr>
+<td>6.3</td>
+<td>Team tools</td>
+<td>GitLab for code, Jira for tasks, Confluence for documents.</td>
+<td></td>
+</tr>
+<tr>
+<td>6.4</td>
+<td>CloudMonitor</td>
+<td>Alibaba Cloud's monitoring, with alerts on EMR and the services.</td>
+<td></td>
+</tr>
+<tr>
+<td>①</td>
+<td>send logs</td>
+<td>The TVs send their logs to the collection API.</td>
+<td>1.1 to 2.1</td>
+</tr>
+<tr>
+<td>②</td>
+<td>produce</td>
+<td>The collection API writes each log type to a Kafka topic.</td>
+<td>2.1 to 2.2</td>
+</tr>
+<tr>
+<td>③</td>
+<td>consume</td>
+<td>Flume reads the topics.</td>
+<td>2.2 to 2.3</td>
+</tr>
+<tr>
+<td>④</td>
+<td>land files</td>
+<td>Flume writes the logs into ODS.</td>
+<td>2.3 to 3.1</td>
+</tr>
+<tr>
+<td>⑤</td>
+<td>upload</td>
+<td>A partner uploads its files to the FTP server.</td>
+<td>1.2 to 2.4</td>
+</tr>
+<tr>
+<td>⑥</td>
+<td>copy</td>
+<td>The partner files are copied into ODS.</td>
+<td>2.4 to 3.1</td>
+</tr>
+<tr>
+<td>⑦</td>
+<td>start jobs</td>
+<td>DolphinScheduler starts the Hive and Spark jobs.</td>
+<td>4.1 to 4.2, 4.3</td>
+</tr>
+<tr>
+<td>⑧</td>
+<td>read, write</td>
+<td>Spark reads ODS and writes CDM and ADS.</td>
+<td>4.3 and 3</td>
+</tr>
+<tr>
+<td>⑨</td>
+<td>sync</td>
+<td>Hive tables are synced into ClickHouse.</td>
+<td>4.2 to 5.1</td>
+</tr>
+<tr>
+<td>⑩</td>
+<td>load tags</td>
+<td>The ETL jobs load the audience tags for the tag API.</td>
+<td>4.3 to 5.3</td>
+</tr>
+<tr>
+<td>⑪</td>
+<td>tag lookup</td>
+<td>An ad platform asks for a device's tags.</td>
+<td>1.4 to 5.3</td>
+</tr>
+<tr>
+<td>⑫</td>
+<td>read settings</td>
+<td>The tag API reads its settings from Redis.</td>
+<td>5.3 to 5.4</td>
+</tr>
+<tr>
+<td>⑬</td>
+<td>open dashboard</td>
+<td>An analyst opens a Quick BI dashboard.</td>
+<td>1.5 to 5.2</td>
+</tr>
+<tr>
+<td>⑭</td>
+<td>query</td>
+<td>Quick BI queries ClickHouse.</td>
+<td>5.2 to 5.1</td>
+</tr>
+<tr>
+<td>⑮</td>
+<td>connect</td>
+<td>An engineer connects through the VPN gateway.</td>
+<td>1.3 to 6.1</td>
+</tr>
+<tr>
+<td>⑯</td>
+<td>log in</td>
+<td>The engineer logs in to JumpServer.</td>
+<td>6.1 to 6.2</td>
+</tr>
+<tr>
+<td>⑰</td>
+<td>run jobs</td>
+<td>From JumpServer, the engineer runs jobs and queries on EMR.</td>
+<td>6.2 to 4</td>
+</tr>
+</tbody>
+</table>
+<h2 id="design-decisions">Design decisions</h2>
+<h3 id="spark-etl-coding-standard">Spark ETL coding standard</h3>
+<p>I wrote this standard for the team's Spark ETL project before the 2022 migration, when raw data sat in Tencent Cloud COS and jobs were scheduled with xxl-job. It was part of the platform usage guide that a new colleague read before writing a Spark ETL job.</p>
+<h4 id="one-package-per-data-source">One package per data source</h4>
+<ul>
+<li>The package name starts with the channel: <code>tv.huan</code> for HuanTV, <code>tv.gz</code> for Gozen Data, <code>tv.yd</code> for Yidian, and <code>tv.huan.alliance</code> for merged data.</li>
+<li>The rest of the name is the data source, for example <code>tv.huan.live.tcl</code> for TCL live TV data. All tables derived from one data source sit in one package, and a package holds one data source, except <code>alliance</code>.</li>
+<li>Production job directories on the gateway machine are created by package name, so a job's code and its scheduled scripts are found the same way.</li>
+</ul>
+<h4 id="one-class-per-table">One class per table</h4>
+<ul>
+<li>A job creates one class for each table it writes, and the class has the table's name: CamelCase for the class, underscores for the table.</li>
+<li>For TCL live TV data, five classes write five tables: <code>LiveTclLog</code>, <code>LiveTclDeviceInfo</code>, <code>LiveTclAction</code>, <code>LiveTclChannelDuration</code> and <code>LiveTclProgramDuration</code> (<code>base.live_tcl_log</code> and so on).</li>
+</ul>
+<h4 id="three-part-job-structure-with-a-lineage-event-trait">Three-part job structure with a lineage event trait</h4>
+<p>Every class has the same three parts, shown here for <code>LiveTclLog</code>:</p>
+<table>
+<thead>
+<tr>
+<th>Part</th>
+<th>What it does</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>object LiveTclLog</code></td>
+<td>Holds <code>main</code>: reads the date, builds a SparkSession named after the table and the date, and times the run.</td>
+</tr>
+<tr>
+<td><code>class LiveTclLog extends Clean</code></td>
+<td>Implements <code>doClean</code>, the cleaning logic.</td>
+</tr>
+<tr>
+<td><code>trait LiveTclLogEvent extends Clean</code></td>
+<td>Wraps <code>doClean</code>: sends a START message to the event center before the cleaning and an END message after it.</td>
+</tr>
+</tbody>
+</table>
+<p>Each message names the data the job read (one or more sources, such as a COS path), the one table it wrote, the phase, a job ID and the date. The trait is mixed in when the job is created, so the cleaning code never deals with the event center, and every job reports what it read, what it wrote, and when it started and ended. Simplified, without credentials or internal paths:</p>
+<pre><code class="lang-scala">object LiveTclLog {
+  def main(args: Array[String]): Unit = {
+    val dt = args(0)
+    val spark = SparkSession.builder()
+      .appName(&quot;base.live_tcl_log_&quot; + dt)
+      .enableHiveSupport()
+      .getOrCreate()
+    val job = new LiveTclLog with LiveTclLogEvent
+    job.doClean(spark, dt)
+  }
+}
+
+class LiveTclLog extends Clean {
+  override def doClean(spark: SparkSession, dt: String): Unit = {
+    // cleaning logic
+  }
+}
+
+trait LiveTclLogEvent extends Clean {
+  abstract override def doClean(spark: SparkSession, dt: String): Unit = {
+    val jobId = CommonUtil.getUUID
+    sendMessage(Message.Phase.START, dt, jobId)
+    super.doClean(spark, dt)
+    sendMessage(Message.Phase.END, dt, jobId)
+  }
+  // sendMessage: topic &quot;hive_etl&quot;, from (sources), to (target table), phase, job_id, dt
+}
+</code></pre>
+<h4 id="table-layers">Table layers</h4>
+<p>Each data source is cleaned into the same kinds of tables, each with its own design principle:</p>
+<table>
+<thead>
+<tr>
+<th>Table</th>
+<th>Example</th>
+<th>Design principle</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Raw log</td>
+<td><code>LiveTclLog</code></td>
+<td>Turn unstructured data into structured data for analysis and later processing; store it as compressed ORC files so queries use fewer resources.</td>
+</tr>
+<tr>
+<td>Device information</td>
+<td><code>LiveTclDeviceInfo</code></td>
+<td>Fix each device's region; manage device information (version and field updates) and count devices in total and by dimension.</td>
+</tr>
+<tr>
+<td>Point-in-time behaviour</td>
+<td><code>LiveTclAction</code></td>
+<td>Make counting easy at a one-minute granularity; a wide table.</td>
+</tr>
+<tr>
+<td>Channel time-span behaviour</td>
+<td><code>LiveTclChannelDuration</code></td>
+<td>Cut the data volume sharply for channel inflow and outflow; serve statistics coarser than one minute.</td>
+</tr>
+<tr>
+<td>Program time-span behaviour</td>
+<td><code>LiveTclProgramDuration</code></td>
+<td>Cut the data volume sharply for program metrics; serve statistics coarser than one minute.</td>
+</tr>
+<tr>
+<td>Merged data</td>
+<td><code>tv.huan.alliance</code></td>
+<td>The data the business actually uses is usually merged from several data sources and filtered by the sample, extracted from the base tables into merged tables.</td>
+</tr>
+</tbody>
+</table>
+<h4 id="coding-rules">Coding rules</h4>
+<ul>
+<li>Use Spark SQL rather than RDDs.</li>
+<li>Use <code>repartition</code> to lower executor memory.</li>
+<li>Use Spark UDFs rather than broadcast variables.</li>
+<li>Use <code>mapPartitions</code> and <code>flatMap</code> rather than <code>map</code>.</li>
+<li>Use <code>insert overwrite</code> rather than <code>insert into</code>.</li>
+<li>Avoid dynamic partitions where possible.</li>
+<li>Commit the day's code before leaving work.</li>
+<li>Push to GitLab only after a code review.</li>
+</ul>
+<h3 id="data-warehouse-layers-and-storage-design">Data warehouse layers and storage design</h3>
+<p>In 2021 I designed the data warehouse layout for Gozen Data's data in Alibaba Cloud OSS: a layered model, one OSS path and one table naming rule per layer, and one account per layer. It replaced the old databases, which were named after their contents (<code>original</code>, <code>base</code>, <code>alliance</code> and so on, as in the Spark ETL standard above).</p>
+<h4 id="layers">Layers</h4>
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>Name</th>
+<th>Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ODS</strong></td>
+<td>Operational Data Store, the raw data layer</td>
+<td>Keeps the structure of the source system's incremental or full data; a staging area that also records the base data and its history, and brings the base data into OSS.</td>
+</tr>
+<tr>
+<td><strong>CDM</strong></td>
+<td>Common Data Model, the common dimension model layer</td>
+<td>Processes and integrates the data, builds consistent dimensions, and builds reusable detail tables for analysis and statistics plus metrics summarized at a common granularity. It has three parts: DWD, DWS and DIM.</td>
+</tr>
+<tr>
+<td><strong>DWD</strong></td>
+<td>Data Warehouse Detail, the detail layer (in CDM)</td>
+<td>Tables cleaned and desensitized by the business logic, all in compressed ORC files.</td>
+</tr>
+<tr>
+<td><strong>DWS</strong></td>
+<td>Data Warehouse Summary, the summary layer (in CDM)</td>
+<td>Wide tables built around the subject being analysed, for the metrics that applications and products need, at a common granularity.</td>
+</tr>
+<tr>
+<td><strong>DIM</strong></td>
+<td>Dimension, the dimension layer (in CDM)</td>
+<td>All dimension data.</td>
+</tr>
+<tr>
+<td><strong>ADS</strong></td>
+<td>Application Data Service, the application layer</td>
+<td>The metrics and data specific to each project; one per project.</td>
+</tr>
+</tbody>
+</table>
+<p>DWS is built from wide tables: the metrics, dimensions and attributes of one business subject joined into one table, so joins are computed once and reused, less data is scanned, and the common metrics are reused instead of processed again for every project.</p>
+<h4 id="old-databases-mapped-to-the-new-layers">Old databases mapped to the new layers</h4>
+<table>
+<thead>
+<tr>
+<th>Old database</th>
+<th>Data from</th>
+<th>Use</th>
+<th>New layer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>original</code></td>
+<td>Raw data</td>
+<td>Raw data</td>
+<td>ODS</td>
+</tr>
+<tr>
+<td><code>base</code></td>
+<td><code>original</code></td>
+<td>Data after cleaning and structuring</td>
+<td>CDM, DWD</td>
+</tr>
+<tr>
+<td><code>device</code></td>
+<td><code>base</code></td>
+<td>Device wide tables, aggregated by device</td>
+<td>CDM, DWS</td>
+</tr>
+<tr>
+<td><code>dim</code></td>
+<td><code>original</code></td>
+<td>Dimension tables</td>
+<td>CDM, DIM</td>
+</tr>
+<tr>
+<td><code>dmp</code></td>
+<td><code>base</code></td>
+<td>Tables aggregated by user, after households are split into persons</td>
+<td>CDM, DWS</td>
+</tr>
+<tr>
+<td>Project databases</td>
+<td><code>base</code>, <code>original</code>, <code>device</code>, <code>dim</code></td>
+<td>Metrics drawn from the wide tables and each project's own dimension data</td>
+<td>ADS</td>
+</tr>
+</tbody>
+</table>
+<h4 id="paths-and-table-names">Paths and table names</h4>
+<table>
+<thead>
+<tr>
+<th>Layer</th>
+<th>OSS path</th>
+<th>Table name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ODS</td>
+<td><code>oss://ods/&lt;table&gt;/dt=&lt;yyyy-MM-dd&gt;/</code></td>
+<td><code>ods_${log_type}_&lt;source table name&gt;</code></td>
+</tr>
+<tr>
+<td>DWD</td>
+<td><code>oss://cdm/dwd/&lt;table&gt;/business_dt=&lt;yyyy-MM-dd&gt;/</code></td>
+<td><code>dwd_${log_type}_&lt;table name&gt;</code></td>
+</tr>
+<tr>
+<td>DWS</td>
+<td><code>oss://cdm/dws/&lt;table&gt;/business_dt=&lt;yyyy-MM-dd&gt;/</code></td>
+<td><code>dws_${log_type}_&lt;aggregation dimension&gt;_&lt;other information&gt;</code></td>
+</tr>
+<tr>
+<td>DIM</td>
+<td><code>oss://cdm/dim/&lt;table&gt;/[business_dt=&lt;yyyy-MM-dd&gt;/]</code></td>
+<td><code>dim_${channel_info}_&lt;table name&gt;</code></td>
+</tr>
+<tr>
+<td>ADS</td>
+<td><code>oss://ads/&lt;project&gt;/&lt;table&gt;/[business_dt=&lt;yyyy-MM-dd&gt;/]</code></td>
+<td><code>ads_${project_name}_${log_type}_&lt;other information&gt;</code></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Each layer's path matches its Hive database (<code>ods</code>, <code>dwd</code> and so on), since most paths hold the data of Hive tables mapped onto them.</li>
+<li>A table without partitions has no partition directory.</li>
+<li>If ODS receives a full table every day, it can be stored as a zipper table to save space.</li>
+</ul>
+<h4 id="one-account-per-layer">One account per layer</h4>
+<p>OSS tells permissions apart by AccessKey, so access is divided by account, one per layer and job type:</p>
+<table>
+<thead>
+<tr>
+<th>Account</th>
+<th>Path</th>
+<th>Access</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ods_${brand}_${log_type}</code></td>
+<td><code>oss://ods/*</code></td>
+<td>Read and write</td>
+<td>Upload or sync raw logs; one account for each log type.</td>
+</tr>
+<tr>
+<td><code>cdm${ETL}</code></td>
+<td><code>oss://ods/*</code></td>
+<td>Read</td>
+<td>Base data ETL.</td>
+</tr>
+<tr>
+<td></td>
+<td><code>oss://cdm/*</code></td>
+<td>Read and write</td>
+<td>Clean, desensitize and structure raw logs; aggregate the common wide tables.</td>
+</tr>
+<tr>
+<td><code>ads${project}</code></td>
+<td><code>oss://ads/${project}/*</code></td>
+<td>Read and write</td>
+<td>A project's metrics.</td>
+</tr>
+<tr>
+<td></td>
+<td><code>oss://cdm/*</code></td>
+<td>Read</td>
+<td>The CDM detail, dimension and wide tables the project depends on.</td>
+</tr>
+<tr>
+<td><code>data_monitor</code></td>
+<td><code>oss://*</code></td>
+<td>Read</td>
+<td>Daily data monitoring.</td>
+</tr>
+</tbody>
+</table>
+<p>Source code is private (company platform).</p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-15 21:05:48-05:00">11/15/2026 21:05:48</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

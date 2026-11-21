@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.2.178 CS50 Walkthroughs (Lectures) | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; CS50 &gt; Other Playlists &gt; CS50 Walkthroughs (Lectures): the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="42178-cs50-walkthroughs-lectures">4.2.178 CS50 Walkthroughs (Lectures)</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>CS50 Walkthroughs (Lectures)</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of">CS50, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=xmZR2XiwOq4&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="adder">adder</a></td>
+<td>3:14</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=dYVU9nFYybU&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="ages">ages</a></td>
+<td>3:50</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=gKupwkz8ZBo&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="ajax-0">ajax-0</a></td>
+<td>2:59</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=fHuy443Gm-Y&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="ajax-1">ajax-1</a></td>
+<td>1:45</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=HGVqC6hlqFI&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="ajax-2">ajax-2</a></td>
+<td>1:46</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=1VbHJz2L6dM&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="argv-0">argv-0</a></td>
+<td>2:12</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=Ja8YoR-u9TA&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="argv-1">argv-1</a></td>
+<td>1:35</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=mXj188eyRFE&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="argv-2">argv-2</a></td>
+<td>2:44</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=sELkIJyRHWg&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="ascii-0">ascii-0</a></td>
+<td>2:36</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=ifCoAx0r3es&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="ascii-1">ascii-1</a></td>
+<td>1:38</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=uFnsMLEgajQ&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="button">button</a></td>
+<td>3:04</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=n63VZDQ8r-o&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="capitalize">capitalize</a></td>
+<td>3:37</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=vp3TBL4WTbc&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="capitalize-0">capitalize-0</a></td>
+<td>2:37</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=h0hcz5zCBhU&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="capitalize-1">capitalize-1</a></td>
+<td>1:35</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=wYvnyO2PbT0&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="capitalize-2">capitalize-2</a></td>
+<td>2:10</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=1o0xfkkPDFQ&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="checkbox">checkbox</a></td>
+<td>3:20</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=Q9d8F9dXxbA&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="compare-0">compare-0</a></td>
+<td>2:04</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=jE_bs-QNj3c&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="compare-1">compare-1</a></td>
+<td>2:31</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=kBRUERguBPc&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="conditions-0">conditions-0</a></td>
+<td>2:29</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=-MUZL3kiPKI&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="conditions-1">conditions-1</a></td>
+<td>1:28</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=CPBTdz73chQ&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="conditions-1 (PHP)">conditions-1 (PHP)</a></td>
+<td>1:36</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=zwKBMSLYrk4&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="copy-0">copy-0</a></td>
+<td>1:37</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=ebQSYaneMms&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="copy-1">copy-1</a></td>
+<td>2:18</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=2_7oC9QW3j8&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="cough-0">cough-0</a></td>
+<td>1:38</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=gb341GXeskk&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="cough-1">cough-1</a></td>
+<td>0:43</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=u-vSE5alMdw&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="cough-2">cough-2</a></td>
+<td>0:57</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=HchQ1p-is5A&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="cough-3">cough-3</a></td>
+<td>2:05</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=1yG1uUH-sCw&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="cough-4">cough-4</a></td>
+<td>4:21</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=D0lQ9u5d3gA&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="counter">counter</a></td>
+<td>2:27</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=9s3cZ3DBUwE&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="counting sheep">counting sheep</a></td>
+<td>0:59</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=TKZlfZDF8Y4&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="css-0">css-0</a></td>
+<td>4:40</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=VwCSw2ts388&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="css-1">css-1</a></td>
+<td>3:13</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=-7wiXVMh4XY&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="css-2">css-2</a></td>
+<td>2:22</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=6Kb5CyWU3PY&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="dom-0">dom-0</a></td>
+<td>1:45</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=HOLM-ok0KOI&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="dom-1">dom-1</a></td>
+<td>3:43</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=6EkmABDGNGs&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="dom-2">dom-2</a></td>
+<td>2:49</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=982SmMd0wgI&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="don't pet the cat">don't pet the cat</a></td>
+<td>0:57</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=bgfiyeEDz-U&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="events">events</a></td>
+<td>1:35</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=ox6eTsi8dKA&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="f2c">f2c</a></td>
+<td>4:09</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=Eycgpd_HUIA&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="floats-0">floats-0</a></td>
+<td>1:15</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=26JLIimnyyM&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="floats-1">floats-1</a></td>
+<td>1:12</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=JqKDFhCaWC8&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="floats-2">floats-2</a></td>
+<td>1:47</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=U7W2U8qRI3I&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="form-0">form-0</a></td>
+<td>1:16</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=r2iaKDH79oQ&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="form-1">form-1</a></td>
+<td>2:55</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=eViManaIKkQ&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="form-2">form-2</a></td>
+<td>3:01</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=-C80Qik9OWw&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="froshims-0">froshims-0</a></td>
+<td>3:41</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=blwsjq0lQb4&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="froshims-1">froshims-1</a></td>
+<td>2:16</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=csboq6ZtqkI&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="froshims-2">froshims-2</a></td>
+<td>2:03</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=mVs7EkALBuw&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="froshims-3">froshims-3</a></td>
+<td>2:51</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=9zoRoz8Pq4E&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="functions-0">functions-0</a></td>
+<td>3:23</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=7X9KUm5xej0&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="functions-1">functions-1</a></td>
+<td>2:55</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=_BdD79J3Ycc&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="geolocation-0">geolocation-0</a></td>
+<td>2:40</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=mwq4dFISaUA&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="geolocation-1">geolocation-1</a></td>
+<td>1:44</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=whYnf7PFZ74&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="headings">headings</a></td>
+<td>1:28</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=PbynYC0D6Oo&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="hello, C">hello, C</a></td>
+<td>1:49</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=1TgTA4o_AM8&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="hello, HTML">hello, HTML</a></td>
+<td>5:42</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=A4OLTo9qeBU&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="hello, PHP">hello, PHP</a></td>
+<td>3:07</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=tveoFN0NHE0&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="hello, Scratch">hello, Scratch</a></td>
+<td>0:20</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=bQnyxpf0vk0&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="hello-0">hello-0</a></td>
+<td>2:32</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=Zfb73qVXgn8&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="hello-1">hello-1</a></td>
+<td>4:27</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=LpEyhtpVHes&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="hello-2">hello-2</a></td>
+<td>2:10</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=U7z503AVryY&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="hi hi hi">hi hi hi</a></td>
+<td>2:56</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=dW4giTKrgzo&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="image">image</a></td>
+<td>2:31</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=ONSsCsNJcsE&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="label">label</a></td>
+<td>3:17</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=GgpyVgkW_xk&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="link">link</a></td>
+<td>1:36</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=qyJXI2v7N8k&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="list">list</a></td>
+<td>1:56</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=kjqREWts-WU&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="meow">meow</a></td>
+<td>0:24</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=OGY8lbrvN_Y&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="meow meow meow">meow meow meow</a></td>
+<td>0:51</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=92ALk-oEjis&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="meow?">meow?</a></td>
+<td>1:52</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=3Jy0OIaHviI&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="mvc-0">mvc-0</a></td>
+<td>1:41</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=OwY_kl87bxY&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="mvc-1">mvc-1</a></td>
+<td>1:28</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=-6FRpI6V788&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="mvc-2">mvc-2</a></td>
+<td>3:55</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=5juddGp7D9g&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="mvc-3">mvc-3</a></td>
+<td>1:55</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=CsmWCvlbXMQ&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="mvc-4">mvc-4</a></td>
+<td>2:17</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=IbfPIpPAbf4&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="mvc-5">mvc-5</a></td>
+<td>1:54</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=b9_wESsI0Cs&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="nonswitch">nonswitch</a></td>
+<td>3:46</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=ETSddwPGjNM&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="noswap">noswap</a></td>
+<td>2:09</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=s1_kxTs5GfI&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="paragraphs">paragraphs</a></td>
+<td>1:51</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=jneprjYU-wM&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="pet the cat">pet the cat</a></td>
+<td>1:05</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=1PoFw5_p0xk&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="pointers">pointers</a></td>
+<td>2:06</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=1CHoS1xZMIk&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="positive">positive</a></td>
+<td>2:30</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=l1sfaAyt6ac&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="scanf-0">scanf-0</a></td>
+<td>1:32</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=4zS7RTnRuWY&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="scanf-1">scanf-1</a></td>
+<td>2:13</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=TJK6l_SBLnk&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="scanf-2">scanf-2</a></td>
+<td>1:49</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=RQ2_TIXBo00&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="search-0">search-0</a></td>
+<td>3:06</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=14jiSM4CMtY&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="search-1">search-1</a></td>
+<td>1:14</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=uqsKEAAvpTA&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="search-2">search-2</a></td>
+<td>1:48</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=P7oACLRGnEg&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="search-3">search-3</a></td>
+<td>2:51</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=AI2nKW7_pck&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="search-4">search-4</a></td>
+<td>2:19</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=C-J0fKmwKmw&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="sigma-0">sigma-0</a></td>
+<td>3:03</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=GSY5bEv3gX8&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="sigma-1">sigma-1</a></td>
+<td>2:07</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=6o-w4CIWP84&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="sizeof">sizeof</a></td>
+<td>2:11</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=mKiDejZId2g&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="slider">slider</a></td>
+<td>4:10</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=5NMTl_qPIqc&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="string">string</a></td>
+<td>1:57</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=BYbuuUntOZ4&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="string-0">string-0</a></td>
+<td>1:12</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=a2n7vKdRWKE&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="string-1">string-1</a></td>
+<td>0:50</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=p1e_6lkMGDg&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="string-2">string-2</a></td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=hce6yu8BLEM&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="swap">swap</a></td>
+<td>2:35</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=ch4I--dGpOM&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="switch">switch</a></td>
+<td>3:13</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=DQLbgo7Rzpg&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="table">table</a></td>
+<td>2:45</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=2s_WGOz6SAs&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="text">text</a></td>
+<td>2:49</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=G3z6aIwi_JA&amp;list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of" title="threads">threads</a></td>
+<td>1:54</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>CS50. (n.d.). <em>CS50 Walkthroughs (Lectures)</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of">https://www.youtube.com/playlist?list=PLhQjrBD2T3829-Pa2I8EJSufAeHLNG7Of</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

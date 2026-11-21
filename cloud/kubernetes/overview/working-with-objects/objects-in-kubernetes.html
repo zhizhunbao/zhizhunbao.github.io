@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.2.0 Objects In Kubernetes | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 1.2.0 Objects In Kubernetes: 1.2.0.1 Understanding Kubernetes objects, 1.2.0.2 Object spec and status, 1.2.0.3 Describing a Kubernetes object, 1.2.0.4 Required fields, 1.2.0.5 Server side field validation.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="120-objects-in-kubernetes">1.2.0 Objects In Kubernetes</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/overview-working-with-objects-objects-in-kubernetes.png" alt="1.2.0 Objects In Kubernetes: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.2.0 Objects In Kubernetes</strong><br>Kubernetes 中的对象</td>
+<td>&quot;<strong>Kubernetes objects</strong> are <strong>persistent entities in the Kubernetes system</strong>.&quot;</td>
+<td><strong>Kubernetes 对象</strong>是 <strong>Kubernetes 系统中的持久化实体</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=Kubernetes%20objects%20are%20persistent%20entities%20in%20the">The Kubernetes Authors, n.d., &quot;Objects In Kubernetes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>1.2.0.1 Understanding Kubernetes objects</strong><br>理解 Kubernetes 对象</td>
+<td>(context) &quot;Kubernetes uses <strong>these entities</strong> to <strong>represent the state of your cluster</strong>.&quot;</td>
+<td>（语境）Kubernetes 用<strong>这些实体</strong>来<strong>表示集群的状态</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=Kubernetes%20uses%20these%20entities%20to%20represent%20the">The Kubernetes Authors, n.d., &quot;Objects In Kubernetes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>record of intent</strong><br>意图记录</td>
+<td>&quot;A Kubernetes object is a &quot;<strong>record of intent</strong>&quot;--once you create the object, the Kubernetes system will <strong>constantly work to ensure that the object exists</strong>.&quot;</td>
+<td>Kubernetes 对象是一份“<strong>意图记录</strong>”：一旦你创建了对象，Kubernetes 系统就会<strong>持续工作，确保该对象存在</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=A%20Kubernetes%20object%20is%20a%20%22record%20of">The Kubernetes Authors, n.d., &quot;Understanding Kubernetes objects&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>desired state</strong><br>期望状态</td>
+<td>&quot;By creating an object, you're effectively telling the Kubernetes system <strong>what you want your cluster's workload to look like</strong>; this is your cluster's <em><strong>desired state</strong></em>.&quot;</td>
+<td>通过创建对象，你实际上是在告诉 Kubernetes 系统<strong>你希望集群的工作负载是什么样子</strong>；这就是集群的<em><strong>期望状态</strong></em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=By%20creating%20an%20object%2C%20you%27re%20effectively%20telling">The Kubernetes Authors, n.d., &quot;Understanding Kubernetes objects&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>1.2.0.2 Object spec and status</strong><br>对象的规约与状态</td>
+<td>&quot;Almost every Kubernetes object includes <strong>two nested object fields</strong> that <strong>govern the object's configuration</strong>: the object <em><code>spec</code></em> and the object <em><code>status</code></em>.&quot;</td>
+<td>几乎每个 Kubernetes 对象都包含<strong>两个嵌套的对象字段</strong>，它们<strong>控制对象的配置</strong>：对象 <em><code>spec</code></em> 和对象 <em><code>status</code></em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=Almost%20every%20Kubernetes%20object%20includes%20two%20nested">The Kubernetes Authors, n.d., &quot;Object spec and status&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>spec</strong><br>规约</td>
+<td>&quot;For objects that have a <code>spec</code>, <strong>you have to set this when you create the object</strong>, providing <strong>a description of the characteristics you want the resource to have</strong>: its <em><strong>desired state</strong></em>.&quot;</td>
+<td>对于有 <code>spec</code> 的对象，<strong>你必须在创建对象时设置它</strong>，用来<strong>描述你希望资源具备的特征</strong>，也就是它的<em><strong>期望状态</strong></em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=For%20objects%20that%20have%20a%20%60spec%60%2C%20you">The Kubernetes Authors, n.d., &quot;Object spec and status&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>current state</strong><br>当前状态</td>
+<td>&quot;The <code>status</code> describes the <em><strong>current state</strong></em> of the object, <strong>supplied and updated by the Kubernetes system</strong> and its components.&quot;</td>
+<td><code>status</code> 描述对象的<em><strong>当前状态</strong></em>，<strong>由 Kubernetes 系统及其组件提供和更新</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=The%20%60status%60%20describes%20the%20%2Acurrent%20state%2A%20of">The Kubernetes Authors, n.d., &quot;Object spec and status&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>status</strong><br>状态</td>
+<td>&quot;<strong>The <code>status</code></strong> describes <strong>the <em>current state</em></strong> of the object, <strong>supplied and updated by the Kubernetes system and its components</strong>.&quot;</td>
+<td><strong><code>status</code></strong> 描述<strong>对象的<em>当前状态</em></strong>，<strong>由 Kubernetes 系统及其组件提供和更新</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=The%20%60status%60%20describes%20the%20%2Acurrent%20state%2A%20of">The Kubernetes Authors, n.d., &quot;Object spec and status&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>1.2.0.3 Describing a Kubernetes object</strong><br>描述 Kubernetes 对象</td>
+<td>(context) &quot;When you create an object in Kubernetes, you must provide <strong>the object spec</strong> that <strong>describes its desired state</strong>, as well as <strong>some basic information about the object</strong> (such as a name).&quot;</td>
+<td>（语境）在 Kubernetes 中创建对象时，你必须提供<strong>对象规约</strong>，它<strong>描述其期望状态</strong>，以及<strong>对象的一些基本信息</strong>（例如名称）。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=When%20you%20create%20an%20object%20in%20Kubernetes%2C">The Kubernetes Authors, n.d., &quot;Describing a Kubernetes object&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>manifest</strong><br>清单</td>
+<td>(context) &quot;Most often, you <strong>provide the information to <code>kubectl</code></strong> in <strong>a file known as a <em>manifest</em></strong>.&quot;</td>
+<td>（语境）最常见的做法是，你<strong>把这些信息提供给 <code>kubectl</code></strong>，放在<strong>一个称为<em>清单</em>的文件</strong>中。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=Most%20often%2C%20you%20provide%20the%20information%20to">The Kubernetes Authors, n.d., &quot;Describing a Kubernetes object&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>1.2.0.4 Required fields</strong><br>必需字段</td>
+<td>(context) &quot;In <strong>the manifest (YAML or JSON file)</strong> for the Kubernetes object you want to create, you'll need to <strong>set values for the following fields</strong>:&quot;</td>
+<td>（语境）在你要创建的 Kubernetes 对象的<strong>清单</strong>（YAML 或 JSON 文件）中，<strong>你需要为以下字段设置值</strong>：</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=In%20the%20manifest%20%28YAML%20or%20JSON%20file%29">The Kubernetes Authors, n.d., &quot;Required fields&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>apiVersion</strong><br>apiVersion</td>
+<td>&quot;<strong><code>apiVersion</code></strong> - <strong>Which version of the Kubernetes API</strong> you're using to <strong>create this object</strong>&quot;</td>
+<td><strong><code>apiVersion</code></strong>：<strong>Kubernetes API 的哪个版本</strong>，你用它来<strong>创建此对象</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=%60apiVersion%60%20-%20Which%20version%20of%20the%20Kubernetes">The Kubernetes Authors, n.d., &quot;Required fields&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>kind</strong><br>kind</td>
+<td>&quot;<strong><code>kind</code></strong> - <strong>What kind of object you want to create</strong>&quot;</td>
+<td><strong><code>kind</code></strong>：<strong>你想创建的对象类型</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=%60kind%60%20-%20What%20kind%20of%20object%20you">The Kubernetes Authors, n.d., &quot;Required fields&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>metadata</strong><br>metadata</td>
+<td>&quot;<strong><code>metadata</code></strong> - <strong>Data that helps uniquely identify the object</strong>, including <strong>a <code>name</code> string, <code>UID</code>, and optional <code>namespace</code></strong>&quot;</td>
+<td><strong><code>metadata</code></strong>：<strong>帮助唯一标识对象的数据</strong>，包括 <strong><code>name</code> 字符串、<code>UID</code> 和可选的 <code>namespace</code></strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=%60metadata%60%20-%20Data%20that%20helps%20uniquely%20identify">The Kubernetes Authors, n.d., &quot;Required fields&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>spec</strong><br>spec</td>
+<td>&quot;<code>spec</code> - <strong>What state</strong> you <strong>desire for the object</strong>&quot;</td>
+<td><code>spec</code>：<strong>何种状态</strong>，是你<strong>对该对象的期望</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=%60spec%60%20-%20What%20state%20you%20desire%20for">The Kubernetes Authors, n.d., &quot;Required fields&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>1.2.0.5 Server side field validation</strong><br>服务器端字段校验</td>
+<td>&quot;Starting with Kubernetes v1.25, the API server offers <strong>server side field validation</strong> that <strong>detects unrecognized or duplicate fields</strong> in an object.&quot;</td>
+<td>从 Kubernetes v1.25 开始，API 服务器提供<strong>服务器端字段校验</strong>，<strong>检测对象中无法识别或重复的字段</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=Starting%20with%20Kubernetes%20v1.25%2C%20the%20API%20server">The Kubernetes Authors, n.d., &quot;Server side field validation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Strict</strong><br>Strict</td>
+<td>&quot;<strong>Strict</strong> field validation, <strong>errors on validation failure</strong>&quot;</td>
+<td><strong>严格</strong>的字段校验，<strong>校验失败时报错</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=Strict%20field%20validation%2C%20errors%20on%20validation%20failure">The Kubernetes Authors, n.d., &quot;Server side field validation&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Warn</strong><br>Warn</td>
+<td>&quot;<strong>Field validation is performed</strong>, but errors are <strong>exposed as warnings</strong> rather than <strong>failing the request</strong>&quot;</td>
+<td><strong>执行字段校验</strong>，但错误<strong>以警告形式暴露</strong>，而不会<strong>让请求失败</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=Field%20validation%20is%20performed%2C%20but%20errors%20are">The Kubernetes Authors, n.d., &quot;Server side field validation&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Ignore</strong><br>Ignore</td>
+<td>&quot;<strong>No server side field validation is performed</strong>&quot;</td>
+<td><strong>不执行服务器端字段校验</strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/#:%7E:text=No%20server%20side%20field%20validation%20is%20performed">The Kubernetes Authors, n.d., &quot;Server side field validation&quot;, para. 8</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Objects In Kubernetes</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/overview/working-with-objects/">https://kubernetes.io/docs/concepts/overview/working-with-objects/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

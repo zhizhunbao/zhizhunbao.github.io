@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.6 Electrical Engineering and Computer Science (Course 6) | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Electrical Engineering and Computer Science (Course 6): the playlists whose course number belongs to this subject, by course number, newest term first; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="26-electrical-engineering-and-computer-science-course-6">2.6 Electrical Engineering and Computer Science (Course 6)</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Electrical Engineering and Computer Science (Course 6)</strong><br>电子工程与计算机科学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course-recordings">Course Recordings</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6.00</td>
+<td></td>
+<td>Fall 2008</td>
+<td>24</td>
+<td><a href="mit-6-00-intro-to-computer-science-programming-fall-2008.html">2.6.1 MIT 6.00 Intro to Computer Science &amp; Programming, Fall 2008</a></td>
+</tr>
+<tr>
+<td>6.00SC</td>
+<td></td>
+<td>n.d.</td>
+<td>38</td>
+<td><a href="mit-6-00sc-introduction-to-computer-science-and-programming.html">2.6.2 MIT 6.00SC Introduction to Computer Science and Programming</a></td>
+</tr>
+<tr>
+<td>6.0001</td>
+<td></td>
+<td>Fall 2016</td>
+<td>38</td>
+<td><a href="6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016.html">2.6.3 6.0001 Introduction to Computer Science and Programming in Python. Fall 2016</a></td>
+</tr>
+<tr>
+<td>6.001</td>
+<td></td>
+<td>1986</td>
+<td>40</td>
+<td><a href="mit-6-001-structure-and-interpretation-1986.html">2.6.4 MIT 6.001 Structure and Interpretation, 1986</a></td>
+</tr>
+<tr>
+<td>6.01SC</td>
+<td></td>
+<td>n.d.</td>
+<td>27</td>
+<td><a href="mit-6-01sc-introduction-to-eecs-i.html">2.6.5 MIT 6.01SC Introduction to EECS I</a></td>
+</tr>
+<tr>
+<td>6.0002</td>
+<td></td>
+<td>Fall 2016</td>
+<td>15</td>
+<td><a href="mit-6-0002-introduction-to-computational-thinking-and-data-science-fall-2016.html">2.6.6 MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016</a></td>
+</tr>
+<tr>
+<td>6.02</td>
+<td></td>
+<td>Fall 2012</td>
+<td>24</td>
+<td><a href="mit-6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012.html">2.6.7 MIT 6.02 Introduction to EECS II: Digital Communication Systems, Fall 2012</a></td>
+</tr>
+<tr>
+<td>6.002</td>
+<td></td>
+<td>Spring 2007</td>
+<td>26</td>
+<td><a href="mit-6-002-circuits-and-electronics-spring-2007.html">2.6.8 MIT 6.002 Circuits and Electronics, Spring 2007</a></td>
+</tr>
+<tr>
+<td>6.003</td>
+<td></td>
+<td>Fall 2011</td>
+<td>25</td>
+<td><a href="mit-6-003-signals-and-systems-fall-2011.html">2.6.9 MIT 6.003 Signals and Systems, Fall 2011</a></td>
+</tr>
+<tr>
+<td>6.004</td>
+<td></td>
+<td>Spring 2017</td>
+<td>172</td>
+<td><a href="mit-6-004-computation-structures-spring-2017.html">2.6.10 MIT 6.004 Computation Structures, Spring 2017</a></td>
+</tr>
+<tr>
+<td>6.006</td>
+<td></td>
+<td>Spring 2020</td>
+<td>32</td>
+<td><a href="mit-6-006-introduction-to-algorithms-spring-2020.html">2.6.11 MIT 6.006 Introduction to Algorithms, Spring 2020</a></td>
+</tr>
+<tr>
+<td>6.006</td>
+<td></td>
+<td>Fall 2011</td>
+<td>47</td>
+<td><a href="mit-6-006-introduction-to-algorithms-fall-2011.html">2.6.12 MIT 6.006 Introduction to Algorithms, Fall 2011</a></td>
+</tr>
+<tr>
+<td>6.007</td>
+<td></td>
+<td>Spring 2011</td>
+<td>5</td>
+<td><a href="mit-6-007-electromagnetic-energy-spring-2011.html">2.6.13 MIT 6.007 Electromagnetic Energy, Spring 2011</a></td>
+</tr>
+<tr>
+<td>6.013</td>
+<td></td>
+<td>Fall 2005</td>
+<td>24</td>
+<td><a href="mit-6-013-electromagnetics-and-applications-fall-2005.html">2.6.14 MIT 6.013 Electromagnetics and Applications, Fall 2005</a></td>
+</tr>
+<tr>
+<td>6.033</td>
+<td></td>
+<td>Spring 2005</td>
+<td>22</td>
+<td><a href="mit-6-033-computer-system-engineering-spring-2005.html">2.6.15 MIT 6.033 Computer System Engineering, Spring 2005</a></td>
+</tr>
+<tr>
+<td>6.034</td>
+<td></td>
+<td>Fall 2010</td>
+<td>30</td>
+<td><a href="mit-6-034-artificial-intelligence-fall-2010.html">2.6.16 MIT 6.034 Artificial Intelligence, Fall 2010</a></td>
+</tr>
+<tr>
+<td>6.035</td>
+<td></td>
+<td>Fall 2005</td>
+<td>8</td>
+<td><a href="mit-6-035-computer-language-engineering-fall-2005.html">2.6.17 MIT 6.035 Computer Language Engineering, Fall 2005</a></td>
+</tr>
+<tr>
+<td>6.041</td>
+<td></td>
+<td>n.d.</td>
+<td>25</td>
+<td><a href="6-041-probabilistic-systems-analysis-and-applied-probability.html">2.6.18 6.041 Probabilistic Systems Analysis and Applied Probability</a></td>
+</tr>
+<tr>
+<td>6.041SC</td>
+<td></td>
+<td>Fall 2013</td>
+<td>76</td>
+<td><a href="mit-6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013.html">2.6.19 MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013</a></td>
+</tr>
+<tr>
+<td>6.042J</td>
+<td></td>
+<td>Spring 2015</td>
+<td>111</td>
+<td><a href="mit-6-042j-mathematics-for-computer-science-spring-2015.html">2.6.20 MIT 6.042J Mathematics for Computer Science, Spring 2015</a></td>
+</tr>
+<tr>
+<td>6.042J</td>
+<td></td>
+<td>Fall 2010</td>
+<td>25</td>
+<td><a href="mit-6-042j-mathematics-for-computer-science-fall-2010.html">2.6.21 MIT 6.042J Mathematics for Computer Science, Fall 2010</a></td>
+</tr>
+<tr>
+<td>6.046J</td>
+<td></td>
+<td>Spring 2015</td>
+<td>5</td>
+<td><a href="how-we-teach-mit-6-046j-design-and-analysis-of-algorithms-spring-2015.html">2.6.22 How We Teach: MIT 6.046J Design and Analysis of Algorithms, Spring 2015</a></td>
+</tr>
+<tr>
+<td>6.046J</td>
+<td></td>
+<td>Spring 2015 (2)</td>
+<td>34</td>
+<td><a href="mit-6-046j-design-and-analysis-of-algorithms-spring-2015.html">2.6.23 MIT 6.046J Design and Analysis of Algorithms, Spring 2015</a></td>
+</tr>
+<tr>
+<td>6.046J</td>
+<td></td>
+<td>n.d.</td>
+<td>23</td>
+<td><a href="mit-6-046j-18-410j-introduction-to-algorithms-sma-5503.html">2.6.24 MIT 6.046J / 18.410J Introduction to Algorithms (SMA 5503),</a></td>
+</tr>
+<tr>
+<td>6.100L</td>
+<td>Introduction to Computer Science and Programming<br>计算机科学与编程入门</td>
+<td>Fall 2022</td>
+<td>26</td>
+<td><a href="mit-6-100l-introduction-to-cs-and-programming-using-python-fall-2022.html">2.6.25 MIT 6.100L Introduction to CS and Programming using Python, Fall 2022</a></td>
+</tr>
+<tr>
+<td>6.172</td>
+<td></td>
+<td>Fall 2018</td>
+<td>23</td>
+<td><a href="mit-6-172-performance-engineering-of-software-systems-fall-2018.html">2.6.26 MIT 6.172 Performance Engineering of Software Systems, Fall 2018</a></td>
+</tr>
+<tr>
+<td>6.172</td>
+<td></td>
+<td>n.d.</td>
+<td>24</td>
+<td><a href="mit-6-172-performance-engineering-of-software-systems.html">2.6.27 MIT 6.172 Performance Engineering of Software Systems</a></td>
+</tr>
+<tr>
+<td>6.189</td>
+<td></td>
+<td>2007</td>
+<td>31</td>
+<td><a href="mit-6-189-multicore-programming-primer-january-iap-2007.html">2.6.28 MIT 6.189 Multicore Programming Primer, January (IAP) 2007</a></td>
+</tr>
+<tr>
+<td>6.262</td>
+<td></td>
+<td>Spring 2011</td>
+<td>25</td>
+<td><a href="mit-6-262-discrete-stochastic-processes-spring-2011.html">2.6.29 MIT 6.262 Discrete Stochastic Processes, Spring 2011</a></td>
+</tr>
+<tr>
+<td>6.370</td>
+<td></td>
+<td>IAP 2013</td>
+<td>8</td>
+<td><a href="mit-6-370-the-battlecode-programming-competition-iap-2013.html">2.6.30 MIT 6.370 The Battlecode Programming Competition, IAP 2013</a></td>
+</tr>
+<tr>
+<td>6.450</td>
+<td></td>
+<td>Fall 2006</td>
+<td>24</td>
+<td><a href="mit-6-450-principles-of-digital-communications-i-fall-2006.html">2.6.31 MIT 6.450 Principles of Digital Communications, I Fall 2006</a></td>
+</tr>
+<tr>
+<td>6.451</td>
+<td></td>
+<td>n.d.</td>
+<td>25</td>
+<td><a href="mit-6-451-principles-of-digital-communication-ii.html">2.6.32 MIT 6.451 Principles of Digital Communication II</a></td>
+</tr>
+<tr>
+<td>6.622</td>
+<td></td>
+<td>Spring 2023</td>
+<td>38</td>
+<td><a href="mit-6-622-power-electronics-spring-2023.html">2.6.33 MIT 6.622 Power Electronics, Spring 2023</a></td>
+</tr>
+<tr>
+<td>6.774</td>
+<td></td>
+<td>Fall 2004</td>
+<td>21</td>
+<td><a href="mit-6-774-physics-of-microfabrication-front-end-processing-fall-2004.html">2.6.34 MIT 6.774 Physics of Microfabrication: Front End Processing, Fall 2004</a></td>
+</tr>
+<tr>
+<td>6.781J</td>
+<td></td>
+<td>Spring 2006</td>
+<td>7</td>
+<td><a href="demo-movies-for-mit-6-781j-submicrometer-and-nanometer-technology-spring-2006.html">2.6.35 Demo Movies for MIT 6.781J Submicrometer and Nanometer Technology, Spring 2006</a></td>
+</tr>
+<tr>
+<td>6.801</td>
+<td></td>
+<td>Fall 2020</td>
+<td>23</td>
+<td><a href="mit-6-801-machine-vision-fall-2020.html">2.6.36 MIT 6.801 Machine Vision, Fall 2020</a></td>
+</tr>
+<tr>
+<td>6.811</td>
+<td></td>
+<td>n.d.</td>
+<td>14</td>
+<td><a href="how-we-teach-mit-6-811-principles-and-practice-of-assistive-technology.html">2.6.37 How We Teach: MIT 6.811 Principles and Practice of Assistive Technology</a></td>
+</tr>
+<tr>
+<td>6.832</td>
+<td></td>
+<td>Spring 2009</td>
+<td>23</td>
+<td><a href="mit-6-832-underactuated-robotics-spring-2009.html">2.6.38 MIT 6.832 Underactuated Robotics, Spring 2009</a></td>
+</tr>
+<tr>
+<td>6.849</td>
+<td></td>
+<td>Fall 2012</td>
+<td>40</td>
+<td><a href="mit-6-849-geometric-folding-algorithms-fall-2012.html">2.6.39 MIT 6.849 Geometric Folding Algorithms, Fall 2012</a></td>
+</tr>
+<tr>
+<td>6.851</td>
+<td></td>
+<td>Spring 2012</td>
+<td>22</td>
+<td><a href="mit-6-851-advanced-data-structures-spring-2012.html">2.6.40 MIT 6.851 Advanced Data Structures, Spring 2012</a></td>
+</tr>
+<tr>
+<td>6.858</td>
+<td></td>
+<td>Fall 2014</td>
+<td>22</td>
+<td><a href="mit-6-858-computer-systems-security-fall-2014.html">2.6.41 MIT 6.858 Computer Systems Security, Fall 2014</a></td>
+</tr>
+<tr>
+<td>6.868J</td>
+<td></td>
+<td>Fall 2011</td>
+<td>13</td>
+<td><a href="mit-6-868j-the-society-of-mind-fall-2011.html">2.6.42 MIT 6.868J The Society of Mind, Fall 2011</a></td>
+</tr>
+<tr>
+<td>6.868J</td>
+<td></td>
+<td>Spring 2007</td>
+<td>5</td>
+<td><a href="mit-6-868j-the-society-of-mind-spring-2007.html">2.6.43 MIT 6.868J The Society of Mind, Spring 2007</a></td>
+</tr>
+<tr>
+<td>6.890</td>
+<td></td>
+<td>Fall 2014</td>
+<td>23</td>
+<td><a href="mit-6-890-algorithmic-lower-bounds-fall-2014.html">2.6.44 MIT 6.890 Algorithmic Lower Bounds, Fall 2014</a></td>
+</tr>
+<tr>
+<td>6.912</td>
+<td></td>
+<td>January 2006</td>
+<td>4</td>
+<td><a href="mit-6-912-introduction-to-copyright-law-january-2006.html">2.6.45 MIT 6.912 Introduction to Copyright Law, January 2006</a></td>
+</tr>
+<tr>
+<td>6.1200</td>
+<td>Mathematics for Computer Science<br>计算机科学数学</td>
+<td>Spring 2024</td>
+<td>24</td>
+<td><a href="mit-6-1200j-mathematics-for-computer-science-spring-2024.html">2.6.46 MIT 6.1200J Mathematics for Computer Science, Spring 2024</a></td>
+</tr>
+<tr>
+<td>6.5630</td>
+<td>Advanced Topics in Cryptography<br>密码学高级专题</td>
+<td>Fall 2023</td>
+<td>17</td>
+<td><a href="mit-6-5630-advanced-topics-in-cryptography-fall-2023.html">2.6.47 MIT 6.5630 Advanced Topics in Cryptography, Fall 2023</a></td>
+</tr>
+<tr>
+<td>6.7960</td>
+<td>Deep Learning<br>深度学习</td>
+<td>Fall 2024</td>
+<td>24</td>
+<td><a href="mit-6-7960-deep-learning-fall-2024.html">2.6.48 MIT 6.7960 Deep Learning, Fall 2024</a></td>
+</tr>
+<tr>
+<td>6.S079</td>
+<td></td>
+<td>Spring 2013</td>
+<td>10</td>
+<td><a href="mit-6-s079-nanomaker-spring-2013.html">2.6.49 MIT 6.S079 Nanomaker, Spring 2013</a></td>
+</tr>
+<tr>
+<td>6.S095</td>
+<td></td>
+<td>IAP 2018</td>
+<td>11</td>
+<td><a href="mit-6-s095-programming-for-the-puzzled-january-iap-2018.html">2.6.50 MIT 6.S095 Programming for the Puzzled, January IAP 2018</a></td>
+</tr>
+<tr>
+<td>6.S897</td>
+<td></td>
+<td>Spring 2019</td>
+<td>25</td>
+<td><a href="mit-6-s897-machine-learning-for-healthcare-spring-2019.html">2.6.51 MIT 6.S897 Machine Learning for Healthcare, Spring 2019</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Massachusetts Institute of Technology. (n.d.). <em>Subjects</em>. MIT Course Catalog. Retrieved November 20, 2026, from <a href="https://catalog.mit.edu/subjects/">https://catalog.mit.edu/subjects/</a></p>
+<p>MIT OpenCourseWare. (n.d.). <em>Playlists</em> [YouTube channel]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/@mitocw/playlists">https://www.youtube.com/@mitocw/playlists</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

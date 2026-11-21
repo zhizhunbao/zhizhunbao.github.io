@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>20.1 Cost Management | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 20.1 Cost management: Factors that affect costs, Pricing calculator, Microsoft Cost Management (Cost Analysis, Budgets, Exports), Tags, Cost optimization options (Reservations, Azure savings plan for compute, Spot pricing, Azure Hybrid Benefit).">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="201-cost-management">20.1 Cost Management</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/cost-management.png" alt="Cost management in one column: Factors that affect costs, Pricing calculator, Microsoft Cost Management, Tags, Cost optimization options. Microsoft Cost Management expands into Cost Analysis, Budgets and Exports; Cost optimization options expands into Reservations, Azure savings plan for compute, Spot pricing and Azure Hybrid Benefit."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cost management</strong><br>成本管理</td>
+<td>&quot;This module explores methods to <strong>estimate, track, and manage costs</strong> in Azure.&quot;</td>
+<td>本模块探讨在 Azure 中<strong>估算、跟踪和管理成本</strong>的方法。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/#:%7E:text=This%20module%20explores%20methods%20to%20estimate">Microsoft, 2026a, &quot;Describe cost management in Azure&quot; module</a></td>
+</tr>
+<tr>
+<td><strong>Factors that affect costs</strong><br>影响成本的因素</td>
+<td>(context) &quot;A number of factors influence the cost of Azure resources. The <strong>type of resources</strong>, the <strong>settings for the resource</strong>, and the <strong>Azure region</strong> will all have an impact on how much a resource costs.&quot;</td>
+<td>（语境）许多因素会影响 Azure 资源的成本。<strong>资源的类型</strong>、<strong>资源的设置</strong>和 <strong>Azure 区域</strong>都会影响资源的费用。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/2-describe-factors-affect-costs-azure#:%7E:text=A%20number%20of%20factors%20influence%20the%20cost%20of%20Azure%20resources">Microsoft, n.d.-b, &quot;Resource type&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Pricing calculator</strong><br>定价计算器</td>
+<td>&quot;The Azure pricing calculator helps you <strong>turn anticipated usage into an estimated cost</strong>, which makes it easier to <strong>plan and budget for your Azure usage</strong>.&quot;</td>
+<td>Azure 定价计算器帮助你<strong>把预期用量转换为估算成本</strong>，从而更容易<strong>为 Azure 用量做计划和预算</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator#:%7E:text=helps%20you%20turn%20anticipated%20usage%20into%20an%20estimated%20cost">Microsoft, 2025a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Microsoft Cost Management</strong><br>Microsoft 成本管理</td>
+<td>&quot;Microsoft Cost Management is a <strong>suite of FinOps tools</strong> that help organizations <strong>analyze, monitor, and optimize their Microsoft Cloud costs</strong>.&quot;</td>
+<td>Microsoft 成本管理是一套 <strong>FinOps 工具</strong>，帮助组织<strong>分析、监视和优化 Microsoft 云成本</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management#:%7E:text=is%20a%20suite%20of%20FinOps%20tools">Microsoft, 2025f, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cost Analysis</strong><br>成本分析</td>
+<td>&quot;Cost Analysis is your tool for <strong>interactive analytics and insights</strong>. It should be your first stop when you need to <strong>explore or get quick answers about your costs</strong>.&quot;</td>
+<td>Cost Analysis 是你用于<strong>交互式分析和洞察</strong>的工具。当你需要<strong>探索成本或快速得到成本问题的答案</strong>时，它应该是你的第一站。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-acm-cost-analysis#:%7E:text=Cost%20Analysis%20is%20your%20tool%20for%20interactive%20analytics%20and%20insights">Microsoft, 2025b, &quot;Get started&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Budgets</strong><br>预算</td>
+<td>&quot;Budgets in Cost Management help you <strong>plan for and drive organizational accountability</strong>. They help you <strong>proactively inform others about their spending</strong> to manage costs and <strong>monitor how spending progresses over time</strong>.&quot;</td>
+<td>Cost Management 中的预算帮助你<strong>做好规划并推动组织的责任落实</strong>。它们帮助你<strong>主动告知他人其支出情况</strong>以管理成本，并<strong>监视支出随时间的进展</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets#:%7E:text=Budgets%20in%20Cost%20Management%20help%20you%20plan%20for%20and%20drive%20organizational%20accountability">Microsoft, 2025c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Exports</strong><br>导出</td>
+<td>&quot;However, you can create a <strong>recurring task</strong> that <strong>automatically exports your Cost Management data to Azure storage</strong> on a daily, or monthly basis.&quot;</td>
+<td>不过，你可以创建一个<strong>定期任务</strong>，<strong>按天或按月自动把 Cost Management 数据导出到 Azure 存储</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-improved-exports#:%7E:text=you%20can%20create%20a%20recurring%20task%20that%20automatically%20exports%20your%20Cost%20Management%20data">Microsoft, 2025d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Tags</strong><br>标记</td>
+<td>&quot;Tags are <strong>metadata elements</strong> that you apply to your Azure resources. They are <strong>key-value pairs</strong> that help you <strong>identify resources</strong> based on settings that are relevant to your organization.&quot;</td>
+<td>标记是你应用到 Azure 资源上的<strong>元数据元素</strong>。它们是<strong>键值对</strong>，帮助你根据与组织相关的设置<strong>识别资源</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources#:%7E:text=Tags%20are%20metadata%20elements%20that%20you%20apply%20to%20your%20Azure%20resources">Microsoft, 2025e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cost optimization options</strong><br>成本优化选项</td>
+<td>(context) &quot;After estimating and monitoring costs, the next step is <strong>choosing the right pricing option</strong> for <strong>each workload profile</strong>.&quot;</td>
+<td>（语境）在估算和监视成本之后，下一步是<strong>选择合适的定价选项</strong>，针对<strong>每种工作负载特征</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/7a-describe-cost-optimization-options#:%7E:text=After%20estimating%20and%20monitoring%20costs">Microsoft, n.d.-a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Reservations</strong><br>预留</td>
+<td>&quot;Reservations are best for <strong>stable, predictable workloads</strong>. You <strong>commit to specific resource capacity for a one-year or three-year term</strong>, and Azure applies <strong>discounted pricing to matching usage</strong>.&quot;</td>
+<td>预留最适合<strong>稳定、可预测的工作负载</strong>。你<strong>承诺在一年或三年期限内使用特定的资源容量</strong>，Azure 则对<strong>匹配的用量应用折扣价格</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/7a-describe-cost-optimization-options#:%7E:text=Reservations%20are%20best%20for%20stable%2C%20predictable%20workloads">Microsoft, n.d.-a, &quot;Reservations&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure savings plan for compute</strong><br>Azure 计算节省计划</td>
+<td>&quot;Azure savings plan for compute is another <strong>commitment-based option for compute services</strong>. Instead of committing to a specific VM family or instance type, you <strong>commit to an hourly spend amount for one or three years</strong>, and savings are applied to eligible compute usage.&quot;</td>
+<td>Azure 计算节省计划是另一种<strong>基于承诺的计算服务选项</strong>。你不是承诺某个特定的 VM 系列或实例类型，而是<strong>承诺一年或三年内每小时的支出金额</strong>，节省会应用到符合条件的计算用量上。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/7a-describe-cost-optimization-options#:%7E:text=Azure%20savings%20plan%20for%20compute%20is%20another%20commitment%2Dbased%20option">Microsoft, n.d.-a, &quot;Azure savings plan for compute&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Spot pricing</strong><br>现成定价</td>
+<td>&quot;Spot Virtual Machines use <strong>unused Azure capacity at reduced prices</strong>. Spot is most appropriate for <strong>interruptible workloads</strong> because Azure can <strong>reclaim that capacity when needed</strong>.&quot;</td>
+<td>现成虚拟机以<strong>更低的价格使用 Azure 未使用的容量</strong>。现成定价最适合<strong>可中断的工作负载</strong>，因为 Azure 可以<strong>在需要时收回这些容量</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/7a-describe-cost-optimization-options#:%7E:text=Spot%20Virtual%20Machines%20use%20unused%20Azure%20capacity%20at%20reduced%20prices">Microsoft, n.d.-a, &quot;Spot pricing&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Hybrid Benefit</strong><br>Azure 混合权益</td>
+<td>&quot;Azure Hybrid Benefit an Azure <strong>discount</strong> that helps you to <strong>significantly reduce the costs of running your workloads in the cloud</strong>. It works by letting you <strong>use your on-premises Software Assurance or subscription-enabled Windows Server and SQL Server licenses on Azure</strong>.&quot;</td>
+<td>Azure 混合权益是一种 Azure <strong>折扣</strong>，帮助你<strong>大幅降低在云中运行工作负载的成本</strong>。它的做法是让你<strong>在 Azure 上使用本地带 Software Assurance 或已启用订阅的 Windows Server 和 SQL Server 许可证</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/scope-level/overview-azure-hybrid-benefit-scope#:%7E:text=Azure%20Hybrid%20Benefit%20an%20Azure%20discount%20that%20helps%20you">Microsoft, 2026b, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (n.d.-a). <em>Describe cost optimization options in Azure</em> [Training module unit]. Microsoft Learn. Retrieved October 27, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/7a-describe-cost-optimization-options">https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/7a-describe-cost-optimization-options</a></li>
+<li>Microsoft. (n.d.-b). <em>Describe factors that can affect costs in Azure</em> [Training module unit]. Microsoft Learn. Retrieved October 27, 2026, from <a href="https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/2-describe-factors-affect-costs-azure">https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/2-describe-factors-affect-costs-azure</a></li>
+<li>Microsoft. (2025a, July 21). <em>Estimate costs with the Azure pricing calculator</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator">https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/pricing-calculator</a></li>
+<li>Microsoft. (2025b, June 27). <em>Quickstart: Start using Cost Analysis</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-acm-cost-analysis">https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-acm-cost-analysis</a></li>
+<li>Microsoft. (2025c, June 26). <em>Tutorial: Create and manage budgets</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets">https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets</a></li>
+<li>Microsoft. (2025d, June 26). <em>Tutorial: Create and manage Cost Management exports</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-improved-exports">https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-improved-exports</a></li>
+<li>Microsoft. (2025e, September 15). <em>Use tags to organize your Azure resources and management hierarchy</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources">https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources</a></li>
+<li>Microsoft. (2025f, June 27). <em>What is Microsoft Cost Management</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management">https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/overview-cost-management</a></li>
+<li>Microsoft. (2026a). <em>Introduction to cloud infrastructure: Describe Azure management and governance</em> [Learning path]. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/">https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/</a></li>
+<li>Microsoft. (2026b, July 17). <em>What is centrally managed Azure Hybrid Benefit for SQL Server?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cost-management-billing/scope-level/overview-azure-hybrid-benefit-scope">https://learn.microsoft.com/en-us/azure/cost-management-billing/scope-level/overview-azure-hybrid-benefit-scope</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-03 17:38:04-05:00">11/03/2026 17:38:04</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

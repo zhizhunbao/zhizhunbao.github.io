@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.3 Constraint model | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="MuJoCo, 2.3 Constraint model: Equality, Friction loss, Limit, Contact.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="23-constraint-model">2.3 Constraint model</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/constraint-model.png" alt="2.3 Constraint model: its parts from the official menu, each with the entries the menu lists under it, in MuJoCo."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.3 Constraint model</strong><br>约束模型</td>
+<td>(context) &quot;MuJoCo has <strong>a very flexible constraint model</strong>, which is nevertheless handled in a uniform way by the solver described later.&quot;</td>
+<td>（语境）MuJoCo 有<strong>一个非常灵活的约束模型</strong>，但它由后面介绍的求解器统一处理。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#constraint-model">Google DeepMind, n.d., &quot;Constraint model&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Equality</strong><br>等式约束</td>
+<td>(context) &quot;There are <strong>five types of equality constraints</strong> described next.&quot;</td>
+<td>（语境）接下来介绍<strong>五种等式约束</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#equality">Google DeepMind, n.d., &quot;Equality&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Loop joints</strong><br>环路关节</td>
+<td>&quot;Among other applications, equality constraints can be used to create “loop joints”, i.e., <strong>joints that cannot be modeled via the kinematic tree</strong>.&quot;</td>
+<td>在其他用途之外，等式约束可用于构造“环路关节”，即<strong>无法通过运动学树建模的关节</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#equality">Google DeepMind, n.d., &quot;Equality&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>connect</strong><br>连接约束</td>
+<td>&quot;This constraint <strong>connects two bodies at a point, effectively creating a ball joint outside the kinematic tree</strong>.&quot;</td>
+<td>这种约束<strong>在一点上连接两个刚体，相当于在运动学树之外创建一个球关节</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#equality">Google DeepMind, n.d., &quot;Equality&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>weld</strong><br>焊接约束</td>
+<td>&quot;This constraint <strong>welds two bodies together, suppressing all relative degrees of freedom between them</strong>.&quot;</td>
+<td>这种约束<strong>把两个刚体焊在一起，消除它们之间的所有相对自由度</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#equality">Google DeepMind, n.d., &quot;Equality&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>joint</strong><br>关节约束</td>
+<td>&quot;This constraint applies only to scalar joints: hinge and slide. It can be used <strong>to lock one joint into a constant position, or to couple two joints via a quartic polynomial</strong>.&quot;</td>
+<td>这种约束只适用于标量关节：铰链关节和滑动关节。它可用于<strong>把一个关节锁定在固定位置，或通过四次多项式耦合两个关节</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#equality">Google DeepMind, n.d., &quot;Equality&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>tendon</strong><br>肌腱约束</td>
+<td>&quot;This constraint is very similar to the joint constraint above, but <strong>applies to the length of tendons instead of the position of joints</strong>.&quot;</td>
+<td>这种约束与上面的关节约束非常相似，但<strong>作用于肌腱的长度，而不是关节的位置</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#equality">Google DeepMind, n.d., &quot;Equality&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>distance</strong><br>距离约束</td>
+<td>(context) &quot;Distance equality constraints <strong>were removed in MuJoCo version 2.2.2</strong>.&quot;</td>
+<td>（语境）距离等式约束<strong>已在 MuJoCo 2.2.2 版中移除</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#equality">Google DeepMind, n.d., &quot;Equality&quot;, item 5</a></td>
+</tr>
+<tr>
+<td><strong>Friction loss</strong><br>摩擦损失</td>
+<td>&quot;Friction loss is also known as <strong>dry friction, or static friction, or load-independent friction</strong> (in contrast with Coulomb friction which scales with normal force).&quot;</td>
+<td>摩擦损失也称为<strong>干摩擦、静摩擦或与载荷无关的摩擦</strong>（与随法向力变化的库仑摩擦相对）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#friction-loss">Google DeepMind, n.d., &quot;Friction loss&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>joint</strong><br>关节摩擦损失</td>
+<td>&quot;Friction loss can be defined not only for scalar joints (slide and hinge), but also for ball joints which have 3 degrees of freedom, and free joints which have 6 degrees of freedom. When defined, it is <strong>applied independently to all degrees of freedom of the affected joint</strong>.&quot;</td>
+<td>摩擦损失不仅可以为标量关节（滑动关节和铰链关节）定义，也可以为有 3 个自由度的球关节和有 6 个自由度的自由关节定义。定义后，它<strong>独立地作用于所涉关节的所有自由度</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#friction-loss">Google DeepMind, n.d., &quot;Friction loss&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>tendon</strong><br>肌腱摩擦损失</td>
+<td>&quot;Tendons are scalar quantities, thus <strong>defining friction loss for a tendon always adds one scalar constraint</strong>.&quot;</td>
+<td>肌腱是标量，因此<strong>为肌腱定义摩擦损失总是增加一个标量约束</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#friction-loss">Google DeepMind, n.d., &quot;Friction loss&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Limit</strong><br>限位</td>
+<td>&quot;Limits as well as contacts have a well-defined spatial residual, but unlike equality constraints <strong>they are uni-lateral, i.e. they introduce inequality rather than equality constraints</strong>.&quot;</td>
+<td>限位和接触一样有明确定义的空间残差，但与等式约束不同，<strong>它们是单边的，即引入的是不等式约束而不是等式约束</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#limit">Google DeepMind, n.d., &quot;Limit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>joint</strong><br>关节限位</td>
+<td>&quot;Limits <strong>can be defined for scalar joints (hinge and slide) as well as for ball joints</strong>.&quot;</td>
+<td>限位<strong>可以为标量关节（铰链关节和滑动关节）定义，也可以为球关节定义</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#limit">Google DeepMind, n.d., &quot;Limit&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>tendon</strong><br>肌腱限位</td>
+<td>&quot;Tendon are scalar quantities and <strong>their limits are treated as described above</strong>.&quot;</td>
+<td>肌腱是标量，<strong>它们的限位按上述方式处理</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#limit">Google DeepMind, n.d., &quot;Limit&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Contact</strong><br>接触</td>
+<td>&quot;Contacts are <strong>the most elaborate constraint type</strong>, both in terms of specifying them in the model and in terms of the computations that need to be performed.&quot;</td>
+<td>接触是<strong>最复杂的约束类型</strong>，无论是在模型中指定它们，还是在需要进行的计算方面。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#contact">Google DeepMind, n.d., &quot;Contact&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Point contacts</strong><br>点接触</td>
+<td>&quot;MuJoCo works with point contacts, <strong>defined geometrically by a point between two geoms and a spatial frame centered at that point</strong>, both expressed in global coordinates.&quot;</td>
+<td>MuJoCo 使用点接触，它<strong>在几何上由两个 geom 之间的一个点和以该点为中心的空间坐标系定义</strong>，两者都用全局坐标表示。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#contact">Google DeepMind, n.d., &quot;Contact&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>margin and gap</strong><br>余量与间隙</td>
+<td>&quot;Together they <strong>define three regimes of contact detection and force generation</strong>, illustrated in the figure below.&quot;</td>
+<td>它们一起<strong>定义了接触检测和力生成的三种状态</strong>，如下图所示。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#margin-and-gap">Google DeepMind, n.d., &quot;margin and gap&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>No contact</strong><br>无接触</td>
+<td>&quot;No contact (distance &gt; margin + gap): <strong>The geom surfaces, including their gap buffers, are not overlapping</strong>. No contact is generated.&quot;</td>
+<td>No contact（distance &gt; margin + gap）：<strong>geom 表面（包括其间隙缓冲）没有重叠</strong>。不生成接触。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#margin-and-gap">Google DeepMind, n.d., &quot;margin and gap&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Inactive contact</strong><br>非活动接触</td>
+<td>&quot;Inactive contact (margin &lt; distance ≤ margin + gap): <strong>A contact is detected and included in mjData.contact, but no contact force is generated</strong> (efc_address = -1).&quot;</td>
+<td>Inactive contact（margin &lt; distance ≤ margin + gap）：<strong>检测到接触并纳入 mjData.contact，但不生成接触力</strong>（efc_address = -1）。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#margin-and-gap">Google DeepMind, n.d., &quot;margin and gap&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Active contact</strong><br>活动接触</td>
+<td>&quot;Active contact (distance ≤ margin): <strong>The contact is active and constraint forces are generated</strong>.&quot;</td>
+<td>Active contact（distance ≤ margin）：<strong>接触处于活动状态，并生成约束力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#margin-and-gap">Google DeepMind, n.d., &quot;margin and gap&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>condim</strong><br>接触维数</td>
+<td>&quot;The condim parameter <strong>determines the contact type</strong>, and has the following meaning:&quot;</td>
+<td>condim 参数<strong>决定接触类型</strong>，含义如下：</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#condim">Google DeepMind, n.d., &quot;condim&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>condim = 1</strong><br>condim = 1</td>
+<td>&quot;This corresponds to <strong>a frictionless contact</strong> and adds only one scalar constraint.&quot;</td>
+<td>这对应于<strong>无摩擦接触</strong>，只增加一个标量约束。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#condim">Google DeepMind, n.d., &quot;condim&quot;, item 1</a></td>
+</tr>
+<tr>
+<td><strong>condim = 3</strong><br>condim = 3</td>
+<td>&quot;This is <strong>a regular frictional contact, which can generate normal force as well as a tangential friction force opposing slip</strong>.&quot;</td>
+<td>这是<strong>常规的摩擦接触，可以产生法向力以及阻碍滑动的切向摩擦力</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#condim">Google DeepMind, n.d., &quot;condim&quot;, item 2</a></td>
+</tr>
+<tr>
+<td><strong>condim = 4</strong><br>condim = 4</td>
+<td>&quot;In addition to normal and tangential force, this contact <strong>can generate torsional friction torque opposing rotation around the contact normal</strong>, corresponding to a torque generated by a contacting surface patch.&quot;</td>
+<td>除了法向力和切向力，这种接触<strong>还能产生阻碍绕接触法线转动的扭转摩擦力矩</strong>，对应于接触面片产生的力矩。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#condim">Google DeepMind, n.d., &quot;condim&quot;, item 3</a></td>
+</tr>
+<tr>
+<td><strong>condim = 6</strong><br>condim = 6</td>
+<td>&quot;This contact <strong>can oppose motion in all relative degrees of freedom between the two geoms</strong>.&quot;</td>
+<td>这种接触<strong>可以阻碍两个 geom 之间所有相对自由度上的运动</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#condim">Google DeepMind, n.d., &quot;condim&quot;, item 4</a></td>
+</tr>
+<tr>
+<td><strong>Friction cones</strong><br>摩擦锥</td>
+<td>(context) &quot;Now we describe <strong>the friction cones and the corresponding Jacobians more formally</strong>.&quot;</td>
+<td>（语境）现在<strong>更形式化地介绍摩擦锥及相应的雅可比矩阵</strong>。</td>
+<td><a href="https://mujoco.readthedocs.io/en/stable/computation/index.html#friction-cones">Google DeepMind, n.d., &quot;Friction cones&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Google DeepMind. (n.d.). <em>Computation</em>. MuJoCo Documentation (Version 3.17.0). Retrieved October 31, 2026, from <a href="https://mujoco.readthedocs.io/en/stable/computation/index.html">https://mujoco.readthedocs.io/en/stable/computation/index.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31">10/31/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

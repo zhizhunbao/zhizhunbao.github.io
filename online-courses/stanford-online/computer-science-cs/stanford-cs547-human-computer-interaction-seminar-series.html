@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.4.43 Stanford CS547 - Human-Computer Interaction Seminar Series | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Computer Science (CS) &gt; Stanford CS547 - Human-Computer Interaction Seminar Series: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1443-stanford-cs547---human-computer-interaction-seminar-series">1.4.43 Stanford CS547 - Human-Computer Interaction Seminar Series</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Human-Computer Interaction Seminar</strong><br>人机交互研讨课</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CS 547</td>
+<td>Human-Computer Interaction Seminar<br>人机交互研讨课</td>
+<td>n.d.</td>
+<td>100</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=vVeCXAFt5f4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Spring 2026 | Show It or Tell It? Text, Visualization, and Combination">HCI Seminar | Show It or Tell It? Text, Visualization, and Combination</a></td>
+<td>56:19</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=kk8TB8wBj-I&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Spring 2026 | Promoting Agency in Human-AI Interaction">HCI Seminar | Promoting Agency in Human-AI Interaction</a></td>
+<td>44:21</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=ylELycbIbfg&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Spring 2026 | Just-in-Time Objectives for Specialized AI Interactions">HCI Seminar | Just-in-Time Objectives for Specialized AI Interactions</a></td>
+<td>47:59</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=IpzIDAqJDwI&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Spring 2026 | Toward Ontological Multiplicity in AI and Computing">HCI Seminar | Toward Ontological Multiplicity in AI and Computing</a></td>
+<td>47:45</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=WwWjH9ynx9U&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Spring 2026 | The Modern Motivators of Play">HCI Seminar | The Modern Motivators of Play</a></td>
+<td>59:34</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=Q_UxyEepuQA&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Spring 2026 | HCI and Human-Centered AI for Digital Health">HCI Seminar | HCI and Human-Centered AI for Digital Health</a></td>
+<td>50:08</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=QZ61wToFILM&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Spring 2026 | Observing the User Experience in 2026">HCI Seminar | Observing the User Experience in 2026</a></td>
+<td>1:01:58</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=yhfuDD3hprA&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Winter 2026 | Computational Ecosystems">HCI Seminar | Computational Ecosystems</a></td>
+<td>1:01:51</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=F-OxHWWg59o&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Winter 2026 | What's Up with AI?">HCI Seminar | What's Up with AI?</a></td>
+<td>1:03:13</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=IydslKdqzYo&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Winter 2026 | Does GenAI Work in Education?">HCI Seminar | Does GenAI Work in Education?</a></td>
+<td>56:54</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=5p9VOzJAmW8&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Winter 2026 | Creation, Evolution, and Formalization of Notations">HCI Seminar | Creation, Evolution, and Formalization of Notations</a></td>
+<td>56:47</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=u74gb_DCtzo&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Winter 2026 | Visual and Algorithmic Interpretation for Responsible AI">HCI Seminar | Visual and Algorithmic Interpretation for Responsible AI</a></td>
+<td>58:31</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=IH-hRdNMIq0&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Winter 2026 | LLM Chatbots in the Online Social World">HCI Seminar | LLM Chatbots in the Online Social World</a></td>
+<td>57:15</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=B9WsVMGtIuk&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Autumn 2025 | Tracing and Shaping Paths in Design Space">HCI Seminar | Tracing and Shaping Paths in Design Space</a></td>
+<td>57:56</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=IKpRUQFOzpU&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Autumn 2025 | Towards Globally Equitable AI">HCI Seminar | Towards Globally Equitable AI</a></td>
+<td>58:59</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=JbX98G2sSEQ&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Autumn 2025 | What Is a (Future) Designer?">HCI Seminar | What Is a (Future) Designer?</a></td>
+<td>56:43</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=IZk3ynP5474&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Autumn 2025 | Going Beyond Linear Conversation">HCI Seminar | Going Beyond Linear Conversation</a></td>
+<td>57:04</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=yJkLOzuvse0&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Autumn 2025 | Building Control and Trust in Human-AI Systems">HCI Seminar | Building Control and Trust in Human-AI Systems</a></td>
+<td>57:03</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=GX7f17XVmt8&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Autumn 2025 | Reframing Responsible AI">HCI Seminar | Reframing Responsible AI</a></td>
+<td>52:39</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=mGqQGFZ6ve4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford CS547 HCI Seminar | Autumn 2025 | HCI Systems in the Age of AI Code Generation">HCI Seminar | HCI Systems in the Age of AI Code Generation</a></td>
+<td>54:45</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=Qk5yfsZlMp4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar -The 'Embedded Design' Approach to Creating Persuasive Tech &amp; Immersive Experiences">Stanford Seminar -The &quot;Embedded Design&quot; Approach to Creating Persuasive Tech &amp; Immersive Experiences</a></td>
+<td>58:00</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=6DIIkX19ihs&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Build less, design more (interactive systems)">Build less, design more (interactive systems)</a></td>
+<td>56:35</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=6MvZDG79d0s&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Beyond Words: Affordances of Embodiment in Automated Health Counselors">Beyond Words: Affordances of Embodiment in Automated Health Counselors</a></td>
+<td>58:00</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=v8vUVGXQhEQ&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - A tentative mea culpa - looking back to help the next gen of CSCW researchers">A tentative mea culpa - looking back to help the next gen of CSCW researchers</a></td>
+<td>58:37</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=Ofwt0l-4ips&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Interest-based &amp; Ideological Biases in Online Content Consumption">Interest-based &amp; Ideological Biases in Online Content Consumption</a></td>
+<td>1:01:14</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=CDMuUsSkvao&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - AI Audits and Autonomy">AI Audits and Autonomy</a></td>
+<td>1:05:04</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=qWtkUBnwqVQ&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Trans Technologies">Trans Technologies</a></td>
+<td>41:42</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=SWA5FHCCZPs&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Addressing Online Abuse with Techniques Borrowed from Cybersecurity">Addressing Online Abuse with Techniques Borrowed from Cybersecurity</a></td>
+<td>1:01:18</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=fkZFCyp-iHs&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - A Billion Medical Devices - Using far from perfect ML to help patients">A Billion Medical Devices - Using far from perfect ML to help patients</a></td>
+<td>59:55</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=-gxy0_z5oYA&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Personal Assistive Technology">Personal Assistive Technology</a></td>
+<td>1:00:14</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=MbWgRuM-7X8&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Generative, Malleable, and Personal User Interfaces">Generative, Malleable, and Personal User Interfaces</a></td>
+<td>59:49</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=ck4RGU5hoTU&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - How Design Decisions Impact the Effectiveness of Digital Health Interventions">How Design Decisions Impact the Effectiveness of Digital Health Interventions</a></td>
+<td>56:32</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=YhMFOCsPw9M&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Understanding Social Media's Role in Mental Health">Understanding Social Media's Role in Mental Health</a></td>
+<td>1:01:06</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=PCOdmcFiT-8&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Responsible AI (h)as a Learning and Design Problem">Responsible AI (h)as a Learning and Design Problem</a></td>
+<td>59:12</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=qNKh_pKKgC8&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - The Rise of the Robot Waiter">The Rise of the Robot Waiter</a></td>
+<td>55:45</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=IwBTNAq8Qy8&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Soma Design -- intertwining aesthetics, movement and emotion in design work">Soma Design -- intertwining aesthetics, movement and emotion in design work</a></td>
+<td>59:54</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=yV3RyiRCwro&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Language models as temporary training wheels to facilitate learning">Language models as temporary training wheels to facilitate learning</a></td>
+<td>1:00:45</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=SckGKtuG5Ek&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Accounting for Human Engagement Behavior to Enhance AI-Assisted Decision Making">Accounting for Human Engagement Behavior to Enhance AI-Assisted Decision Making</a></td>
+<td>51:00</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=1QIlyFVVn-M&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - If We Can Make It There: Notes On Urban Interaction">If We Can Make It There: Notes On Urban Interaction</a></td>
+<td>58:05</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=Wy45BdDVrMs&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Evaluating and Designing Computing Systems for the Future of Work">Evaluating and Designing Computing Systems for the Future of Work</a></td>
+<td>58:04</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=3F4YI9CpYeQ&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - How Can Privacy Exist in a Data-Driven World?">How Can Privacy Exist in a Data-Driven World?</a></td>
+<td>1:00:30</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=377qf1tLAy4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Replication strategies for more robust human simulation">Replication strategies for more robust human simulation</a></td>
+<td>57:06</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=SgIGX6GaZe0&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Online communities as model systems for commons governance">Online communities as model systems for commons governance</a></td>
+<td>58:00</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=_v0GvqkQ3q4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Pushing the Boundaries of 'Doing' Research Papers in Computing">Pushing the Boundaries of &quot;Doing&quot; Research Papers in Computing</a></td>
+<td>58:09</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=wBRtEQ02-HI&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - The Human Factors of Formal Methods">The Human Factors of Formal Methods</a></td>
+<td>58:30</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=JybLJiJpKS0&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - The State of Design Knowledge in Human-AI Interaction">The State of Design Knowledge in Human-AI Interaction</a></td>
+<td>57:24</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=Cyg5S7l_rlg&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Rethinking Design for Accessibility">Rethinking Design for Accessibility</a></td>
+<td>45:56</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=ND_v82mBta0&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Integrating interactive devices with the user's body">Integrating interactive devices with the user's body</a></td>
+<td>59:21</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=IKkXDa0kTiw&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - From Flat to Phantasmal">From Flat to Phantasmal</a></td>
+<td>52:49</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=cjEQikrwbBg&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Reducing Misinformation Sharing at Scale Using Digital Accuracy Prompt Ads">Reducing Misinformation Sharing at Scale Using Digital Accuracy Prompt Ads</a></td>
+<td>59:52</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=OCpMY6paCtY&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Catalyzing AI Advances with Human-Centered Interactive systems">Catalyzing AI Advances with Human-Centered Interactive systems</a></td>
+<td>55:59</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=vf-WvI3oAAw&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Harnessing Data for Social Impact">Harnessing Data for Social Impact</a></td>
+<td>57:45</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=IX3C-C9Stws&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Algorithmic Governance: Auditing Search &amp; Rec. Algorithms for Problematic Content">Algorithmic Governance: Auditing Search &amp; Rec. Algorithms for Problematic Content</a></td>
+<td>56:10</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=3zXLRrPf3iI&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - How to change environments to regulate problematic behaviors">How to change environments to regulate problematic behaviors</a></td>
+<td>59:58</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=DAaG6g5cSxE&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford - How Do We Make Human-Centered AI for Mental Health Prediction in Social Media Data?">Stanford - How Do We Make Human-Centered AI for Mental Health Prediction in Social Media Data?</a></td>
+<td>1:03:35</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=iGqjRTyaMTc&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Creating Human-Computer Partnerships">Creating Human-Computer Partnerships</a></td>
+<td>1:00:40</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=mxIOdamyBuk&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Input with Deeply Custom Interfaces">Input with Deeply Custom Interfaces</a></td>
+<td>57:27</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=pEZo_AgNtC4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Human-Machine Symbiosis in Data Visualization">Human-Machine Symbiosis in Data Visualization</a></td>
+<td>50:07</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=qvjTalAGZus&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Designing to Support Sense of Agency for Time Spent on Digital Interfaces">Designing to Support Sense of Agency for Time Spent on Digital Interfaces</a></td>
+<td>56:20</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=61YJwsIJKwA&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Rethinking power dynamics in software tools for artists">Rethinking power dynamics in software tools for artists</a></td>
+<td>56:59</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=U8DxtCPjoXY&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Leveraging Social Theories to Enhance Human-AI Interaction">Leveraging Social Theories to Enhance Human-AI Interaction</a></td>
+<td>54:55</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=Y3Kj_2ZNRfw&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Human-AI Interaction Under Societal Disagreement">Human-AI Interaction Under Societal Disagreement</a></td>
+<td>52:37</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=-oSkiUHlgo0&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Applications of Generative Design for Fabrication in Healthcare Settings">Applications of Generative Design for Fabrication in Healthcare Settings</a></td>
+<td>41:05</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=wZc1Rq5FtXc&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Intelligence Augmentation through the Lens of Interactive Data Visualization">Intelligence Augmentation through the Lens of Interactive Data Visualization</a></td>
+<td>59:54</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=eXC8BMMr-DA&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Going beyond the here and now: Counterfactual simulation in human cognition">Going beyond the here and now: Counterfactual simulation in human cognition</a></td>
+<td>58:57</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=nqTvNcFz0so&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - #TechFail: From Intersectional (In)Accessibility to Inclusive Design">#TechFail: From Intersectional (In)Accessibility to Inclusive Design</a></td>
+<td>57:17</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=k25iVJMl0N4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - On and Out-of-Body Interactions &amp; Experiences">On and Out-of-Body Interactions &amp; Experiences</a></td>
+<td>55:53</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=Z-2ka33IPRk&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Designing the Interactive Paper">Designing the Interactive Paper</a></td>
+<td>59:55</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=EBq5y5GuTxA&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Hidden Histories - The Lost Women of Interaction Design">Hidden Histories - The Lost Women of Interaction Design</a></td>
+<td>1:01:01</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=ZxPV_KVq-tI&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Human-Centered Explainable AI: From Algorithms to User Experiences">Human-Centered Explainable AI: From Algorithms to User Experiences</a></td>
+<td>58:14</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=swircUSO1qA&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - An Intersectional Approach to Designing for Disability">An Intersectional Approach to Designing for Disability</a></td>
+<td>59:08</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=cgLZbs85sOg&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Data Imaginaries">Data Imaginaries</a></td>
+<td>54:33</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=UQ8W5oqEGmE&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Content Moderation as Systems Thinking">Content Moderation as Systems Thinking</a></td>
+<td>58:19</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=Gvf8oQDcLsQ&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Systems for Supporting Intent Formation and Human-AI Communication">Systems for Supporting Intent Formation and Human-AI Communication</a></td>
+<td>57:34</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=rUSa054dN-0&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - The Future is Not What it Used to Be: Fun Stuff in Technical HCI is Ahead of Us">The Future is Not What it Used to Be: Fun Stuff in Technical HCI is Ahead of Us</a></td>
+<td>1:00:59</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=Wr0zPcm5N2g&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Interaction-Centric AI">Interaction-Centric AI</a></td>
+<td>58:54</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=xnZ4aS-vz10&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Can we govern algorithms with science?">Can we govern algorithms with science?</a></td>
+<td>55:07</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=-xoT7fk6kRw&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Anytime Anywhere All At Once: Data Analytics in the Metaverse">Anytime Anywhere All At Once: Data Analytics in the Metaverse</a></td>
+<td>56:12</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=ihiwuw7VkI4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Bridging AI &amp; HCI: Incorporating Human Values into the Development of AI Tech">Bridging AI &amp; HCI: Incorporating Human Values into the Development of AI Tech</a></td>
+<td>1:00:57</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=1yg-Gw6vOfI&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar: Social Media Scrutiny of Frontline Professionals &amp; Implications for Accountability">Social Media Scrutiny of Frontline Professionals &amp; Implications for Accountability</a></td>
+<td>59:20</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=xbES1armuJY&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Ethics Governance-in-the-Making: Bridging Ethics Work &amp; Governance Menlo Report">Ethics Governance-in-the-Making: Bridging Ethics Work &amp; Governance Menlo Report</a></td>
+<td>55:47</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=r1E5OEu0uYM&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Toward Better Human-AI Group Decisions">Toward Better Human-AI Group Decisions</a></td>
+<td>1:01:42</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=JcI7V6Rs7cA&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Designing Human-Centered AI Systems for Human-AI Collaboration">Designing Human-Centered AI Systems for Human-AI Collaboration</a></td>
+<td>58:36</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=lpjeewvxzsM&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Designing Equitable Online Experiences">Designing Equitable Online Experiences</a></td>
+<td>50:32</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=3zgFXJX8GIw&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - From Haptic Illusions to Beyond Real Interactions in Virtual Reality">From Haptic Illusions to Beyond Real Interactions in Virtual Reality</a></td>
+<td>55:13</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=EYfR7zobI8U&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Exuberant Systems: Game Design Against Climate Catastrophe, Heather Kelley">Exuberant Systems: Game Design Against Climate Catastrophe, Heather Kelley</a></td>
+<td>59:56</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=jII_3QZoc54&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Cognitively Appropriate Computing Education for Young Learners, Griffin Dietz">Cognitively Appropriate Computing Education for Young Learners, Griffin Dietz</a></td>
+<td>50:47</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=DGVEeNRAxYo&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Accessible Extended Reality (XR)">Accessible Extended Reality (XR)</a></td>
+<td>57:43</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=RzKjksGoBvs&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Speculation and Resonation">Speculation and Resonation</a></td>
+<td>55:42</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=S0_YBBO0nwM&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Design in an Automated Future, Ovetta Sampson">Design in an Automated Future, Ovetta Sampson</a></td>
+<td>1:02:25</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=Y1btL2cMFnU&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Ethical design for digital wellbeing and mental health">Ethical design for digital wellbeing and mental health</a></td>
+<td>55:00</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=5PbmnEExc9I&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Building from Play to Shape Better Future(s) for Social Technology">Building from Play to Shape Better Future(s) for Social Technology</a></td>
+<td>58:23</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=0E1fC9nECiQ&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - The What &amp; Why of Continuous Discovery, Teresa Torres">The What &amp; Why of Continuous Discovery, Teresa Torres</a></td>
+<td>51:22</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=KBIxHAJQhME&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Making dynamic visual media easy, accessible, improvisational, and powerful">Making dynamic visual media easy, accessible, improvisational, and powerful</a></td>
+<td>50:59</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=Lt2fIiiQQH4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Developing Design Spaces for Visualization - Tamara Munzner">Developing Design Spaces for Visualization - Tamara Munzner</a></td>
+<td>57:24</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=UAYkMsND-E4&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - I❤️ LA: Compilable Markdown for Linear Algebra">I❤️ LA: Compilable Markdown for Linear Algebra</a></td>
+<td>1:00:41</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=x8AQYQemlZ8&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - The Power of Visual Representations">The Power of Visual Representations</a></td>
+<td>57:52</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=ND4IZFXnvv0&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Plastic Dynamism: Delightful Decomposition, Destruction, &amp; Digestive Designs">Plastic Dynamism: Delightful Decomposition, Destruction, &amp; Digestive Designs</a></td>
+<td>59:09</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=885-pRGxe3g&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Behavior-Driven Optimization for Interactive Data Exploration">Behavior-Driven Optimization for Interactive Data Exploration</a></td>
+<td>54:24</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=KvMnpVMp0jk&amp;list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD" title="Stanford Seminar - Programming Tools for the Future of Data Science, Sarah Chasins">Programming Tools for the Future of Data Science, Sarah Chasins</a></td>
+<td>1:02:37</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Stanford CS547 - Human-Computer Interaction Seminar Series</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD">https://www.youtube.com/playlist?list=PLoROMvodv4rMyupDF2O00r19JsmolyXdD</a></p>
+<p>Stanford University. (n.d.). <em>Stanford Bulletin 2026-2027</em>. Retrieved November 18, 2026, from <a href="https://bulletin.stanford.edu/">https://bulletin.stanford.edu/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>LLM Evaluation | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="LLM Evaluation: six evaluation sites (Artificial Analysis, HELM, LiveBench, LMArena, MTEB, Open LLM Leaderboard), what each measures and which questions it can answer; methods only, no scores.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="llm-evaluation">LLM Evaluation</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/llm-evaluation.png" alt="LLM Evaluation: six evaluation sites, Artificial Analysis, HELM, LiveBench, LMArena, MTEB and Open LLM Leaderboard."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>LLM Evaluation</strong><br>大模型评测</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong><a href="artificial-analysis.html">Artificial Analysis</a></strong><br>Artificial Analysis</td>
+<td>(Summary) A company that <strong>benchmarks AI models, API endpoints and systems</strong> on intelligence, quality, performance and price, measuring <strong>the performance customers actually get</strong> across providers rather than the best a piece of hardware can do.</td>
+<td>（概述）一家<strong>为 AI 模型、API 端点和系统做基准测试</strong>的公司，测智能、质量、性能和价格，衡量的是各家服务商那里<strong>客户实际得到的性能</strong>，而不是某种硬件能达到的最好水平。</td>
+<td><a href="https://artificialanalysis.ai/methodology#scope">Artificial Analysis, n.d., &quot;Scope&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="helm.html">HELM</a></strong><br>HELM（语言模型整体评估）</td>
+<td>&quot;Holistic Evaluation of Language Models (HELM) is <strong>an open source Python framework</strong> created by the Center for Research on Foundation Models (CRFM) at Stanford for <strong>holistic, reproducible and transparent evaluation of foundation models</strong>, including large language models (LLMs) and multimodal models.&quot;</td>
+<td>语言模型整体评估（HELM）是斯坦福基础模型研究中心（CRFM）创建的<strong>开源 Python 框架</strong>，用于对基础模型（包括大语言模型 LLM 和多模态模型）进行<strong>整体、可复现、透明的评估</strong>。</td>
+<td><a href="https://crfm-helm.readthedocs.io/en/latest/#holistic-evaluation-of-language-models-helm">Stanford CRFM, n.d., &quot;Holistic Evaluation of Language Models (HELM)&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="livebench.html">LiveBench</a></strong><br>LiveBench</td>
+<td>&quot;Introducing LiveBench: <strong>a benchmark for LLMs</strong> designed with <strong>test set contamination and objective evaluation</strong> in mind.&quot;</td>
+<td>介绍 LiveBench：<strong>一个面向 LLM 的基准</strong>，设计时考虑了<strong>测试集污染与客观评测</strong>。</td>
+<td><a href="https://github.com/LiveBench/LiveBench#introduction">LiveBench, n.d., &quot;Introduction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="lmarena.html">LMArena</a></strong><br>LMArena</td>
+<td>(Summary) A community platform, formerly Chatbot Arena and now calling itself Arena, where people <strong>compare the answers of two anonymous models to their own prompt</strong> and <strong>vote for the one they prefer</strong>; the votes build public leaderboards.</td>
+<td>（概述）一个社区平台，前身是 Chatbot Arena，现在自称 Arena：人们<strong>比较两个匿名模型对自己提示的回答</strong>，并<strong>投票选出更喜欢的一个</strong>；这些投票构成公开排行榜。</td>
+<td><a href="https://lmarena.ai/how-it-works">Arena, n.d., &quot;How It Works&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="mteb.html">MTEB</a></strong><br>MTEB（大规模文本嵌入基准）</td>
+<td>&quot;MTEB is the go-to documentation for <strong>evaluating embeddings models</strong> across <strong>a variety of tasks, modalities and domains</strong>.&quot;</td>
+<td>MTEB 是<strong>评测嵌入模型</strong>的首选文档，覆盖<strong>多种任务、模态和领域</strong>。</td>
+<td><a href="https://docs.mteb.org/#mteb">MTEB, n.d., &quot;MTEB&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="open-llm-leaderboard.html">Open LLM Leaderboard</a></strong><br>Open LLM Leaderboard</td>
+<td>(Summary) A project <strong>curated by the Hugging Face team</strong> to <strong>evaluate and rank open LLMs and chatbots</strong> with reproducible scores; the documentation now describes it in the past tense.</td>
+<td>（概述）一个<strong>由 Hugging Face 团队主持</strong>的项目，<strong>评测并排名开放的 LLM 和聊天机器人</strong>，给出可复现的分数；文档现在用过去时描述它。</td>
+<td><a href="https://huggingface.co/docs/leaderboards/index">Hugging Face, n.d., &quot;Leaderboards and Evaluations&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="comparison">Comparison</h2>
+<p>This site's own comparison, drawn from the pages above; scores and rankings are not kept here, since they change every week.</p>
+<table>
+<thead>
+<tr>
+<th>Site</th>
+<th>What it measures</th>
+<th>测什么</th>
+<th>Questions it can answer</th>
+<th>适合回答的问题</th>
+<th>Status (2026-11-10)</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="artificial-analysis.html">Artificial Analysis</a></td>
+<td>A weighted index of nine evaluations (knowledge work, coding, science, general), plus price, output speed and latency per API endpoint</td>
+<td>九项评测的加权指数（知识工作、编程、科学、常识），以及各 API 端点的价格、输出速度和延迟</td>
+<td>Which model gives the most capability for the money or the time? How does an open-weights model compare with closed ones on the same harness?</td>
+<td>哪个模型的能力最划算（按价钱或按时间）？开放权重模型和闭源模型在同一套测试下差多少？</td>
+<td>Active; the index is versioned (v5.0.1 when cached), so compare scores only within one version</td>
+<td><a href="https://artificialanalysis.ai/methodology/intelligence-benchmarking">https://artificialanalysis.ai/methodology/intelligence-benchmarking</a></td>
+</tr>
+<tr>
+<td><a href="helm.html">HELM</a></td>
+<td>Seven metrics beyond accuracy (calibration, robustness, fairness, bias, toxicity, efficiency) over standardized scenarios, plus domain leaderboards</td>
+<td>准确性之外的七项指标（校准、鲁棒性、公平性、偏见、毒性、效率），在统一的场景上测；另有各领域排行榜</td>
+<td>Does a model trade accuracy for robustness, calibration or safety? How did models compare under identical prompts?</td>
+<td>模型是否用鲁棒性、校准或安全性换来了准确率？在完全相同的提示下各模型比较如何？</td>
+<td>Maintenance mode since June 1, 2026: no new evaluations</td>
+<td><a href="https://crfm-helm.readthedocs.io/en/latest/">https://crfm-helm.readthedocs.io/en/latest/</a></td>
+</tr>
+<tr>
+<td><a href="livebench.html">LiveBench</a></td>
+<td>2.0: seven suites, five of them agentic, graded automatically; 1.0: seven categories with single answers, Instruction Following among them</td>
+<td>2.0：七个套件，五个是智能体任务，自动评分；1.0：七个单答案类别，含指令遵循</td>
+<td>How does a model do on fresh, automatically graded tasks it is unlikely to have seen? (1.0) How well does it follow verifiable format instructions?</td>
+<td>模型在不太可能见过、自动评分的新题上表现如何？（1.0）能否遵守可验证的格式指令？</td>
+<td>2.0 updated 2026-11-09; 1.0 last release 2026-06-25</td>
+<td><a href="https://livebench.ai/#/methodology">https://livebench.ai/#/methodology</a></td>
+</tr>
+<tr>
+<td><a href="lmarena.html">LMArena</a></td>
+<td>Human preference from anonymous pairwise votes, turned into Bradley-Terry scores, with and without style control</td>
+<td>匿名两两对比中人的偏好，换算成 Bradley-Terry 分数，分有无风格控制两种</td>
+<td>Which model's answers do people prefer in open-ended chat? Does a lead survive style control?</td>
+<td>开放式对话里人们更喜欢哪个模型的回答？去掉风格因素后领先是否还在？</td>
+<td>Active; scores of newly released models start as preliminary</td>
+<td><a href="https://lmarena.ai/how-it-works">https://lmarena.ai/how-it-works</a></td>
+</tr>
+<tr>
+<td><a href="mteb.html">MTEB</a></td>
+<td>Embedding models on retrieval, classification, clustering, semantic similarity and pair classification, across many tasks and languages</td>
+<td>嵌入模型在检索、分类、聚类、语义相似度、成对分类上的表现，覆盖大量任务与语言</td>
+<td>Which embedding model to use for retrieval or RAG, and in which language?</td>
+<td>检索或 RAG 用哪个嵌入模型，针对哪种语言？</td>
+<td>Active; <code>mteb</code> 2.0</td>
+<td><a href="https://docs.mteb.org/overview/">https://docs.mteb.org/overview/</a></td>
+</tr>
+<tr>
+<td><a href="open-llm-leaderboard.html">Open LLM Leaderboard</a></td>
+<td>Open models on six benchmarks (IFEval, BBH, MATH Lvl 5, GPQA, MuSR, MMLU-Pro) with one reproducible harness</td>
+<td>开放模型在六项基准（IFEval、BBH、MATH Lvl 5、GPQA、MuSR、MMLU-Pro）上的成绩，用同一套可复现工具</td>
+<td>How did an open base or fine-tuned model compare under a fixed harness, as a historical record?</td>
+<td>某个开放的基础模型或微调模型在固定测试工具下曾经排在哪里（作为历史记录）？</td>
+<td>No longer running (the documentation speaks of it in the past tense); v1 archived June 2024</td>
+<td><a href="https://huggingface.co/docs/leaderboards/open_llm_leaderboard/about">https://huggingface.co/docs/leaderboards/open_llm_leaderboard/about</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Arena. (n.d.). <em>How it works</em>. Retrieved November 10, 2026, from <a href="https://lmarena.ai/how-it-works">https://lmarena.ai/how-it-works</a></p>
+<p>Artificial Analysis. (n.d.). <em>Artificial Analysis benchmarking methodology</em>. Retrieved November 10, 2026, from <a href="https://artificialanalysis.ai/methodology">https://artificialanalysis.ai/methodology</a></p>
+<p>Hugging Face. (n.d.). Leaderboards and evaluations. In <em>Leaderboards documentation</em>. Retrieved November 10, 2026, from <a href="https://huggingface.co/docs/leaderboards/index">https://huggingface.co/docs/leaderboards/index</a></p>
+<p>LiveBench. (n.d.). <em>LiveBench</em> [Source code]. GitHub. Retrieved November 10, 2026, from <a href="https://github.com/LiveBench/LiveBench">https://github.com/LiveBench/LiveBench</a></p>
+<p>MTEB. (n.d.). <em>MTEB: Massive Text Embedding Benchmark</em> [Documentation]. Retrieved November 10, 2026, from <a href="https://docs.mteb.org/">https://docs.mteb.org/</a></p>
+<p>Stanford CRFM. (n.d.). <em>Holistic Evaluation of Language Models (HELM)</em> [Documentation]. Retrieved November 10, 2026, from <a href="https://crfm-helm.readthedocs.io/en/latest/">https://crfm-helm.readthedocs.io/en/latest/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-10">11/10/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

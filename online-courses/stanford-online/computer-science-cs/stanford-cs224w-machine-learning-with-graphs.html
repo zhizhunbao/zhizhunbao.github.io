@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.4.20 Stanford CS224W: Machine Learning with Graphs | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Computer Science (CS) &gt; Stanford CS224W: Machine Learning with Graphs: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1420-stanford-cs224w-machine-learning-with-graphs">1.4.20 Stanford CS224W: Machine Learning with Graphs</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Machine Learning with Graphs</strong><br>图机器学习</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CS 224W</td>
+<td>Machine Learning with Graphs<br>图机器学习</td>
+<td>n.d. (2)</td>
+<td>60</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=JAB_plj2rbA&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.1 - Why Graphs">Machine Learning with Graphs | Lecture 1.1 - Why Graphs</a></td>
+<td>11:55</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=aBHC6xzx9YI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.2 - Applications of Graph ML">Machine Learning with Graphs | Lecture 1.2 - Applications of Graph ML</a></td>
+<td>20:27</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=P-m1Qv6-8cI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 1.3 - Choice of Graph Representation​">Machine Learning with Graphs | Lecture 1.3 - Choice of Graph Representation​</a></td>
+<td>20:27</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=3IS7UhNMQ3U&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 2.1 - Traditional Feature-based Methods: Node">ML with Graphs | Lecture 2.1 - Traditional Feature-based Methods: Node</a></td>
+<td>27:30</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=4dVwlE9jYxY&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 2.2 - Traditional Feature-based Methods: Link">ML with Graphs | Lecture 2.2 - Traditional Feature-based Methods: Link</a></td>
+<td>16:47</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=buzsHTa4Hgs&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 2.3 - Traditional Feature-based Methods: Graph">ML with Graphs | Lecture 2.3 - Traditional Feature-based Methods: Graph</a></td>
+<td>20:10</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=rMq21iY61SE&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 3.1 - Node Embeddings">Machine Learning with Graphs | Lecture 3.1 - Node Embeddings</a></td>
+<td>14:44</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=Xv0wRy66Big&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 3.2-Random Walk Approaches for Node Embeddings">ML with Graphs | Lecture 3.2-Random Walk Approaches for Node Embeddings</a></td>
+<td>27:07</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=eliMLfJeu7A&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 3.3 - Embedding Entire Graphs">Machine Learning with Graphs | Lecture 3.3 - Embedding Entire Graphs</a></td>
+<td>18:04</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=TU0ankRcHmo&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 4.1 - PageRank">Machine Learning with Graphs | Lecture 4.1 - PageRank</a></td>
+<td>27:10</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=rK2ZBmQHVVs&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 4.2 - PageRank: How to Solve?">Machine Learning with Graphs | Lecture 4.2 - PageRank: How to Solve?</a></td>
+<td>20:41</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=HbzQzUaJ_9I&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 4.3 - Random Walk with Restarts">Machine Learning with Graphs | Lecture 4.3 - Random Walk with Restarts</a></td>
+<td>13:31</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=r12qJZZVtqc&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 4.4 - Matrix Factorization and Node Embeddings">ML with Graphs | Lecture 4.4 - Matrix Factorization and Node Embeddings</a></td>
+<td>12:48</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=6g9vtxUmfwM&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 5.1 - Message passing and Node Classification">ML with Graphs | Lecture 5.1 - Message passing and Node Classification</a></td>
+<td>18:34</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=QUO-HQ44EDc&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 5.2 - Relational and Iterative Classification">ML with Graphs | Lecture 5.2 - Relational and Iterative Classification</a></td>
+<td>29:20</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=kh3I_UTtUOo&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 5.3 - Collective Classification">Machine Learning with Graphs | Lecture 5.3 - Collective Classification</a></td>
+<td>24:26</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=F3PgltDzllc&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 6.1 - Introduction to Graph Neural Networks">ML with Graphs | Lecture 6.1 - Introduction to Graph Neural Networks</a></td>
+<td>10:31</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=tutlI9YzJ2g&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 6.2 - Basics of Deep Learning">Machine Learning with Graphs | Lecture 6.2 - Basics of Deep Learning</a></td>
+<td>29:31</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=MH4yvtgAR-4&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 6.3 - Deep Learning for Graphs">Machine Learning with Graphs | Lecture 6.3 - Deep Learning for Graphs</a></td>
+<td>35:41</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=RU9uTa_-ZOw&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 7.1 - A general Perspective on GNNs">Machine Learning with Graphs | Lecture 7.1 - A general Perspective on GNNs</a></td>
+<td>5:51</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=247Mkqj_wRM&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 7.2 - A Single Layer of a GNN">Machine Learning with Graphs | Lecture 7.2 - A Single Layer of a GNN</a></td>
+<td>40:09</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=ew1cnUjRgl4&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 7.3 - Stacking layers of a GNN">Machine Learning with Graphs | Lecture 7.3 - Stacking layers of a GNN</a></td>
+<td>18:11</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=1A6VoEkQnhQ&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 8.1 - Graph Augmentation for GNNs">Machine Learning with Graphs | Lecture 8.1 - Graph Augmentation for GNNs</a></td>
+<td>27:50</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=eXIIH8YVxKI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 8.2 - Training Graph Neural Networks">Machine Learning with Graphs | Lecture 8.2 - Training Graph Neural Networks</a></td>
+<td>40:19</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=ewEW_EMzRuo&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 8.3 - Setting up GNN Prediction Tasks">Machine Learning with Graphs | Lecture 8.3 - Setting up GNN Prediction Tasks</a></td>
+<td>17:49</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=5vMEgYbka0A&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 9.1 - How Expressive are Graph Neural Networks">ML with Graphs | Lecture 9.1 - How Expressive are Graph Neural Networks</a></td>
+<td>25:21</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=B5y47gWt3co&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 9.2 - Designing the Most Powerful GNNs">ML with Graphs | Lecture 9.2 - Designing the Most Powerful GNNs</a></td>
+<td>31:52</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=Rfkntma6ZUI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 10.1-Heterogeneous &amp; Knowledge Graph Embedding">ML with Graphs | Lecture 10.1-Heterogeneous &amp; Knowledge Graph Embedding</a></td>
+<td>34:57</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=xop5tC9T5xM&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 10.2 - Knowledge Graph Completion">Machine Learning with Graphs | Lecture 10.2 - Knowledge Graph Completion</a></td>
+<td>7:16</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=Xm5VrxZYhu4&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 10.3 - Knowledge Graph Completion Algorithms">ML with Graphs | Lecture 10.3 - Knowledge Graph Completion Algorithms</a></td>
+<td>34:31</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=X9yl0pTP9fY&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 11.1 - Reasoning in Knowledge Graphs">Machine Learning with Graphs | Lecture 11.1 - Reasoning in Knowledge Graphs</a></td>
+<td>16:53</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=qaRIBNE-4Ho&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 11.2 - Answering Predictive Queries">Machine Learning with Graphs | Lecture 11.2 - Answering Predictive Queries</a></td>
+<td>12:39</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=Nt66M2OsbCw&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 11.3 - Query2box: Reasoning over KGs">Machine Learning with Graphs | Lecture 11.3 - Query2box: Reasoning over KGs</a></td>
+<td>38:20</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=lRCDpfJoMiE&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 12.1-Fast Neural Subgraph Matching &amp; Counting">ML with Graphs | Lecture 12.1-Fast Neural Subgraph Matching &amp; Counting</a></td>
+<td>35:40</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=4Ia5QzQ_QNI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 12.2 - Neural Subgraph Matching">Machine Learning with Graphs | Lecture 12.2 - Neural Subgraph Matching</a></td>
+<td>24:54</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=kUv4gY5e0hg&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 12.3 - Finding Frequent Subgraphs">Machine Learning with Graphs | Lecture 12.3 - Finding Frequent Subgraphs</a></td>
+<td>25:54</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=KXi4ha79o3s&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 13.1 - Community Detection in Networks">ML with Graphs | Lecture 13.1 - Community Detection in Networks</a></td>
+<td>22:14</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=mJQrtXZT5pw&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 13.2 - Network Communities">Machine Learning with Graphs | Lecture 13.2 - Network Communities</a></td>
+<td>17:41</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=0zuiLBOIcsw&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 13.3 - Louvain Algorithm">Machine Learning with Graphs | Lecture 13.3 - Louvain Algorithm</a></td>
+<td>15:20</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=SHcVHrsgj8w&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 13.4 - Detecting Overlapping Communities">ML with Graphs | Lecture 13.4 - Detecting Overlapping Communities</a></td>
+<td>23:57</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=OhjXpYIo9h4&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 14.1 - Generative Models for Graphs">Machine Learning with Graphs | Lecture 14.1 - Generative Models for Graphs</a></td>
+<td>20:28</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=VC43S6Thwg0&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 14.2 - Erdos Renyi Random Graphs">Machine Learning with Graphs | Lecture 14.2 - Erdos Renyi Random Graphs</a></td>
+<td>20:00</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=ZrDpzzVWwFs&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 14.3 - The Small World Model">Machine Learning with Graphs | Lecture 14.3 - The Small World Model</a></td>
+<td>10:29</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=Xnpt8US31cQ&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 14.4 - Kronecker Graph Model">Machine Learning with Graphs | Lecture 14.4 - Kronecker Graph Model</a></td>
+<td>18:03</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=IMpkHvQ0LA4&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 15.1 - Deep Generative Models for Graphs">ML with Graphs | Lecture 15.1 - Deep Generative Models for Graphs</a></td>
+<td>15:44</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=xGDUYQGvRac&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 15.2 - Graph RNN: Generating Realistic Graphs">ML with Graphs | Lecture 15.2 - Graph RNN: Generating Realistic Graphs</a></td>
+<td>24:52</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=kDu5YY9d1TM&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 15.3 - Scaling Up &amp; Evaluating Graph Gen">ML with Graphs | Lecture 15.3 - Scaling Up &amp; Evaluating Graph Gen</a></td>
+<td>15:29</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=SdBk8fMmwUU&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 15.4 - Applications of Deep Graph Generation">ML with Graphs | Lecture 15.4 - Applications of Deep Graph Generation</a></td>
+<td>13:35</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=yT5PziOXxQg&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 16.1 - Limitations of Graph Neural Networks">ML with Graphs | Lecture 16.1 - Limitations of Graph Neural Networks</a></td>
+<td>11:10</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=6ZFvToZUjGA&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 16.2 - Position-Aware Graph Neural Networks">ML with Graphs | Lecture 16.2 - Position-Aware Graph Neural Networks</a></td>
+<td>12:41</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=SJqWQGh__N8&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 16.3 - Identity-Aware Graph Neural Networks">ML with Graphs | Lecture 16.3 - Identity-Aware Graph Neural Networks</a></td>
+<td>20:01</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=uBmtTL3EitI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 16.4 - Robustness of Graph Neural Networks">ML with Graphs | Lecture 16.4 - Robustness of Graph Neural Networks</a></td>
+<td>22:39</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=2nPCw3yHlnI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 17.1 - Scaling up Graph Neural Networks">ML with Graphs | Lecture 17.1 - Scaling up Graph Neural Networks</a></td>
+<td>14:51</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=LLUxwHc7O4A&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 17.2 - GraphSAGE Neighbor Sampling">Machine Learning with Graphs | Lecture 17.2 - GraphSAGE Neighbor Sampling</a></td>
+<td>16:50</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=RJkR8Ig6dXI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 17.3 - Cluster GCN: Scaling up GNNs">Machine Learning with Graphs | Lecture 17.3 - Cluster GCN: Scaling up GNNs</a></td>
+<td>19:18</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=iTRW9Gh7yKI&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 17.4 - Scaling up by Simplifying GNNs">Machine Learning with Graphs | Lecture 17.4 - Scaling up by Simplifying GNNs</a></td>
+<td>18:40</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=_hy9AgZXhbQ&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 18 - GNNs in Computational Biology">Machine Learning with Graphs | Lecture 18 - GNNs in Computational Biology</a></td>
+<td>1:21:19</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=JDW82csukhE&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 19.1 - Pre-Training Graph Neural Networks">ML with Graphs | Lecture 19.1 - Pre-Training Graph Neural Networks</a></td>
+<td>20:07</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=m2zoddmgvd0&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: Machine Learning with Graphs | 2021 | Lecture 19.2 - Hyperbolic Graph Embeddings">Machine Learning with Graphs | Lecture 19.2 - Hyperbolic Graph Embeddings</a></td>
+<td>31:47</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=8OhnwzT9ypg&amp;list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" title="Stanford CS224W: ML with Graphs | 2021 | Lecture 19.3 - Design Space of Graph Neural Networks">ML with Graphs | Lecture 19.3 - Design Space of Graph Neural Networks</a></td>
+<td>18:10</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Stanford CS224W: Machine Learning with Graphs</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn">https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn</a></p>
+<p>Stanford University. (n.d.). <em>Stanford Bulletin 2026-2027</em>. Retrieved November 18, 2026, from <a href="https://bulletin.stanford.edu/">https://bulletin.stanford.edu/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

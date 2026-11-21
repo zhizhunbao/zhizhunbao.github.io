@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2. Basic | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Dictionary of Algorithms and Data Structures, 2. Basic: 201 entries.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2-basic">2. Basic</h1>
+
+<p>Sources: <a href="https://xlinux.nist.gov/dads/termsArea.html#basic">Dictionary of Algorithms and Data Structures, Index by Area: Basic</a>.</p>
+<p>The entries the source lists in this area, in its alphabetical order, each with its type and a link to its definition (201: 12 algorithms, 41 data structures, 1 classic problem, 14 algorithmic techniques, 133 definitions). An entry can belong to several areas.</p>
+<ul>
+<li><a href="https://xlinux.nist.gov/dads/HTML/inverseAckermann.html">α</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/omega.html">ω</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/omegaCapital.html">Ω</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/sim.html">∼</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/theta.html">Θ</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/abstractDataType.html">abstract data type</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/ackermann.html">Ackermann's function</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/activeDataStruc.html">active data structure</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/abstractDataType.html">ADT</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/algorithm.html">algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/and.html">and</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/ansi.html">ANSI</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/antichain.html">antichain</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/antisymmetric.html">antisymmetric</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/array.html">array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/arrayindex.html">array index</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/arraymerg.html">array merging</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/associative.html">associative</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/assocarray.html">associative array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/theta.html">asymptotically tight bound</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bigOnotation.html">asymptotic upper bound</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/averagecase.html">average case</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/axiomaticSemantics.html">axiomatic semantics</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/backtrack.html">backtracking</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bag.html">bag</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bestcase.html">best case</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bigOnotation.html">big-O notation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/binaryfunc.html">binary function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/binaryRelation.html">binary relation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bitVector.html">bit vector</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/boolean.html">boolean</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/booleanexpr.html">boolean expression</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/booleanfnctn.html">boolean function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/boundedqueue.html">bounded queue</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/boundedstack.html">bounded stack</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bradfordsLaw.html">Bradford's law</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bruteforce.html">brute force</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bucket.html">bucket</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/buddysystem.html">buddy system</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/byzantine.html">Byzantine generals</a> (classic problem)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/chain.html">chain</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/circuit.html">circuit</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/circuitComplexity.html">circuit complexity</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/circuitvalue.html">circuit value problem</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/circularlist.html">circular list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/circularQueue.html">circular queue</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/collectiveRecursion.html">collective recursion</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/commutative.html">commutative</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/compactDataStruct.html">compact data structure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/complement.html">complement</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/compoundAlgorithm.html">compound algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/concurrentDataStructure.html">concurrent data structure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/confluentlyPersistData.html">confluently persistent data structure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/conjunction.html">conjunction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/constantfunc.html">constant function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dataStructure.html">data structure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/deque.html">deque</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/deterministicAlgorithm.html">deterministic algorithm</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dianna.html">Dianna</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/difference.html">difference</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/disjointset.html">disjoint set</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/disjunction.html">disjunction</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/divideAndConquer.html">divide and conquer</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dividemarrig.html">divide and marriage before conquest</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/domain.html">domain</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/doomsday.html">Doomsday rule</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/doubleMetaphone.html">double metaphone</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/deque.html">doubly-ended queue</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/doublyLinkedList.html">doubly linked list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dynamicarray.html">dynamic array</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/dynamization.html">dynamization transformation</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/efficiency.html">efficiency</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/endofstring.html">end-of-string</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/xor.html">exclusive or</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/queue.html">FIFO</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/firstcome.html">first come, first served</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/firstinfrstt.html">first-in, first-out</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/fullArray.html">full array</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/fullyPersistData.html">fully persistent data structure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/function.html">function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/activeDataStruc.html">functional data structure</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hashbelt.html">hashbelt</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/head.html">head</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/heuristic.html">heuristic</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hybridAlgorithm.html">hybrid algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/hyperloglog.html">HyperLogLog</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/implication.html">implication</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/implies.html">implies</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/inclusion.html">inclusion-exclusion principle</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/or.html">inclusive or</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/intersection.html">intersection</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/inverseAckermann.html">inverse Ackermann function</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/irreflexive.html">irreflexive</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/iteration.html">iteration</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/karnaughmap.html">Karnaugh map</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/kdimensional.html">k-dimensional</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/key.html">key</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/karnaughmap.html">KV diagram</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/lastfirstout.html">last-in, first-out</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/lattice.html">lattice</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stack.html">LIFO</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/totalorder.html">linear order</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linearprodct.html">linear product</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/link.html">link</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linkedList.html">linked list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/list.html">list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/littleOnotation.html">little-o notation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/lotkaslaw.html">Lotka's law</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/lowerTriangularMatrix.html">lower triangular matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/marlena.html">Marlena</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/matrix.html">matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/matrixMultiply.html">matrix multiplication</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/memoize.html">memoization</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/monotonicallyDecreasing.html">monotonically decreasing</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/monotonicallyIncreasing.html">monotonically increasing</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bag.html">multi-set</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/multiwayDecision.html">multiway decision</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nand.html">nand</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/naryfunc.html">n-ary function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/negation.html">negation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nist.html">NIST</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/node.html">node</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nondetermAlgo.html">nondeterministic algorithm</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/nor.html">nor</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/not.html">not</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/zeroaryfunc.html">nullary function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/bigOnotation.html">O</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/letterOmega.html">omega</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/omicron.html">omicron</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/oneBasedIndexing.html">1-based indexing</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/onedimensnal.html">one-dimensional</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/optimal.html">optimal</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/or.html">or</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/order.html">order</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/orderedLinkedList.html">ordered linked list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/poset.html">partially ordered set</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/partiallyPersistData.html">partially persistent data structure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/partialorder.html">partial order</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/passiveDataStruc.html">passive data structure</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/persistentDataStructure.html">persistent data structure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/polytope.html">polytope</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/poset.html">poset</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/predicate.html">predicate</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/primitiveAlgorithm.html">primitive algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/priorityque.html">priority queue</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/probablAlgo.html">probabilistic algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/procedure.html">procedure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/proper.html">proper</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/propersubset.html">proper subset</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/queue.html">queue</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/raggedmatrix.html">ragged matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/randomizatn.html">randomization</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/randomizedAlgo.html">randomized algorithm</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/range.html">range</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/rectangmatrx.html">rectangular matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/recursion.html">recursion</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/recursiontrm.html">recursion termination</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/recursive.html">recursive</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/recursivstrc.html">recursive data structure</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/reducedbasis.html">reduced basis</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/reflexive.html">reflexive</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/relation.html">relation</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/set.html">set</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/signature.html">signature</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/linkedList.html">singly linked list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/sparsematrix.html">sparse matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/squarematrix.html">square matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stable.html">stable</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stack.html">stack</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/stacktree.html">stack tree</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/strictlyDecreasing.html">strictly decreasing</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/strictlyIncreasing.html">strictly increasing</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/strictlyLowerTriangMat.html">strictly lower triangular matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/strictlyUpperTriangMat.html">strictly upper triangular matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/string.html">string</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/subset.html">subset</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/superset.html">superset</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/symmetric.html">symmetric</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/doublyLinkedList.html">symmetrically linked list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/symmetricSetDiff.html">symmetric set difference</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/tail.html">tail</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/tailRecursion.html">tail recursion</a> (algorithmic technique)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/text.html">text</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/theta.html">theta</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/threedimnsnl.html">three-dimensional</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/topologicalOrder.html">topological order</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/totalorder.html">total order</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/transitive.html">transitive</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/trinaryfunc.html">trinary function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/twodimensnal.html">two-dimensional</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/doublyLinkedList.html">two-way linked list</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/unaryfunc.html">unary function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/uniformmatrx.html">uniform matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/union.html">union</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/universe.html">universe</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/upperTriangularMatrix.html">upper triangular matrix</a> (data structure)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/karnaughmap.html">Veitch diagram</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/xor.html">xor</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/zellersCongruence.html">Zeller's congruence</a> (algorithm)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/zeroaryfunc.html">0-ary function</a> (definition)</li>
+<li><a href="https://xlinux.nist.gov/dads/HTML/zeroBasedIndexing.html">0-based indexing</a> (definition)</li>
+</ul>
+<p>Not written yet.</p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-25 03:38:24-04:00">10/25/2026 03:38:24</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

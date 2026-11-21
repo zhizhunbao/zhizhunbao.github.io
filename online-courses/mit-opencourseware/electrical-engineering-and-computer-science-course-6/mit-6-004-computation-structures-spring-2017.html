@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.6.10 MIT 6.004 Computation Structures, Spring 2017 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Electrical Engineering and Computer Science (Course 6) &gt; MIT 6.004 Computation Structures, Spring 2017: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2610-mit-6004-computation-structures-spring-2017">2.6.10 MIT 6.004 Computation Structures, Spring 2017</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MIT 6.004 Computation Structures, Spring 2017</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6.004</td>
+<td></td>
+<td>Spring 2017</td>
+<td>172</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=R0tFDXBZvKI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.1 What is Information?">1.2.1 What is Information?</a></td>
+<td>2:16</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=qyBuzeUYs2M&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.2 Quantifying Information">1.2.2 Quantifying Information</a></td>
+<td>5:22</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=7ufoYYj15cU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.3 Entropy">1.2.3 Entropy</a></td>
+<td>2:49</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=uh5zxZCp70c&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.4 Encoding">1.2.4 Encoding</a></td>
+<td>3:48</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=cVEj5p9GiBA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.5 Fixed-length Encodings">1.2.5 Fixed-length Encodings</a></td>
+<td>5:51</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=RbJV-g9Lob8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.6 Signed Integers: 2's complement">1.2.6 Signed Integers: 2's complement</a></td>
+<td>4:34</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=wPwWtFMkxLo&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.7 Variable-length Encoding">1.2.7 Variable-length Encoding</a></td>
+<td>3:40</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=f866lUTRXE4&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.8 Huffman's Algorithm">1.2.8 Huffman's Algorithm</a></td>
+<td>2:09</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=JuvrTQapI_k&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.9 Huffman Code">1.2.9 Huffman Code</a></td>
+<td>1:20</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=4fTOrb1yBFU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.10 Error Detection and Correction">1.2.10 Error Detection and Correction</a></td>
+<td>5:09</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=FkFYxaWhn8g&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.11 Error Correction">1.2.11 Error Correction</a></td>
+<td>1:34</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=fg6QYiiF_c8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.12 Worked Examples: Quantifying Information">1.2.12 Worked Examples: Quantifying Information</a></td>
+<td>2:09</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=m_G3z-C1C2g&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.12 Worked Examples: Two's Complement Representation">1.2.12 Worked Examples: Two's Complement Representation</a></td>
+<td>5:49</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=ydboHy_yNts&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.12 Worked Examples: Two's Complement Addition">1.2.12 Worked Examples: Two's Complement Addition</a></td>
+<td>4:58</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=cTU43KgGLFw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.12 Worked Examples: Huffman Encoding">1.2.12 Worked Examples: Huffman Encoding</a></td>
+<td>6:29</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=2IQxigpPMns&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="1.2.12 Worked Examples: Error Correction">1.2.12 Worked Examples: Error Correction</a></td>
+<td>5:49</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=pUmMZqwzZ10&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="2.2.1 Concrete Encoding of Information">2.2.1 Concrete Encoding of Information</a></td>
+<td>4:15</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=AlT3zLxcHmw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="2.2.2 Analog Signaling">2.2.2 Analog Signaling</a></td>
+<td>7:20</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=OaT9zGXjAmQ&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="2.2.3 Using Voltages Digitally">2.2.3 Using Voltages Digitally</a></td>
+<td>4:28</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=WXlcxHX0R_Y&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="2.2.4 Combinational Devices">2.2.4 Combinational Devices</a></td>
+<td>6:06</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=SlwUHJ4kgjI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="2.2.5 Dealing with Noise">2.2.5 Dealing with Noise</a></td>
+<td>4:20</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=CLiy3m2Jt-M&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="2.2.6 Voltage Transfer Characteristic">2.2.6 Voltage Transfer Characteristic</a></td>
+<td>5:06</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=qY5Rr-PTMMc&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="2.2.7 VTC Example">2.2.7 VTC Example</a></td>
+<td>2:18</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=Bzqpuuoq4bI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="2.2.8 Worked Examples: The Static Discipline">2.2.8 Worked Examples: The Static Discipline</a></td>
+<td>5:40</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=wP-ODG_e1i0&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.1 MOSFET: Physical View">3.2.1 MOSFET: Physical View</a></td>
+<td>8:00</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=xvojobO-1Hw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.2 MOSFET: Electrical View">3.2.2 MOSFET: Electrical View</a></td>
+<td>8:11</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=2JxUXSG9rKo&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.3 CMOS Recipe">3.2.3 CMOS Recipe</a></td>
+<td>5:16</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=Fi62zvlY2o4&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.4 Beyond Inverters">3.2.4 Beyond Inverters</a></td>
+<td>5:30</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=J5Mg_tqT18g&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.5 CMOS Gates">3.2.5 CMOS Gates</a></td>
+<td>3:41</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=br3mu-IK9N8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.6 CMOS Timing">3.2.6 CMOS Timing</a></td>
+<td>10:04</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=EnmOjVUSfdY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.7 Lenient Gates">3.2.7 Lenient Gates</a></td>
+<td>4:22</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=uUKJPnwlbRI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.8 Worked Examples: CMOS Functions">3.2.8 Worked Examples: CMOS Functions</a></td>
+<td>1:47</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=7XEUB_dTaK0&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="3.2.8 Worked Examples: CMOS Logic Gates">3.2.8 Worked Examples: CMOS Logic Gates</a></td>
+<td>3:01</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=1eIFnKOZ-oY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.1 Sum of Products">4.2.1 Sum of Products</a></td>
+<td>9:38</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=3YjMdixww4c&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.2 Useful Logic Gates">4.2.2 Useful Logic Gates</a></td>
+<td>5:56</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=Z8jR--1_2e4&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.3 Inverting Logic">4.2.3 Inverting Logic</a></td>
+<td>7:26</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=r6Tk1-jZxzg&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.4 Logic Simplification">4.2.4 Logic Simplification</a></td>
+<td>5:00</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=VdRC2raV8fA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.5 Karnaugh Maps">4.2.5 Karnaugh Maps</a></td>
+<td>10:58</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=BZX8qSrMNyo&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.6 Multiplexers">4.2.6 Multiplexers</a></td>
+<td>3:15</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=58edfKe-LO8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.7 Read-only Memories">4.2.7 Read-only Memories</a></td>
+<td>5:39</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=VHVsCE9XmQk&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.8 Worked Examples: Truth Tables">4.2.8 Worked Examples: Truth Tables</a></td>
+<td>4:47</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=zZfr7Zqfqm4&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.8 Worked Examples: Gates and Boolean Logic">4.2.8 Worked Examples: Gates and Boolean Logic</a></td>
+<td>7:52</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=J6rzqMwDUmM&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.8 Worked Examples: Combinational Logic Timing">4.2.8 Worked Examples: Combinational Logic Timing</a></td>
+<td>1:42</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=tjIFsdM-hBA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="4.2.8 Worked Examples: Karnaugh Maps">4.2.8 Worked Examples: Karnaugh Maps</a></td>
+<td>3:39</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=z3DEmSG8kPk&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="5.2.1 Digital State">5.2.1 Digital State</a></td>
+<td>10:05</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=LiO-HMhxAtY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="5.2.2 D Latch">5.2.2 D Latch</a></td>
+<td>6:12</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=CcInkh1mKZA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="5.2.3 D Register">5.2.3 D Register</a></td>
+<td>5:07</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=VkVe_wNU6RI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="5.2.4 D Register Timing">5.2.4 D Register Timing</a></td>
+<td>5:46</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=3LQUrpSADx8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="5.2.5 Sequential Circuit Timing">5.2.5 Sequential Circuit Timing</a></td>
+<td>6:52</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=TSmui37yrL8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="5.2.6 Timing Example">5.2.6 Timing Example</a></td>
+<td>3:29</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=d4Auh7uWEjY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="5.2.7 Worked Example 1">5.2.7 Worked Example 1</a></td>
+<td>2:38</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=LN0k-boDvOk&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="5.2.8 Worked Example 2">5.2.8 Worked Example 2</a></td>
+<td>3:32</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=5mJd--JCwBI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="6.2.1 Finite State Machines">6.2.1 Finite State Machines</a></td>
+<td>5:56</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=UDow47-q5KI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="6.2.2 State Transition Diagrams">6.2.2 State Transition Diagrams</a></td>
+<td>11:19</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=aheyquidLO8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="6.2.3 FSM States">6.2.3 FSM States</a></td>
+<td>3:45</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=luHnuoDkAtU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="6.2.4 Roboant Example">6.2.4 Roboant Example</a></td>
+<td>5:34</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=Ht_tyuAWmpM&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="6.2.5 Equivalent States; Implementation">6.2.5 Equivalent States; Implementation</a></td>
+<td>6:04</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=ZPpuDMk9BOU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="6.2.6 Synchronization and Metastability">6.2.6 Synchronization and Metastability</a></td>
+<td>9:52</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=Sj18t7hdbt8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="6.2.7 Worked Examples: FSM States and Transitions">6.2.7 Worked Examples: FSM States and Transitions</a></td>
+<td>6:18</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=Z3-WzUhl9nQ&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="6.2.7 Worked Examples: FSM Implementation">6.2.7 Worked Examples: FSM Implementation</a></td>
+<td>3:31</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=3HIV4MnLGCw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="7.2.1 Latency and Throughput">7.2.1 Latency and Throughput</a></td>
+<td>6:17</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=56QUjMD3xoI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="7.2.2 Pipelined Circuits">7.2.2 Pipelined Circuits</a></td>
+<td>6:12</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=LW-8wbtPQIE&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="7.2.3 Pipelining Methodology">7.2.3 Pipelining Methodology</a></td>
+<td>6:00</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=MpJe7SMzi0E&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="7.2.4 Circuit Interleaving">7.2.4 Circuit Interleaving</a></td>
+<td>7:09</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=63QXdU9pliI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="7.2.5 Self-timed Circuits">7.2.5 Self-timed Circuits</a></td>
+<td>6:22</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=RiD2xxcrsxg&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="7.2.6 Control Structures">7.2.6 Control Structures</a></td>
+<td>2:16</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=VdLJMPppocU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="7.2.7 Worked Examples: Pipelining">7.2.7 Worked Examples: Pipelining</a></td>
+<td>8:26</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=hmPiuS0PqCs&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="7.2.7 Worked Examples: Pipelining 2">7.2.7 Worked Examples: Pipelining 2</a></td>
+<td>6:13</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=9M0dd86FUoA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="8.2.1 Power Dissipation">8.2.1 Power Dissipation</a></td>
+<td>11:49</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=S2c7pAFdP84&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="8.2.2 Carry-select Adders">8.2.2 Carry-select Adders</a></td>
+<td>5:41</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=i1tUBZLWD3o&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="8.2.3 Carry-lookahead Adders">8.2.3 Carry-lookahead Adders</a></td>
+<td>5:19</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=0OX-DkYPB3c&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="8.2.4 Binary Multiplication">8.2.4 Binary Multiplication</a></td>
+<td>6:03</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=r3c31nh_iOc&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="8.2.5 Multiplier Tradeoffs">8.2.5 Multiplier Tradeoffs</a></td>
+<td>5:13</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=UuUPG_amkWc&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="8.2.6 Part 1 Wrap-up">8.2.6 Part 1 Wrap-up</a></td>
+<td>3:03</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=oi1Jb-dGsWU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.1 Datapaths and FSMs">9.2.1 Datapaths and FSMs</a></td>
+<td>5:18</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=781P9Ixmi0g&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.2 Programmable Datapaths">9.2.2 Programmable Datapaths</a></td>
+<td>4:56</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=H0xGKKpKaRE&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.3 The von Neumann Model">9.2.3 The von Neumann Model</a></td>
+<td>10:30</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=JSm74ghAvJc&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.4 Storage">9.2.4 Storage</a></td>
+<td>6:38</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=yRvgtY49eXE&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.5 ALU Instructions">9.2.5 ALU Instructions</a></td>
+<td>6:58</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=185WS_ZzobA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.6 Constant Operands">9.2.6 Constant Operands</a></td>
+<td>5:30</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=S1PUUyVdC9M&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.7 Memory Access">9.2.7 Memory Access</a></td>
+<td>2:57</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=m42nkRJwCKY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.8 Branches">9.2.8 Branches</a></td>
+<td>6:20</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=3VGZANOQXAM&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.9 Jumps">9.2.9 Jumps</a></td>
+<td>3:25</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=O6yw1qkECig&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="9.2.10 Worked Examples: Programmable Architectures">9.2.10 Worked Examples: Programmable Architectures</a></td>
+<td>9:02</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=j35fYO_ASeY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="10.2.1 Intro to Assembly Language">10.2.1 Intro to Assembly Language</a></td>
+<td>8:13</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=CbcJFO6VtsY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="10.2.2 Symbols and Labels">10.2.2 Symbols and Labels</a></td>
+<td>4:25</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=ffgPLOLPCYU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="10.2.3 Instruction Macros">10.2.3 Instruction Macros</a></td>
+<td>7:40</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=Ouk7t7ViTfI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="10.2.4 Assembly Wrap-up">10.2.4 Assembly Wrap-up</a></td>
+<td>4:44</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=vJqBBh2XFTM&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="10.2.5 Models of Computation">10.2.5 Models of Computation</a></td>
+<td>6:18</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=1shiN7898cc&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="10.2.6 Computability, Universality">10.2.6 Computability, Universality</a></td>
+<td>6:22</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=qSLkk5o1Mc8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="10.2.7 Uncomputable Functions">10.2.7 Uncomputable Functions</a></td>
+<td>2:57</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=M278hILkZlE&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="10.2.8 Worked Examples: Beta Assembly">10.2.8 Worked Examples: Beta Assembly</a></td>
+<td>7:05</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=F5-87RM_zHA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="11.2.1 Iterpretation and Compilation">11.2.1 Iterpretation and Compilation</a></td>
+<td>9:36</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=Sqhb-TGC4aQ&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="11.2.2 Compiling Expressions">11.2.2 Compiling Expressions</a></td>
+<td>8:34</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=P_YdbHBRzC4&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="11.2.3 Compiling Statements">11.2.3 Compiling Statements</a></td>
+<td>3:54</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=-bWtembpQjU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="11.2.4 Compiler Frontend">11.2.4 Compiler Frontend</a></td>
+<td>4:33</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=e8eEyYmLx98&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="11.2.5 Optimization and Code Generation">11.2.5 Optimization and Code Generation</a></td>
+<td>8:23</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=5BRcFgMJLCs&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="11.2.6 Worked Examples">11.2.6 Worked Examples</a></td>
+<td>9:29</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=ZUWb9HHXGHM&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="12.2.1 Procedures">12.2.1 Procedures</a></td>
+<td>10:04</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=3eQh_W8YF_g&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="12.2.2 Activation Records and Stacks">12.2.2 Activation Records and Stacks</a></td>
+<td>8:42</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=00KTZ7t_rWw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="12.2.3 Stack Frame Organization">12.2.3 Stack Frame Organization</a></td>
+<td>5:49</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=-Zg3fxOmjVs&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="12.2.4 Compiling a Procedure">12.2.4 Compiling a Procedure</a></td>
+<td>4:45</td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="https://www.youtube.com/watch?v=xd35dftjRrc&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="12.2.5 Stack Detective">12.2.5 Stack Detective</a></td>
+<td>5:58</td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="https://www.youtube.com/watch?v=YEZUywtDJQ4&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="12.2.6 Worked Examples: Procedures and Stacks">12.2.6 Worked Examples: Procedures and Stacks</a></td>
+<td>20:01</td>
+</tr>
+<tr>
+<td>105</td>
+<td><a href="https://www.youtube.com/watch?v=Um6UH_PRJ4k&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="13.2.1 Building Blocks">13.2.1 Building Blocks</a></td>
+<td>10:14</td>
+</tr>
+<tr>
+<td>106</td>
+<td><a href="https://www.youtube.com/watch?v=0Q6kYWnhaks&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="13.2.2 ALU Instructions">13.2.2 ALU Instructions</a></td>
+<td>7:01</td>
+</tr>
+<tr>
+<td>107</td>
+<td><a href="https://www.youtube.com/watch?v=RFu2N_6lkmw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="13.2.3 Load and Store">13.2.3 Load and Store</a></td>
+<td>4:35</td>
+</tr>
+<tr>
+<td>108</td>
+<td><a href="https://www.youtube.com/watch?v=v-5w8ZDIa4w&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="13.2.4 Jumps and Branches">13.2.4 Jumps and Branches</a></td>
+<td>7:47</td>
+</tr>
+<tr>
+<td>109</td>
+<td><a href="https://www.youtube.com/watch?v=QBcQJdJk9r8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="13.2.5 Exceptions">13.2.5 Exceptions</a></td>
+<td>6:05</td>
+</tr>
+<tr>
+<td>110</td>
+<td><a href="https://www.youtube.com/watch?v=ff2hWbJAipY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="13.2.6 Summary">13.2.6 Summary</a></td>
+<td>3:43</td>
+</tr>
+<tr>
+<td>111</td>
+<td><a href="https://www.youtube.com/watch?v=0h3SCozKaR4&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="13.2.7 Worked Examples: A Better Beta">13.2.7 Worked Examples: A Better Beta</a></td>
+<td>9:40</td>
+</tr>
+<tr>
+<td>112</td>
+<td><a href="https://www.youtube.com/watch?v=b-jgbeTojrk&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="13.2.7 Worked Examples: Beta Control Signals">13.2.7 Worked Examples: Beta Control Signals</a></td>
+<td>12:10</td>
+</tr>
+<tr>
+<td>113</td>
+<td><a href="https://www.youtube.com/watch?v=6OKvJRyeKUQ&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.1 Memory Technologies">14.2.1 Memory Technologies</a></td>
+<td>4:17</td>
+</tr>
+<tr>
+<td>114</td>
+<td><a href="https://www.youtube.com/watch?v=GBL28_Tw6UQ&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.2 SRAM">14.2.2 SRAM</a></td>
+<td>6:59</td>
+</tr>
+<tr>
+<td>115</td>
+<td><a href="https://www.youtube.com/watch?v=9eWKuWyXYKY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.3 DRAM">14.2.3 DRAM</a></td>
+<td>5:11</td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href="https://www.youtube.com/watch?v=zvQPV1j7SSU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.4 Non-volatile Storage; Using the Hierarchy">14.2.4 Non-volatile Storage; Using the Hierarchy</a></td>
+<td>8:44</td>
+</tr>
+<tr>
+<td>117</td>
+<td><a href="https://www.youtube.com/watch?v=M-ZgVhzvh24&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.5 The Locality Principle">14.2.5 The Locality Principle</a></td>
+<td>7:13</td>
+</tr>
+<tr>
+<td>118</td>
+<td><a href="https://www.youtube.com/watch?v=TV6AtNbmLBE&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.6 Caches">14.2.6 Caches</a></td>
+<td>5:55</td>
+</tr>
+<tr>
+<td>119</td>
+<td><a href="https://www.youtube.com/watch?v=p2DReFbW35c&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.7 Direct-mapped Caches">14.2.7 Direct-mapped Caches</a></td>
+<td>7:10</td>
+</tr>
+<tr>
+<td>120</td>
+<td><a href="https://www.youtube.com/watch?v=YOABS3tTHVc&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.8 Block Size; Cache Conflicts">14.2.8 Block Size; Cache Conflicts</a></td>
+<td>6:05</td>
+</tr>
+<tr>
+<td>121</td>
+<td><a href="https://www.youtube.com/watch?v=q30W7ApRqjI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.9 Associative Caches">14.2.9 Associative Caches</a></td>
+<td>9:33</td>
+</tr>
+<tr>
+<td>122</td>
+<td><a href="https://www.youtube.com/watch?v=nlKV2hX1AZs&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.10 Write Strategies">14.2.10 Write Strategies</a></td>
+<td>4:42</td>
+</tr>
+<tr>
+<td>123</td>
+<td><a href="https://www.youtube.com/watch?v=gxU2Eo3oBPg&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.11 Worked Examples: Cache Benefits">14.2.11 Worked Examples: Cache Benefits</a></td>
+<td>14:20</td>
+</tr>
+<tr>
+<td>124</td>
+<td><a href="https://www.youtube.com/watch?v=v2X-sTKCVMs&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="14.2.11 Worked Examples: Caches">14.2.11 Worked Examples: Caches</a></td>
+<td>13:11</td>
+</tr>
+<tr>
+<td>125</td>
+<td><a href="https://www.youtube.com/watch?v=IE9cFQ9b33U&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="15.2.1 Improving Beta Performance">15.2.1 Improving Beta Performance</a></td>
+<td>9:51</td>
+</tr>
+<tr>
+<td>126</td>
+<td><a href="https://www.youtube.com/watch?v=yauQ7o1ZAAw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="15.2.2 Basic 5-Stage Pipeline">15.2.2 Basic 5-Stage Pipeline</a></td>
+<td>7:02</td>
+</tr>
+<tr>
+<td>127</td>
+<td><a href="https://www.youtube.com/watch?v=6XV3uLfKzog&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="15.2.3 Data Hazards">15.2.3 Data Hazards</a></td>
+<td>14:43</td>
+</tr>
+<tr>
+<td>128</td>
+<td><a href="https://www.youtube.com/watch?v=0LqS5QtpSVE&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="15.2.4 Control Hazards">15.2.4 Control Hazards</a></td>
+<td>11:26</td>
+</tr>
+<tr>
+<td>129</td>
+<td><a href="https://www.youtube.com/watch?v=iQR_6f5Jdns&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="15.2.5 Exceptions and Interrupts">15.2.5 Exceptions and Interrupts</a></td>
+<td>5:19</td>
+</tr>
+<tr>
+<td>130</td>
+<td><a href="https://www.youtube.com/watch?v=p2j16ebu14U&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="15.2.6 Pipelining Summary">15.2.6 Pipelining Summary</a></td>
+<td>1:56</td>
+</tr>
+<tr>
+<td>131</td>
+<td><a href="https://www.youtube.com/watch?v=6mS1BHgm4u8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="15.2.7 Worked Examples: Pipelined Beta">15.2.7 Worked Examples: Pipelined Beta</a></td>
+<td>10:11</td>
+</tr>
+<tr>
+<td>132</td>
+<td><a href="https://www.youtube.com/watch?v=-RqKDpeILyU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="15.2.7 Worked Examples: Beta Junkyard">15.2.7 Worked Examples: Beta Junkyard</a></td>
+<td>8:17</td>
+</tr>
+<tr>
+<td>133</td>
+<td><a href="https://www.youtube.com/watch?v=5oOdsbRPb2Y&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="16.2.1 Even More Memory Hierarchy">16.2.1 Even More Memory Hierarchy</a></td>
+<td>7:10</td>
+</tr>
+<tr>
+<td>134</td>
+<td><a href="https://www.youtube.com/watch?v=8yO2FBBfaB0&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="16.2.2 Basics of Virtual Memory">16.2.2 Basics of Virtual Memory</a></td>
+<td>12:20</td>
+</tr>
+<tr>
+<td>135</td>
+<td><a href="https://www.youtube.com/watch?v=RrZ8-1w7iok&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="16.2.3 Page Faults">16.2.3 Page Faults</a></td>
+<td>6:48</td>
+</tr>
+<tr>
+<td>136</td>
+<td><a href="https://www.youtube.com/watch?v=sz4kq_ltDrM&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="16.2.4 Building the MMU">16.2.4 Building the MMU</a></td>
+<td>10:17</td>
+</tr>
+<tr>
+<td>137</td>
+<td><a href="https://www.youtube.com/watch?v=Z7pKkCDmHh0&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="16.2.5 Contexts">16.2.5 Contexts</a></td>
+<td>4:58</td>
+</tr>
+<tr>
+<td>138</td>
+<td><a href="https://www.youtube.com/watch?v=-OduZBd1aHw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="16.2.6 MMU Improvements">16.2.6 MMU Improvements</a></td>
+<td>7:34</td>
+</tr>
+<tr>
+<td>139</td>
+<td><a href="https://www.youtube.com/watch?v=swdDzsfFflo&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="16.2.7 Worked Examples: Virtual Memory">16.2.7 Worked Examples: Virtual Memory</a></td>
+<td>11:10</td>
+</tr>
+<tr>
+<td>140</td>
+<td><a href="https://www.youtube.com/watch?v=muLn57VrGAA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="17.2.1 Recap: Virtual Memory">17.2.1 Recap: Virtual Memory</a></td>
+<td>4:58</td>
+</tr>
+<tr>
+<td>141</td>
+<td><a href="https://www.youtube.com/watch?v=UW9k06c63ts&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="17.2.2 Processes">17.2.2 Processes</a></td>
+<td>8:36</td>
+</tr>
+<tr>
+<td>142</td>
+<td><a href="https://www.youtube.com/watch?v=R7U0Xezxo_0&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="17.2.3 Timesharing">17.2.3 Timesharing</a></td>
+<td>10:26</td>
+</tr>
+<tr>
+<td>143</td>
+<td><a href="https://www.youtube.com/watch?v=usMPXTDOIn0&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="17.2.4 Handling Illegal Instructions">17.2.4 Handling Illegal Instructions</a></td>
+<td>7:29</td>
+</tr>
+<tr>
+<td>144</td>
+<td><a href="https://www.youtube.com/watch?v=Ykep0YaxgYw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="17.2.5 Supevisor Calls">17.2.5 Supevisor Calls</a></td>
+<td>6:52</td>
+</tr>
+<tr>
+<td>145</td>
+<td><a href="https://www.youtube.com/watch?v=jsJ0nR38zvo&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="17.2.6 Worked Examples: Operating Systems">17.2.6 Worked Examples: Operating Systems</a></td>
+<td>7:16</td>
+</tr>
+<tr>
+<td>146</td>
+<td><a href="https://www.youtube.com/watch?v=8MWU1PxvaDY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="18.2.1 OS Device Handlers">18.2.1 OS Device Handlers</a></td>
+<td>6:08</td>
+</tr>
+<tr>
+<td>147</td>
+<td><a href="https://www.youtube.com/watch?v=LWE5p2sCI6o&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="18.2.2 SVCs for Input/Output">18.2.2 SVCs for Input/Output</a></td>
+<td>8:53</td>
+</tr>
+<tr>
+<td>148</td>
+<td><a href="https://www.youtube.com/watch?v=ckZo366TWGk&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="18.2.3 Example: Match Handler with OS">18.2.3 Example: Match Handler with OS</a></td>
+<td>5:24</td>
+</tr>
+<tr>
+<td>149</td>
+<td><a href="https://www.youtube.com/watch?v=7dhuZ6V9tcY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="18.2.4 Real Time">18.2.4 Real Time</a></td>
+<td>5:48</td>
+</tr>
+<tr>
+<td>150</td>
+<td><a href="https://www.youtube.com/watch?v=dLeI7A7VezQ&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="18.2.5 Weak Priorities">18.2.5 Weak Priorities</a></td>
+<td>5:11</td>
+</tr>
+<tr>
+<td>151</td>
+<td><a href="https://www.youtube.com/watch?v=PmOq8G_hs4o&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="18.2.6 Strong Priorities">18.2.6 Strong Priorities</a></td>
+<td>7:57</td>
+</tr>
+<tr>
+<td>152</td>
+<td><a href="https://www.youtube.com/watch?v=aR6X3OUAKkI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="18.2.7 Example: Priorities in Action!">18.2.7 Example: Priorities in Action!</a></td>
+<td>6:53</td>
+</tr>
+<tr>
+<td>153</td>
+<td><a href="https://www.youtube.com/watch?v=0aMDzMhf528&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="18.2.8 Worked Examples: Devices and Interrupts">18.2.8 Worked Examples: Devices and Interrupts</a></td>
+<td>6:43</td>
+</tr>
+<tr>
+<td>154</td>
+<td><a href="https://www.youtube.com/watch?v=Y_PNOmL_yqY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="19.2.1 Interprocess Communication">19.2.1 Interprocess Communication</a></td>
+<td>9:01</td>
+</tr>
+<tr>
+<td>155</td>
+<td><a href="https://www.youtube.com/watch?v=70auqrv84y8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="19.2.2 Semaphores">19.2.2 Semaphores</a></td>
+<td>7:32</td>
+</tr>
+<tr>
+<td>156</td>
+<td><a href="https://www.youtube.com/watch?v=776ZuSOo6hg&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="19.2.3 Atomic Transactions">19.2.3 Atomic Transactions</a></td>
+<td>8:26</td>
+</tr>
+<tr>
+<td>157</td>
+<td><a href="https://www.youtube.com/watch?v=VxVF6QzwtwI&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="19.2.4 Semaphore Implementation">19.2.4 Semaphore Implementation</a></td>
+<td>4:17</td>
+</tr>
+<tr>
+<td>158</td>
+<td><a href="https://www.youtube.com/watch?v=Teo5DweypWU&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="19.2.5 Deadlock">19.2.5 Deadlock</a></td>
+<td>7:37</td>
+</tr>
+<tr>
+<td>159</td>
+<td><a href="https://www.youtube.com/watch?v=3KJeK-UUADA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="19.2.6 Worked Examples: Semaphores">19.2.6 Worked Examples: Semaphores</a></td>
+<td>7:32</td>
+</tr>
+<tr>
+<td>160</td>
+<td><a href="https://www.youtube.com/watch?v=sd-ZVAw8qB0&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="20.2.1 System-level Interfaces">20.2.1 System-level Interfaces</a></td>
+<td>7:42</td>
+</tr>
+<tr>
+<td>161</td>
+<td><a href="https://www.youtube.com/watch?v=5jZ8VZ6G2uY&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="20.2.2 Wires">20.2.2 Wires</a></td>
+<td>9:43</td>
+</tr>
+<tr>
+<td>162</td>
+<td><a href="https://www.youtube.com/watch?v=CDUH8T6Yg8A&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="20.2.3 Buses">20.2.3 Buses</a></td>
+<td>4:55</td>
+</tr>
+<tr>
+<td>163</td>
+<td><a href="https://www.youtube.com/watch?v=B7F6vh_plHw&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="20.2.4 Point-to-point Communication">20.2.4 Point-to-point Communication</a></td>
+<td>6:47</td>
+</tr>
+<tr>
+<td>164</td>
+<td><a href="https://www.youtube.com/watch?v=K1dbnQDAG8Q&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="20.2.5 System-level Interconnect">20.2.5 System-level Interconnect</a></td>
+<td>3:57</td>
+</tr>
+<tr>
+<td>165</td>
+<td><a href="https://www.youtube.com/watch?v=4PkKI_S9TIQ&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="20.2.6 Communication Topologies">20.2.6 Communication Topologies</a></td>
+<td>6:29</td>
+</tr>
+<tr>
+<td>166</td>
+<td><a href="https://www.youtube.com/watch?v=IK9OVbj_Ir0&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="21.2.1 Instruction-level Parallelism">21.2.1 Instruction-level Parallelism</a></td>
+<td>13:58</td>
+</tr>
+<tr>
+<td>167</td>
+<td><a href="https://www.youtube.com/watch?v=QCo-RtfLzyc&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="21.2.2 Data-level Parallelism">21.2.2 Data-level Parallelism</a></td>
+<td>6:45</td>
+</tr>
+<tr>
+<td>168</td>
+<td><a href="https://www.youtube.com/watch?v=y5gPFB6uiYA&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="21.2.3 Thread-level Parallelism">21.2.3 Thread-level Parallelism</a></td>
+<td>5:18</td>
+</tr>
+<tr>
+<td>169</td>
+<td><a href="https://www.youtube.com/watch?v=IbKCGrVGpco&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="21.2.4 Shared Memory &amp; Caches">21.2.4 Shared Memory &amp; Caches</a></td>
+<td>5:51</td>
+</tr>
+<tr>
+<td>170</td>
+<td><a href="https://www.youtube.com/watch?v=ISaYWm8T8n4&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="21.2.5 Cache Coherence">21.2.5 Cache Coherence</a></td>
+<td>9:31</td>
+</tr>
+<tr>
+<td>171</td>
+<td><a href="https://www.youtube.com/watch?v=R6EzJKevAE8&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="21.2.6 6.004 Wrap-up">21.2.6 Wrap-up</a></td>
+<td>5:44</td>
+</tr>
+<tr>
+<td>172</td>
+<td><a href="https://www.youtube.com/watch?v=q38KAGAKORk&amp;list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2" title="An Interview with Christopher Terman on Teaching Computation Structures">An Interview with Christopher Terman on Teaching Computation Structures</a></td>
+<td>33:57</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>MIT 6.004 Computation Structures, Spring 2017</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2">https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

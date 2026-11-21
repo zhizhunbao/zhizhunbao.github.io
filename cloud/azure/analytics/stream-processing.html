@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>11.5 Stream Processing | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 11.5 Stream processing: output sink, Spark Streaming, Azure Databricks, Azure Functions, Fabric eventstreams, Azure Stream Analytics; Databricks streaming technologies; Stream Analytics inputs, outputs, query language, windowing functions, streaming units.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="115-stream-processing">11.5 Stream Processing</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/stream-processing.png" alt="Stream processing, the output sink that the processed stream data is written to, then the 4 options that Big data architectures names for this component, in its order: Spark Streaming, Azure Databricks, Azure Functions, Fabric eventstreams; then Azure Stream Analytics, placed here by their own overviews. Azure Databricks expands into the technologies its overview names for real-time and streaming analytics (Structured Streaming, Delta Lake, Lakeflow pipelines, Auto Loader); Azure Stream Analytics expands into what its overview names (Inputs, Reference data, Outputs, Stream Analytics query language, Windowing functions, Streaming units, Exactly once event processing), and Windowing functions into the five kinds of temporal windows (Tumbling, Hopping, Sliding, Session, Snapshot)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Output sink</strong><br>输出接收器</td>
+<td>(context) &quot;The <strong>processed stream data</strong> is then written to an <strong>output sink</strong>.&quot;</td>
+<td>（语境）<strong>处理后的流数据</strong>随后写入一个<strong>输出接收器</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures#:%7E:text=The%20processed%20stream%20data%20is%20then%20written%20to%20an%20output%20sink">Microsoft, 2025, &quot;Components of a big data architecture&quot; section, list item 5</a></td>
+</tr>
+<tr>
+<td><strong>Spark Streaming</strong><br>Spark Streaming</td>
+<td>&quot;Spark Streaming is an <strong>extension of the core Spark API</strong> that enables <strong>scalable, high-throughput, fault-tolerant stream processing of live data streams</strong>.&quot;</td>
+<td>Spark Streaming 是<strong>核心 Spark API 的扩展</strong>，能够对<strong>实时数据流进行可扩展、高吞吐量、容错的流处理</strong>。</td>
+<td><a href="https://spark.apache.org/docs/latest/streaming-programming-guide.html#:%7E:text=is%20an%20extension%20of%20the%20core%20Spark%20API">Apache Software Foundation, n.d., &quot;Overview&quot; section, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Azure Databricks</strong><br>Azure Databricks</td>
+<td>&quot;Azure Databricks is a <strong>unified, open analytics platform</strong> for <strong>building, deploying, sharing, and maintaining enterprise-grade data, analytics, and AI solutions at scale</strong>.&quot;</td>
+<td>Azure Databricks 是一个<strong>统一、开放的分析平台</strong>，用于<strong>大规模构建、部署、共享和维护企业级数据、分析和 AI 解决方案</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/databricks/introduction/#:%7E:text=is%20a%20unified%2C%20open%20analytics%20platform">Microsoft, 2026d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Structured Streaming</strong><br>结构化流</td>
+<td>(context) &quot;Azure Databricks leverages <strong>Apache Spark Structured Streaming</strong> to <strong>work with streaming data and incremental data changes</strong>.&quot;</td>
+<td>（语境）Azure Databricks 利用 <strong>Apache Spark 结构化流</strong>来<strong>处理流数据和增量数据变更</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/databricks/introduction/#:%7E:text=leverages%20Apache%20Spark%20Structured%20Streaming">Microsoft, 2026d, &quot;Real-time and streaming analytics&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Delta Lake</strong><br>Delta Lake</td>
+<td>(context) &quot;Structured Streaming <strong>integrates tightly with Delta Lake</strong>, and these technologies <strong>provide the foundations</strong> for both Lakeflow pipelines and Auto Loader.&quot;</td>
+<td>（语境）结构化流<strong>与 Delta Lake 紧密集成</strong>，这些技术为 Lakeflow 管道和 Auto Loader <strong>提供基础</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/databricks/introduction/#:%7E:text=integrates%20tightly%20with%20Delta%20Lake">Microsoft, 2026d, &quot;Real-time and streaming analytics&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Lakeflow pipelines</strong><br>Lakeflow 管道</td>
+<td>(context) &quot;Structured Streaming integrates tightly with Delta Lake, and <strong>these technologies provide the foundations</strong> for both <strong>Lakeflow pipelines</strong> and Auto Loader.&quot;</td>
+<td>（语境）结构化流与 Delta Lake 紧密集成，<strong>这些技术</strong>为 <strong>Lakeflow 管道</strong>和 Auto Loader <strong>提供基础</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/databricks/introduction/#:%7E:text=provide%20the%20foundations%20for%20both%20Lakeflow%20pipelines">Microsoft, 2026d, &quot;Real-time and streaming analytics&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Auto Loader</strong><br>自动加载器</td>
+<td>(context) &quot;Structured Streaming integrates tightly with Delta Lake, and <strong>these technologies provide the foundations</strong> for both Lakeflow pipelines and <strong>Auto Loader</strong>.&quot;</td>
+<td>（语境）结构化流与 Delta Lake 紧密集成，<strong>这些技术</strong>为 Lakeflow 管道和<strong>自动加载器</strong>（Auto Loader）<strong>提供基础</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/databricks/introduction/#:%7E:text=Lakeflow%20pipelines%20and%20Auto%20Loader">Microsoft, 2026d, &quot;Real-time and streaming analytics&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Functions</strong><br>Azure Functions</td>
+<td>&quot;Azure Functions is a <strong>serverless solution</strong> that allows you to <strong>build robust apps while using less code</strong>, and with less infrastructure and lower costs.&quot;</td>
+<td>Azure Functions 是一种<strong>无服务器解决方案</strong>，让你可以<strong>用更少的代码构建可靠的应用</strong>，同时使用更少的基础结构，成本也更低。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview#:%7E:text=is%20a%20serverless%20solution%20that%20allows%20you%20to%20build%20robust%20apps">Microsoft, 2026e, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Fabric eventstreams</strong><br>Fabric 事件流</td>
+<td>(context) &quot;Use the eventstreams feature in Microsoft Fabric Real-Time Intelligence to <strong>bring real-time events into Fabric</strong>, <strong>transform them</strong>, and then <strong>send them to various destinations without writing any code</strong>.&quot;</td>
+<td>（语境）使用 Microsoft Fabric 实时智能中的事件流功能，<strong>把实时事件引入 Fabric</strong>、<strong>转换它们</strong>，然后<strong>无需编写任何代码就把它们发送到各种目标</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/overview#:%7E:text=Use%20the%20eventstreams%20feature%20in%20Microsoft%20Fabric%20Real-Time%20Intelligence">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Stream Analytics</strong><br>Azure 流分析</td>
+<td>&quot;Azure Stream Analytics is a <strong>fully managed stream processing engine</strong> that <strong>analyzes and processes large volumes of streaming data</strong> with submillisecond latencies.&quot;</td>
+<td>Azure 流分析是一种<strong>完全托管的流处理引擎</strong>，以亚毫秒级延迟<strong>分析和处理大量流数据</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction#:%7E:text=is%20a%20fully%20managed%20stream%20processing%20engine">Microsoft, 2026c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Inputs</strong><br>输入</td>
+<td>(context) &quot;You can create a Stream Analytics job that connects to <strong>Azure Event Hubs and Azure IoT Hub</strong> for <strong>streaming data ingestion</strong>, and Azure Blob storage or Azure Data Lake Storage Gen2 to ingest historical data.&quot;</td>
+<td>（语境）你可以创建一个流分析作业，连接 <strong>Azure 事件中心和 Azure IoT 中心</strong>进行<strong>流数据引入</strong>，并连接 Azure Blob 存储或 Azure Data Lake Storage Gen2 来引入历史数据。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction#:%7E:text=for%20streaming%20data%20ingestion">Microsoft, 2026c, &quot;Ease of use&quot; section, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Reference data</strong><br>参考数据</td>
+<td>(context) &quot;The input for the Stream Analytics job can also include <strong>static or slow-changing reference data</strong> from Azure Blob storage or SQL Database that you can <strong>join with streaming data to perform lookup operations</strong>.&quot;</td>
+<td>（语境）流分析作业的输入还可以包括来自 Azure Blob 存储或 SQL 数据库的<strong>静态或缓慢变化的参考数据</strong>，你可以把它<strong>与流数据联接来执行查找操作</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction#:%7E:text=static%20or%20slow">Microsoft, 2026c, &quot;Ease of use&quot; section, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Outputs</strong><br>输出</td>
+<td>(context) &quot;You can <strong>route output from a Stream Analytics job</strong> to <strong>many storage systems</strong> such as Azure Blob storage, Azure SQL Database, Azure Data Lake Store, and Azure Cosmos DB.&quot;</td>
+<td>（语境）你可以把<strong>流分析作业的输出路由</strong>到<strong>多种存储系统</strong>，例如 Azure Blob 存储、Azure SQL 数据库、Azure Data Lake Store 和 Azure Cosmos DB。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction#:%7E:text=route%20output%20from%20a%20Stream%20Analytics%20job">Microsoft, 2026c, &quot;Ease of use&quot; section, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Stream Analytics query language</strong><br>流分析查询语言</td>
+<td>(context) &quot;The Stream Analytics query language allows you to <strong>perform Complex Event Processing (CEP)</strong> by offering a <strong>wide array of functions for analyzing streaming data</strong>.&quot;</td>
+<td>（语境）流分析查询语言通过提供<strong>大量用于分析流数据的函数</strong>，让你可以<strong>执行复杂事件处理</strong>（CEP）。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction#:%7E:text=The%20Stream%20Analytics%20query%20language%20allows%20you%20to%20perform%20Complex%20Event%20Processing">Microsoft, 2026c, &quot;Programmer productivity&quot; section, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Windowing functions</strong><br>窗口函数</td>
+<td>(context) &quot;Stream Analytics has <strong>native support for windowing functions</strong>, so you can <strong>create complex stream processing jobs with minimal effort</strong>.&quot;</td>
+<td>（语境）流分析<strong>原生支持窗口函数</strong>，因此你可以<strong>用极少的工作量创建复杂的流处理作业</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions#:%7E:text=Stream%20Analytics%20has%20native%20support%20for%20windowing%20functions">Microsoft, 2026a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Tumbling window</strong><br>翻转窗口</td>
+<td>&quot;Use Tumbling window functions to <strong>segment a data stream into distinct time segments</strong>, and <strong>perform a function against them</strong>.&quot;</td>
+<td>使用翻转窗口函数把<strong>数据流分割成互不相同的时间段</strong>，并<strong>对它们执行一个函数</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions#:%7E:text=segment%20a%20data%20stream%20into%20distinct%20time%20segments">Microsoft, 2026a, &quot;Tumbling window&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Hopping window</strong><br>跳跃窗口</td>
+<td>&quot;Hopping window functions <strong>hop forward in time</strong> by a <strong>fixed period</strong>.&quot;</td>
+<td>跳跃窗口函数按<strong>固定周期</strong>在<strong>时间上向前跳跃</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions#:%7E:text=window%20functions%20hop%20forward%20in%20time%20by%20a%20fixed%20period">Microsoft, 2026a, &quot;Hopping window&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Sliding window</strong><br>滑动窗口</td>
+<td>&quot;Sliding windows, unlike tumbling or hopping windows, <strong>output events only for points in time</strong> when the <strong>content of the window actually changes</strong>.&quot;</td>
+<td>与翻转窗口或跳跃窗口不同，滑动窗口<strong>只在某些时间点输出事件</strong>，即<strong>窗口内容实际发生变化</strong>的时候。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions#:%7E:text=output%20events%20only%20for%20points%20in%20time%20when%20the%20content%20of%20the%20window%20actually%20changes">Microsoft, 2026a, &quot;Sliding window&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Session window</strong><br>会话窗口</td>
+<td>&quot;Session window functions <strong>group events that arrive at similar times</strong>. They <strong>filter out periods of time where there's no data</strong>.&quot;</td>
+<td>会话窗口函数<strong>把在相近时间到达的事件分为一组</strong>。它们<strong>过滤掉没有数据的时间段</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions#:%7E:text=group%20events%20that%20arrive%20at%20similar%20times">Microsoft, 2026a, &quot;Session window&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Snapshot window</strong><br>快照窗口</td>
+<td>&quot;Snapshot windows <strong>group events that have the same timestamp</strong>.&quot;</td>
+<td>快照窗口<strong>把时间戳相同的事件分为一组</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions#:%7E:text=group%20events%20that%20have%20the%20same%20timestamp">Microsoft, 2026a, &quot;Snapshot window&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Streaming units</strong><br>流式处理单元</td>
+<td>(context) &quot;There are <strong>no upfront costs</strong> - you <strong>only pay for the streaming units you consume</strong>.&quot;</td>
+<td>（语境）<strong>没有预付费用</strong>，你<strong>只为消耗的流式处理单元付费</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction#:%7E:text=you%20only%20pay%20for%20the%20streaming%20units%20you%20consume">Microsoft, 2026c, &quot;Low total cost of ownership&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Exactly once event processing</strong><br>恰好一次事件处理</td>
+<td>(context) &quot;Stream Analytics guarantees <strong>exactly once event processing</strong> and <strong>at-least-once delivery of events</strong>, so events are never lost.&quot;</td>
+<td>（语境）流分析保证<strong>恰好一次的事件处理</strong>和<strong>至少一次的事件传递</strong>，因此事件永远不会丢失。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction#:%7E:text=Stream%20Analytics%20guarantees%20exactly%20once%20event%20processing">Microsoft, 2026c, &quot;Reliability&quot; section, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Apache Software Foundation. (n.d.). <em>Spark Streaming programming guide</em>. Apache Spark documentation. Retrieved October 27, 2026, from. <a href="https://spark.apache.org/docs/latest/streaming-programming-guide.html">https://spark.apache.org/docs/latest/streaming-programming-guide.html</a></li>
+<li>Microsoft. (2025). <em>Big data architectures</em>. Azure Architecture Center. <a href="https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures">https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures</a></li>
+<li>Microsoft. (2026a, February 18). <em>Introduction to Stream Analytics windowing functions</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions">https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-window-functions</a></li>
+<li>Microsoft. (2026b, September 2). <em>Overview of Microsoft Fabric eventstreams</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/overview">https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/overview</a></li>
+<li>Microsoft. (2026c, February 6). <em>Welcome to Azure Stream Analytics</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction">https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-introduction</a></li>
+<li>Microsoft. (2026d, September 11). <em>What is Azure Databricks?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/databricks/introduction/">https://learn.microsoft.com/en-us/azure/databricks/introduction/</a></li>
+<li>Microsoft. (2026e, September 21). <em>What is Azure Functions?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview">https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 17:23:38-05:00">11/20/2026 17:23:38</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

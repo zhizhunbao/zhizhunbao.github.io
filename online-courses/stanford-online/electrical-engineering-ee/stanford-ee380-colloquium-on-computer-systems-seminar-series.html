@@ -1,0 +1,1824 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.6.8 Stanford EE380-Colloquium on Computer Systems - Seminar Series | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Electrical Engineering (EE) &gt; Stanford EE380-Colloquium on Computer Systems - Seminar Series: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="168-stanford-ee380-colloquium-on-computer-systems---seminar-series">1.6.8 Stanford EE380-Colloquium on Computer Systems - Seminar Series</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Colloquium on Computer Systems</strong><br>计算机系统研讨会</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>EE 380</td>
+<td>Colloquium on Computer Systems<br>计算机系统研讨会</td>
+<td>n.d.</td>
+<td>325</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=0W7YRRhnunw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - RowHammer, RowPress and Beyond: Can We Be Free of Bitflips (Soon)?">RowHammer, RowPress and Beyond: Can We Be Free of Bitflips (Soon)?</a></td>
+<td>1:08:37</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=MC223HlPdK0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Nvidia’s H100 GPU">Nvidia’s H100 GPU</a></td>
+<td>50:06</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=lO0eyuh_g3k&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - From Designing Quantum Computers to Coordinating the National Quantum Initiative">From Designing Quantum Computers to Coordinating the National Quantum Initiative</a></td>
+<td>1:03:36</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=QaRBFM6pp10&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Impact of Generative AI Systems (An Open Forum Moderated by Dennis Allison)">The Impact of Generative AI Systems (An Open Forum Moderated by Dennis Allison)</a></td>
+<td>1:07:16</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=YlKXux1r_tw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Collaborating with GPT-4: Ken Kahn, Oxford">Collaborating with GPT-4: Ken Kahn, Oxford</a></td>
+<td>1:30:42</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=KRId1T8af3I&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Open Forum Moderated by Dennis Allison of Stanford">Open Forum Moderated by Dennis Allison of Stanford</a></td>
+<td>1:34:39</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=D9kqb2YD9qA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - A Hybrid Password Manager">A Hybrid Password Manager</a></td>
+<td>55:19</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=gbby0nuFqCU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - VLSI Industry Trends">VLSI Industry Trends</a></td>
+<td>1:09:40</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=5-DlTQkHaiE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Should We Pause Giant AI Experiments?">Should We Pause Giant AI Experiments?</a></td>
+<td>1:28:32</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=gamRnnk5lXs&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - How Behavior Spreads">How Behavior Spreads</a></td>
+<td>1:00:24</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=ZZkc5mtda8I&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Intellectual Property and Artificial Intelligence">Intellectual Property and Artificial Intelligence</a></td>
+<td>1:32:02</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=mCsAEjGd7d0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Using Narrative to Transform Publishing and Business Analytics">Using Narrative to Transform Publishing and Business Analytics</a></td>
+<td>1:26:02</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=-DdRQNibqKk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Remembering Carl Hewitt">Remembering Carl Hewitt</a></td>
+<td>1:01:54</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=KthjE_2sHRY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Fireside Chat between David Farber and Dennis Allison">Fireside Chat between David Farber and Dennis Allison</a></td>
+<td>1:06:43</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=jklv4kuOIOg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Highly optimized quantum circuits synthesized via data-flow engines">Highly optimized quantum circuits synthesized via data-flow engines</a></td>
+<td>1:26:55</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=AZ6_btXKiPk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Optimizing the Internet">Optimizing the Internet</a></td>
+<td>57:44</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=m1kyG7a4EG8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Alphy and Alphy Reflect: creating a reflective mirror to advance women">Alphy and Alphy Reflect: creating a reflective mirror to advance women</a></td>
+<td>1:02:11</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=kFJKAbXMc1U&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computing with Physical Systems">Computing with Physical Systems</a></td>
+<td>1:08:32</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=3srUyPJALYE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Slow Music in a Manic World: A History of Deep Listening">Slow Music in a Manic World: A History of Deep Listening</a></td>
+<td>1:31:38</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=2-MbW43ZbDk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: I forgot, I invented hypertext - Ted Nelson">I forgot, I invented hypertext - Ted Nelson</a></td>
+<td>58:14</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=gFKeDHqb0qo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Changing the Solar Constant at Earth to a Solar Variable">Changing the Solar Constant at Earth to a Solar Variable</a></td>
+<td>1:15:35</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=kPUxl00xys4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Dataflow for convergence of AI and HPC - GroqChip!">Dataflow for convergence of AI and HPC - GroqChip!</a></td>
+<td>1:45:53</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=_t3E2Lmw31E&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Forecasting and Predicting the Future of the Future">Forecasting and Predicting the Future of the Future</a></td>
+<td>46:03</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=D_qRuKO9qzM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Making the Invisible Visible: Observing Complex Software Dynamics">Making the Invisible Visible: Observing Complex Software Dynamics</a></td>
+<td>1:12:00</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=LS1fbs7s6MQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Accelerating ML Recommendation with over a Thousand RISC-V/Tensor Processors...">Accelerating ML Recommendation with over a Thousand RISC-V/Tensor Processors...</a></td>
+<td>1:09:56</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=iyC6Iu6k5Gk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Digitally Driven Manufacturing: A Profitable Path to a Viable Economy">Digitally Driven Manufacturing: A Profitable Path to a Viable Economy</a></td>
+<td>1:15:36</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=39LGvDpHQfk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Is Google Search Is Dying?">Is Google Search Is Dying?</a></td>
+<td>1:03:30</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=twrduL8aNGE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Can We Mitigate Cryptocurrencies’ Externalities">Can We Mitigate Cryptocurrencies’ Externalities</a></td>
+<td>58:38</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=I7rv4qetZjk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - We Can Restore the Earth's Climate If We Want to -- And We Should">We Can Restore the Earth's Climate If We Want to -- And We Should</a></td>
+<td>32:48</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=S13RkgsM_y4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - 4004 Microprocessors">4004 Microprocessors</a></td>
+<td>1:31:19</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=yXvrmCEqJjI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Universal Intelligent Systems by 2030 - Carl Hewitt and John Perry">Universal Intelligent Systems by 2030 - Carl Hewitt and John Perry</a></td>
+<td>1:19:00</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=AJP1VL7shiI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Preventing Successful Cyberattacks Using Strongly-typed Actors">Preventing Successful Cyberattacks Using Strongly-typed Actors</a></td>
+<td>59:12</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=FMPN7bYCcSk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Deep Reckonings: Prosocial uses of deepfake technology">Deep Reckonings: Prosocial uses of deepfake technology</a></td>
+<td>37:48</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=-yrNnEXkya4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Online Political Ad Transparency">Online Political Ad Transparency</a></td>
+<td>46:19</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=UamKPPgqf5o&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - How to build an IC company">How to build an IC company</a></td>
+<td>52:09</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=sfNihgnaOsU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - How can we understand and evaluate election forecasts, given that N=15 (or less)?">How can we understand and evaluate election forecasts, given that N=15 (or less)?</a></td>
+<td>47:08</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=DwbTpnKViH4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - PurpleAir - Real time air quality monitoring">PurpleAir - Real time air quality monitoring</a></td>
+<td>35:23</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=AHJZKoAh8wE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computing with FPGAs - Oskar Mencer">Computing with FPGAs - Oskar Mencer</a></td>
+<td>1:00:11</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=QJLhM-5i9Y4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Coming Attractions: Death or Utopia in the Next Three Decades">Coming Attractions: Death or Utopia in the Next Three Decades</a></td>
+<td>2:02:06</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=q6WEe4ws-pE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Practical Blockchain Applications - Steven Pu">Practical Blockchain Applications - Steven Pu</a></td>
+<td>1:02:12</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=G59_iYUx4F8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computer-designed organisms - Josh Bongard">Computer-designed organisms - Josh Bongard</a></td>
+<td>1:01:24</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=O_sHHG5_lr8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Deep Learning for Symbolic Mathematics - Guillaume Lample &amp; Francois Charton">Deep Learning for Symbolic Mathematics - Guillaume Lample &amp; Francois Charton</a></td>
+<td>53:11</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=9jOuzjE9OcM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Learning from history: the how and why of starting a computer history museum">Learning from history: the how and why of starting a computer history museum</a></td>
+<td>54:56</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=uybmgFHrupE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Building the Smartest and Open Virtual Assistant to Protect Privacy - Monica Lam">Building the Smartest and Open Virtual Assistant to Protect Privacy - Monica Lam</a></td>
+<td>1:12:59</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=qpsAR2tvJ2w&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Rebooting the Internet">Rebooting the Internet</a></td>
+<td>1:16:42</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=VI3wGWQMxv8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Data Analytics at the Exascale for Free Electron Lasers Project">Data Analytics at the Exascale for Free Electron Lasers Project</a></td>
+<td>1:03:51</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=vvZA9n3e5pc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Soul of a New Machine: Rethinking the Computer">The Soul of a New Machine: Rethinking the Computer</a></td>
+<td>1:26:02</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=1TfI88uQNj8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - fastai: A Layered API for Deep Learning">fastai: A Layered API for Deep Learning</a></td>
+<td>1:07:44</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=5Z7cmyYakAw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Centaur Technology's Deep learning Coprocessor">Centaur Technology's Deep learning Coprocessor</a></td>
+<td>1:24:26</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=2HE7tSZGna0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - KUtrace 2020">KUtrace 2020</a></td>
+<td>1:13:07</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=4DtUjceYGZM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computer Security: The Mess We're In, How We Got Here, and What to Do About It">Computer Security: The Mess We're In, How We Got Here, and What to Do About It</a></td>
+<td>1:06:02</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=j4m2rVTQ098&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Fight over the Law of Software APIs &amp; stories from Electronic Frontier Foundation">Fight over the Law of Software APIs &amp; stories from Electronic Frontier Foundation</a></td>
+<td>1:16:49</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=G5P8eu6gUSo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Lenia: Biology of Artificial Life, Bert Wang-Chak Chan">Lenia: Biology of Artificial Life, Bert Wang-Chak Chan</a></td>
+<td>1:01:40</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=K_MGWHiEeMk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Algorithmic Extremism: Examining YouTube's Rabbit Hole of Radicalization">Algorithmic Extremism: Examining YouTube's Rabbit Hole of Radicalization</a></td>
+<td>42:43</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=ZUEWC6dUScQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Locking the Web Open--a Call for a New, Decentralized Web">Locking the Web Open--a Call for a New, Decentralized Web</a></td>
+<td>1:05:43</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=g78yngpg9b0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Solving Cybersecurity as an Economic Problem">Solving Cybersecurity as an Economic Problem</a></td>
+<td>1:12:36</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=jyhIR3f46X0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Current State of Cybersecurity">The Current State of Cybersecurity</a></td>
+<td>1:09:59</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=I5Dfbh5Ni3k&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Thunderclap &amp; CHERI (Capability Hardware-Enhanced RISC Instructions)">Thunderclap &amp; CHERI (Capability Hardware-Enhanced RISC Instructions)</a></td>
+<td>1:02:06</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=yb0_GwRvF4k&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Persistent and Unforgeable Watermarks for DeepNeural Networks">Persistent and Unforgeable Watermarks for DeepNeural Networks</a></td>
+<td>1:01:35</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=2PcTZOVffHk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Technology Management During a Time of U.S.- China Friction">Technology Management During a Time of U.S.- China Friction</a></td>
+<td>1:20:40</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=nYn3E-kG_0M&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Tales from the Risks Forum">Tales from the Risks Forum</a></td>
+<td>53:55</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=bxZMJOu0Emo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Neural Networks on Chip Design from the User Perspective">Neural Networks on Chip Design from the User Perspective</a></td>
+<td>58:15</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=xjHTQbG_mEU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Conflict and Technology">Conflict and Technology</a></td>
+<td>1:09:07</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=vhHR6fNHyG8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - A Superscalar Out-of-Order x86 Soft Processor for FPGA">A Superscalar Out-of-Order x86 Soft Processor for FPGA</a></td>
+<td>57:32</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=53y5G193Tgk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - SMILE: Synchronized, Multi-sensory Integrated Learning Environment">SMILE: Synchronized, Multi-sensory Integrated Learning Environment</a></td>
+<td>1:13:39</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=aFctIlOIAUQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Fingerprinting the Climate System">Fingerprinting the Climate System</a></td>
+<td>1:05:05</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=BWlJFy3Waro&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Jupyter Notebooks and Academic Publication">Jupyter Notebooks and Academic Publication</a></td>
+<td>1:10:41</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=omR7R4wvK8g&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Virtual &amp; Mixed Reality for Security of Critical City-Scale Cyber-Physical Systems">Virtual &amp; Mixed Reality for Security of Critical City-Scale Cyber-Physical Systems</a></td>
+<td>54:45</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=OFVMM8gMa7c&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - MIPS Open, Wave Computing">MIPS Open, Wave Computing</a></td>
+<td>59:51</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=Opf9CBwP5R8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Nanosecond-level Clock Synchronization in a Data Center">Nanosecond-level Clock Synchronization in a Data Center</a></td>
+<td>56:34</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=nUk_P3G29tk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Deep Learning for Medical Diagnoses">Deep Learning for Medical Diagnoses</a></td>
+<td>56:34</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=7hWWyuesmhs&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Saving energy and increasing density in information processing using photonics">Saving energy and increasing density in information processing using photonics</a></td>
+<td>1:00:53</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=7GEq-QLAGbE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Natural Language Processing for Production-Level Conversational Interfaces">Natural Language Processing for Production-Level Conversational Interfaces</a></td>
+<td>1:07:00</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=jrxCfAjkT_U&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Extending the theory of ML for human-centric applications">Extending the theory of ML for human-centric applications</a></td>
+<td>1:07:29</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=f2q8Fo0AT2w&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Facing up to the byproducts of digitization--with power comes responsibility">Facing up to the byproducts of digitization--with power comes responsibility</a></td>
+<td>1:00:11</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=4cgvIh9DUrg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Training Classifiers with Natural Language Explanations">Training Classifiers with Natural Language Explanations</a></td>
+<td>25:47</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=JkHyC7VZy0A&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - How to Meet Today's Performance, Security, and Affordability Desires">How to Meet Today's Performance, Security, and Affordability Desires</a></td>
+<td>1:10:20</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=g563BDQaogA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Electronic Design Automation and the Resurgence of Chip Design">Electronic Design Automation and the Resurgence of Chip Design</a></td>
+<td>1:05:48</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=FfwIkBZIFBk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - A Borderless Internet with Borderless Laws?">A Borderless Internet with Borderless Laws?</a></td>
+<td>1:02:27</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=l1wMFd2dHCE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Scalable Intelligent Systems Build and Deploy by 2025">Scalable Intelligent Systems Build and Deploy by 2025</a></td>
+<td>1:13:59</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=oBt0sZic3dk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Erudite: Prototype System for Computational Intelligence">Erudite: Prototype System for Computational Intelligence</a></td>
+<td>1:09:43</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=9cjkDatLgVU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Leela: a Semantic Intelligent Agent">Leela: a Semantic Intelligent Agent</a></td>
+<td>1:21:56</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=HalVaS-CvMU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Safe passwords made easy to use">Safe passwords made easy to use</a></td>
+<td>53:27</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=x6Ppkw5U_w4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Mind Your State for Your State of Mind">Mind Your State for Your State of Mind</a></td>
+<td>1:10:33</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=NaqJO7rrXy0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Case for Learned Index Structures">The Case for Learned Index Structures</a></td>
+<td>55:40</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=bfPV4x-HrUI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - New Golden Age for Computer Architecture - John Hennessy">New Golden Age for Computer Architecture - John Hennessy</a></td>
+<td>1:15:20</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=oW3Kw_8u2fE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Efficient and Resilient Systems in the Cognitive Era">Efficient and Resilient Systems in the Cognitive Era</a></td>
+<td>1:15:43</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=fZICmeqH5Ns&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Interactive Autonomy: A Human-Centered Approach for Safe Interactions">Interactive Autonomy: A Human-Centered Approach for Safe Interactions</a></td>
+<td>1:14:27</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=GiZKuyLKvAA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Optional Static Typing for Python">Optional Static Typing for Python</a></td>
+<td>1:17:06</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=_2Wiql4QSLQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computational memory: A stepping-stone to non-von Neumann computing?">Computational memory: A stepping-stone to non-von Neumann computing?</a></td>
+<td>1:20:35</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=wJqf17bZQsY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Artificial Intelligence: Current and Future Paradigms and Implications">Artificial Intelligence: Current and Future Paradigms and Implications</a></td>
+<td>1:14:42</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=lQcuJ4GK3Q0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The future of low power circuits and embedded intelligence">The future of low power circuits and embedded intelligence</a></td>
+<td>1:10:15</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=Fa0hIC1HCh4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Future of Wireless Communications Hint: It's not a linear amplifier">The Future of Wireless Communications Hint: It's not a linear amplifier</a></td>
+<td>1:39:20</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=qb3P1FlPLvU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Democratizing Research Funding">Democratizing Research Funding</a></td>
+<td>1:01:02</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=iHirjErBrU0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Towards theories of single-trial high dimensional neural data analysis">Towards theories of single-trial high dimensional neural data analysis</a></td>
+<td>1:15:45</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=vJNBd_HEr5U&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - 'Did you hear the one about the engineer that walked into an art gallery?'">&quot;Did you hear the one about the engineer that walked into an art gallery?&quot;</a></td>
+<td>59:37</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=oWoWriobqXE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Exploring the implications of machine learning for cognitive disabilities">Exploring the implications of machine learning for cognitive disabilities</a></td>
+<td>1:10:45</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=_cjIXhI4Xd0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The End of Privacy">The End of Privacy</a></td>
+<td>1:18:04</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=XL07WEc2TRI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Information Theory of Deep Learning, Naftali Tishby">Information Theory of Deep Learning, Naftali Tishby</a></td>
+<td>1:24:44</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=RyTBIF-yzko&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Scoring (automatically) news articles to fight misinformation">Scoring (automatically) news articles to fight misinformation</a></td>
+<td>1:09:50</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=Tev3tVzH91s&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Evolution of Public Key Cryptography">The Evolution of Public Key Cryptography</a></td>
+<td></td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=wtP2Y8S2XBE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Graph Analysis of Russian Twitter Trolls Using Neo4j">Graph Analysis of Russian Twitter Trolls Using Neo4j</a></td>
+<td></td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="https://www.youtube.com/watch?v=2Zlcgt8FVz4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Stopping grinding attacks in proofs of space">Stopping grinding attacks in proofs of space</a></td>
+<td></td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="https://www.youtube.com/watch?v=O9qqSZAny3I&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Tiny functions for codecs, compilation, and (maybe) soon everything">Tiny functions for codecs, compilation, and (maybe) soon everything</a></td>
+<td></td>
+</tr>
+<tr>
+<td>105</td>
+<td><a href="https://www.youtube.com/watch?v=zuBw1HFJMsM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Exploiting modern microarchitectures: Meltdown, Spectre, &amp; other hardware attacks">Exploiting modern microarchitectures: Meltdown, Spectre, &amp; other hardware attacks</a></td>
+<td></td>
+</tr>
+<tr>
+<td>106</td>
+<td><a href="https://www.youtube.com/watch?v=9XmhoLINJt0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Cells Are Not Computers and DNA is Not a Programming Language and That's Ok">Cells Are Not Computers and DNA is Not a Programming Language and That's Ok</a></td>
+<td></td>
+</tr>
+<tr>
+<td>107</td>
+<td><a href="https://www.youtube.com/watch?v=-k6P87mLGpM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Combining Physical and Statistical Models in Projected Global Warming">Combining Physical and Statistical Models in Projected Global Warming</a></td>
+<td></td>
+</tr>
+<tr>
+<td>108</td>
+<td><a href="https://www.youtube.com/watch?v=_BOhD_3ntlo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - An architect's point of view on emerging technologies">An architect's point of view on emerging technologies</a></td>
+<td></td>
+</tr>
+<tr>
+<td>109</td>
+<td><a href="https://www.youtube.com/watch?v=4nSn0JhZX18&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Petascale Deep Learning on a Single Chip">Petascale Deep Learning on a Single Chip</a></td>
+<td></td>
+</tr>
+<tr>
+<td>110</td>
+<td><a href="https://www.youtube.com/watch?v=RBgfLvAOrss&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Deep Learning in Speech Recognition">Deep Learning in Speech Recognition</a></td>
+<td></td>
+</tr>
+<tr>
+<td>111</td>
+<td><a href="https://www.youtube.com/watch?v=_IgqJr8jG8M&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Concatenative Programming: From Ivory to Metal">Concatenative Programming: From Ivory to Metal</a></td>
+<td></td>
+</tr>
+<tr>
+<td>112</td>
+<td><a href="https://www.youtube.com/watch?v=3RK7HMOWr-Y&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Enabling NLP, Machine Learning, &amp; Few-Shot Learning using Associative Processing">Enabling NLP, Machine Learning, &amp; Few-Shot Learning using Associative Processing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>113</td>
+<td><a href="https://www.youtube.com/watch?v=q52iBIgyoSw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Partisan Gerrymandering and the Supreme Court: The Role of Social Science">Partisan Gerrymandering and the Supreme Court: The Role of Social Science</a></td>
+<td></td>
+</tr>
+<tr>
+<td>114</td>
+<td><a href="https://www.youtube.com/watch?v=zUCoxhExe0o&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computing with High-Dimensional Vectors">Computing with High-Dimensional Vectors</a></td>
+<td></td>
+</tr>
+<tr>
+<td>115</td>
+<td><a href="https://www.youtube.com/watch?v=IQZ_bQbxSXk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Generalized Reversible Computing and the Unconventional Computing Landscape">Generalized Reversible Computing and the Unconventional Computing Landscape</a></td>
+<td></td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href="https://www.youtube.com/watch?v=4VfGe6TDrmw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Scratchwork: a tool for developing and communicating technical ideas">Scratchwork: a tool for developing and communicating technical ideas</a></td>
+<td></td>
+</tr>
+<tr>
+<td>117</td>
+<td><a href="https://www.youtube.com/watch?v=98Xis1W1mMk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - NVIDIA GPU Computing: A Journey from PC Gaming to Deep Learning">NVIDIA GPU Computing: A Journey from PC Gaming to Deep Learning</a></td>
+<td></td>
+</tr>
+<tr>
+<td>118</td>
+<td><a href="https://www.youtube.com/watch?v=Nwdu7QlFUnA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Multiscale Dataflow Computing: Competitive Advantage at the Exascale Frontier">Multiscale Dataflow Computing: Competitive Advantage at the Exascale Frontier</a></td>
+<td></td>
+</tr>
+<tr>
+<td>119</td>
+<td><a href="https://www.youtube.com/watch?v=-7qT_38iRSc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Unethical Algorithms of Massive Scale">Unethical Algorithms of Massive Scale</a></td>
+<td></td>
+</tr>
+<tr>
+<td>120</td>
+<td><a href="https://www.youtube.com/watch?v=y5QkM2Work0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - An Alternative to the American way of Innovation">An Alternative to the American way of Innovation</a></td>
+<td></td>
+</tr>
+<tr>
+<td>121</td>
+<td><a href="https://www.youtube.com/watch?v=iVgMILETn8Q&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - How to Design Addictive Games">How to Design Addictive Games</a></td>
+<td></td>
+</tr>
+<tr>
+<td>122</td>
+<td><a href="https://www.youtube.com/watch?v=oafqV3Oi1ck&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computers, Programming, Addiction, False News, Alternative Facts">Computers, Programming, Addiction, False News, Alternative Facts</a></td>
+<td></td>
+</tr>
+<tr>
+<td>123</td>
+<td><a href="https://www.youtube.com/watch?v=BJM8-xU-JeY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Machineries of Doubt &amp; Disinformation">The Machineries of Doubt &amp; Disinformation</a></td>
+<td></td>
+</tr>
+<tr>
+<td>124</td>
+<td><a href="https://www.youtube.com/watch?v=EbnQE3hxSWs&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - New Horizons for Electronic Systems">New Horizons for Electronic Systems</a></td>
+<td></td>
+</tr>
+<tr>
+<td>125</td>
+<td><a href="https://www.youtube.com/watch?v=qZl0cNupZBU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Software-centric Visible Light Communication for the Internet of Things">Software-centric Visible Light Communication for the Internet of Things</a></td>
+<td></td>
+</tr>
+<tr>
+<td>126</td>
+<td><a href="https://www.youtube.com/watch?v=dkdKeoFYpn4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: PyWren - Pushing Microservices to Teraflops">PyWren - Pushing Microservices to Teraflops</a></td>
+<td></td>
+</tr>
+<tr>
+<td>127</td>
+<td><a href="https://www.youtube.com/watch?v=1TGqGeyri8Q&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Living in Information Everywhere">Living in Information Everywhere</a></td>
+<td></td>
+</tr>
+<tr>
+<td>128</td>
+<td><a href="https://www.youtube.com/watch?v=vHlbC74RJGU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Neuromorphic Chips: Addressing the Nanostransistor Challenge">Neuromorphic Chips: Addressing the Nanostransistor Challenge</a></td>
+<td></td>
+</tr>
+<tr>
+<td>129</td>
+<td><a href="https://www.youtube.com/watch?v=ZY9VDxMtleI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Autonomous Driving, are we there yet? - Technology, Business, Legal Considerations">Autonomous Driving, are we there yet? - Technology, Business, Legal Considerations</a></td>
+<td></td>
+</tr>
+<tr>
+<td>130</td>
+<td><a href="https://www.youtube.com/watch?v=nR74lBO5M3s&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Google's Multilingual Neural Machine Translation System">Google's Multilingual Neural Machine Translation System</a></td>
+<td></td>
+</tr>
+<tr>
+<td>131</td>
+<td><a href="https://www.youtube.com/watch?v=2R9122IAYvo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Service Robots Are Here II">Service Robots Are Here II</a></td>
+<td></td>
+</tr>
+<tr>
+<td>132</td>
+<td><a href="https://www.youtube.com/watch?v=ki6jVXZM2XU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: The REX Neo Architecture: An energy efficient new processor architecture">The REX Neo Architecture: An energy efficient new processor architecture</a></td>
+<td></td>
+</tr>
+<tr>
+<td>133</td>
+<td><a href="https://www.youtube.com/watch?v=09QsVw3iuFg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Data For The People, Andreas Weigend of Social Data Lab">Data For The People, Andreas Weigend of Social Data Lab</a></td>
+<td></td>
+</tr>
+<tr>
+<td>134</td>
+<td><a href="https://www.youtube.com/watch?v=rRKM_Oesuvk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Dialog Markets">Dialog Markets</a></td>
+<td></td>
+</tr>
+<tr>
+<td>135</td>
+<td><a href="https://www.youtube.com/watch?v=aP0Y1uAA-2Y&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Beyond Floating Point: Next Generation Computer Arithmetic">Beyond Floating Point: Next Generation Computer Arithmetic</a></td>
+<td></td>
+</tr>
+<tr>
+<td>136</td>
+<td><a href="https://www.youtube.com/watch?v=2LksDHe43rU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Deep Learning in the Age of Zen, Vega, and Beyond">Deep Learning in the Age of Zen, Vega, and Beyond</a></td>
+<td></td>
+</tr>
+<tr>
+<td>137</td>
+<td><a href="https://www.youtube.com/watch?v=j6ONWsA4iGY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Charting a Cybersecurity Path for the Next Administration">Charting a Cybersecurity Path for the Next Administration</a></td>
+<td></td>
+</tr>
+<tr>
+<td>138</td>
+<td><a href="https://www.youtube.com/watch?v=Ca0BHUNoTF0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Challenges in Secure Messaging">Challenges in Secure Messaging</a></td>
+<td></td>
+</tr>
+<tr>
+<td>139</td>
+<td><a href="https://www.youtube.com/watch?v=IPTlTmH-YvQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: The Time-Less Datacenter">The Time-Less Datacenter</a></td>
+<td></td>
+</tr>
+<tr>
+<td>140</td>
+<td><a href="https://www.youtube.com/watch?v=nuKzvGSJUPE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Time Traveling Hardware and Software Systems">Time Traveling Hardware and Software Systems</a></td>
+<td></td>
+</tr>
+<tr>
+<td>141</td>
+<td><a href="https://www.youtube.com/watch?v=4cRfbj_ieCI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Runway: A New Tool for Distributed Systems Design">Runway: A New Tool for Distributed Systems Design</a></td>
+<td></td>
+</tr>
+<tr>
+<td>142</td>
+<td><a href="https://www.youtube.com/watch?v=KP8TPeYQyN4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Building Systems Using Malicious Components">Building Systems Using Malicious Components</a></td>
+<td></td>
+</tr>
+<tr>
+<td>143</td>
+<td><a href="https://www.youtube.com/watch?v=epTKxi8eNek&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Engineering Cyber Resiliency: A Pragmatic Approach">Engineering Cyber Resiliency: A Pragmatic Approach</a></td>
+<td></td>
+</tr>
+<tr>
+<td>144</td>
+<td><a href="https://www.youtube.com/watch?v=wkWNfyocwQ8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: Concepts and Questions as Programs">Concepts and Questions as Programs</a></td>
+<td></td>
+</tr>
+<tr>
+<td>145</td>
+<td><a href="https://www.youtube.com/watch?v=gao_oc3gXqc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: HPC Opportunities in Deep Learning - Greg Diamos, Baidu">HPC Opportunities in Deep Learning - Greg Diamos, Baidu</a></td>
+<td></td>
+</tr>
+<tr>
+<td>146</td>
+<td><a href="https://www.youtube.com/watch?v=xEU6n0wqVlc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar: A Topologically Optimal Internet">A Topologically Optimal Internet</a></td>
+<td></td>
+</tr>
+<tr>
+<td>147</td>
+<td><a href="https://www.youtube.com/watch?v=e2qs-vmyJ4E&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Where is Wearable Technology Going?">Where is Wearable Technology Going?</a></td>
+<td></td>
+</tr>
+<tr>
+<td>148</td>
+<td><a href="https://www.youtube.com/watch?v=e0Rc4nX1oYA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Harvesting the World's Heat">Harvesting the World's Heat</a></td>
+<td></td>
+</tr>
+<tr>
+<td>149</td>
+<td><a href="https://www.youtube.com/watch?v=UAq961jQjYg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Recent Advances in Deep Learning">Recent Advances in Deep Learning</a></td>
+<td></td>
+</tr>
+<tr>
+<td>150</td>
+<td><a href="https://www.youtube.com/watch?v=cWGQZ-nMzZA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - How to Compute with Schrödinger's Cat: An Introduction to Quantum Computing">How to Compute with Schrödinger's Cat: An Introduction to Quantum Computing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>151</td>
+<td><a href="https://www.youtube.com/watch?v=gXfBpouwqUA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Quantum Computing as a Service">Quantum Computing as a Service</a></td>
+<td></td>
+</tr>
+<tr>
+<td>152</td>
+<td><a href="https://www.youtube.com/watch?v=YRJgQSM996o&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - QED and Symbolic QED: Dramatic Improvements in SoC Validation and Debug">QED and Symbolic QED: Dramatic Improvements in SoC Validation and Debug</a></td>
+<td></td>
+</tr>
+<tr>
+<td>153</td>
+<td><a href="https://www.youtube.com/watch?v=60OmhRJ0CUA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Flash Reliability in Production: The Expected and the Unexpected">Flash Reliability in Production: The Expected and the Unexpected</a></td>
+<td></td>
+</tr>
+<tr>
+<td>154</td>
+<td><a href="https://www.youtube.com/watch?v=hXurTRtmfWc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Quest for Low Storage Latency Changes Everything">The Quest for Low Storage Latency Changes Everything</a></td>
+<td></td>
+</tr>
+<tr>
+<td>155</td>
+<td><a href="https://www.youtube.com/watch?v=ALuQzgDvr2g&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Making Programming Accessible to Everyone with Wolfram Language">Making Programming Accessible to Everyone with Wolfram Language</a></td>
+<td></td>
+</tr>
+<tr>
+<td>156</td>
+<td><a href="https://www.youtube.com/watch?v=lnp5fjQHeB8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - How to Make Better Forecasts">How to Make Better Forecasts</a></td>
+<td></td>
+</tr>
+<tr>
+<td>157</td>
+<td><a href="https://www.youtube.com/watch?v=uPqzo29Q9Wc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar-Solid State LiDar for Autonomous Vehicles,Security, Industrial Automation, 3D Maps">Stanford Seminar-Solid State LiDar for Autonomous Vehicles,Security, Industrial Automation, 3D Maps</a></td>
+<td></td>
+</tr>
+<tr>
+<td>158</td>
+<td><a href="https://www.youtube.com/watch?v=Kjha0glQwCk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Micro but Mighty: Microbots in an Macro World">Micro but Mighty: Microbots in an Macro World</a></td>
+<td></td>
+</tr>
+<tr>
+<td>159</td>
+<td><a href="https://www.youtube.com/watch?v=f4Cvia-HZ-w&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Sista: Speculative Inlining, Smalltalk-Stye">Sista: Speculative Inlining, Smalltalk-Stye</a></td>
+<td></td>
+</tr>
+<tr>
+<td>160</td>
+<td><a href="https://www.youtube.com/watch?v=VIRCybGgHts&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Can the brain do back-propagation? Geoffrey Hinton">Can the brain do back-propagation? Geoffrey Hinton</a></td>
+<td></td>
+</tr>
+<tr>
+<td>161</td>
+<td><a href="https://www.youtube.com/watch?v=FXWsmHoFs6Y&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Cryptology and Security: the view from 2016 - Whitfield Diffie">Cryptology and Security: the view from 2016 - Whitfield Diffie</a></td>
+<td></td>
+</tr>
+<tr>
+<td>162</td>
+<td><a href="https://www.youtube.com/watch?v=ivzpaiw26wQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Propositions as Types">Propositions as Types</a></td>
+<td></td>
+</tr>
+<tr>
+<td>163</td>
+<td><a href="https://www.youtube.com/watch?v=nnPeioyf0TQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Privacy Properties of Telephone Metadata">The Privacy Properties of Telephone Metadata</a></td>
+<td></td>
+</tr>
+<tr>
+<td>164</td>
+<td><a href="https://www.youtube.com/watch?v=PbZPat3ANJ8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computation with Motile Biological Agents">Computation with Motile Biological Agents</a></td>
+<td></td>
+</tr>
+<tr>
+<td>165</td>
+<td><a href="https://www.youtube.com/watch?v=S79-buNhdhI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Big Data is (at least) Four Different Problems">Big Data is (at least) Four Different Problems</a></td>
+<td></td>
+</tr>
+<tr>
+<td>166</td>
+<td><a href="https://www.youtube.com/watch?v=QvtakD9YYB8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - From Nanodevices to Nanosystems: The Carbon Nanotube Case Study">From Nanodevices to Nanosystems: The Carbon Nanotube Case Study</a></td>
+<td></td>
+</tr>
+<tr>
+<td>167</td>
+<td><a href="https://www.youtube.com/watch?v=qPCKv6LIdlw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Realizing the Next Growth Wave for Semiconductors">Realizing the Next Growth Wave for Semiconductors</a></td>
+<td></td>
+</tr>
+<tr>
+<td>168</td>
+<td><a href="https://www.youtube.com/watch?v=ElUik6tdIp8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Computational Epidemiology: The Role of Big Data and Pervasive Informatics">Computational Epidemiology: The Role of Big Data and Pervasive Informatics</a></td>
+<td></td>
+</tr>
+<tr>
+<td>169</td>
+<td><a href="https://www.youtube.com/watch?v=dn74oHbhRuk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Service Robots are Here">Service Robots are Here</a></td>
+<td></td>
+</tr>
+<tr>
+<td>170</td>
+<td><a href="https://www.youtube.com/watch?v=P9GLDezYVX4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Deep Speech: Scaling up end-to-end speech recognition">Deep Speech: Scaling up end-to-end speech recognition</a></td>
+<td></td>
+</tr>
+<tr>
+<td>171</td>
+<td><a href="https://www.youtube.com/watch?v=MXlh7qPpfMY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Border Gateway Protocol: the Good, Bad, and Ugly of Internet Routing">Border Gateway Protocol: the Good, Bad, and Ugly of Internet Routing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>172</td>
+<td><a href="https://www.youtube.com/watch?v=45Oet5qjlms&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - PCG: A Family of Better Random Number Generators">PCG: A Family of Better Random Number Generators</a></td>
+<td></td>
+</tr>
+<tr>
+<td>173</td>
+<td><a href="https://www.youtube.com/watch?v=li7GiwIlr8g&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Oracle v. Google: Are Java APIs Copyrightable?">Oracle v. Google: Are Java APIs Copyrightable?</a></td>
+<td></td>
+</tr>
+<tr>
+<td>174</td>
+<td><a href="https://www.youtube.com/watch?v=oEuXA0_9feM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Dynamic Code Optimization and the NVIDIA Denver Processor">Dynamic Code Optimization and the NVIDIA Denver Processor</a></td>
+<td></td>
+</tr>
+<tr>
+<td>175</td>
+<td><a href="https://www.youtube.com/watch?v=O5vzLKg7y-k&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Rust Programming Language">The Rust Programming Language</a></td>
+<td></td>
+</tr>
+<tr>
+<td>176</td>
+<td><a href="https://www.youtube.com/watch?v=hvIptUuUCdU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - 'Deep Learning for Dummies' Carey Nachenberg of Symantec and UCLA CS">&quot;Deep Learning for Dummies&quot; Carey Nachenberg of Symantec and UCLA CS</a></td>
+<td></td>
+</tr>
+<tr>
+<td>177</td>
+<td><a href="https://www.youtube.com/watch?v=6QsTfL-uXd8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Programing Should Be More Than Coding, Leslie Lamport of Microsoft Research">Programing Should Be More Than Coding, Leslie Lamport of Microsoft Research</a></td>
+<td></td>
+</tr>
+<tr>
+<td>178</td>
+<td><a href="https://www.youtube.com/watch?v=mPT_vJrlHlg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Intel Software Guard Extensions">Intel Software Guard Extensions</a></td>
+<td></td>
+</tr>
+<tr>
+<td>179</td>
+<td><a href="https://www.youtube.com/watch?v=NxMtftRyX78&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar -'Online Arms Race' Mikko Hypponen of F-Secure">Stanford Seminar -&quot;Online Arms Race&quot; Mikko Hypponen of F-Secure</a></td>
+<td></td>
+</tr>
+<tr>
+<td>180</td>
+<td><a href="https://www.youtube.com/watch?v=Z6tmDdrBnpU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Knowledge Vault and Knowlege-Based Trust">Knowledge Vault and Knowlege-Based Trust</a></td>
+<td></td>
+</tr>
+<tr>
+<td>181</td>
+<td><a href="https://www.youtube.com/watch?v=0kUU0mpmYeg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Storage Industry Current and Future Trends">Storage Industry Current and Future Trends</a></td>
+<td></td>
+</tr>
+<tr>
+<td>182</td>
+<td><a href="https://www.youtube.com/watch?v=tSuuN9WMK9M&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - How Not to Generate Random Numbers">How Not to Generate Random Numbers</a></td>
+<td></td>
+</tr>
+<tr>
+<td>183</td>
+<td><a href="https://www.youtube.com/watch?v=LdKSLc1u3jI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Inventing the Inventor: Transforming a Generation of Minecraft Players">Inventing the Inventor: Transforming a Generation of Minecraft Players</a></td>
+<td></td>
+</tr>
+<tr>
+<td>184</td>
+<td><a href="https://www.youtube.com/watch?v=TkH9I_vLrJk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Security and the Software Defined Network">Security and the Software Defined Network</a></td>
+<td></td>
+</tr>
+<tr>
+<td>185</td>
+<td><a href="https://www.youtube.com/watch?v=5TS_JQ7h6xA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Future of Trustworthy Computer Systems">The Future of Trustworthy Computer Systems</a></td>
+<td></td>
+</tr>
+<tr>
+<td>186</td>
+<td><a href="https://www.youtube.com/watch?v=F7xZLNMIY1E&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Rethinking Memory System Design for Data-Intensive Computing">Rethinking Memory System Design for Data-Intensive Computing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>187</td>
+<td><a href="https://www.youtube.com/watch?v=cnVIqX9zW4E&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - What Could Possibly Go Wrong?">What Could Possibly Go Wrong?</a></td>
+<td></td>
+</tr>
+<tr>
+<td>188</td>
+<td><a href="https://www.youtube.com/watch?v=hS090metmzs&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Citadel of One: Individuality and the rise of the machines, Suzanne Sadedin">Citadel of One: Individuality and the rise of the machines, Suzanne Sadedin</a></td>
+<td></td>
+</tr>
+<tr>
+<td>189</td>
+<td><a href="https://www.youtube.com/watch?v=FjWe-ZxmquA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Wafer-Scale Thermionic Energy Converters?">Wafer-Scale Thermionic Energy Converters?</a></td>
+<td></td>
+</tr>
+<tr>
+<td>190</td>
+<td><a href="https://www.youtube.com/watch?v=HUVmypx9HGI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - IPFS and the Permanent Web">IPFS and the Permanent Web</a></td>
+<td></td>
+</tr>
+<tr>
+<td>191</td>
+<td><a href="https://www.youtube.com/watch?v=TSN6LE06J54&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Search Engine Manipulation Effect (SEME) and Its Unparalleled Power">The Search Engine Manipulation Effect (SEME) and Its Unparalleled Power</a></td>
+<td></td>
+</tr>
+<tr>
+<td>192</td>
+<td><a href="https://www.youtube.com/watch?v=KqNfpL8ML_w&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - $9 Computer Architecture: The Chip that Makes C.H.I.P., C.H.I.P.">$9 Computer Architecture: The Chip that Makes C.H.I.P., C.H.I.P.</a></td>
+<td></td>
+</tr>
+<tr>
+<td>193</td>
+<td><a href="https://www.youtube.com/watch?v=S9eUQKCzXs8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Locking the Web Open - A Call for a New, Distributed Web">Locking the Web Open - A Call for a New, Distributed Web</a></td>
+<td></td>
+</tr>
+<tr>
+<td>194</td>
+<td><a href="https://www.youtube.com/watch?v=grRi-aFrbSE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The TLS 1.3 Protocol">The TLS 1.3 Protocol</a></td>
+<td></td>
+</tr>
+<tr>
+<td>195</td>
+<td><a href="https://www.youtube.com/watch?v=wCl-bKaER-s&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Backwards towards the Future">Backwards towards the Future</a></td>
+<td></td>
+</tr>
+<tr>
+<td>196</td>
+<td><a href="https://www.youtube.com/watch?v=ln3d08pTCd4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Building a Trustworthy Business in the Post-Snowden Era">Building a Trustworthy Business in the Post-Snowden Era</a></td>
+<td></td>
+</tr>
+<tr>
+<td>197</td>
+<td><a href="https://www.youtube.com/watch?v=ugY6D5Ia1M8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - 'Embrace Failure for Success and Profit' Jonathan Siegel, Rackspace">&quot;Embrace Failure for Success and Profit&quot; Jonathan Siegel, Rackspace</a></td>
+<td></td>
+</tr>
+<tr>
+<td>198</td>
+<td><a href="https://www.youtube.com/watch?v=vNTSzOubMak&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Instruction execution on the Mill CPU">Instruction execution on the Mill CPU</a></td>
+<td></td>
+</tr>
+<tr>
+<td>199</td>
+<td><a href="https://www.youtube.com/watch?v=EPj-W_6ZSEs&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Value Intellectual Capital">Value Intellectual Capital</a></td>
+<td></td>
+</tr>
+<tr>
+<td>200</td>
+<td><a href="https://www.youtube.com/watch?v=yzUjFyQowT0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Inventing a New Internet: Learning from Icarus">Inventing a New Internet: Learning from Icarus</a></td>
+<td></td>
+</tr>
+<tr>
+<td>201</td>
+<td><a href="https://www.youtube.com/watch?v=x8ZLNxnYslM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Stephan Wolfram of Wolfram Research">Stephan Wolfram of Wolfram Research</a></td>
+<td></td>
+</tr>
+<tr>
+<td>202</td>
+<td><a href="https://www.youtube.com/watch?v=SfvouFIVCmQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Insights in the Nature of Time in Physics, and Implications for Computer Science">Insights in the Nature of Time in Physics, and Implications for Computer Science</a></td>
+<td></td>
+</tr>
+<tr>
+<td>203</td>
+<td><a href="https://www.youtube.com/watch?v=iAmU0V-xd30&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Origin of Life and the Search for a Second Genesis of Life on Other Worlds">The Origin of Life and the Search for a Second Genesis of Life on Other Worlds</a></td>
+<td></td>
+</tr>
+<tr>
+<td>204</td>
+<td><a href="https://www.youtube.com/watch?v=wGAnDQEQJ_s&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - pCell: Personalized Cell Technology: Ubiquitous Wireless Broadband">pCell: Personalized Cell Technology: Ubiquitous Wireless Broadband</a></td>
+<td></td>
+</tr>
+<tr>
+<td>205</td>
+<td><a href="https://www.youtube.com/watch?v=Uj8pIOAQams&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Big Data, Yesterday, Today and Tomorrow">Big Data, Yesterday, Today and Tomorrow</a></td>
+<td></td>
+</tr>
+<tr>
+<td>206</td>
+<td><a href="https://www.youtube.com/watch?v=Fk3EOnLxXwo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - The Relationship between Wrap Contracts and Technological Innovation">The Relationship between Wrap Contracts and Technological Innovation</a></td>
+<td></td>
+</tr>
+<tr>
+<td>207</td>
+<td><a href="https://www.youtube.com/watch?v=nec1qvbYrag&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Minimal Models of Human Nature Interaction">Minimal Models of Human Nature Interaction</a></td>
+<td></td>
+</tr>
+<tr>
+<td>208</td>
+<td><a href="https://www.youtube.com/watch?v=7FOinEfoo8s&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Applying Mainstream Design Approaches to Spacecraft Communications">Applying Mainstream Design Approaches to Spacecraft Communications</a></td>
+<td></td>
+</tr>
+<tr>
+<td>209</td>
+<td><a href="https://www.youtube.com/watch?v=DvPoAO6JenQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Old Dog New Tricks: Technology, Entertainment and Working in Asia">Old Dog New Tricks: Technology, Entertainment and Working in Asia</a></td>
+<td></td>
+</tr>
+<tr>
+<td>210</td>
+<td><a href="https://www.youtube.com/watch?v=YaUPdgtUYko&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Faults, Scaling, and Erlang Concurrency">Faults, Scaling, and Erlang Concurrency</a></td>
+<td></td>
+</tr>
+<tr>
+<td>211</td>
+<td><a href="https://www.youtube.com/watch?v=b9hRJ2Q6_Is&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Insights with New Data: Using Google Search Data">Insights with New Data: Using Google Search Data</a></td>
+<td></td>
+</tr>
+<tr>
+<td>212</td>
+<td><a href="https://www.youtube.com/watch?v=EQnCavINUQc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - TSAR (the TimeSeries AggregatoR) Anirudh Todi of Twitter">TSAR (the TimeSeries AggregatoR) Anirudh Todi of Twitter</a></td>
+<td></td>
+</tr>
+<tr>
+<td>213</td>
+<td><a href="https://www.youtube.com/watch?v=vB0FC1DZqUM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Instruction Sets Should Be Free: The Case for RISC-V">Instruction Sets Should Be Free: The Case for RISC-V</a></td>
+<td></td>
+</tr>
+<tr>
+<td>214</td>
+<td><a href="https://www.youtube.com/watch?v=S-hBSddgGY0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Low-Cost 3D Chip Stacking with ThruChip Wireless Connections">Low-Cost 3D Chip Stacking with ThruChip Wireless Connections</a></td>
+<td></td>
+</tr>
+<tr>
+<td>215</td>
+<td><a href="https://www.youtube.com/watch?v=IBhu2kkZXGQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Big Data: A Data Driven Society?">Big Data: A Data Driven Society?</a></td>
+<td></td>
+</tr>
+<tr>
+<td>216</td>
+<td><a href="https://www.youtube.com/watch?v=fs4khT1KGqE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - History of Robots from Ancient Egypt to Current Times">History of Robots from Ancient Egypt to Current Times</a></td>
+<td></td>
+</tr>
+<tr>
+<td>217</td>
+<td><a href="https://www.youtube.com/watch?v=SU8LaHLh6Ng&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - I ♥ Logs: Apache Kafka, Stream Processing, and Real-time Data">I ♥ Logs: Apache Kafka, Stream Processing, and Real-time Data</a></td>
+<td></td>
+</tr>
+<tr>
+<td>218</td>
+<td><a href="https://www.youtube.com/watch?v=fZPHiUHh2lk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Abstractions for Multi-Material 3D Printing, Wojciech Matusik">Abstractions for Multi-Material 3D Printing, Wojciech Matusik</a></td>
+<td></td>
+</tr>
+<tr>
+<td>219</td>
+<td><a href="https://www.youtube.com/watch?v=zwzYNura0Ps&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Shannon-Inspired Statistical Computing">Shannon-Inspired Statistical Computing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>220</td>
+<td><a href="https://www.youtube.com/watch?v=6Td49PE3Saw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Multiscale Dataflow Computing">Multiscale Dataflow Computing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>221</td>
+<td><a href="https://www.youtube.com/watch?v=vmEGXu9seoE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Considerate Audio MEdiating Oracle (CAMEO)">Considerate Audio MEdiating Oracle (CAMEO)</a></td>
+<td></td>
+</tr>
+<tr>
+<td>222</td>
+<td><a href="https://www.youtube.com/watch?v=tz0FJfBFWWY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Makers, Hackers and the Personal Computer Revolution">Makers, Hackers and the Personal Computer Revolution</a></td>
+<td></td>
+</tr>
+<tr>
+<td>223</td>
+<td><a href="https://www.youtube.com/watch?v=6q-c3bHL8s8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Javascript anticensorship proxies">Javascript anticensorship proxies</a></td>
+<td></td>
+</tr>
+<tr>
+<td>224</td>
+<td><a href="https://www.youtube.com/watch?v=Dz-3FqucJlc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Microsoft Research and the Evolution of Computing">Microsoft Research and the Evolution of Computing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>225</td>
+<td><a href="https://www.youtube.com/watch?v=z5UUhLuAtI0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Predicting and Preventing Asteroid Impacts">Predicting and Preventing Asteroid Impacts</a></td>
+<td></td>
+</tr>
+<tr>
+<td>226</td>
+<td><a href="https://www.youtube.com/watch?v=UygjaC_gmrE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Fixing Media's Business Model">Fixing Media's Business Model</a></td>
+<td></td>
+</tr>
+<tr>
+<td>227</td>
+<td><a href="https://www.youtube.com/watch?v=7ecz7KPT9sc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Exploring Alternative Global Futures">Exploring Alternative Global Futures</a></td>
+<td></td>
+</tr>
+<tr>
+<td>228</td>
+<td><a href="https://www.youtube.com/watch?v=VfbRhSrJ4qA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - BitTorrent Live: A Low Latency Live P2P Video Streaming Protocol">BitTorrent Live: A Low Latency Live P2P Video Streaming Protocol</a></td>
+<td></td>
+</tr>
+<tr>
+<td>229</td>
+<td><a href="https://www.youtube.com/watch?v=LgLNyMAi-0I&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar -Drinking from the Firehose: How the Mill CPU Decodes 30+ Instructions per Cycle">Stanford Seminar -Drinking from the Firehose: How the Mill CPU Decodes 30+ Instructions per Cycle</a></td>
+<td></td>
+</tr>
+<tr>
+<td>230</td>
+<td><a href="https://www.youtube.com/watch?v=WabdXYzCAOU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Software-Defined Networking at the Crossroads">Software-Defined Networking at the Crossroads</a></td>
+<td></td>
+</tr>
+<tr>
+<td>231</td>
+<td><a href="https://www.youtube.com/watch?v=dgqbaBQlQS4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Building Computers from Bacteriophage, Drew Endy">Building Computers from Bacteriophage, Drew Endy</a></td>
+<td></td>
+</tr>
+<tr>
+<td>232</td>
+<td><a href="https://www.youtube.com/watch?v=bnxKeZn43iU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Wireless Power Transfer &amp; RF Energy Harvesting: New Options for System Designers">Wireless Power Transfer &amp; RF Energy Harvesting: New Options for System Designers</a></td>
+<td></td>
+</tr>
+<tr>
+<td>233</td>
+<td><a href="https://www.youtube.com/watch?v=cCvf2DZzKX0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Who Owns the Future, Jaron Lanier, Microsoft Research">Who Owns the Future, Jaron Lanier, Microsoft Research</a></td>
+<td></td>
+</tr>
+<tr>
+<td>234</td>
+<td><a href="https://www.youtube.com/watch?v=bjRDaaGlER8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Mostly Missless Memory in the Mill CPU">Mostly Missless Memory in the Mill CPU</a></td>
+<td></td>
+</tr>
+<tr>
+<td>235</td>
+<td><a href="https://www.youtube.com/watch?v=x3Hl85OBuc0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Topological Data Analysis: How Ayasdi used TDA to Solve Complex Problems">Topological Data Analysis: How Ayasdi used TDA to Solve Complex Problems</a></td>
+<td></td>
+</tr>
+<tr>
+<td>236</td>
+<td><a href="https://www.youtube.com/watch?v=zF5Bp_YsZ3M&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - On the Origin of Experience: The Shaping of Sense and the Complex World">On the Origin of Experience: The Shaping of Sense and the Complex World</a></td>
+<td></td>
+</tr>
+<tr>
+<td>237</td>
+<td><a href="https://www.youtube.com/watch?v=G_cV3pltKJg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Innovation in Open Networks and the MIT Media Lab">Innovation in Open Networks and the MIT Media Lab</a></td>
+<td></td>
+</tr>
+<tr>
+<td>238</td>
+<td><a href="https://www.youtube.com/watch?v=e-itKB-bq8M&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="SOPA &amp; PIPA: How the Internet Fought Back">SOPA &amp; PIPA: How the Internet Fought Back</a></td>
+<td></td>
+</tr>
+<tr>
+<td>239</td>
+<td><a href="https://www.youtube.com/watch?v=PE4gwstWhmc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="How We've Scaled Dropbox">How We've Scaled Dropbox</a></td>
+<td></td>
+</tr>
+<tr>
+<td>240</td>
+<td><a href="https://www.youtube.com/watch?v=ygTkZAX59N8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Science, Mathematica, and the Making of Wolfram|Alpha">Science, Mathematica, and the Making of Wolfram|Alpha</a></td>
+<td></td>
+</tr>
+<tr>
+<td>241</td>
+<td><a href="https://www.youtube.com/watch?v=IKkxiHxMRbs&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Model Checking Cell Biology">Model Checking Cell Biology</a></td>
+<td></td>
+</tr>
+<tr>
+<td>242</td>
+<td><a href="https://www.youtube.com/watch?v=kQG_SQxjcM0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Computational Insights and the Theory of Evolution">Computational Insights and the Theory of Evolution</a></td>
+<td></td>
+</tr>
+<tr>
+<td>243</td>
+<td><a href="https://www.youtube.com/watch?v=rmFyatXeMCY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="The Future of Venture Capital and High-Tech Entrepreneurship">The Future of Venture Capital and High-Tech Entrepreneurship</a></td>
+<td></td>
+</tr>
+<tr>
+<td>244</td>
+<td><a href="https://www.youtube.com/watch?v=7VTQ1glcXYg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Bayes, Medical Diagnostics, and Nomograms">Bayes, Medical Diagnostics, and Nomograms</a></td>
+<td></td>
+</tr>
+<tr>
+<td>245</td>
+<td><a href="https://www.youtube.com/watch?v=JQiLaKdzD0E&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="4th Generation Peer-to-Peer Technology">4th Generation Peer-to-Peer Technology</a></td>
+<td></td>
+</tr>
+<tr>
+<td>246</td>
+<td><a href="https://www.youtube.com/watch?v=p7Lv9GxigYU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Turing: Pioneer of the Information Age">Turing: Pioneer of the Information Age</a></td>
+<td></td>
+</tr>
+<tr>
+<td>247</td>
+<td><a href="https://www.youtube.com/watch?v=jIpuolxQYx0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Let's Make Biology Easier to Engineer">Let's Make Biology Easier to Engineer</a></td>
+<td></td>
+</tr>
+<tr>
+<td>248</td>
+<td><a href="https://www.youtube.com/watch?v=7dMfJcFe1hA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - High Performance Computing in the Oil Industry, Bob Clapp">High Performance Computing in the Oil Industry, Bob Clapp</a></td>
+<td></td>
+</tr>
+<tr>
+<td>249</td>
+<td><a href="https://www.youtube.com/watch?v=KTJs-0EInW8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Google's Steve Yegge on GROK">Google's Steve Yegge on GROK</a></td>
+<td></td>
+</tr>
+<tr>
+<td>250</td>
+<td><a href="https://www.youtube.com/watch?v=PC_lk32EBdw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Cloud Computing's Impact on Network Design">Cloud Computing's Impact on Network Design</a></td>
+<td></td>
+</tr>
+<tr>
+<td>251</td>
+<td><a href="https://www.youtube.com/watch?v=j8ixwnEAE38&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - EteRNE: RNA Nanoengineering through Crowd Science">EteRNE: RNA Nanoengineering through Crowd Science</a></td>
+<td></td>
+</tr>
+<tr>
+<td>252</td>
+<td><a href="https://www.youtube.com/watch?v=1ylzPGD3jRY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Google's Peter Norvig on Online Education">Google's Peter Norvig on Online Education</a></td>
+<td></td>
+</tr>
+<tr>
+<td>253</td>
+<td><a href="https://www.youtube.com/watch?v=xHN8wCNVZQo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - 'Haptic Systems: Hardware and Software' Ken Salisbury">&quot;Haptic Systems: Hardware and Software&quot; Ken Salisbury</a></td>
+<td></td>
+</tr>
+<tr>
+<td>254</td>
+<td><a href="https://www.youtube.com/watch?v=w2rV0Mso4EA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Microsoft's Harry Shum on the Bing Dialog Model">Microsoft's Harry Shum on the Bing Dialog Model</a></td>
+<td></td>
+</tr>
+<tr>
+<td>255</td>
+<td><a href="https://www.youtube.com/watch?v=DooMvBRMNY4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Perspectives on Social Phenomena in Online Networks">Perspectives on Social Phenomena in Online Networks</a></td>
+<td></td>
+</tr>
+<tr>
+<td>256</td>
+<td><a href="https://www.youtube.com/watch?v=-hxOpz9c0bY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Design of Video Collaboration">Design of Video Collaboration</a></td>
+<td></td>
+</tr>
+<tr>
+<td>257</td>
+<td><a href="https://www.youtube.com/watch?v=rN3FZKTgdR0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="The Process of Innovation">The Process of Innovation</a></td>
+<td></td>
+</tr>
+<tr>
+<td>258</td>
+<td><a href="https://www.youtube.com/watch?v=HDpyEwfMqPA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Using Technology to Rethink How We Teach and Learn">Using Technology to Rethink How We Teach and Learn</a></td>
+<td></td>
+</tr>
+<tr>
+<td>259</td>
+<td><a href="https://www.youtube.com/watch?v=ZzsK8Am6dKU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Parsing with Derivatives">Parsing with Derivatives</a></td>
+<td></td>
+</tr>
+<tr>
+<td>260</td>
+<td><a href="https://www.youtube.com/watch?v=uAwHWQoAki4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Python in Python: The PyPy System">Python in Python: The PyPy System</a></td>
+<td></td>
+</tr>
+<tr>
+<td>261</td>
+<td><a href="https://www.youtube.com/watch?v=T7A35Je5Y3U&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Recent Advances in the Use of DNA as a Building Material">Recent Advances in the Use of DNA as a Building Material</a></td>
+<td></td>
+</tr>
+<tr>
+<td>262</td>
+<td><a href="https://www.youtube.com/watch?v=e4ZubJeCiAU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="How to Program the Many Cores For Inconsistency Robustness">How to Program the Many Cores For Inconsistency Robustness</a></td>
+<td></td>
+</tr>
+<tr>
+<td>263</td>
+<td><a href="https://www.youtube.com/watch?v=fD62_ZlsgM8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Pearson to Person: Social Networking in the Enterprise">Pearson to Person: Social Networking in the Enterprise</a></td>
+<td></td>
+</tr>
+<tr>
+<td>264</td>
+<td><a href="https://www.youtube.com/watch?v=d2xeNpfzsYI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Introducing Apache Hadoop: The Modern Data Operating System">Introducing Apache Hadoop: The Modern Data Operating System</a></td>
+<td></td>
+</tr>
+<tr>
+<td>265</td>
+<td><a href="https://www.youtube.com/watch?v=jyP8vx5kD5E&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Information Technology for a Smaller Planet">Information Technology for a Smaller Planet</a></td>
+<td></td>
+</tr>
+<tr>
+<td>266</td>
+<td><a href="https://www.youtube.com/watch?v=-2BWoYA3iHY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="A Quick Tour of Dart">A Quick Tour of Dart</a></td>
+<td></td>
+</tr>
+<tr>
+<td>267</td>
+<td><a href="https://www.youtube.com/watch?v=nL0pcR3Lf8A&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Assessment of Climate Change: Complexity and Uncertainty">Assessment of Climate Change: Complexity and Uncertainty</a></td>
+<td></td>
+</tr>
+<tr>
+<td>268</td>
+<td><a href="https://www.youtube.com/watch?v=S3Yyv53dZ5A&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Cyber Security of Industrial Control Systems">Cyber Security of Industrial Control Systems</a></td>
+<td></td>
+</tr>
+<tr>
+<td>269</td>
+<td><a href="https://www.youtube.com/watch?v=n3XzuBt54ig&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Finding the Missing Memristor">Finding the Missing Memristor</a></td>
+<td></td>
+</tr>
+<tr>
+<td>270</td>
+<td><a href="https://www.youtube.com/watch?v=x_X-77x2UF8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Cosmos, Condos, and Clouds">Cosmos, Condos, and Clouds</a></td>
+<td></td>
+</tr>
+<tr>
+<td>271</td>
+<td><a href="https://www.youtube.com/watch?v=HoIOIluNFzQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Future-proofing Scala collections: From mutable to persistent to parallel">Future-proofing Scala collections: From mutable to persistent to parallel</a></td>
+<td></td>
+</tr>
+<tr>
+<td>272</td>
+<td><a href="https://www.youtube.com/watch?v=K7DqMcBm1ro&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Why the Google Book Settlement Failed and What's Next?">Why the Google Book Settlement Failed and What's Next?</a></td>
+<td></td>
+</tr>
+<tr>
+<td>273</td>
+<td><a href="https://www.youtube.com/watch?v=y9xudo3C1Cw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Reactive Functional Programming From Models to Classrooms">Reactive Functional Programming From Models to Classrooms</a></td>
+<td></td>
+</tr>
+<tr>
+<td>274</td>
+<td><a href="https://www.youtube.com/watch?v=9JzLQKKGhjo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Technology in Banking: Facing the Challenges of Scale and Complexity">Technology in Banking: Facing the Challenges of Scale and Complexity</a></td>
+<td></td>
+</tr>
+<tr>
+<td>275</td>
+<td><a href="https://www.youtube.com/watch?v=BJC00hb1J1M&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Modifying traditional B Trees for optimal performance on arbitrary storage media">Modifying traditional B Trees for optimal performance on arbitrary storage media</a></td>
+<td></td>
+</tr>
+<tr>
+<td>276</td>
+<td><a href="https://www.youtube.com/watch?v=dqGvHj4AkbY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Carbon Nanotube Imperfection-Immune Digital VLSI">Carbon Nanotube Imperfection-Immune Digital VLSI</a></td>
+<td></td>
+</tr>
+<tr>
+<td>277</td>
+<td><a href="https://www.youtube.com/watch?v=vz03dB6iMSo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="The Power of Abstraction">The Power of Abstraction</a></td>
+<td></td>
+</tr>
+<tr>
+<td>278</td>
+<td><a href="https://www.youtube.com/watch?v=wBcqV69waM4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="The Future of Software Patents">The Future of Software Patents</a></td>
+<td></td>
+</tr>
+<tr>
+<td>279</td>
+<td><a href="https://www.youtube.com/watch?v=OdFJfJYfvW4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Parallel Computing: Its Opportunities and Challenges">Parallel Computing: Its Opportunities and Challenges</a></td>
+<td></td>
+</tr>
+<tr>
+<td>280</td>
+<td><a href="https://www.youtube.com/watch?v=WBkVsxQJCqQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Biologically Inspired Machine Learning">Biologically Inspired Machine Learning</a></td>
+<td></td>
+</tr>
+<tr>
+<td>281</td>
+<td><a href="https://www.youtube.com/watch?v=p5S1K60mhQU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="HipHop Compiler for PHP? Transforming PHP into C++">HipHop Compiler for PHP? Transforming PHP into C++</a></td>
+<td></td>
+</tr>
+<tr>
+<td>282</td>
+<td><a href="https://www.youtube.com/watch?v=7VcArS4Wpqk&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Another Go at Language Design">Another Go at Language Design</a></td>
+<td></td>
+</tr>
+<tr>
+<td>283</td>
+<td><a href="https://www.youtube.com/watch?v=-Bi-tPO0OPs&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="BigDog, the Rough-Terrain Robot">BigDog, the Rough-Terrain Robot</a></td>
+<td></td>
+</tr>
+<tr>
+<td>284</td>
+<td><a href="https://www.youtube.com/watch?v=aQza0-tox48&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Smart Endpoints vs. Smart Networks">Smart Endpoints vs. Smart Networks</a></td>
+<td></td>
+</tr>
+<tr>
+<td>285</td>
+<td><a href="https://www.youtube.com/watch?v=jqjTBEfh4gM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Enabling Paper-Like Displays: Roll-to-Roll Manufacturing">Enabling Paper-Like Displays: Roll-to-Roll Manufacturing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>286</td>
+<td><a href="https://www.youtube.com/watch?v=y2y96WR2_IA&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Snowmelt Runoff, Fourth Paradigm, &amp; the End of Stationarity">Snowmelt Runoff, Fourth Paradigm, &amp; the End of Stationarity</a></td>
+<td></td>
+</tr>
+<tr>
+<td>287</td>
+<td><a href="https://www.youtube.com/watch?v=-paFEBAjHPo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="The $99 Laptop Revolution">The $99 Laptop Revolution</a></td>
+<td></td>
+</tr>
+<tr>
+<td>288</td>
+<td><a href="https://www.youtube.com/watch?v=RwLEHmdAp-E&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Perspectives on Venture Capital Industry">Perspectives on Venture Capital Industry</a></td>
+<td></td>
+</tr>
+<tr>
+<td>289</td>
+<td><a href="https://www.youtube.com/watch?v=Ih9gpJga4Vc&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Elements of Programming">Elements of Programming</a></td>
+<td></td>
+</tr>
+<tr>
+<td>290</td>
+<td><a href="https://www.youtube.com/watch?v=6yn9HqtBW_U&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Loopage">Loopage</a></td>
+<td></td>
+</tr>
+<tr>
+<td>291</td>
+<td><a href="https://www.youtube.com/watch?v=GVykCJZFp1U&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Interactive Evolution of Camouflage">Interactive Evolution of Camouflage</a></td>
+<td></td>
+</tr>
+<tr>
+<td>292</td>
+<td><a href="https://www.youtube.com/watch?v=modXC5IWTJI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Building Software Systems At Google and Lessons Learned">Building Software Systems At Google and Lessons Learned</a></td>
+<td></td>
+</tr>
+<tr>
+<td>293</td>
+<td><a href="https://www.youtube.com/watch?v=3ka4KY7TMTU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Self and Self: Whys and Wherefores">Self and Self: Whys and Wherefores</a></td>
+<td></td>
+</tr>
+<tr>
+<td>294</td>
+<td><a href="https://www.youtube.com/watch?v=07sYlLWIgQo&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Construction of De Novo Biological Process Control Circuits">Construction of De Novo Biological Process Control Circuits</a></td>
+<td></td>
+</tr>
+<tr>
+<td>295</td>
+<td><a href="https://www.youtube.com/watch?v=wRvcCTJ5jcU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="DRAM Errors in the Wild: A Large-Scale Field Study">DRAM Errors in the Wild: A Large-Scale Field Study</a></td>
+<td></td>
+</tr>
+<tr>
+<td>296</td>
+<td><a href="https://www.youtube.com/watch?v=Cq4G2ciXjZI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Wave Glider: An Autonomous Wave-Powered Sensor Platform">Wave Glider: An Autonomous Wave-Powered Sensor Platform</a></td>
+<td></td>
+</tr>
+<tr>
+<td>297</td>
+<td><a href="https://www.youtube.com/watch?v=hX-ectOgAso&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Starting a Productivity Revolution in Parallel Computation">Starting a Productivity Revolution in Parallel Computation</a></td>
+<td></td>
+</tr>
+<tr>
+<td>298</td>
+<td><a href="https://www.youtube.com/watch?v=VKkGqNRlUJM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Rethinking Time in Distributed Systems">Rethinking Time in Distributed Systems</a></td>
+<td></td>
+</tr>
+<tr>
+<td>299</td>
+<td><a href="https://www.youtube.com/watch?v=PAtPRXZlvYE&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="PortLand: Scaling Data Center Networks to 100,000 Ports and Beyond">PortLand: Scaling Data Center Networks to 100,000 Ports and Beyond</a></td>
+<td></td>
+</tr>
+<tr>
+<td>300</td>
+<td><a href="https://www.youtube.com/watch?v=xcQCJJImXOg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Pario: the Next Step Beyond Audio and Video">Pario: the Next Step Beyond Audio and Video</a></td>
+<td></td>
+</tr>
+<tr>
+<td>301</td>
+<td><a href="https://www.youtube.com/watch?v=hZU2bwvEQiw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Voting Machines &amp; Audits: It Ain't how your Grandparents Voted">Voting Machines &amp; Audits: It Ain't how your Grandparents Voted</a></td>
+<td></td>
+</tr>
+<tr>
+<td>302</td>
+<td><a href="https://www.youtube.com/watch?v=RGizBNflVKw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Executable Grammars: Seeking the minimal extensible self-compiling compiler">Executable Grammars: Seeking the minimal extensible self-compiling compiler</a></td>
+<td></td>
+</tr>
+<tr>
+<td>303</td>
+<td><a href="https://www.youtube.com/watch?v=eGpwwWXUF84&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Algorithmic Game Theory: Two Vignettes">Algorithmic Game Theory: Two Vignettes</a></td>
+<td></td>
+</tr>
+<tr>
+<td>304</td>
+<td><a href="https://www.youtube.com/watch?v=JFQkY1j4Mqw&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Farewell Information, Welcome Media">Farewell Information, Welcome Media</a></td>
+<td></td>
+</tr>
+<tr>
+<td>305</td>
+<td><a href="https://www.youtube.com/watch?v=LMPGgDdaPv8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Semiconductor Value in the Post-Fabless Era">Semiconductor Value in the Post-Fabless Era</a></td>
+<td></td>
+</tr>
+<tr>
+<td>306</td>
+<td><a href="https://www.youtube.com/watch?v=xIoytwJWJP8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Automated Design Using Darwinian Evolution and Genetic Programming">Automated Design Using Darwinian Evolution and Genetic Programming</a></td>
+<td></td>
+</tr>
+<tr>
+<td>307</td>
+<td><a href="https://www.youtube.com/watch?v=4_brHQRMu9k&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Systems Architecture, Kabuki Capitalism, and the Economic Manhattan Project">Systems Architecture, Kabuki Capitalism, and the Economic Manhattan Project</a></td>
+<td></td>
+</tr>
+<tr>
+<td>308</td>
+<td><a href="https://www.youtube.com/watch?v=pWeEaRrPH8c&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Accelerating computation with FPGAs with a seismic data processing example">Accelerating computation with FPGAs with a seismic data processing example</a></td>
+<td></td>
+</tr>
+<tr>
+<td>309</td>
+<td><a href="https://www.youtube.com/watch?v=b7nuDbywFRM&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="The Gazelle Browser">The Gazelle Browser</a></td>
+<td></td>
+</tr>
+<tr>
+<td>310</td>
+<td><a href="https://www.youtube.com/watch?v=EoH21ToMIps&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Elements of a wireless sensor architecture">Elements of a wireless sensor architecture</a></td>
+<td></td>
+</tr>
+<tr>
+<td>311</td>
+<td><a href="https://www.youtube.com/watch?v=fPfNOX_nPHY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Internet Lessons for Solving Energy">Internet Lessons for Solving Energy</a></td>
+<td></td>
+</tr>
+<tr>
+<td>312</td>
+<td><a href="https://www.youtube.com/watch?v=I8eH8GQvimY&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="The Spiral Cache: A self-organizing memory architecture">The Spiral Cache: A self-organizing memory architecture</a></td>
+<td></td>
+</tr>
+<tr>
+<td>313</td>
+<td><a href="https://www.youtube.com/watch?v=6O26pIJYXG4&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="The Rise and Fall of a Companion Robot: Lessons Learned from Pleo">The Rise and Fall of a Companion Robot: Lessons Learned from Pleo</a></td>
+<td></td>
+</tr>
+<tr>
+<td>314</td>
+<td><a href="https://www.youtube.com/watch?v=EAHvrlKBeJ8&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Can Hi-Tech Hitchhiking Work?">Can Hi-Tech Hitchhiking Work?</a></td>
+<td></td>
+</tr>
+<tr>
+<td>315</td>
+<td><a href="https://www.youtube.com/watch?v=_XcAjgqnd40&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="App stores and software ecosystems">App stores and software ecosystems</a></td>
+<td></td>
+</tr>
+<tr>
+<td>316</td>
+<td><a href="https://www.youtube.com/watch?v=61GKPxEmbu0&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Learning in Humans and Robots">Learning in Humans and Robots</a></td>
+<td></td>
+</tr>
+<tr>
+<td>317</td>
+<td><a href="https://www.youtube.com/watch?v=hPqGKTd9gqQ&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="How to Invent the Future by Playing Online Games: SuperStruct">How to Invent the Future by Playing Online Games: SuperStruct</a></td>
+<td></td>
+</tr>
+<tr>
+<td>318</td>
+<td><a href="https://www.youtube.com/watch?v=YZgMfYCnd2g&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Excubate: A New Model of New Technology Business Development">Excubate: A New Model of New Technology Business Development</a></td>
+<td></td>
+</tr>
+<tr>
+<td>319</td>
+<td><a href="https://www.youtube.com/watch?v=_lDSPPZVVQg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Issues in Mainstream Clusters">Issues in Mainstream Clusters</a></td>
+<td></td>
+</tr>
+<tr>
+<td>320</td>
+<td><a href="https://www.youtube.com/watch?v=XBBcplYo2Ow&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Towards a Global Scale Public Computer">Towards a Global Scale Public Computer</a></td>
+<td></td>
+</tr>
+<tr>
+<td>321</td>
+<td><a href="https://www.youtube.com/watch?v=QaRcUWdwztg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Google App Engine">Google App Engine</a></td>
+<td></td>
+</tr>
+<tr>
+<td>322</td>
+<td><a href="https://www.youtube.com/watch?v=Le8WhRS3TNg&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Scalable Privacy-Friendly Client Cloud Computing">Scalable Privacy-Friendly Client Cloud Computing</a></td>
+<td></td>
+</tr>
+<tr>
+<td>323</td>
+<td><a href="https://www.youtube.com/watch?v=WNlAOi1vroU&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Future Computer Memory">Future Computer Memory</a></td>
+<td></td>
+</tr>
+<tr>
+<td>324</td>
+<td><a href="https://www.youtube.com/watch?v=hfFkS_vHslI&amp;list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" title="Stanford Seminar - Song Han of Stanford University">Song Han of Stanford University</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>(YouTube counts 325 videos; the playlist page lists 324.)</p>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Stanford EE380-Colloquium on Computer Systems - Seminar Series</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu">https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu</a></p>
+<p>Stanford University. (n.d.). <em>Stanford Bulletin 2026-2027</em>. Retrieved November 18, 2026, from <a href="https://bulletin.stanford.edu/">https://bulletin.stanford.edu/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

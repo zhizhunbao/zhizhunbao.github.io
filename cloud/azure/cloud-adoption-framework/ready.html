@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>26.3 Ready | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 26.3 Ready: Platform landing zone, Workload landing zones, Accelerators, Custom build, Design principles, Journey to the target architecture, Design areas, Implementation options, Align, Enhance, Prepare your landing zone for migration.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="263-ready">26.3 Ready</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/ready.png" alt="Ready, in its terms and sections: Platform landing zone, Workload landing zones, Accelerators, Custom build, Design principles, Journey to the target architecture, Design areas (expanded into Azure billing and Active Directory tenant, Identity and access management, Resource organization, Network topology and connectivity, Security, Management, Governance, Platform automation and DevOps), Implementation options (expanded into Azure Landing Zones IaC Accelerator, Azure platform landing zone portal accelerator), Align, Enhance, Prepare your landing zone for migration."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Ready</strong><br>就绪</td>
+<td>&quot;The <strong>Ready phase</strong> of the Cloud Adoption Framework helps you <strong>design your Azure landing zone</strong> to meet your organization's requirements. An <strong>Azure landing zone</strong> is a <strong>proven and flexible architecture</strong> for governing, securing, and scaling a multi-subscription Azure environment.&quot;</td>
+<td>Cloud Adoption Framework 的<strong>就绪阶段</strong>帮助你<strong>设计 Azure 登陆区</strong>，以满足组织的要求。<strong>Azure 登陆区</strong>是一种<strong>经过验证且灵活的体系结构</strong>，用于治理、保护和扩展多订阅的 Azure 环境。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:%7E:text=The%20Ready%20phase%20of%20the%20Cloud%20Adoption%20Framework">Microsoft, 2026d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Platform landing zone</strong><br>平台登陆区</td>
+<td>&quot;The <strong>centralized foundation</strong> that establishes <strong>governance, security, and shared resources</strong> for all your Azure workloads.&quot;</td>
+<td><strong>集中式基础</strong>，用于为你的所有 Azure 工作负载建立<strong>治理、安全和共享资源</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:%7E:text=The%20centralized%20foundation%20that%20establishes%20governance">Microsoft, 2026d, para. 1, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Workload landing zones</strong><br>工作负载登陆区<br>(retired 2026: Application landing zones; <a href="https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/5c260b3/docs/ready/landing-zone/index.md">Microsoft, 2025e</a>)</td>
+<td>&quot;The <strong>environments where workload teams deploy and operate workload resources</strong> within <strong>the guardrails of the platform landing zone</strong>.&quot;</td>
+<td><strong>工作负载团队部署和运行工作负载资源的环境</strong>，位于<strong>平台登陆区的防护措施</strong>之内。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:%7E:text=The%20environments%20where%20workload%20teams%20deploy">Microsoft, 2026d, para. 1, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Accelerators</strong><br>加速器</td>
+<td>&quot;<strong>Microsoft-provided accelerators</strong> for both platform landing zone and workload landing zone scenarios <strong>use infrastructure as code to deploy Azure environments</strong> based on recommended practices.&quot;</td>
+<td><strong>Microsoft 提供的加速器</strong>适用于平台登陆区和工作负载登陆区两种场景，基于推荐做法，<strong>使用基础结构即代码部署 Azure 环境</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:%7E:text=Microsoft%2Dprovided%20accelerators%20for%20both">Microsoft, 2026d, para. 2, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Custom build</strong><br>自定义构建</td>
+<td>&quot;You <strong>design and build the solution internally</strong> or <strong>with support from Microsoft or Microsoft partners</strong>.&quot;</td>
+<td>你<strong>在内部设计和构建解决方案</strong>，或<strong>在 Microsoft 或 Microsoft 合作伙伴的支持下</strong>完成。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/#:%7E:text=You%20design%20and%20build%20the%20solution%20internally">Microsoft, 2026d, para. 2, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Design principles</strong><br>设计原则</td>
+<td>&quot;At the foundation of the architecture, a set of <strong>core design principles</strong> serve as a <strong>compass for subsequent design decisions</strong> across critical technical domains.&quot;</td>
+<td>在该体系结构的基础上，一组<strong>核心设计原则</strong>充当<strong>后续设计决策的指南针</strong>，覆盖各个关键技术领域。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-principles#:%7E:text=a%20set%20of%20core%20design%20principles%20serve%20as%20a%20compass">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Journey to the target architecture</strong><br>迈向目标体系结构的历程</td>
+<td>(context) &quot;<strong>Adopting cloud technologies is a journey.</strong> Business priorities and the need to bring new technologies online to unlock capabilities or features influence <strong>the speed at which an organization deploys and scales out a cloud environment</strong>.&quot;</td>
+<td>（语境）<strong>采用云技术是一段历程</strong>。业务优先级，以及为解锁能力或功能而上线新技术的需要，会影响<strong>组织部署和横向扩展云环境的速度</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/landing-zone-journey#:%7E:text=Adopting%20cloud%20technologies%20is%20a%20journey">Microsoft, 2025b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Design areas</strong><br>设计领域</td>
+<td>(context) &quot;Whatever the deployment option, you should carefully consider each <strong>design area</strong>. Your decisions affect the <strong>platform foundation on which each landing zone depends</strong>.&quot;</td>
+<td>（语境）无论采用哪种部署选项，都应仔细考虑每个<strong>设计领域</strong>。你的决策会影响<strong>每个登陆区所依赖的平台基础</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=Whatever%20the%20deployment%20option%2C%20you%20should%20carefully%20consider%20each%20design%20area">Microsoft, 2026a, &quot;Environment design areas&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure billing and Active Directory tenant</strong><br>Azure 计费和 Active Directory 租户</td>
+<td>(context) &quot;<strong>Proper tenant creation, enrollment, and billing setup</strong> are <strong>important early steps</strong>.&quot;</td>
+<td>（语境）<strong>正确的租户创建、注册和计费设置</strong>是<strong>重要的早期步骤</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=Proper%20tenant%20creation%2C%20enrollment%2C%20and%20billing%20setup">Microsoft, 2026a, &quot;Environment design areas&quot; section, table, row 1</a></td>
+</tr>
+<tr>
+<td><strong>Identity and access management</strong><br>身份和访问管理</td>
+<td>&quot;Identity and access management is <strong>a primary security boundary in the public cloud</strong>. It's <strong>the foundation for any secure and fully compliant architecture</strong>.&quot;</td>
+<td>身份和访问管理是<strong>公有云中的主要安全边界</strong>。它是<strong>任何安全且完全合规的体系结构的基础</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=Identity%20and%20access%20management%20is%20a%20primary%20security%20boundary">Microsoft, 2026a, &quot;Environment design areas&quot; section, table, row 2</a></td>
+</tr>
+<tr>
+<td><strong>Resource organization</strong><br>资源组织</td>
+<td>(context) &quot;As cloud adoption scales, considerations for <strong>subscription design and management group hierarchy</strong> have an impact on <strong>governance, operations management, and adoption patterns</strong>.&quot;</td>
+<td>（语境）随着云采用规模的扩大，<strong>订阅设计和管理组层次结构</strong>方面的考虑会影响<strong>治理、运营管理和采用模式</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=considerations%20for%20subscription%20design%20and%20management%20group%20hierarchy">Microsoft, 2026a, &quot;Environment design areas&quot; section, table, row 3</a></td>
+</tr>
+<tr>
+<td><strong>Network topology and connectivity</strong><br>网络拓扑和连接</td>
+<td>(context) &quot;<strong>Networking and connectivity decisions</strong> are an equally important <strong>foundational aspect of any cloud architecture</strong>.&quot;</td>
+<td>（语境）<strong>网络和连接决策</strong>同样是<strong>任何云体系结构的重要基础方面</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=Networking%20and%20connectivity%20decisions%20are%20an%20equally">Microsoft, 2026a, &quot;Environment design areas&quot; section, table, row 4</a></td>
+</tr>
+<tr>
+<td><strong>Security</strong><br>安全</td>
+<td>(context) &quot;<strong>Implement controls and processes</strong> to <strong>protect your cloud environments</strong>.&quot;</td>
+<td>（语境）<strong>实施控制措施和流程</strong>，以<strong>保护你的云环境</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=Implement%20controls%20and%20processes%20to%20protect">Microsoft, 2026a, &quot;Compliance design areas&quot; section, table, row 1</a></td>
+</tr>
+<tr>
+<td><strong>Management</strong><br>管理</td>
+<td>(context) &quot;For stable, ongoing operations in the cloud, <strong>a management baseline is required</strong> to provide <strong>visibility, operations compliance, and protect and recover capabilities</strong>.&quot;</td>
+<td>（语境）为了在云中稳定、持续地运营，<strong>需要一个管理基线</strong>，以提供<strong>可见性、运营合规性以及保护和恢复能力</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=a%20management%20baseline%20is%20required%20to%20provide">Microsoft, 2026a, &quot;Compliance design areas&quot; section, table, row 2</a></td>
+</tr>
+<tr>
+<td><strong>Governance</strong><br>治理</td>
+<td>(context) &quot;<strong>Automate auditing and enforcement</strong> of <strong>governance policies</strong>.&quot;</td>
+<td>（语境）<strong>自动审核和强制执行</strong>各项<strong>治理策略</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=Automate%20auditing%20and%20enforcement%20of%20governance">Microsoft, 2026a, &quot;Compliance design areas&quot; section, table, row 3</a></td>
+</tr>
+<tr>
+<td><strong>Platform automation and DevOps</strong><br>平台自动化和 DevOps</td>
+<td>(context) &quot;Align <strong>the best tools and templates</strong> to <strong>deploy your landing zones and supporting resources</strong>.&quot;</td>
+<td>（语境）协调<strong>最合适的工具和模板</strong>，以<strong>部署你的登陆区和支持资源</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas#:%7E:text=Align%20the%20best%20tools%20and%20templates">Microsoft, 2026a, &quot;Compliance design areas&quot; section, table, row 4</a></td>
+</tr>
+<tr>
+<td><strong>Implementation options</strong><br>实现选项</td>
+<td>(context) &quot;This article describes <strong>options to deploy and manage the platform landing zone</strong>, which is part of Azure landing zone.&quot;</td>
+<td>（语境）本文介绍<strong>部署和管理平台登陆区的选项</strong>，平台登陆区是 Azure 登陆区的一部分。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#:%7E:text=options%20to%20deploy%20and%20manage%20the%20platform%20landing%20zone">Microsoft, 2026c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Landing Zones IaC Accelerator</strong><br>Infrastructure-as-Code<br>Azure 登陆区 IaC 加速器</td>
+<td>&quot;The Azure Landing Zones IaC Accelerator provides <strong>an automated approach</strong> to <strong>deploy and manage the platform landing zone</strong>.&quot;</td>
+<td>Azure Landing Zones IaC Accelerator 提供一种<strong>自动化方法</strong>，用来<strong>部署和管理平台登陆区</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#:%7E:text=provides%20an%20automated%20approach%20to%20deploy%20and%20manage%20the%20platform">Microsoft, 2026c, &quot;Azure landing zone Infrastructure-as-Code (IaC) accelerator&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure platform landing zone portal accelerator</strong><br>Azure 平台登陆区门户加速器</td>
+<td>&quot;The Azure platform landing zone portal accelerator provides <strong>a graphical interface</strong> to <strong>deploy the reference architecture</strong>.&quot;</td>
+<td>Azure 平台登陆区门户加速器提供<strong>图形界面</strong>，用来<strong>部署参考体系结构</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options#:%7E:text=provides%20a%20graphical%20interface%20to%20deploy">Microsoft, 2026c, &quot;Azure platform landing zone portal accelerator&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Align</strong><br>对齐</td>
+<td>(context) &quot;This article provides recommendations to help your organization <strong>navigate changes based on your existing Azure environment</strong> that's <strong>transitioning into the Azure landing zone reference architecture</strong>.&quot;</td>
+<td>（语境）本文提供建议，帮助你的组织<strong>根据现有 Azure 环境应对变化</strong>，这个环境正在<strong>过渡到 Azure 登陆区参考体系结构</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/transition#:%7E:text=navigate%20changes%20based%20on%20your%20existing%20Azure%20environment">Microsoft, 2025d, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Enhance</strong><br>增强</td>
+<td>(context) &quot;This series of articles assumes that you <strong>deployed your first landing zone</strong> and want to <strong>expand that landing zone to meet enterprise requirements</strong>.&quot;</td>
+<td>（语境）本系列文章假设你<strong>已经部署了第一个登陆区</strong>，并希望<strong>扩展该登陆区以满足企业要求</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/#:%7E:text=This%20series%20of%20articles%20assumes%20that%20you%20deployed%20your%20first%20landing%20zone">Microsoft, 2025a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Prepare your landing zone for migration</strong><br>为迁移准备登陆区</td>
+<td>(context) &quot;This article describes how to <strong>get your Azure landing zone ready for a migration</strong>.&quot;</td>
+<td>（语境）本文介绍如何<strong>让你的 Azure 登陆区为迁移做好准备</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ready-azure-landing-zone#:%7E:text=This%20article%20describes%20how%20to%20get%20your">Microsoft, 2025c, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2025a, October 29). <em>Expand your landing zone</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/</a></li>
+<li>Microsoft. (2025b, December 19). <em>Journey toward the target architecture</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/landing-zone-journey">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/landing-zone-journey</a></li>
+<li>Microsoft. (2025c, October 29). <em>Prepare your landing zone for migration</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ready-azure-landing-zone">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ready-azure-landing-zone</a></li>
+<li>Microsoft. (2025d, December 19). <em>Transition an existing Azure environment to the Azure landing zone reference architecture</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/transition">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/transition</a></li>
+<li>Microsoft. (2025e, July 24). <em>What is an Azure landing zone?</em> [Retired Cloud Adoption Framework page version; source file at commit 5c260b3, before the September 2026 rename of application landing zones to workload landing zones]. GitHub, MicrosoftDocs/cloud-adoption-framework. <a href="https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/5c260b3/docs/ready/landing-zone/index.md">https://github.com/MicrosoftDocs/cloud-adoption-framework/blob/5c260b3/docs/ready/landing-zone/index.md</a></li>
+<li>Microsoft. (2026a, October 13). <em>Azure landing zone design areas and conceptual architecture</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas</a></li>
+<li>Microsoft. (2026b, October 1). <em>Azure landing zone design principles</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-principles">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-principles</a></li>
+<li>Microsoft. (2026c, October 1). <em>Platform landing zone implementation options</em>. Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options</a></li>
+<li>Microsoft. (2026d, September 30). <em>What is an Azure landing zone?</em> Cloud Adoption Framework. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/">https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-19 23:39:25-05:00">11/19/2026 23:39:25</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>
