@@ -1974,3 +1974,235 @@ items:
       href: cs50/other-playlists/cs50-seminars-2012.md
     - name: "4.2.195 CS50 Sections 2012"
       href: cs50/other-playlists/cs50-sections-2012.md
+- name: "5. YaleCourses"
+  href: yalecourses/index.md
+  items:
+  - name: "5.1 African American Studies (AFAM)"
+    href: yalecourses/african-american-studies-afam/index.md
+    items:
+    - name: "5.1.1 American History: From Emancipation to the Present"
+      href: yalecourses/african-american-studies-afam/american-history-from-emancipation-to-the-present.md
+  - name: "5.2 American Studies (AMST)"
+    href: yalecourses/american-studies-amst/index.md
+    items:
+    - name: "5.2.1 Hemingway, Fitzgerald, Faulkner with Wai Chee Dimock"
+      href: yalecourses/american-studies-amst/hemingway-fitzgerald-faulkner-with-wai-chee-dimock.md
+  - name: "5.3 Astronomy (ASTR)"
+    href: yalecourses/astronomy-astr/index.md
+    items:
+    - name: "5.3.1 Frontiers/Controversies in Astrophysics with Charles Bailyn"
+      href: yalecourses/astronomy-astr/frontiers-controversies-in-astrophysics-with-charles-bailyn.md
+  - name: "5.4 Biomedical Engineering (BENG)"
+    href: yalecourses/biomedical-engineering-beng/index.md
+    items:
+    - name: "5.4.1 Frontiers of Biomedical Engineering with W. Mark Saltzman"
+      href: yalecourses/biomedical-engineering-beng/frontiers-of-biomedical-engineering-with-w-mark-saltzman.md
+  - name: "5.5 Chemistry (CHEM)"
+    href: yalecourses/chemistry-chem/index.md
+    items:
+    - name: "5.5.1 Freshman Organic Chemistry with J. Michael McBride"
+      href: yalecourses/chemistry-chem/freshman-organic-chemistry-with-j-michael-mcbride.md
+    - name: "5.5.2 Freshman Organic Chemistry II with Michael McBride"
+      href: yalecourses/chemistry-chem/freshman-organic-chemistry-ii-with-michael-mcbride.md
+  - name: "5.6 Classics (CLCV)"
+    href: yalecourses/classics-clcv/index.md
+    items:
+    - name: "5.6.1 Introduction to Ancient Greek History with Donald Kagan"
+      href: yalecourses/classics-clcv/introduction-to-ancient-greek-history-with-donald-kagan.md
+  - name: "5.7 Economics (ECON)"
+    href: yalecourses/economics-econ/index.md
+    items:
+    - name: "5.7.1 Game Theory with Ben Polak"
+      href: yalecourses/economics-econ/game-theory-with-ben-polak.md
+    - name: "5.7.2 Financial Theory with John Geanakoplos"
+      href: yalecourses/economics-econ/financial-theory-with-john-geanakoplos.md
+    - name: "5.7.3 Financial Markets (2011) with Robert Shiller"
+      href: yalecourses/economics-econ/financial-markets-2011-with-robert-shiller.md
+    - name: "5.7.4 Financial Markets (2008) with Robert Shiller"
+      href: yalecourses/economics-econ/financial-markets-2008-with-robert-shiller.md
+  - name: "5.8 Ecology and Evolutionary Biology (EEB)"
+    href: yalecourses/ecology-and-evolutionary-biology-eeb/index.md
+    items:
+    - name: "5.8.1 Evolution, Ecology and Behavior with Stephen C. Stearns"
+      href: yalecourses/ecology-and-evolutionary-biology-eeb/evolution-ecology-and-behavior-with-stephen-c-stearns.md
+  - name: "5.9 English (ENGL)"
+    href: yalecourses/english-engl/index.md
+    items:
+    - name: "5.9.1 Milton with John Rogers"
+      href: yalecourses/english-engl/milton-with-john-rogers.md
+    - name: "5.9.2 The American Novel Since 1945 with Amy Hungerford"
+      href: yalecourses/english-engl/the-american-novel-since-1945-with-amy-hungerford.md
+    - name: "5.9.3 Introduction to Theory of Literature with Paul H. Fry"
+      href: yalecourses/english-engl/introduction-to-theory-of-literature-with-paul-h-fry.md
+    - name: "5.9.4 Modern Poetry with Langdon Hammer  (ENGL 310)"
+      href: yalecourses/english-engl/modern-poetry-with-langdon-hammer-engl-310.md
+  - name: "5.10 Environmental Studies (EVST)"
+    href: yalecourses/environmental-studies-evst/index.md
+    items:
+    - name: "5.10.1 Environmental Politics and Law with John Wargo"
+      href: yalecourses/environmental-studies-evst/environmental-politics-and-law-with-john-wargo.md
+  - name: "5.11 Geology and Geophysics (GG)"
+    href: yalecourses/geology-and-geophysics-gg/index.md
+    items:
+    - name: "5.11.1 Atmosphere, Ocean and Environmental Change with Ron Smith"
+      href: yalecourses/geology-and-geophysics-gg/atmosphere-ocean-and-environmental-change-with-ron-smith.md
+  - name: "5.12 History (HIST)"
+    href: yalecourses/history-hist/index.md
+    items:
+    - name: "5.12.1 The American Revolution with Joanne B. Freeman"
+      href: yalecourses/history-hist/the-american-revolution-with-joanne-b-freeman.md
+    - name: "5.12.2 The Civil War and Reconstruction with David Blight"
+      href: yalecourses/history-hist/the-civil-war-and-reconstruction-with-david-blight.md
+    - name: "5.12.3 European Civiliization (1648-1945) with John Merriman"
+      href: yalecourses/history-hist/european-civiliization-1648-1945-with-john-merriman.md
+    - name: "5.12.4 The Early Middle Ages, 284--1000 with Paul Freedman"
+      href: yalecourses/history-hist/the-early-middle-ages-284-1000-with-paul-freedman.md
+    - name: "5.12.5 Epidemics in Western Society Since 1600 with Frank Snowden"
+      href: yalecourses/history-hist/epidemics-in-western-society-since-1600-with-frank-snowden.md
+    - name: "5.12.6 Early Modern England with Keith E. Wrightson"
+      href: yalecourses/history-hist/early-modern-england-with-keith-e-wrightson.md
+    - name: "5.12.7 France Since 1871 with John Merriman"
+      href: yalecourses/history-hist/france-since-1871-with-john-merriman.md
+  - name: "5.13 History of Art (HSAR)"
+    href: yalecourses/history-of-art-hsar/index.md
+    items:
+    - name: "5.13.1 Roman Architecture with Diana E. E. Kleiner"
+      href: yalecourses/history-of-art-hsar/roman-architecture-with-diana-e-e-kleiner.md
+  - name: "5.14 Italian Language and Literature (ITAL)"
+    href: yalecourses/italian-language-and-literature-ital/index.md
+    items:
+    - name: "5.14.1 Dante in Translation with Giuseppe Mazzotta"
+      href: yalecourses/italian-language-and-literature-ital/dante-in-translation-with-giuseppe-mazzotta.md
+  - name: "5.15 Molecular, Cellular and Developmental Biology (MCDB)"
+    href: yalecourses/molecular-cellular-and-developmental-biology-mcdb/index.md
+    items:
+    - name: "5.15.1 Global Problems of Population Growth with Robert Wyman"
+      href: yalecourses/molecular-cellular-and-developmental-biology-mcdb/global-problems-of-population-growth-with-robert-wyman.md
+  - name: "5.16 Philosophy (PHIL)"
+    href: yalecourses/philosophy-phil/index.md
+    items:
+    - name: "5.16.1 Death with Shelly Kagan"
+      href: yalecourses/philosophy-phil/death-with-shelly-kagan.md
+    - name: "5.16.2 Philosophy and the Science of Human Nature w/ Tamar Gendler"
+      href: yalecourses/philosophy-phil/philosophy-and-the-science-of-human-nature-w-tamar-gendler.md
+  - name: "5.17 Physics (PHYS)"
+    href: yalecourses/physics-phys/index.md
+    items:
+    - name: "5.17.1 Fundamentals of Physics with Ramamurti Shankar"
+      href: yalecourses/physics-phys/fundamentals-of-physics-with-ramamurti-shankar.md
+    - name: "5.17.2 Fundamentals of Physics II with Ramamurti Shankar"
+      href: yalecourses/physics-phys/fundamentals-of-physics-ii-with-ramamurti-shankar.md
+  - name: "5.18 Political Science (PLSC)"
+    href: yalecourses/political-science-plsc/index.md
+    items:
+    - name: "5.18.1 Introduction to Political Philosophy with Steven B. Smith"
+      href: yalecourses/political-science-plsc/introduction-to-political-philosophy-with-steven-b-smith.md
+    - name: "5.18.2 Capitalism: Success, Crisis and Reform with Douglas W. Rae"
+      href: yalecourses/political-science-plsc/capitalism-success-crisis-and-reform-with-douglas-w-rae.md
+  - name: "5.19 Psychology (PSYC)"
+    href: yalecourses/psychology-psyc/index.md
+    items:
+    - name: "5.19.1 Introduction to Psychology with Paul Bloom"
+      href: yalecourses/psychology-psyc/introduction-to-psychology-with-paul-bloom.md
+    - name: "5.19.2 The Psychology, Biology and Politics of Food"
+      href: yalecourses/psychology-psyc/the-psychology-biology-and-politics-of-food.md
+  - name: "5.20 Religious Studies (RLST)"
+    href: yalecourses/religious-studies-rlst/index.md
+    items:
+    - name: "5.20.1 Introduction to the Old Testament With Christine Hayes"
+      href: yalecourses/religious-studies-rlst/introduction-to-the-old-testament-with-christine-hayes.md
+    - name: "5.20.2 New Testament History and Literature with Dale B. Martin"
+      href: yalecourses/religious-studies-rlst/new-testament-history-and-literature-with-dale-b-martin.md
+  - name: "5.21 Sociology (SOCY)"
+    href: yalecourses/sociology-socy/index.md
+    items:
+    - name: "5.21.1 Foundations of Modern Social Theory with Iván Szelényi"
+      href: yalecourses/sociology-socy/foundations-of-modern-social-theory-with-ivan-szelenyi.md
+  - name: "5.22 Spanish and Portuguese (SPAN)"
+    href: yalecourses/spanish-and-portuguese-span/index.md
+    items:
+    - name: "5.22.1 Cervantes' Don Quixote with Roberto González Echevarría"
+      href: yalecourses/spanish-and-portuguese-span/cervantes-don-quixote-with-roberto-gonzalez-echevarria.md
+  - name: "5.23 Other Playlists"
+    href: yalecourses/other-playlists/index.md
+    items:
+    - name: "5.23.1 Purposes of College Education"
+      href: yalecourses/other-playlists/purposes-of-college-education.md
+    - name: "5.23.2 The Secrets to College Success"
+      href: yalecourses/other-playlists/the-secrets-to-college-success.md
+    - name: "5.23.3 America's Written Constitution with Akhil Reed Amar"
+      href: yalecourses/other-playlists/america-s-written-constitution-with-akhil-reed-amar.md
+    - name: "5.23.4 America's Unwritten Constitution with Akhil Reed Amar"
+      href: yalecourses/other-playlists/america-s-unwritten-constitution-with-akhil-reed-amar.md
+    - name: "5.23.5 The Age of Cathedrals with R. Howard Bloch"
+      href: yalecourses/other-playlists/the-age-of-cathedrals-with-r-howard-bloch.md
+    - name: "5.23.6 Connected Leadership with Peter Boyd"
+      href: yalecourses/other-playlists/connected-leadership-with-peter-boyd.md
+    - name: "5.23.7 Music and Social Action"
+      href: yalecourses/other-playlists/music-and-social-action.md
+    - name: "5.23.8 Marx’s Capital Volume 1, With Paul North"
+      href: yalecourses/other-playlists/marxs-capital-volume-1-with-paul-north.md
+    - name: "5.23.9 Learner Stories from Yale Online Courses and Programs"
+      href: yalecourses/other-playlists/learner-stories-from-yale-online-courses-and-programs.md
+    - name: "5.23.10 Low-Cost, High-Nutrition Eating for Graduate & Professional Students"
+      href: yalecourses/other-playlists/low-cost-high-nutrition-eating-for-graduate-professional-students.md
+    - name: "5.23.11 The Hunt | Job-Searching and Career-Building with Purpose"
+      href: yalecourses/other-playlists/the-hunt-job-searching-and-career-building-with-purpose.md
+    - name: "5.23.12 America at 250: A History"
+      href: yalecourses/other-playlists/america-at-250-a-history.md
+    - name: "5.23.13 Yale Quantum Institute Course on Quantum Error Correction"
+      href: yalecourses/other-playlists/yale-quantum-institute-course-on-quantum-error-correction.md
+    - name: "5.23.14 Rocket Science for Everyone"
+      href: yalecourses/other-playlists/rocket-science-for-everyone.md
+    - name: "5.23.15 Creating Change through Social Entrepreneurship"
+      href: yalecourses/other-playlists/creating-change-through-social-entrepreneurship.md
+    - name: "5.23.16 Everyday Parenting: The ABCs of Child Rearing"
+      href: yalecourses/other-playlists/everyday-parenting-the-abcs-of-child-rearing.md
+    - name: "5.23.17 Introduction to Medical Software"
+      href: yalecourses/other-playlists/introduction-to-medical-software.md
+    - name: "5.23.18 Addiction Treatment: Clinical Skills for Heathcare Providers"
+      href: yalecourses/other-playlists/addiction-treatment-clinical-skills-for-heathcare-providers.md
+    - name: "5.23.19 Can It Happen Here Again? Yale, Slavery, and Legacies: 2024 DeVane Lecture Series"
+      href: yalecourses/other-playlists/can-it-happen-here-again-yale-slavery-and-legacies-2024-devane-lecture-series.md
+    - name: "5.23.20 Overcoming Dyslexia"
+      href: yalecourses/other-playlists/overcoming-dyslexia.md
+    - name: "5.23.21 European Intellectual History since Nietzsche"
+      href: yalecourses/other-playlists/european-intellectual-history-since-nietzsche.md
+    - name: "5.23.22 Essentials of Global Health"
+      href: yalecourses/other-playlists/essentials-of-global-health.md
+    - name: "5.23.23 The Nature of Genius"
+      href: yalecourses/other-playlists/the-nature-of-genius.md
+    - name: "5.23.24 Timothy Snyder: The Making of Modern Ukraine"
+      href: yalecourses/other-playlists/timothy-snyder-the-making-of-modern-ukraine.md
+    - name: "5.23.25 Understanding Medical Research: Your Facebook Friend is Wrong"
+      href: yalecourses/other-playlists/understanding-medical-research-your-facebook-friend-is-wrong.md
+    - name: "5.23.26 Power and Politics in Today's World Office Hours"
+      href: yalecourses/other-playlists/power-and-politics-in-today-s-world-office-hours.md
+    - name: "5.23.27 Power and Politics in Today’s World"
+      href: yalecourses/other-playlists/power-and-politics-in-todays-world.md
+    - name: "5.23.28 Hemodialysis Access 101"
+      href: yalecourses/other-playlists/hemodialysis-access-101.md
+    - name: "5.23.29 Hemodialysis Kinetics 101"
+      href: yalecourses/other-playlists/hemodialysis-kinetics-101.md
+    - name: "5.23.30 American Contract Law"
+      href: yalecourses/other-playlists/american-contract-law.md
+    - name: "5.23.31 Coursera"
+      href: yalecourses/other-playlists/coursera.md
+    - name: "5.23.32 Canvas LMS at Yale"
+      href: yalecourses/other-playlists/canvas-lms-at-yale.md
+    - name: "5.23.33 A Law Student's Toolkit"
+      href: yalecourses/other-playlists/a-law-student-s-toolkit.md
+    - name: "5.23.34 Evolution and Medicine (2015) with Stephen Stearns"
+      href: yalecourses/other-playlists/evolution-and-medicine-2015-with-stephen-stearns.md
+    - name: "5.23.35 Introduction to Green Chemistry, Paul Anastas"
+      href: yalecourses/other-playlists/introduction-to-green-chemistry-paul-anastas.md
+    - name: "5.23.36 Capital Punishment: Race, Poverty, & Disadvantage with Stephen Bright"
+      href: yalecourses/other-playlists/capital-punishment-race-poverty-disadvantage-with-stephen-bright.md
+    - name: "5.23.37 Let This Be a Lesson"
+      href: yalecourses/other-playlists/let-this-be-a-lesson.md
+    - name: "5.23.38 Experts in Emotion Series with June Gruber"
+      href: yalecourses/other-playlists/experts-in-emotion-series-with-june-gruber.md
+    - name: "5.23.39 Listening to Music with Craig Wright"
+      href: yalecourses/other-playlists/listening-to-music-with-craig-wright.md
+    - name: "5.23.40 The Moral Foundations of Politics with Ian Shapiro"
+      href: yalecourses/other-playlists/the-moral-foundations-of-politics-with-ian-shapiro.md

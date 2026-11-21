@@ -15,6 +15,7 @@ ms.date: 2026-11-20
 | **[MIT OpenCourseWare](mit-opencourseware/index.md)**<br>麻省理工学院开放课程 | (Definition pending) | （定义待补） | [MIT OpenCourseWare, n.d.](https://www.youtube.com/@mitocw/playlists) |
 | **[Harvard University](harvard-university/index.md)**<br>哈佛大学 | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://www.youtube.com/@harvard/playlists) |
 | **[CS50](cs50/index.md)**<br>哈佛 CS50 | (Definition pending) | （定义待补） | [CS50, n.d.](https://www.youtube.com/@cs50/playlists) |
+| **[YaleCourses](yalecourses/index.md)**<br>耶鲁大学课程 | (Definition pending) | （定义待补） | [YaleCourses, n.d.](https://www.youtube.com/@YaleCourses/playlists) |
 
 ## References
 
@@ -25,4 +26,6 @@ Harvard University. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20
 MIT OpenCourseWare. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@mitocw/playlists>
 
 Stanford Online. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@stanfordonline/playlists>
+
+YaleCourses. (n.d.). *Playlists* [YouTube channel]. Retrieved November 21, 2026, from <https://www.youtube.com/@YaleCourses/playlists>
 
