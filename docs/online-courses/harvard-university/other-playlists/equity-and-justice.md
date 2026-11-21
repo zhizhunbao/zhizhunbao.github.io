@@ -1,0 +1,115 @@
+---
+title: "3.4.18 Equity and Justice"
+description: "Online Courses > Harvard University > Other Playlists > Equity and Justice: the videos of the playlist in its order; definitions pending."
+ms.date: 2026-11-20
+---
+
+# 3.4.18 Equity and Justice
+
+## Glossary
+
+| Term | Definition | 中文翻译 | Source |
+|---|---|---|---|
+| **Equity and Justice**<br>（中文名待补） | (Definition pending) | （定义待补） | [Harvard University, n.d.](https://www.youtube.com/playlist?list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz) |
+
+## Videos
+
+| # | Video | Length |
+|---|---|---|
+| 1 | [How is the EPA addressing health equity?](https://www.youtube.com/watch?v=Zg72B4xHwDY&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "How is the EPA addressing health equity?") | 1:21 |
+| 2 | [What is the future of reproductive rights?](https://www.youtube.com/watch?v=SZWyPpEYMxI&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "What is the future of reproductive rights?") | 5:35 |
+| 3 | [Issues Facing the Transgender Community: Progress, Backlash, and Paths Forward](https://www.youtube.com/watch?v=gt3_NV9byVE&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Issues Facing the Transgender Community: Progress, Backlash, and Paths Forward") | 1:11:47 |
+| 4 | [JFK Jr. Forum Clip: Maria Ressa on Fighting for the Truth](https://www.youtube.com/watch?v=ejKt5OPhdrg&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "JFK Jr. Forum Clip: Maria Ressa on Fighting for the Truth") | 3:23 |
+| 5 | [Equity Takes Time, Commitment, & Disruption (Truth and Transformation 2021)](https://www.youtube.com/watch?v=coMvP74D6GQ&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Equity Takes Time, Commitment, & Disruption (Truth and Transformation 2021)") | 1:44:37 |
+| 6 | [Intersectionality with Dr. Priscilla Ocen](https://www.youtube.com/watch?v=QuIEmJYhrH4&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Intersectionality with Dr. Priscilla Ocen") | 52:16 |
+| 7 | [JFK Jr. Forum Clip: Dr. Rachel Levine on LGBTQ+ Healthcare](https://www.youtube.com/watch?v=ywTYlg4B7ms&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "JFK Jr. Forum Clip: Dr. Rachel Levine on LGBTQ+ Healthcare") | 1:18 |
+| 8 | [Redeeming Justice](https://www.youtube.com/watch?v=dIXkivdvXh8&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Redeeming Justice") | 1:05:56 |
+| 9 | [Harvard Unity Webinars \| Sherri Ann Charleston Highlight Reel](https://www.youtube.com/watch?v=rLHK4Gf2n1I&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Harvard Unity Webinars \| Sherri Ann Charleston Highlight Reel") | 1:03 |
+| 10 | [Harvard Unity Webinars \| Highlight Reel](https://www.youtube.com/watch?v=oqG-dueOf6M&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Harvard Unity Webinars \| Highlight Reel") | 4:04 |
+| 11 | [5 Ways to Become an Equity Detective](https://www.youtube.com/watch?v=ga9ekAuiAwc&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "5 Ways to Become an Equity Detective") | 1:03 |
+| 12 | [Our Bodies, Ourselves Book Talk \|\| Harvard Radcliffe Institute](https://www.youtube.com/watch?v=aMVm0TjSFOE&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Our Bodies, Ourselves Book Talk \|\| Harvard Radcliffe Institute") | 58:46 |
+| 13 | [5 Ways to Infuse Diversity and Inclusion Into Your Organization](https://www.youtube.com/watch?v=uXyF_ZGkzWA&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "5 Ways to Infuse Diversity and Inclusion Into Your Organization") | 6:58 |
+| 14 | [How We Incarcerate Young People: Policy and Neuroscience \|\| Harvard Radcliffe Institute](https://www.youtube.com/watch?v=NU-jjj2yIBM&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "How We Incarcerate Young People: Policy and Neuroscience \|\| Harvard Radcliffe Institute") | 1:01:55 |
+| 15 | [Voting, Activism, and Art](https://www.youtube.com/watch?v=B9vEVGRdKe8&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Voting, Activism, and Art") | 58:54 |
+| 16 | [Changing Carceral Systems through Compassion, Practice, and Research \|\| Harvard Radcliffe Institute](https://www.youtube.com/watch?v=He1DHRB4m9U&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Changing Carceral Systems through Compassion, Practice, and Research \|\| Harvard Radcliffe Institute") | 1:02:31 |
+| 17 | [Addressing Inequalities in Education \|\| Harvard Radcliffe Institute](https://www.youtube.com/watch?v=t_5KzEl9Xyc&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Addressing Inequalities in Education \|\| Harvard Radcliffe Institute") | 58:22 |
+| 18 | [Nevertheless, She Persisted \|\| Harvard Radcliffe Institute](https://www.youtube.com/watch?v=YYdvS7m5ZYg&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Nevertheless, She Persisted \|\| Harvard Radcliffe Institute") | 59:24 |
+| 19 | [Creating Policies for More Equitable Outcomes \| Ibram X. Kendi \|\| Harvard Radcliffe Institute](https://www.youtube.com/watch?v=ocU4WCVvwv0&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Creating Policies for More Equitable Outcomes \| Ibram X. Kendi \|\| Harvard Radcliffe Institute") | 3:50 |
+| 20 | [Overcoming Early Conditioning \| Ibram X. Kendi \|\| Harvard Radcliffe Institute](https://www.youtube.com/watch?v=7CrGVpAy648&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Overcoming Early Conditioning \| Ibram X. Kendi \|\| Harvard Radcliffe Institute") | 3:48 |
+| 21 | [Antiracism in Higher Education: A Conversation with Ibram X. Kendi \|\| Radcliffe Institute](https://www.youtube.com/watch?v=SuY1FvFLV-w&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Antiracism in Higher Education: A Conversation with Ibram X. Kendi \|\| Radcliffe Institute") | 57:38 |
+| 22 | [Book Talk -- Authoritarian Police in Democracy: Challenges for Latin America and the US](https://www.youtube.com/watch?v=2R4X4jEoOoc&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Book Talk -- Authoritarian Police in Democracy: Challenges for Latin America and the US") | 1:00:01 |
+| 23 | [Education Justice: Centering Student Voices \|\| Radcliffe Institute](https://www.youtube.com/watch?v=mwTsbNzpj3Y&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Education Justice: Centering Student Voices \|\| Radcliffe Institute") | 1:00:50 |
+| 24 | [Kyera Singleton \| The Enduring Legacy of Slavery and Racism in the North \|\| Radcliffe Institute](https://www.youtube.com/watch?v=Pc2D9lhHXqc&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Kyera Singleton \| The Enduring Legacy of Slavery and Racism in the North \|\| Radcliffe Institute") | 1:58 |
+| 25 | [Education Justice: Why Prison Classrooms Matter \|\| Radcliffe Institute](https://www.youtube.com/watch?v=BOIWp7l70bg&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Education Justice: Why Prison Classrooms Matter \|\| Radcliffe Institute") | 59:35 |
+| 26 | [Architects of Peace \| Alaa Murabit \|\| Radcliffe Institute](https://www.youtube.com/watch?v=V4-s8w4n4sg&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Architects of Peace \| Alaa Murabit \|\| Radcliffe Institute") | 59:45 |
+| 27 | [Obesity, COVID-19, and Systemic Racism \|\| Radcliffe Institute](https://www.youtube.com/watch?v=ECHcpAv2C7E&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Obesity, COVID-19, and Systemic Racism \|\| Radcliffe Institute") | 57:48 |
+| 28 | [Pursing Equity through Systems Improvement - Organizational Ethics Consortia Series](https://www.youtube.com/watch?v=h8YPtrabCZ4&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Pursing Equity through Systems Improvement - Organizational Ethics Consortia Series") | 1:30:58 |
+| 29 | [Who gets a vote?](https://www.youtube.com/watch?v=pnujwhx7SJ8&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Who gets a vote?") | 2:30 |
+| 30 | [#BlackLivesMatter Across the Americas: Black Youth Organizers and the Struggle for Racial Justice](https://www.youtube.com/watch?v=xhzKRVYe6hI&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "#BlackLivesMatter Across the Americas: Black Youth Organizers and the Struggle for Racial Justice") | 1:24:26 |
+| 31 | [Innovating on Campus: Supporting Mental Health of Students of Color During COVID-19 and Beyond](https://www.youtube.com/watch?v=XRJIGOaOwtE&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Innovating on Campus: Supporting Mental Health of Students of Color During COVID-19 and Beyond") | 1:02:11 |
+| 32 | [Queer the Vote: Mobilizing the LGBTQ Community Ahead of the 2020 Elections](https://www.youtube.com/watch?v=YmLV9ik-79U&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Queer the Vote: Mobilizing the LGBTQ Community Ahead of the 2020 Elections") | 59:07 |
+| 33 | [Prisons and Incarceration](https://www.youtube.com/watch?v=bxODybBc62Q&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Prisons and Incarceration") | 55:23 |
+| 34 | [Race, Racism, and Disease](https://www.youtube.com/watch?v=EhhF0qYcSEg&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Race, Racism, and Disease") | 1:03:16 |
+| 35 | [INNOVATING IN THE WORKPLACE: Supporting Mental Health of Young People of Color During COVID-19](https://www.youtube.com/watch?v=BndFVPO_XWM&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "INNOVATING IN THE WORKPLACE: Supporting Mental Health of Young People of Color During COVID-19") | 1:06:04 |
+| 36 | [Voting Matters \| On Account of Race \|\| Radcliffe Institute](https://www.youtube.com/watch?v=LNyOgPceF48&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Voting Matters \| On Account of Race (1965) \|\| Radcliffe Institute") | 1:03:43 |
+| 37 | [Policing in America \| The Limits to Accountability: Police, Prosecutors, and Qualified Immunity](https://www.youtube.com/watch?v=MBybZ9L0xuI&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Policing in America \| The Limits to Accountability: Police, Prosecutors, and Qualified Immunity") | 1:27:41 |
+| 38 | [The Enduring Legacy of Slavery and Racism in the North \|\| Radcliffe Institute](https://www.youtube.com/watch?v=jfohQVAiaP0&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "The Enduring Legacy of Slavery and Racism in the North \|\| Radcliffe Institute") | 57:19 |
+| 39 | [Human Rights = Public Health, with Michelle Bachelet, UN High Commissioner for Human Rights](https://www.youtube.com/watch?v=ZCfLMhL_YHQ&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Human Rights = Public Health, with Michelle Bachelet, UN High Commissioner for Human Rights") | 1:02:02 |
+| 40 | [Faculty Focus: Yanilda María González on activism and police violence in Latin America](https://www.youtube.com/watch?v=ECqSrCQ_ilk&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Faculty Focus: Yanilda María González on activism and police violence in Latin America") | 0:52 |
+| 41 | [Policing in America \| The Problem & the Moment: Diagnosing the American Penal System](https://www.youtube.com/watch?v=c3wA4y5LS7o&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Policing in America \| The Problem & the Moment: Diagnosing the American Penal System") | 1:36:05 |
+| 42 | [Rachel Dorothy Tanur Memorial Lecture: Emmanuel Pratt](https://www.youtube.com/watch?v=gnfFzEMjSvI&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Rachel Dorothy Tanur Memorial Lecture: Emmanuel Pratt") | 1:23:25 |
+| 43 | [The Coronavirus Pandemic: Serious Impacts on Minority Communities in U.S. Cities](https://www.youtube.com/watch?v=oFISXd6UIg4&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "The Coronavirus Pandemic: Serious Impacts on Minority Communities in U.S. Cities") | 1:03:19 |
+| 44 | [COVID-19: Health, Wealth, and the Role of Justice: When Public Health Means Business, Part 5](https://www.youtube.com/watch?v=k8k7dadynZI&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "COVID-19: Health, Wealth, and the Role of Justice: When Public Health Means Business, Part 5") | 1:14:36 |
+| 45 | [Katherine M. Marino \| Schlesinger Library - Suffrage School \|\| Radcliffe Institute](https://www.youtube.com/watch?v=ISRFxpK9e6g&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Katherine M. Marino \| Schlesinger Library - Suffrage School \|\| Radcliffe Institute") | 3:41 |
+| 46 | [Elaine Weiss \| Schlesinger Library - Suffrage School \|\| Radcliffe Institute](https://www.youtube.com/watch?v=gijT18nBt90&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Elaine Weiss \| Schlesinger Library - Suffrage School \|\| Radcliffe Institute") | 4:25 |
+| 47 | [Breonna Taylor, COVID-19, and Intersectionality](https://www.youtube.com/watch?v=K_c7GnZl96Y&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Breonna Taylor, COVID-19, and Intersectionality") | 3:53 |
+| 48 | [Beth Lew-Williams \| Schlesinger Library - Suffrage School \|\| Radcliffe Institute](https://www.youtube.com/watch?v=BkK7Q35IBAs&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Beth Lew-Williams \| Schlesinger Library - Suffrage School \|\| Radcliffe Institute") | 2:28 |
+| 49 | [Corinne T. Field \| Schlesinger Library - Suffrage School \|\| Radcliffe Institute](https://www.youtube.com/watch?v=VG2Vq0g35J0&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Corinne T. Field \| Schlesinger Library - Suffrage School \|\| Radcliffe Institute") | 2:25 |
+| 50 | [COVID-19 pandemic is exposing health inequities in U.S.](https://www.youtube.com/watch?v=BB5EY-oc5Ak&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "COVID-19 pandemic is exposing health inequities in U.S.") | 0:53 |
+| 51 | [The Coronavirus Pandemic: Health Inequities and Vulnerable Communities](https://www.youtube.com/watch?v=Z7HucXRaXqk&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "The Coronavirus Pandemic: Health Inequities and Vulnerable Communities") | 33:20 |
+| 52 | [Sarah Fayad’s Strategy on equitable distribution of affordable housing in Los Angeles](https://www.youtube.com/watch?v=VA51LP2L1UE&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Sarah Fayad’s Strategy on equitable distribution of affordable housing in Los Angeles") | 1:24 |
+| 53 | [Radical Commitments \| Session 1: Revolution \|\| Radcliffe Institute](https://www.youtube.com/watch?v=LhGQD05RNXA&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Radical Commitments \| Session 1: Revolution \|\| Radcliffe Institute") | 1:58:07 |
+| 54 | [Radical Commitments \| Childhood, Case, and Social Contributions \|\| Radcliffe Institute](https://www.youtube.com/watch?v=oDDXOfej52Q&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Radical Commitments \| Childhood, Case, and Social Contributions \|\| Radcliffe Institute") | 1:07:40 |
+| 55 | [Radical Commitments \| Session 2: Feminisms \|\| Radcliffe Institute](https://www.youtube.com/watch?v=njSIyvhuZQ4&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Radical Commitments \| Session 2: Feminisms \|\| Radcliffe Institute") | 1:31:33 |
+| 56 | [Radical Commitments \| Performances \|\| Radcliffe Institute](https://www.youtube.com/watch?v=13cxHjljG1w&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Radical Commitments \| Performances \|\| Radcliffe Institute") | 51:03 |
+| 57 | [Radical Commitments \| Keynote by Angela Davis \|\| Radcliffe Institute](https://www.youtube.com/watch?v=02cOcGNNLTY&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Radical Commitments \| Keynote by Angela Davis \|\| Radcliffe Institute") | 1:42:48 |
+| 58 | [Radical Commitments \| Session 3: Abolition \|\| Radcliffe Institute](https://www.youtube.com/watch?v=LpBSWx9peiM&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Radical Commitments \| Session 3: Abolition \|\| Radcliffe Institute") | 1:31:36 |
+| 59 | [Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Toni Griffin](https://www.youtube.com/watch?v=6AFktY1PCdM&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Toni Griffin") | 25:10 |
+| 60 | [Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Panel 2](https://www.youtube.com/watch?v=Z4st8HAGbXA&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Panel 2") | 1:26:22 |
+| 61 | [Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Panel 1](https://www.youtube.com/watch?v=7kRdr4PWNfc&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Panel 1") | 1:17:43 |
+| 62 | [Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Closing Remarks](https://www.youtube.com/watch?v=c6RxcvQPAnY&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Closing Remarks") | 17:39 |
+| 63 | [Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Welcome](https://www.youtube.com/watch?v=xmLSAI5I4X0&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Aging in [a] Place: Planning, Design & Spatial Justice in Aging Societies, Welcome") | 25:25 |
+| 64 | [Originality and Invention \| Vision & Justice \|\| Radcliffe Institute](https://www.youtube.com/watch?v=Tws9uwnCpR8&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Originality and Invention \| Vision & Justice \|\| Radcliffe Institute") | 41:11 |
+| 65 | [Vision & Justice \| Friday \| Part I \|\| Radcliffe Institute](https://www.youtube.com/watch?v=75C8eyDodu0&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Vision & Justice \| Friday \| Part I \|\| Radcliffe Institute") | 3:19:48 |
+| 66 | [Vision & Justice \| Friday \| Part II \|\| Radcliffe Institute](https://www.youtube.com/watch?v=lAR-mPJKixk&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Vision & Justice \| Friday \| Part II \|\| Radcliffe Institute") | 2:59:18 |
+| 67 | [Vision & Justice \| Thursday \| Part II \|\| Radcliffe Institute](https://www.youtube.com/watch?v=XQyLomMqoiQ&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Vision & Justice \| Thursday \| Part II \|\| Radcliffe Institute") | 2:12:23 |
+| 68 | [Vision & Justice \| Thursday \| Part I \|\| Radcliffe Institute](https://www.youtube.com/watch?v=LWl1J-92C5Q&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Vision & Justice \| Thursday \| Part I \|\| Radcliffe Institute") | 1:50:36 |
+| 69 | [Turnaround Arts [White House Program] \| Vision & Justice \|\| Radcliffe Institute](https://www.youtube.com/watch?v=05bHtYZewG0&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Turnaround Arts [White House Program] \| Vision & Justice \|\| Radcliffe Institute") | 36:25 |
+| 70 | [Hank Willis Thomas Interview \| Vision & Justice \|\| Radcliffe Institute](https://www.youtube.com/watch?v=r00hbOg7pus&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Hank Willis Thomas Interview \| Vision & Justice \|\| Radcliffe Institute") | 33:42 |
+| 71 | [Race, Technology, and Algorithmic Bias \| Vision & Justice \|\| Radcliffe Institute](https://www.youtube.com/watch?v=Y6fUc5_whX8&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Race, Technology, and Algorithmic Bias \| Vision & Justice \|\| Radcliffe Institute") | 27:00 |
+| 72 | [Joy Buolamwini, “AI, Ain’t I a Woman?” \| Vision & Justice \|\| Radcliffe Institute](https://www.youtube.com/watch?v=HZxV9w2o0FM&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Joy Buolamwini, “AI, Ain’t I a Woman?” \| Vision & Justice \|\| Radcliffe Institute") | 2:38 |
+| 73 | [Cultural Citizenship \| Vision & Justice \|\| Radcliffe Institute](https://www.youtube.com/watch?v=7MYtrqSfnz0&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Cultural Citizenship \| Vision & Justice \|\| Radcliffe Institute") | 33:45 |
+| 74 | [Mass Incarceration and Visual Narratives \| Vision & Justice \|\| Radcliffe Institute](https://www.youtube.com/watch?v=8xJypZzi9iY&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Mass Incarceration and Visual Narratives \| Vision & Justice \|\| Radcliffe Institute") | 1:02:34 |
+| 75 | [Race, Childhood, and Inequality in the Political Realm \| Vision & Justice \|\| Radcliffe Institute](https://www.youtube.com/watch?v=0HP7D24X_1o&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Race, Childhood, and Inequality in the Political Realm \| Vision & Justice \|\| Radcliffe Institute") | 49:40 |
+| 76 | [Perspectives on Transitional Justice: Kathryn Sikkink](https://www.youtube.com/watch?v=f9jTgNH0fGI&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Kathryn Sikkink") | 3:39 |
+| 77 | [Perspectives on Transitional Justice: Robin Adèle Greeley](https://www.youtube.com/watch?v=NhSXQvD-zOw&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Robin Adèle Greeley") | 1:49 |
+| 78 | [Perspectives on Transitional Justice: Ana María Reyes](https://www.youtube.com/watch?v=ZFW9Boe-MHA&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Ana María Reyes") | 2:19 |
+| 79 | [Perspectives on Transitional Justice: President Juan Manuel Santos](https://www.youtube.com/watch?v=exiSq0as2nY&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: President Juan Manuel Santos") | 1:09 |
+| 80 | [Perspectives on Transitional Justice: Douglas A. Johnson](https://www.youtube.com/watch?v=ogOEgyUdX40&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Douglas A. Johnson") | 1:19 |
+| 81 | [Perspectives on Transitional Justice: José Luis Falconi](https://www.youtube.com/watch?v=qnEHxCm9YMw&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: José Luis Falconi") | 1:09 |
+| 82 | [Perspectives on Transitional Justice: Jennifer Schirmer](https://www.youtube.com/watch?v=HVrfp2JO9B8&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Jennifer Schirmer") | 3:26 |
+| 83 | [Perspectives on Transitional Justice: Mathias Risse](https://www.youtube.com/watch?v=BCbMRrH0E1I&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Mathias Risse") | 3:48 |
+| 84 | [Perspectives on Transitional Justice: Jacqueline Bhabha](https://www.youtube.com/watch?v=FKqWAlsB9LE&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Jacqueline Bhabha") | 2:58 |
+| 85 | [Perspectives on Transitional Justice: Martha Minow](https://www.youtube.com/watch?v=7XUWFQDDNsc&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Martha Minow") | 1:46 |
+| 86 | [Perspectives on Transitional Justice: Onur Bakiner](https://www.youtube.com/watch?v=h13dSY_xsZ0&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Onur Bakiner") | 1:45 |
+| 87 | [Perspectives on Transitional Justice: Luis Moreno-Ocampo](https://www.youtube.com/watch?v=CYyEYU7L8qY&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Perspectives on Transitional Justice: Luis Moreno-Ocampo") | 3:08 |
+| 88 | [Bryan Stevenson ’85 \| "We can't recover from this history until we deal with it."](https://www.youtube.com/watch?v=YRJX5jvORzQ&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Bryan Stevenson ’85 \| 'We can't recover from this history until we deal with it.'") | 6:14 |
+| 89 | [Why Would "We" Help "Them"? \| Hernan del Valle \|\| Radcliffe Institute](https://www.youtube.com/watch?v=l2Ezjhzl-8g&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Why Would 'We' Help 'Them'? \| Hernan del Valle \|\| Radcliffe Institute") | 50:51 |
+| 90 | [200 Years, Countless Stories \| Haben Girma ’13](https://www.youtube.com/watch?v=FyHUBrHPliQ&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "200 Years, Countless Stories \| Haben Girma ’13") | 4:58 |
+| 91 | [Harvard students help in food recovery and donation program](https://www.youtube.com/watch?v=0AkeDupcTYc&list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz "Harvard students help in food recovery and donation program") | 2:03 |
+
+(YouTube counts 95 videos; the playlist page lists 91.)
+
+## References
+
+Harvard University. (n.d.). *Equity and Justice* [YouTube playlist]. Retrieved November 20, 2026, from <https://www.youtube.com/playlist?list=PL2SOU6wwxB0vpPAdJKW62u6gx7DnczfKz>

@@ -1,6 +1,6 @@
 ---
 title: "2. MIT OpenCourseWare"
-description: "Online Courses > MIT OpenCourseWare: the playlists of its YouTube channel, free lecture recordings, ordered by the course number in the playlist title, with the course name where the course is on this site; definitions pending."
+description: "Online Courses > MIT OpenCourseWare: the playlists of its YouTube channel, free lecture recordings, grouped by the subject of the course number in the playlist title, one page per playlist; definitions pending."
 ms.date: 2026-11-20
 ---
 
@@ -11,395 +11,43 @@ ms.date: 2026-11-20
 | Term | Definition | 中文翻译 | Source |
 |---|---|---|---|
 | **MIT OpenCourseWare**<br>麻省理工学院开放课程 | (Definition pending) | （定义待补） | [MIT OpenCourseWare, n.d.](https://www.youtube.com/@mitocw/playlists) |
-
-## Course Recordings
-
-| Course Code | Course Name | Term | Playlist |
-|---|---|---|---|
-| 1.72 | Groundwater Hydrology<br>地下水水文学 | Fall 2005 | [MIT 1.72 Groundwater Hydrology, Fall 2005](https://www.youtube.com/playlist?list=PLUl4u3cNGP60NMe2cbXOutB9VoqO1h8qX) |
-| 1.258J |  | Spring 2017 | [MIT 1.258J Public Transportation Systems, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP62AU7iNniqVoMl8C64tIOVk) |
-| 2.00A | Designing for the Future: Earth, Sea, and Space<br>面向未来的设计：地球、海洋与太空 | Spring 2009 | [Testing Student-designed Remotely Operated Vehicles for MIT 2.00AJ Exploring Sea, Space, & Earth: Fundamentals of Engineering Design, Spring 2009](https://www.youtube.com/playlist?list=PLUl4u3cNGP61GIZ2gdRo6nr0Jzc14Z0yt) |
-| 2.003 | Dynamics and Control I<br>动力学与控制 I | Fall 2007 | [MIT 2.003J Dynamics and Control I, Fall 2007](https://www.youtube.com/playlist?list=PLUl4u3cNGP625kC6m4A452AAK35yvDXha) |
-| 2.003 | Dynamics and Control I<br>动力学与控制 I | Spring 2005 | [MagLev Demonstration for MIT 2.003 Modeling Dynamics and Control I, Spring 2005](https://www.youtube.com/playlist?list=PLUl4u3cNGP63l-qmLMPGC0Z6ePHdZ1tQG) |
-| 2.003SC |  | Fall 2011 | [MIT 2.003SC Engineering Dynamics, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP62esZEwffjMAsEMW_YArxYC) |
-| 2.43 |  | Spring 2024 | [MIT 2.43 Advanced Thermodynamics, Spring 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP6309d0oJDiVo1CvxUQXJ2il) |
-| 2.57 |  | Spring 2012 | [MIT 2.57 Nano-to-Micro Transport Processes, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP63jpW5Wg3MpmJIei_PCS_03) |
-| 2.71 | Optics<br>光学 | Spring 2009 | [MIT 2.71 Optics, Spring 2009](https://www.youtube.com/playlist?list=PLEA084AC2DD3CEC09) |
-| 2.087 |  | Fall 2014 | [MIT 2.087 Engineering Mathematics: Linear Algebra and ODEs, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63w3DE9izYp_3fpAdi0Wkga) |
-| 2.627 |  | Fall 2011 | [MIT 2.627 Fundamentals of Photovoltaics, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP63zDO4gelZKdchvCO1B_Hg9) |
-| 2.830J |  | n.d. | [MIT 2.830J, Control of Manufacturing Processes S08](https://www.youtube.com/playlist?list=PL7CF97E01FDE7C51A) |
-| 2.907 |  | Fall 2024 | [MIT 15.371/10.807/2.907 Innovation Teams Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP63FBm4EY4n6fh8dcUAnetzi) |
-| 2.993 |  | IAP 2007 | [MIT 2.993 The Art and Science of Boat Design, IAP 2007](https://www.youtube.com/playlist?list=PL9AC9914FA0DF82DA) |
-| 2.997 |  | Fall 2009 | [MIT 2.997 Direct Solar/Thermal To Electrical Energy Conversion Technologies, Fall 2009](https://www.youtube.com/playlist?list=PLUl4u3cNGP62sv7_wYRKqvf1HsL4p54Kj) |
-| 3.020 | Thermodynamics of Materials<br>材料热力学 | Spring 2021 | [MIT 3.020 Thermodynamics of Materials, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP61g-yRbJz4ghFPJLiok1HxX) |
-| 3.021 | Introduction to Modeling and Simulation<br>建模与仿真入门 | Spring 2012 | [MIT 3.021J Introduction to Modeling and Simulation, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP63eWjy1orBicyAXrunfs2jT) |
-| 3.054 | Cellular Solids: Structure, Properties, Applications<br>多孔固体：结构、性能与应用 | Spring 2015 | [MIT 3.054 Cellular Solids: Structure, Properties and Applications, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP611bupB7ohUYEScjWb60mWW) |
-| 3.054 | Cellular Solids: Structure, Properties, Applications<br>多孔固体：结构、性能与应用 | Spring 2014 | [Faculty Insights of MIT 3.054 Cellular Solids: Structure, Properties and Applications, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63JdHMGE-7Y5rI2s7MD60ts) |
-| 3.60 |  | n.d. | [MIT 3.60 Symmetry, Structure & Tensor Properties of Material](https://www.youtube.com/playlist?list=PL7E7E396BF006E209) |
-| 3.071 | Amorphous Materials<br>非晶材料 | Spring 2025 | [MIT 3.071 Amorphous Materials, Spring 2025](https://www.youtube.com/playlist?list=PLMFCFeCMp5Zc) |
-| 3.091 |  | Fall 2018 | [MIT 3.091 Introduction to Solid-State Chemistry, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63z5HAguqleEbsICfHgDPaG) |
-| 3.091 |  | Fall 2004 | [MIT 3.091 Introduction to Solid State Chemistry, Fall 2004](https://www.youtube.com/playlist?list=PL3B87AF6948F5E8F9) |
-| 3.091 |  | n.d. | [“Why This Matters” Moments: Highlights from 3.091 Intro to Solid-State Chemistry](https://www.youtube.com/playlist?list=PLUl4u3cNGP61q4qJ1vdkBbiWn3AF1q5SQ) |
-| 3.091SC |  | Fall 2010 | [MIT 3.091SC Introduction to Solid State Chemistry, Fall 2010](https://www.youtube.com/playlist?list=PL36EC6A6180271B0F) |
-| 3.320 | Atomistic Computer Modeling of Materials<br>材料的原子尺度计算机建模 | n.d. | [MIT 3.320 Atomistic Computer Modeling of Materials](https://www.youtube.com/playlist?list=PL13CB8C2EDA4453ED) |
-| 4.125 |  | n.d. | [MIT 4.125 Architecture Studio: Building in Landscapes](https://www.youtube.com/playlist?list=PL687DF91F58142528) |
-| 4.241 | The Making of Cities<br>城市的形成 | Spring 2013 | [MIT 4.241J Theory of City Form, Spring 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP63hVXZEMszpS_CWvUFsURr6) |
-| 4.367 |  | Spring 2006 | [MIT 4.367 Studio Seminar in Public Art, Spring 2006](https://www.youtube.com/playlist?list=PL589A42A46E1E2EF2) |
-| 4.370 |  | Fall 2005 | [MIT 4.370 Interrogative Design Workshop, Fall 2005](https://www.youtube.com/playlist?list=PLD4AC203F9610E412) |
-| 4.696 |  | n.d. | [MIT 4.696 A Global History of Architecture Writing, S08](https://www.youtube.com/playlist?list=PLDAAF0DAF8B87B854) |
-| 5.07SC |  | Fall 2013 | [How We Teach: 5.07SC Biological Chemistry I, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP61ALtpA6uK41vIwckUhK5u2) |
-| 5.07SC |  | Fall 2013 (2) | [MIT 5.07SC Biological Chemistry I, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP61zrSMpm1lCZoLXrQ2YmgON) |
-| 5.08 | Fundamentals of Chemical Biology<br>化学生物学基础 | Spring 2016 | [MIT 5.08J Biological Chemistry II, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63vvR4xtexZdoPywRYIZI0-) |
-| 5.60 |  | Spring 2008 | [MIT 5.60 Thermodynamics & Kinetics, Spring 2008](https://www.youtube.com/playlist?list=PLA62087102CC93765) |
-| 5.61 |  | Fall 2017 | [MIT 5.61 Physical Chemistry, Fall 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP62RsEHXe48Imi9-87FzQaJg) |
-| 5.74 |  | Spring 2009 | [MIT 5.74 Introductory Quantum Mechanics II, Spring 2009](https://www.youtube.com/playlist?list=PL21D8ADED13B2D74C) |
-| 5.74 |  | Spring 2004 | [MIT 5.74 Introductory Quantum Mechanics II, Spring 2004](https://www.youtube.com/playlist?list=PL958F66FFE4393435) |
-| 5.80 |  | Fall 2008 | [MIT 5.80 Small-Molecule Spectroscopy and Dynamics, Fall 2008](https://www.youtube.com/playlist?list=PL683876BE6097A1C2) |
-| 5.95J |  | Fall 2015 | [How We Teach: MIT 5.95J Teaching College-Level Science and Engineering, Fall 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60bTiL2hg0h_akgz8ywXkCX) |
-| 5.95J |  | n.d. | [MIT 5.95J Teaching College-Level Science and Engineering](https://www.youtube.com/playlist?list=PLB1304385546D6F86) |
-| 5.111 |  | Fall 2014 | [MIT 5.111 Principles of Chemical Science, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63LOmB3_O0xbgZVZibxj4rb) |
-| 5.111 |  | Fall 2008 | [MIT 5.111 Principles of Chemical Science, Fall 2008](https://www.youtube.com/playlist?list=PL2902385153144A26) |
-| 5.111 |  | Fall 2005 | [MIT 5.111 Principles of Chemical Science, Fall 2005](https://www.youtube.com/playlist?list=PL97C9F1933E17AB45) |
-| 5.111SC |  | n.d. | [How We Teach: 5.111SC Principles of Chemical Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP63vgoqGQDciPo6V5TPI0u9r) |
-| 5.112 |  | Fall 2005 | [MIT 5.112 Principles of Chemical Science, Fall 2005](https://www.youtube.com/playlist?list=PLB3953F4F875AB0B3) |
-| 5.301 |  | n.d. | [MIT 5.301 Chemistry Laboratory Techniques](https://www.youtube.com/playlist?list=PL57499F5778AAB619) |
-| 5.310 | Laboratory Chemistry<br>实验化学 | Fall 2019 | [MIT 5.310 Laboratory Chemistry, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ZhyqhOGKbSBzcOovEbb6y) |
-| 6.00 |  | Fall 2008 | [MIT 6.00 Intro to Computer Science & Programming, Fall 2008](https://www.youtube.com/playlist?list=PL4C4720A6F225E074) |
-| 6.00SC |  | n.d. | [MIT 6.00SC Introduction to Computer Science and Programming](https://www.youtube.com/playlist?list=PLB2BE3D6CA77BB8F7) |
-| 6.0001 |  | Fall 2016 | [6.0001 Introduction to Computer Science and Programming in Python. Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) |
-| 6.001 |  | 1986 | [MIT 6.001 Structure and Interpretation, 1986](https://www.youtube.com/playlist?list=PLE18841CABEA24090) |
-| 6.01SC |  | n.d. | [MIT 6.01SC Introduction to EECS I](https://www.youtube.com/playlist?list=PL9B24A6A9D5754E70) |
-| 6.0002 |  | Fall 2016 | [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd) |
-| 6.02 |  | Fall 2012 | [MIT 6.02 Introduction to EECS II: Digital Communication Systems, Fall 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ZWyJMdWIVtyweopUN3xt3) |
-| 6.002 |  | Spring 2007 | [MIT 6.002 Circuits and Electronics, Spring 2007](https://www.youtube.com/playlist?list=PL9F74AFA03AA06A11) |
-| 6.003 |  | Fall 2011 | [MIT 6.003 Signals and Systems, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs) |
-| 6.004 |  | Spring 2017 | [MIT 6.004 Computation Structures, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2) |
-| 6.006 |  | Spring 2020 | [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) |
-| 6.006 |  | Fall 2011 | [MIT 6.006 Introduction to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) |
-| 6.007 |  | Spring 2011 | [MIT 6.007 Electromagnetic Energy, Spring 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP62euWSu8oJ2f05HU-l9LBEH) |
-| 6.013 |  | Fall 2005 | [MIT 6.013 Electromagnetics and Applications, Fall 2005](https://www.youtube.com/playlist?list=PL502E7BF2CF94D753) |
-| 6.033 |  | Spring 2005 | [MIT 6.033 Computer System Engineering, Spring 2005](https://www.youtube.com/playlist?list=PL6535748F59DCA484) |
-| 6.034 |  | Fall 2010 | [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) |
-| 6.035 |  | Fall 2005 | [MIT 6.035 Computer Language Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL0300FE43396456C1) |
-| 6.041 |  | n.d. | [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8) |
-| 6.041SC |  | Fall 2013 | [MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe) |
-| 6.042J |  | Spring 2015 | [MIT 6.042J Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) |
-| 6.042J |  | Fall 2010 | [MIT 6.042J Mathematics for Computer Science, Fall 2010](https://www.youtube.com/playlist?list=PLB7540DEDD482705B) |
-| 6.046J |  | Spring 2015 | [How We Teach: MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60ONw6Q81tS64qKRUJ9nwq8) |
-| 6.046J |  | Spring 2015 (2) | [MIT 6.046J Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp) |
-| 6.046J |  | n.d. | [MIT 6.046J / 18.410J Introduction to Algorithms (SMA 5503),](https://www.youtube.com/playlist?list=PL8B24C31197EC371C) |
-| 6.100L | Introduction to Computer Science and Programming<br>计算机科学与编程入门 | Fall 2022 | [MIT 6.100L Introduction to CS and Programming using Python, Fall 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP62A-ynp6v6-LGBCzeH3VAQB) |
-| 6.172 |  | Fall 2018 | [MIT 6.172 Performance Engineering of Software Systems, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf) |
-| 6.172 |  | n.d. | [MIT 6.172 Performance Engineering of Software Systems](https://www.youtube.com/playlist?list=PLD2AE32F507F10481) |
-| 6.189 |  | 2007 | [MIT 6.189 Multicore Programming Primer, January (IAP) 2007](https://www.youtube.com/playlist?list=PLE638294EA3288272) |
-| 6.262 |  | Spring 2011 | [MIT 6.262 Discrete Stochastic Processes, Spring 2011](https://www.youtube.com/playlist?list=PLEEF5322B331C1B98) |
-| 6.370 |  | IAP 2013 | [MIT 6.370 The Battlecode Programming Competition, IAP 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP61vHg_yuYXydlzBs6d0KSTL) |
-| 6.450 |  | Fall 2006 | [MIT 6.450 Principles of Digital Communications, I Fall 2006](https://www.youtube.com/playlist?list=PL2AD004D035C24F21) |
-| 6.451 |  | n.d. | [MIT 6.451 Principles of Digital Communication II](https://www.youtube.com/playlist?list=PLF8A9EA1E1B28B438) |
-| 6.622 |  | Spring 2023 | [MIT 6.622 Power Electronics, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP62UTc77mJoubhDELSC8lfR0) |
-| 6.774 |  | Fall 2004 | [MIT 6.774 Physics of Microfabrication: Front End Processing, Fall 2004](https://www.youtube.com/playlist?list=PLUl4u3cNGP61IMhYaHL_x-RzNUIDJD9XK) |
-| 6.781J |  | Spring 2006 | [Demo Movies for MIT 6.781J Submicrometer and Nanometer Technology, Spring 2006](https://www.youtube.com/playlist?list=PLUl4u3cNGP60S6tBzXVmcUnSv4El6QkSt) |
-| 6.801 |  | Fall 2020 | [MIT 6.801 Machine Vision, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O) |
-| 6.811 |  | n.d. | [How We Teach: MIT 6.811 Principles and Practice of Assistive Technology](https://www.youtube.com/playlist?list=PLUl4u3cNGP61gxUNrwFXIyIKheQEPqSMc) |
-| 6.832 |  | Spring 2009 | [MIT 6.832 Underactuated Robotics, Spring 2009](https://www.youtube.com/playlist?list=PL58F1D0056F04CF8C) |
-| 6.849 |  | Fall 2012 | [MIT 6.849 Geometric Folding Algorithms, Fall 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP62xuxL4CQpy8uo2MeM4a3YD) |
-| 6.851 |  | Spring 2012 | [MIT 6.851 Advanced Data Structures, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) |
-| 6.858 |  | Fall 2014 | [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) |
-| 6.868J |  | Fall 2011 | [MIT 6.868J The Society of Mind, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61E-vNcDV0w5xpsIBYNJDkU) |
-| 6.868J |  | Spring 2007 | [MIT 6.868J The Society of Mind, Spring 2007](https://www.youtube.com/playlist?list=PL459FB027BA55FA4A) |
-| 6.890 |  | Fall 2014 | [MIT 6.890 Algorithmic Lower Bounds, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63d33STUUBfZUpzFCVR5-PV) |
-| 6.912 |  | January 2006 | [MIT 6.912 Introduction to Copyright Law, January 2006](https://www.youtube.com/playlist?list=PLC5A42FFCB382F2F1) |
-| 6.1200 | Mathematics for Computer Science<br>计算机科学数学 | Spring 2024 | [MIT 6.1200J Mathematics for Computer Science, Spring 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d) |
-| 6.5630 | Advanced Topics in Cryptography<br>密码学高级专题 | Fall 2023 | [MIT 6.5630 Advanced Topics in Cryptography, Fall 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP61EZllk7zwgvPbI4kbnKhWz) |
-| 6.7960 | Deep Learning<br>深度学习 | Fall 2024 | [MIT 6.7960 Deep Learning, Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP63URZnh5iqBzDTDYPUTQT-8) |
-| 6.S079 |  | Spring 2013 | [MIT 6.S079 Nanomaker, Spring 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP6262ZsDa1WLEEO2wDck58CB) |
-| 6.S095 |  | IAP 2018 | [MIT 6.S095 Programming for the Puzzled, January IAP 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP62QumaaZtCCjkID-NgqrleA) |
-| 6.S897 |  | Spring 2019 | [MIT 6.S897 Machine Learning for Healthcare, Spring 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j) |
-| 7.01SC |  | n.d. | [MIT 7.01SC Fundamentals of Biology](https://www.youtube.com/playlist?list=PLF83B8D8C87426E44) |
-| 7.05 | General Biochemistry<br>普通生物化学 | Spring 2020 | [(Selected Lectures) MIT 7.05 General Biochemistry, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP62wNcIMfinU64CAfreShjpt) |
-| 7.012 |  | Fall 2004 | [MIT 7.012 Introduction to Biology, Fall 2004](https://www.youtube.com/playlist?list=PL9F0B2048DA4690AF) |
-| 7.013 |  | Spring 2011 | [MIT 7.013 Introductory Biology, Spring 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP60xwJdwhP6Ado1IbQjvLsPD) |
-| 7.013 |  | Spring 2006 | [MIT 7.013 Introductory Biology, Spring 2006](https://www.youtube.com/playlist?list=PLC4C1738366328687) |
-| 7.014 |  | Spring 2005 | [MIT 7.014 Introductory Biology, Spring 2005](https://www.youtube.com/playlist?list=PL512E990FCFD976E2) |
-| 7.016 |  | Fall 2018 | [MIT 7.016 Introductory Biology, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63LmSVIVzy584-ZbjbJ-Y63) |
-| 7.91 | The CRISPR Revolution: Engineering the Genome for Basic Science and Clinical Medicine<br>CRISPR革命：为基础科学与临床医学改造基因组 | n.d. | [MIT 7.91J Foundations of Computational and Systems Biology](https://www.youtube.com/playlist?list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac) |
-| 8.01SC |  | Fall 2016 | [MIT 8.01SC Classical Mechanics, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV) |
-| 8.03SC |  | Fall 2016 | [How We Teach: MIT 8.03SC Physics III: Vibrations and Waves, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP62_Q5XDq5DAoQznJqM_BnTv) |
-| 8.03SC |  | Fall 2016 (2) | [MIT 8.03SC Physics III: Vibrations and Waves, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61R5sPDPKVfcFlu95wSs2Kx) |
-| 8.04 | Quantum Physics I<br>量子物理 I | Spring 2016 | [MIT 8.04 Quantum Physics I, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G) |
-| 8.04 | Quantum Physics I<br>量子物理 I | Spring 2013 | [MIT 8.04 Quantum Physics I, Spring 2013 (2013)](https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr) |
-| 8.05 | Quantum Physics II<br>量子物理 II | Fall 2013 | [MIT 8.05 Quantum Physics II, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx) |
-| 8.06 | Quantum Physics III<br>量子物理 III | Spring 2018 | [MIT 8.06 Quantum Physics III, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L) |
-| 8.13-14 |  | Fall 2016 | [How We Teach: MIT 8.13-14 Experimental Physics I & II “Junior Lab”, Fall 2016 - Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP6393Jj6WMmNd1_pOs0UDq2R) |
-| 8.20 | Introduction to Special Relativity<br>狭义相对论入门 | IAP 2021 | [MIT 8.20 Introduction to Special Relativity, January IAP 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8) |
-| 8.286 |  | Fall 2013 | [MIT 8.286 The Early Universe, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Bf9I0WDDriuDqEnywoxra) |
-| 8.323 |  | Spring 2023 | [MIT 8.323 Relativistic Quantum Field Theory I, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP61AV6bhf4mB3tCyWQrI_uU5) |
-| 8.333 | Statistical Mechanics I<br>统计力学 I | Fall 2013 | [MIT 8.333 Statistical Mechanics I: Statistical Mechanics of Particles, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP60gl3fdUTKRrt5t_GPx2sRg) |
-| 8.334 | Statistical Mechanics II<br>统计力学 II | Spring 2014 | [MIT 8.334 Statistical Mechanics II, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HkEHvYaNJiO0UCUmY0Ts7) |
-| 8.421 | Atomic and Optical Physics I<br>原子与光学物理 I | Spring 2014 | [MIT 8.421 Atomic and Optical Physics I, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP62FPGcyFJkzhqq9c5cHCK32) |
-| 8.422 |  | Spring 2013 | [MIT 8.422 Atomic and Optical Physics II, Spring 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uOSArqLf4vNLiZtgIRm1K) |
-| 8.591 | Systems Biology<br>系统生物学 | Fall 2014 | [MIT 8.591J Systems Biology, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63OI3pSKo8Ha_DFBMxm23xO) |
-| 8.701 |  | Fall 2020 | [MIT 8.701 Introduction to Nuclear and Particle Physics, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Do91PdN978llIsvjKW0au) |
-| 8.821 |  | Fall 2014 | [MIT 8.821 String Theory and Holographic Duality, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP633VWvZh23bP6dG80gW34SU) |
-| 8.851 |  | Spring 2013 | [MIT 8.851 Effective Field Theory, Spring 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP60TvpbO5toEWC8y8w51dtvm) |
-| 8.962 |  | Spring 2020 | [MIT 8.962 General Relativity, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP629n_3fX7HmKKgin_rqGzbx) |
-| 9.00 | Introduction to Psychological Science<br>心理科学入门 | Fall 2004 | [MIT 9.00 Introduction To Psychology, Fall 2004](https://www.youtube.com/playlist?list=PLUl4u3cNGP615Y1j9Ok3szAH5DxhFjTHo) |
-| 9.00SC |  | Fall 2011 | [MIT 9.00SC Introduction to Psychology, Fall 2011](https://www.youtube.com/playlist?list=PL44ABC9278E2EE706) |
-| 9.04 |  | Fall 2013 | [MIT 9.04 Sensory Systems, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP63Wy1oqQW2oD2HBdDSY8Ghi) |
-| 9.13 | The Human Brain<br>人类大脑 | Spring 2019 | [MIT 9.13 The Human Brain, Spring 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP) |
-| 9.14 |  | Spring 2014 | [MIT 9.14 Brain Structure and Its Origins, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP62ABe0O-0qtaHHxyKQi1ZwR) |
-| 9.20 |  | Fall 2013 | [MIT 9.20 Animal Behavior, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP63TbPEWYEKOq8yAN8mEP_5O) |
-| 9.35 | Perception<br>知觉 | Spring 2024 | [MIT 9.35 Perception, Spring 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP62-9RweyYBIpkqfo5dfcuS8) |
-| 9.40 | Introduction to Neural Computation<br>神经计算入门 | Spring 2018 | [MIT 9.40 Introduction to Neural Computation, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP61I4aI5T6OaFfRK2gihjiMm) |
-| 10.34 |  | Fall 2015 | [MIT 10.34 Numerical Methods Applied to Chemical Engineering, Fall 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6152YvEOa6i6L3axPx0IkIO) |
-| 10.807 | Innovation Teams<br>创新团队 | Fall 2024 | [MIT 15.371/10.807/2.907 Innovation Teams Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP63FBm4EY4n6fh8dcUAnetzi) |
-| 11.124 |  | Fall 2011 | [How We Teach: MIT 11.124, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP62GiJ1OlUrVoYVh6NO1sE1C) |
-| 11.165 | Urban Energy Systems and Policy<br>城市能源系统与政策 | Fall 2022 | [MIT 11.165 Urban Energy Systems and Policy, Fall 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63SEOB1q95TFs0hwyf1d7BG) |
-| 11.309J |  | n.d. | [MIT 11.309J Sensing Place: Photography as Inquiry](https://www.youtube.com/playlist?list=PLAAEDD2AB2DA43537) |
-| 11.350 | Sustainable Real Estate: Analysis and Investment<br>可持续房地产：分析与投资 | Spring 2023 | [MIT 11.350 Sustainable Real Estate, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP63Np7g0Xtk939LL9OwJ-OuW) |
-| 11.382 |  | Spring 2021 | [MIT 11.382 Water Diplomacy, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP62ydNAexE7BtehzDRyFBUEe) |
-| 11.384-11 |  | Spring 2016 | [MIT 11.384-11.386 Malaysia Sustainable Cities Program, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP62KjqcGeQzyy83Y_XBsNw0v) |
-| 11.601 |  | n.d. | [MIT 11.601 Introduction to Environmental Policy and Planning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63Dkl0BJwHaytUoOCnJx30D) |
-| 11.945 |  | Fall 2005 | [MIT 11.945 Springfield Studio, Fall 2005](https://www.youtube.com/playlist?list=PL6D0BD79BE6AFD10E) |
-| 11.949 |  | Spring 2004 | [MIT 11.949 City Visions: Past and Future, Spring 2004](https://www.youtube.com/playlist?list=PL467C2E711F7D3EE6) |
-| 11.954 |  | n.d. | [MIT 11.954 Community-Owned Enterprise & Civic Participation](https://www.youtube.com/playlist?list=PL5BA37E21816CD88E) |
-| 11.965 |  | IAP 2007 | [MIT 11.965 Reflective Practice, IAP 2007](https://www.youtube.com/playlist?list=PL773D0AF1A86E4E58) |
-| 11.969 |  | n.d. | [MIT 11.969 Deliberative Democracy and Dispute Resolution](https://www.youtube.com/playlist?list=PL69812EA7D6099DB5) |
-| 12.742 |  | Fall 2006 | [MIT 12.742 Marine Chemistry, Fall 2006 (Selected Lectures)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Pp6pulxQtwnCtlorxCN40) |
-| 14.01 | Principles of Microeconomics<br>微观经济学原理 | Fall 2023 | [MIT 14.01 Principles of Microeconomics, Fall 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP60V7HxLYRaJMbFzP77bzEjb) |
-| 14.01 | Principles of Microeconomics<br>微观经济学原理 | Fall 2018 | [MIT 14.01 Principles of Microeconomics, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP62oJSoqb4Rf-vZMGUBe59G-) |
-| 14.01SC |  | n.d. | [MIT 14.01SC Principles of Microeconomics](https://www.youtube.com/playlist?list=PL61533C166E8B0028) |
-| 14.02 | Principles of Macroeconomics<br>宏观经济学原理 | Spring 2023 | [MIT 14.02 Principles of Macroeconomics, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EXoZ4B3_Ob7lRRwpGQxkb) |
-| 14.04 | Intermediate Microeconomic Theory<br>中级微观经济理论 | Fall 2020 | [MIT 14.04 Intermediate Microeconomic Theory, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63wnrKge9vllow3Y2OOOKqF) |
-| 14.12 | Economic Applications of Game Theory<br>博弈论的经济应用 | Fall 2025 | [MIT 14.12 Economic Applications of Game Theory, Fall 2025](https://www.youtube.com/playlist?list=PLUl4u3cNGP63quuKvMHCt3cmTmt0O2qpv) |
-| 14.13 | Psychology and Economics<br>心理学与经济学 | Spring 2020 | [MIT 14.13 Psychology and Economics, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63Z979ri_UXXk_1zrvrF77Q) |
-| 14.41 | Public Finance and Public Policy<br>公共财政与公共政策 | Fall 2024 | [MIT 14.41 Public Finance and Public Policy, Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP62KS2YhlASvGBxxL8HgB11p) |
-| 14.73 | The Challenge of World Poverty<br>世界贫困的挑战 | Spring 2011 | [MIT 14.73 The Challenge of World Poverty, Spring 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP620R91K4KP_fO4l3eeK5lDn) |
-| 14.271 |  | Fall 2022 | [MIT 14.271 Industrial Organization I, Fall 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP62xkEY0YzLJSoquVBjPOl9S) |
-| 14.310 | Data Analysis for Social Scientists<br>社会科学家的数据分析 | Spring 2023 | [MIT 14.310x Data Analysis for Social Scientists, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP61ATaGTFcSp7bhogloD2wHP) |
-| 14.771 |  | Fall 2021 | [MIT 14.771 Development Economics, Fall 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kvh3caDts2R6LmkYbmzaG) |
-| 14.772 | Development Economics: Macroeconomics<br>发展经济学：宏观经济学 | Spring 2013 | [MIT 14.772 Development Economics: Macroeconomics, Spring 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP63-t0r0aC3noJiIOmj33S_Q) |
-| 15.031J |  | Spring 2012 | [MIT 15.031J Energy Decisions, Markets, Policies, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP62JKM25M14gy0qaHWx3QyjP) |
-| 15.071 | The AI Edge<br>AI优势 | Spring 2017 | [MIT 15.071 The Analytics Edge, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq) |
-| 15.356 |  | n.d. | [MIT 15.356 How to Develop Breakthrough Products & Services](https://www.youtube.com/playlist?list=PLUl4u3cNGP63IhNlzdfQL0OALmfEUy4Re) |
-| 15.371 |  | Fall 2024 | [MIT 15.371/10.807/2.907 Innovation Teams Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP63FBm4EY4n6fh8dcUAnetzi) |
-| 15.390 | Entrepreneurship 101: Systematic Approach to New Venture Creation<br>创业 101：新企业创建的系统方法 | Spring 2013 | [MIT 15.390 New Enterprises, Spring 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP63CLq-GxVm4VSr-0iKAS-07) |
-| 15.393 |  | IAP 2025 | [MIT 15.393 Nuts and Bolts of New Ventures, IAP 2025](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EUNfnwrkgO2xxwYxNwRdI) |
-| 15.401 | Managerial Finance<br>管理金融 | Fall 2008 | [MIT 15.401 Finance Theory I, Fall 2008](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW) |
-| 15.773 |  | Spring 2024 | [MIT 15.773 Hands-On Deep Learning Spring 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP60YyhMjYmXuVmX562QcClSp) |
-| 15.879 |  | Spring 2025 | [MIT 15.879 Building Serious System Dynamics Models from Scratch, Spring 2025](https://www.youtube.com/playlist?list=PLPVhM0CAcLjI) |
-| 15.879 |  | Spring 2014 | [MIT 15.879 Research Seminar in System Dynamics, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63lpAtf8F9NIoCVM0Vr8dYn) |
-| 15.960 |  | Fall 2017 | [MIT 15.960 New Executive Thinking Social-Impact Technology Projects, Fall 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP60qpzuLPuuKLqmXClgEL2Ng) |
-| 15.S08 |  | Spring 2020 | [MIT 15.S08 FinTech: Shaping the Financial World, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_RVDn6srWbLV_zFnd9n0) |
-| 15.S12 |  | Fall 2018 | [MIT 15.S12 Blockchain and Money, Fall 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn) |
-| 15.S21 |  | IAP 2014 | [MIT 15.S21 Nuts and Bolts of Business Plans, IAP 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP61x5b_88idmqeRdPULQjGnv) |
-| 15.S50 |  | IAP 2016 | [MIT 15.S50 How to Win at Texas Hold 'Em, IAP 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP6083Y-NElqTRAgKtXQxgD3g) |
-| 15.S50 |  | IAP 2015 | [MIT 15.S50 Poker Theory and Analysis, IAP 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kfOW3zAIfpNhf0piao8oo) |
-| 16.01 |  | Fall 2005 | [MIT 16.01 Unified Engineering, Fall 2005](https://www.youtube.com/playlist?list=PLA481C3DD60812502) |
-| 16.06 | Principles of Automatic Control<br>自动控制原理 | Fall 2012 | [How We Teach: MIT 16.06 Principles of Automatic Control, Fall 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP63fqdsxqO5hnQSpSxst6ge1) |
-| 16.412J |  | Spring 2016 | [MIT 16.412J Cognitive Robotics, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Bkdzwe7caTZC7soj7ZYvk) |
-| 16.660 |  | IAP 2008 | [MIT 16.660 Introduction to Lean Six Sigma Methods, IAP 2008](https://www.youtube.com/playlist?list=PL8C6BE63DA137DD01) |
-| 16.660J |  | IAP 2012 | [MIT 16.660J / ESD.62J / 16.853 Introduction to Lean Six Sigma Methods, IAP 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP60dsF8ICyGEiSJcTYzQWSVZ) |
-| 16.687 |  | IAP 2019 | [MIT 16.687 Private Pilot Ground School, IAP 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP63cUdAG3v311Vl72ozOiK25) |
-| 16.810 |  | n.d. | [MIT 16.810 Engineering Design and Rapid Prototyping, IAP 07](https://www.youtube.com/playlist?list=PL9FF086E91F3A974C) |
-| 16.842 |  | Fall 2015 | [MIT 16.842 Fundamentals of Systems Engineering, Fall 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60jIMmB53zl6awCKMnABhYx) |
-| 16.853 |  | IAP 2012 | [MIT 16.660J / ESD.62J / 16.853 Introduction to Lean Six Sigma Methods, IAP 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP60dsF8ICyGEiSJcTYzQWSVZ) |
-| 16.885 | Aircraft Systems Engineering<br>飞机系统工程 | Fall 2005 | [MIT 16.885J Aircraft Systems Engineering, Fall 2005](https://www.youtube.com/playlist?list=PL35721A60B7B57386) |
-| 17.395 | Innovation Systems for Science, Technology, Energy, Manufacturing, and Health<br>科学、技术、能源、制造与健康的创新系统 | Spring 2017 | [MIT STS.081J/17.395J Innovation Systems for Science, Tech, Energy, Manufacturing & Health, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP61GOiMKYgTzHpf8x6iiblaV) |
-| 18.01 |  | Fall 2006 | [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) |
-| 18.01SC |  | n.d. | [MIT 18.01SC: Homework Help for Single Variable Calculus](https://www.youtube.com/playlist?list=PL21BCE50ABFF029F1) |
-| 18.02 |  | Fall 2007 | [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38) |
-| 18.02SC |  | n.d. | [MIT 18.02SC: Homework Help for Multivariable Calculus](https://www.youtube.com/playlist?list=PLF07555F3CC669D01) |
-| 18.03 | Differential Equations<br>微分方程 | Spring 2006 | [MIT 18.03 Differential Equations, Spring 2006](https://www.youtube.com/playlist?list=PLEC88901EBADDD980) |
-| 18.03SC |  | Fall 2011 | [MIT 18.03SC Mathlet Videos, Fall 2011](https://www.youtube.com/playlist?list=PL84D94CBC125A554D) |
-| 18.03SC |  | Fall 2011 (2) | [MIT 18.03SC Differential Equations, Fall 2011](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E) |
-| 18.06 | Linear Algebra<br>线性代数 | Spring 2005 | [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8) |
-| 18.06 | Linear Algebra<br>线性代数 | n.d. | [Gil Strang's Final 18.06 Linear Algebra Lecture](https://www.youtube.com/playlist?list=PLUl4u3cNGP60DW_heGsvmEGwaXtGuSzQ7) |
-| 18.06SC |  | Fall 2011 | [MIT 18.06SC Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) |
-| 18.06SC |  | 2011 | [MIT 18.06SC 线性代数, 秋 2011](https://www.youtube.com/playlist?list=PL751FDC0AD3A71B3E) |
-| 18.065 |  | Spring 2018 | [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k) |
-| 18.085 |  | Fall 2008 | [MIT 18.085 Computational Science & Engineering I, Fall 2008](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C) |
-| 18.085 |  | Fall 2007 | [MIT 18.085 Computational Science & Engineering I, Fall 2007](https://www.youtube.com/playlist?list=PL51CACD5B1F58C40C) |
-| 18.086 |  | n.d. | [MIT 18.086 Mathematical Methods for Engineers II, Spring '06](https://www.youtube.com/playlist?list=PL3A13781649466805) |
-| 18.100A | Real Analysis<br>实分析 | Fall 2020 | [MIT 18.100A Real Analysis, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw) |
-| 18.100B | Real Analysis<br>实分析 | Spring 2025 | [MIT 18.100B Real Analysis, Spring 2025](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG) |
-| 18.102 |  | Spring 2021 | [MIT 18.102 Introduction to Functional Analysis, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_) |
-| 18.156 |  | Spring 2025 | [MIT 18.156 Projection Theory, Spring 2025](https://www.youtube.com/playlist?list=PLUl4u3cNGP62K9_7Pg26ytrAOXwXFpN43) |
-| 18.200 | Principles of Discrete Applied Mathematics<br>离散应用数学原理 | Spring 2024 | [MIT 18.200 Principles of Discrete Applied Mathematics, Spring 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP61p2fXeXjNCrfNHFwyW-bl0) |
-| 18.217 |  | Fall 2019 | [MIT 18.217 Graph Theory and Additive Combinatorics, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62qauV_CpT1zKaGG_Vj5igX) |
-| 18.226 | Probabilistic Methods in Combinatorics<br>组合数学中的概率方法 | Fall 2024 | [MIT 18.226 Probabilistic Methods in Combinatorics, Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP61cYB5ymvFiEbIb-wWHfaqO) |
-| 18.404 | Theory of Computation<br>计算理论 | Fall 2020 | [MIT 18.404J Theory of Computation, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY) |
-| 18.410 | Design and Analysis of Algorithms<br>算法设计与分析 | n.d. | [MIT 6.046J / 18.410J Introduction to Algorithms (SMA 5503),](https://www.youtube.com/playlist?list=PL8B24C31197EC371C) |
-| 18.642 |  | Fall 2024 | [MIT 18.642 Topics in Mathematics with Applications in Finance, Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP601Q2jo-J_3raNCMMs6Jves) |
-| 18.650 | Fundamentals of Statistics<br>统计学基础 | Fall 2016 | [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) |
-| 18.821 | Project Laboratory in Mathematics<br>数学项目实验室 | Spring 2013 | [MIT 18.821 Project Laboratory in Mathematics, Spring 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP61w7rvtOxX_3LCvfB9RqzQm) |
-| 18.S096 |  | IAP 2023 | [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE) |
-| 18.S096 |  | n.d. | [MIT 18.S096 Topics in Mathematics w Applications in Finance](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR) |
-| 18.S190 |  | IAP 2023 | [MIT 18.S190 Introduction To Metric Spaces, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S) |
-| 18.S997 |  | Fall 2011 | [MIT 18.S997 Introduction to MATLAB Programming Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP62bMZx9A3DR7V5myByt48CC) |
-| 20.010J |  | Spring 2006 | [MIT 20.010J Introduction to Bioengineering, Spring 2006](https://www.youtube.com/playlist?list=PL1AD80D1880B5BDB6) |
-| 20.020 |  | n.d. | [MIT 20.020 Introduction to Biological Engineering Design](https://www.youtube.com/playlist?list=PLBD69AAC6E4C4EF5C) |
-| 20.219 |  | IAP 2015 | [MIT 20.219 Becoming the Next Bill Nye: Writing and Hosting the Educational Show, IAP 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP61PvFQDWp8FW_1iMgBf6LCY) |
-| 20.309 | Instrumentation and Measurement for Biological Systems<br>生物系统的仪器与测量 | Fall 2006 | [MIT 20.309 Biological Engineering II, Fall 2006](https://www.youtube.com/playlist?list=PLF1C01C07BD8ACDD3) |
-| 21A.453 |  | Spring 2004 | [MIT 21A.453 Anthropology of the Middle East, Spring 2004](https://www.youtube.com/playlist?list=PL30F94F211EB3E456) |
-| 21A.550J |  | Spring 2011 | [MIT 21A.550J/STS.064J DV Lab: Documenting Science Through Video and New Media, Spring 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61EXhUSGCUWD5mEwdRWaTrq) |
-| 21A.S01 |  | Fall 2021 | [MIT 21A.S01 Reparations for Slavery and Colonization: Contemporary Movements for Justice, Fall 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP621znZNO7tBuTH-WKjsV0D6) |
-| 21F.223 |  | n.d. | [MIT 21F.223/21F.224 Listening, Speaking, and Pronunciation](https://www.youtube.com/playlist?list=PL2FF9177E2D53E708) |
-| 21F.224 |  | n.d. | [MIT 21F.223/21F.224 Listening, Speaking, and Pronunciation](https://www.youtube.com/playlist?list=PL2FF9177E2D53E708) |
-| 21G.027 |  | Fall 2016 | [How We Teach: MIT 21G.027 Asia in the Modern World, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61IgjC1FgzYN1k16WPuiJVv) |
-| 21G.101 |  | Fall 2014 | [How We Teach: 21G.101 Chinese I, Fall 2014 - Chinese](https://www.youtube.com/playlist?list=PLUl4u3cNGP63DJVA2y1g9rIrg6sDqLHNI) |
-| 21G.101 |  | Fall 2014 (2) | [How We Teach: 21G.101 Chinese I, Fall 2014 - English](https://www.youtube.com/playlist?list=PLUl4u3cNGP60lpoX0sdOStmN1JFQRW31Y) |
-| 21G.107 |  | Fall 2014 | [How We Teach: MIT 21G.107 Chinese I (Streamlined), Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP61o86bXQPx7oCAHDrkt316Y) |
-| 21G.111 |  | Spring 2024 | [MIT 21G.111 Chinese Calligraphy, Spring 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP62zyfNwVj55tuTd1U2W1EAY) |
-| 21G.503 |  | Fall 2016 | [How We Teach: MIT 21G.503 Japanese III, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61kz4wAgG77DjRf5bXhLJNv) |
-| 21G.S56 |  | Spring 2023 | [MIT 21G.S56 Japanese VI, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP63t_5H9VoPxETRv2fwsB9jb) |
-| 21H.151 |  | Fall 2024 | [MIT 21H.151 Dynastic China, Fall 2024 (Selected Lectures)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60g8vnEsLGuA4Kt-d5vNqy9) |
-| 21H.931 |  | Spring 2004 | [MIT 21H.931 Seminar in Historical Methods, Spring 2004](https://www.youtube.com/playlist?list=PLCA8804B6C35EF995) |
-| 21L.011 | Introduction to Film Studies<br>电影研究入门 | Fall 2013 | [MIT 21L.011 The Film Experience, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP63wurgwdJKo6UEYBWDLnmCj) |
-| 21L.011 | Introduction to Film Studies<br>电影研究入门 | Fall 2007 | [MIT 21L.011 The Film Experience, Fall 2007](https://www.youtube.com/playlist?list=PL393CDB1EF90EADFA) |
-| 21L.432 | Understanding Television<br>理解电视 | Spring 2003 | [MIT 21L.432 Understanding Television, Spring 2003](https://www.youtube.com/playlist?list=PL4C6E9FF43F442F9E) |
-| 21L.448J |  | Fall 2010 | [MIT 21L.448J Darwin and Design, Fall 2010](https://www.youtube.com/playlist?list=PLF7D7F81CD5E07497) |
-| 21L.601 | Old English and Beowulf<br>古英语与《贝奥武甫》 | Spring 2023 | [MIT 21L.601J / 24.916J Old English and Beowulf, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP61XcBw73jdcpNO-pju-mFtw) |
-| 21M.303 |  | Spring 2009 | [MIT 21M.303 Writing in Tonal Forms I, Spring 2009](https://www.youtube.com/playlist?list=PL49BDAC7CC3090287) |
-| 21M.342 |  | Fall 2008 | [MIT 21M.342 Composing for Jazz Orchestra, Fall 2008](https://www.youtube.com/playlist?list=PL9790F2170F977E78) |
-| 21M.355 |  | Spring 2013 | [MIT 21M.355 Musical Improvisation, Spring 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP62F1epa3rqtROtvvpmljro3) |
-| 21M.380 |  | Fall 2009 | [MIT 21M.380 Music and Technology, Fall 2009](https://www.youtube.com/playlist?list=PLF9FBF71EC6C744EB) |
-| 21M.383 |  | Spring 2023 | [MIT 21M.383 Computational Music Theory and Analysis, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP62vSB2sI0W8lQFKsmS2-A6R) |
-| 21M.542 |  | n.d. | [MIT 21M.542 Interdisciplinary Approaches to Musical Time](https://www.youtube.com/playlist?list=PLA2EE172FFCF7B9DB) |
-| 21M.873 |  | IAP 2008 | [Suburbia Soundtrack (from MIT 21M.873 Theater Arts Topics - Suburbia, IAP 2008)](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hrs8_s2hZrALZBPpKlE4U) |
-| 22.01 | Introduction to Nuclear Engineering and Ionizing Radiation<br>核工程与电离辐射入门 | Fall 2016 | [MIT 22.01 Introduction to Nuclear Engineering and Ionizing Radiation, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61FVzAxBP09w2FMQgknTOqu) |
-| 22.04 | Social Problems of Nuclear Energy<br>核能的社会问题 | Fall 2025 | [MIT 22.04 Social Problems of Nuclear Energy, Fall 2025](https://www.youtube.com/playlist?list=PLEd-FHe0va8k) |
-| 22.15 | Essential Numerical Methods<br>数值方法精要 | Fall 2014 | [MIT 22.15 Essential Numerical Methods, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63_OOz8w5qDEoqErZ8Hj-fc) |
-| 22.033 | Nuclear Systems Design Project<br>核系统设计项目 | Fall 2011 | [MIT 22.033 Nuclear Systems Design Project, Fall 2011](https://www.youtube.com/playlist?list=PL3C69700955EB813B) |
-| 22.67 | Principles of Plasma Diagnostics<br>等离子体诊断原理 | Fall 2023 | [MIT 22.67J Principles of Plasma Diagnostics, Fall 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP61wK-NwYKZMuABl_eHBmhu4) |
-| 22.091 |  | Spring 2008 | [MIT 22.091 Nuclear Reactor Safety, Spring 2008](https://www.youtube.com/playlist?list=PL9F849721A3694121) |
-| 24.08 | Philosophical Issues in Brain Science<br>脑科学中的哲学问题 | n.d. | [MIT 24.08J Philosophical Issues in Brain Science, Spring 09](https://www.youtube.com/playlist?list=PL8FD2F66DF27A663D) |
-| 24.209 |  | Spring 2004 | [MIT 24.209 Philosophy In Film and Other Media, Spring 2004](https://www.youtube.com/playlist?list=PLEC1CCBE94134A2EE) |
-| 24.213 | Philosophy of Film<br>电影哲学 | Fall 2004 | [MIT 24.213 Philosophy of Film, Fall 2004](https://www.youtube.com/playlist?list=PLE1C625CEEFA6268A) |
-| 24.261 |  | n.d. | [MIT 24.261 Philosophy of Love in the Western World](https://www.youtube.com/playlist?list=PL3794C8CF5B0C7278) |
-| 24.262 |  | n.d. | [MIT 24.262 Feeling & Imagination in Art, Science, Technology](https://www.youtube.com/playlist?list=PL433C14819E174F36) |
-| 24.264 |  | Fall 2005 | [MIT 24.264 Film as Visual and Literary Mythmaking, Fall 2005](https://www.youtube.com/playlist?list=PL3E3D4EBB50237E18) |
-| 24.900 | Introduction to Linguistics<br>语言学入门 | Spring 2022 | [MIT 24.900 Introduction to Linguistics, Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j) |
-| 24.908 |  | Spring 2017 | [MIT 24.908 Creole Language and Caribbean Identities, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP62-sHzh435NhKGnwOkPYk36) |
-| 24.912 | Black Matters: Introduction to Black Studies<br>黑人问题：黑人研究入门 | Spring 2017 | [MIT 24.912 Introduction to Black Studies, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP62ihmDWYj4LMPMdHBHiPa_7) |
-| 24.916J |  | Spring 2023 | [MIT 21L.601J / 24.916J Old English and Beowulf, Spring 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP61XcBw73jdcpNO-pju-mFtw) |
-| CMS.595 |  | Spring 2024 | [MIT CMS.595 Learning, Media, and Technology, Spring 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP62o50fmQKmfbn8HKPvdx9hK) |
-| CMS.608 |  | Spring 2014 | [MIT CMS.608 Game Design, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP63YWzCDORR965yCmHiCKF9Z) |
-| CMS.608 |  | Fall 2010 | [MIT CMS.608 / CMS.864 Game Design, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP61_JVg12Ukxft03EJ7xxdbR) |
-| CMS.611J |  | Fall 2014 | [MIT CMS.611J Creating Video Games, Fall 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP61V4W6yRm1Am5zI94m33dXk) |
-| CMS.701 | Current Debates in Media<br>媒体当前争论 | Spring 2015 | [MIT CMS.701, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP63xToz7GWDscvz1snleEGy-) |
-| CMS.864 |  | Fall 2010 | [MIT CMS.608 / CMS.864 Game Design, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP61_JVg12Ukxft03EJ7xxdbR) |
-| CMS.930 |  | n.d. | [MIT CMS.930 Media, Education, and the Marketplace](https://www.youtube.com/playlist?list=PLBE602A6B51B18AC2) |
-| CMS.S63 |  | Fall 2019 | [MIT CMS.S63 Playful Augmented Reality Audio Design Exploration, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62P75vRBMeDw2yRicNbwRyR) |
-| EC.S06 |  | Fall 2004 | [Project Videos for EC.S06 Practical Electronics, Fall 2004](https://www.youtube.com/playlist?list=PLUl4u3cNGP63zOJ2ghegx1NMxacTm4rYT) |
-| ES.S41 |  | Spring 2012 | [MIT ES.S41 Speak Italian With Your Mouth Full, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP62GsvB-6EwEE0F0frXtyhYq) |
-| ES.S41 |  | n.d. | [How We Teach: MIT ES.S41 Speak Italian With Your Mouth Full, S12](https://www.youtube.com/playlist?list=PLUl4u3cNGP61o1jIq_B9zV9jFYttvRLiz) |
-| ESD.051J |  | Fall 2012 | [MIT ESD.051J Engineering Innovation and Design, Fall 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP609OH-2FgicTZbQnhCVL7Hh) |
-| ESD.57 |  | Fall 2007 | [MIT ESD.57 Technology-based Business Transformation, Fall 2007(Select Lectures)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62t1Ub1C6XazHCkbiTE48TA) |
-| ESD.62J |  | IAP 2012 | [MIT 16.660J / ESD.62J / 16.853 Introduction to Lean Six Sigma Methods, IAP 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP60dsF8ICyGEiSJcTYzQWSVZ) |
-| ESD.290 |  | n.d. | [MIT ESD.290 Special Topics in Supply Chain Management](https://www.youtube.com/playlist?list=PLF9071540F59BA1F0) |
-| ESD.932 |  | Spring 2006 | [MIT ESD.932 Engineering Ethics, Spring 2006](https://www.youtube.com/playlist?list=PLUl4u3cNGP61YF5HCMnGUwJ8D-PNNs3OR) |
-| ESD.S43 |  | Spring 2014 | [MIT ESD.S43 Green Supply Chain Management, Spring 2014](https://www.youtube.com/playlist?list=PLUl4u3cNGP632pcFMkw9J-JWmasU6rFcn) |
-| HST.508 | Evolutionary and Quantitative Genomics<br>进化与数量基因组学 | Fall 2002 | [MIT HST.508 Genomics and Computational Biology, Fall 2002](https://www.youtube.com/playlist?list=PLUl4u3cNGP61gaHWysmlYNeGsuUI8y5GV) |
-| HST.512 |  | Spring 2004 | [MIT HST.512 Genomic Medicine, Spring 2004](https://www.youtube.com/playlist?list=PLUl4u3cNGP613PJMNmRjAIdBr76goU1V5) |
-| HST.583 |  | Fall 2008 | [Supplemental diffusion videos for slides 24-27 for HST.583 Fall 2008](https://www.youtube.com/playlist?list=PLUl4u3cNGP631T73sX-st9yEnrZ-pqAhX) |
-| HST.S14 |  | Spring 2012 | [MIT HST.S14 Health Information Systems, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP62lAvsV9K1PMR_J-Ag5vVOm) |
-| IDS.333 | System Design and Management for a Changing World: Tools<br>变化世界中的系统设计与管理：工具 | Fall 2021 | [MIT IDS.333 Risk and Decision Analysis, Fall 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC) |
-| MAS.531 |  | Fall 2009 | [MIT MAS.531 Computational Camera and Photography, Fall 2009](https://www.youtube.com/playlist?list=PLUl4u3cNGP61pwA6paIRZ30q1sjLE8b6c) |
-| MAS.962 |  | Spring 2010 | [MIT MAS.962 Special Topics: New Textiles, Spring 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP62KuY_lVKJl2bmE2JUSZA-R) |
-| MAS.S62 |  | Spring 2018 | [MIT MAS.S62 Cryptocurrency Engineering and Design, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP61KHzhg3JIJdK08JLSlcLId) |
-| PE.920 |  | Spring 2005 | [Projects for PE.920 PE For ME, Spring 2005](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UuOS_DSdoIYvIrbQHXYfF) |
-| RES.1-002 |  | Fall 2023 | [MIT RES.1-002 Introduction to R and Geographical Information Systems (GIS), Fall 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP602LxEgWcCyo89B2Q-zg8gm) |
-| RES.2-006 |  | Summer 2016 | [MIT RES.2-006 Girls Who Build Cameras, Summer 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP615HAaYHGj9xugSAQay06Je) |
-| RES.3-002 |  | n.d. | [MIT RES.3-002 Collaborative Design & Creative Expression, IAP17](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Ir_IGI7XgyzJ_fy06n6AP) |
-| RES.3-003 |  | IAP 2017 | [MIT RES.3-003 Learn to Build Your Own Videogame with the Unity Game Engine and Microsoft Kinect, IAP 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP60ZaGv5SgpIk67YnH1WqCLI) |
-| RES.3-004 |  | Fall 2017 | [MIT RES.3-004 Visualizing Materials Science, Fall 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EJXwSgoVRfh1tEiSc01bh) |
-| RES.6 |  | 1987 | [MIT RES.6.007 Signals and Systems, 1987](https://www.youtube.com/playlist?list=PL41692B571DD0AF9B) |
-| RES.6-006 |  | n.d. | [MIT RES.6-006 Video Demonstrations in Lasers and Optics](https://www.youtube.com/playlist?list=PL4E7FAAD67B171EBC) |
-| RES.6-008 |  | 1975 | [MIT RES.6-008 Digital Signal Processing, 1975](https://www.youtube.com/playlist?list=PL8157CA8884571BA2) |
-| RES.6-012 |  | Spring 2018 | [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) |
-| RES.8-007 |  | Fall 2019 | [MIT RES.8-007 Cosmic Origin of the Chemical Elements, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62In5JXH39ct5JtXja3VGJJ) |
-| RES.9-003 |  | Summer 2015 | [MIT RES.9-003 Brains, Minds and Machines Summer Course, Summer 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP61RTZrT3MIAikp2G5EEvTjf) |
-| RES.10-001 |  | Spring 2016 | [MIT RES.10-001 Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63Aq55nsHOxWyzKzohEOiDf) |
-| RES.10-S95 |  | Fall 2020 | [MIT RES.10-S95 Physics of COVID-19 Transmission, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP62-vPzt_GMdZRflJPjNdspG) |
-| RES.11-002 |  | Fall 2017 | [MIT RES.11-002 Intentional Public Disruptions: Art, Responsibility, and Pedagogy, Fall 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP63QSCvqM7qgvn66CiR8cz2d) |
-| RES.11-004 |  | Fall 2024 | [MIT RES.11-004 Facilitative Leadership in the Public Sector, Fall 2024](https://www.youtube.com/playlist?list=PLUl4u3cNGP60O02XvPeXfmDpv3Dir9q0T) |
-| RES.12-003 |  | Fall 2025 | [MIT RES.12-003 Fluid Motions, Sediment Transport, and Current-Generated Sedimentary Structures, Fall 2025](https://www.youtube.com/playlist?list=PLUl4u3cNGP60q1Ib4pyz_FBs_lYUPr9MN) |
-| RES.14-004 |  | n.d. | [MIT RES.14-004 Seven Questions About Tariffs That Everyone Should Know The Answer To](https://www.youtube.com/playlist?list=PLUl4u3cNGP62goyD7uXpkLCLMiYAwu83q) |
-| RES.15-003 |  | Spring 2016 | [MIT RES.15-003 Shaping the Future of Work, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Iarlv9eLlXmTMybRZR1-1) |
-| RES.15-004 |  | IAP 2020 | [MIT OCW: RES.15-004 System Dynamics: Systems Thinking and Modeling for a Complex World, IAP 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63Dur3imUjY08z92ypMphQ3) |
-| RES.16-001 |  | n.d. | [MIT Lean Enterprise en Español (RES.16-001)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60AdemEHcrL_HHdZA9QRCwQ) |
-| RES.16-9960 |  | Spring 2026 | [MIT RES.16-9960 The Engineering Student’s Guide to Effective Technical Communication, Spring 2026](https://www.youtube.com/playlist?list=PLbunUf3SkvCc) |
-| RES.21G-001 |  | Spring 2016 | [MIT RES.21G-001 The User-Friendly Classroom, Spring 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP63fCab3HxkgpDsJ9nqgAs7k) |
-| RES.21G-506 |  | Spring 2021 | [MIT RES.21G-506 Kanji Learning Any Time, Any Place: Kanji Video Lectures for Japanese VI, Spring 2021](https://www.youtube.com/playlist?list=PLUl4u3cNGP61fAaIcu3q0XpVFzLIum9n5) |
-| RES.EC-001 |  | Spring 2020 | [MIT RES.EC-001 Exploring Fairness in Machine Learning, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63IFQn8FklBOUhYVcmaxpOX) |
-| RES.ENV-001 |  | IAP 2017 | [MIT RES.ENV-001 Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon, IAP 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP61xqZslNqA-MO4n6MHG2Dio) |
-| RES.ENV-003 |  | Fall 2019 | [MIT RES.ENV-003 EarthDNA's Climate 101, Fall 2019](https://www.youtube.com/playlist?list=PLUl4u3cNGP62dJnNOqqYc-51nyfg66iJJ) |
-| RES.ENV-007 |  | n.d. | [RES.ENV-007 Geothermal Energy Networks: Transforming Our Thermal Energy System](https://www.youtube.com/playlist?list=PLUl4u3cNGP610dVbCqAtl4zWwVv_Qi3El) |
-| RES.LL-004 |  | Spring 2022 | [MIT RES.LL-004 LL EduCATE: Introduction to Engineering Concepts, Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63HVH1wnIgj4UCKXBwx3UWR) |
-| RES.LL-005 |  | IAP 2020 | [MIT RES.LL-005 Mathematics of Big Data and Machine Learning, IAP 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) |
-| RES.SUD-01 |  | Spring 2025 | [MIT RES.SUD-01 Substance Use Disorders Ventures Program, Spring 2025](https://www.youtube.com/playlist?list=PLUl4u3cNGP60O8-oSngUwSGC1J2EhNKsa) |
-| SP.248 |  | Fall 2022 | [MIT SP.248 NEET Ways of Thinking, Fall 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP632sNhilFWDK_ZFoulP5SXO) |
-| SP.775 |  | Spring 2011 | [MIT SP.775 D-Lab: Energy, Spring 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP63kMaprSQU5oMSj-YuWeoWA) |
-| STS.042 | Einstein, Oppenheimer, Feynman: Physics in the 20th Century<br>爱因斯坦、奥本海默、费曼：20世纪的物理学 | Fall 2020 | [MIT STS.042J Einstein, Oppenheimer, Feynman: Physics In The 20th Century, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63bAfjGas3TuA4ZCPUtN6Xf) |
-| STS.050 |  | Spring 2011 | [MIT STS.050 The History of MIT, Spring 2011](https://www.youtube.com/playlist?list=PL7590BF3B139A354D) |
-| STS.064J |  | Spring 2011 | [MIT 21A.550J/STS.064J DV Lab: Documenting Science Through Video and New Media, Spring 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61EXhUSGCUWD5mEwdRWaTrq) |
-| STS.069 |  | Fall 2002 | [MIT STS.069 Technology in a Dangerous World, Fall 2002](https://www.youtube.com/playlist?list=PL933119564BA1FAF3) |
-| STS.081J |  | Spring 2017 | [MIT STS.081J/17.395J Innovation Systems for Science, Tech, Energy, Manufacturing & Health, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP61GOiMKYgTzHpf8x6iiblaV) |
-
-## Other Playlists
-
-| Playlist |
-|---|
-| [OCW Updates](https://www.youtube.com/playlist?list=PLPwp-pBJMQ8M) |
-| [Celebrating 25 years of MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP62NmnKzljcNJDduJNUeHrZ8) |
-| [MIT AI + Open Education Initiative Speaker Series](https://www.youtube.com/playlist?list=PLUl4u3cNGP61TqXrdKbZtb59uXsy5tCXN) |
-| [Lecture Clips](https://www.youtube.com/playlist?list=PLUl4u3cNGP60xNyFLjBzgO8wpiAxFnnyq) |
-| [Climate Science, Risk and Solutions: The MIT Climate Primer](https://www.youtube.com/playlist?list=PLUl4u3cNGP61T-DtRxb6y1vR5olcAj3Lb) |
-| [5 Million Subscribers – An OCW Odyssey](https://www.youtube.com/playlist?list=PLUl4u3cNGP62XZz7I7TSAYMccjHppZ4Ki) |
-| [Navigating Open Licensing: Strategies for Access and Reuse](https://www.youtube.com/playlist?list=PLUl4u3cNGP618phAnvEiCL5imL9eHxBwV) |
-| [MIT Kanji Learning Any Time, Any Place For Japanese V, Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Mr5APSizHgFa0hRiWgPln) |
-| [AI 101 with Brandon Leshchinskiy](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O2kne_fe_Clsqvu0b3kcu) |
-| [From MIT Open Learning and OCW](https://www.youtube.com/playlist?list=PLUl4u3cNGP62M6ani90GCD9-KTYNYq3V1) |
-| [MIT OLL: Getting up to Speed in Biology, Summer 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP629Egng0HfgRJfXBNTPw1le) |
-| [A Vision of Linear Algebra](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) |
-| [Chalk Radio® Podcast](https://www.youtube.com/playlist?list=PLUl4u3cNGP63YwKIMA9K08FFvdeBEl6Lo) |
-| [How To Speak by Patrick Winston](https://www.youtube.com/playlist?list=PLUl4u3cNGP60eUvXa1jfVT9BsBsqAICr_) |
-| [Drennan Research and Education Laboratory: Diversity Training](https://www.youtube.com/playlist?list=PLUl4u3cNGP63CvRtMNrIe12qBKV5Fsh5a) |
-| [2 Million Subscribers! THANK YOU!!!](https://www.youtube.com/playlist?list=PLUl4u3cNGP611V2SjOwuGMGTAueWf37lE) |
-| [MIT Indian Institutes of Technology Joint Entrance Exam Preparation, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60DHnW0T9njV2tNlcns2Feb) |
-| [OCW Scholar promotion](https://www.youtube.com/playlist?list=PLUl4u3cNGP61XU3CuDCsVcOChZybTdruR) |
-| [MIT Learn Differential Equations](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) |
-| [MIT D4M: Signal Processing on Databases, Fall 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP62DPmPLrVyYfk3-Try_ftJJ) |
-| [MIT Reducing the Danger of Nuclear Weapons & Proliferation](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BVuW2zqHCuR6BCr2DoNce) |
-| [MITx on edX course trailers](https://www.youtube.com/playlist?list=PLUl4u3cNGP63_l7MyZXbUmmmd18JTfe4O) |
-| [MIT Making Science and Engineering Pictures](https://www.youtube.com/playlist?list=PLUl4u3cNGP62u0NhYTD1_h0ub_D4MGhuz) |
-| [MIT STEM Concept Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP62AgynOGHPVHTgncwak-EuP) |
-| [MIT Vibrations and Waves Problem Solving Help Videos, Fall 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP62JTiv0epD_FMmUV6Y7wMv_) |
-| [MIT Electronic Feedback Systems (1985)](https://www.youtube.com/playlist?list=PLUl4u3cNGP62in17jH_DiJMkCGNM6Xni-) |
-| [MIT Atmosphere, Ocean and Climate Dynamics, Fall 2008](https://www.youtube.com/playlist?list=PLUl4u3cNGP61PT7wdAKtEHco5jJADfM6O) |
-| [MIT Chemistry Behind the Magic](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UxHfpB-qh6rGkVVZNbtxo) |
-| [MIT Chemistry in Action: Profiles of MIT Researchers](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BKv8rqC33NN9Hqa7T54zp) |
-| [ChemLab Boot Camp](https://www.youtube.com/playlist?list=PLUl4u3cNGP62RGk3NhGPDaOBLH9eRmjOL) |
-| [Electromagnetic Fields & Energy, Textbook Components w Video](https://www.youtube.com/playlist?list=PL74058E54264993C8) |
-| [MIT Calculus Revisited: Calculus of Complex Variables](https://www.youtube.com/playlist?list=PLD971E94905A70448) |
-| [MIT Calculus Revisited: Multivariable Calculus](https://www.youtube.com/playlist?list=PL1C22D4DED943EF7B) |
-| [OCW Consortium Global Conference - May 2011](https://www.youtube.com/playlist?list=PL7838E00A5177CBBA) |
-| [MIT Nonlinear Finite Element Analysis](https://www.youtube.com/playlist?list=PL75C727EA9F6A0E8B) |
-| [MIT Linear Finite Element Analysis](https://www.youtube.com/playlist?list=PLD4017FC423EC3EB5) |
-| [MIT OpenCourseWare News](https://www.youtube.com/playlist?list=PL99CEF7275FF9F6D2) |
-| [MIT Calculus Revisited: Single Variable Calculus](https://www.youtube.com/playlist?list=PL3B08AE665AB9002A) |
-| [MIT Abdul Latif Jameel Poverty Action Lab Executive Training](https://www.youtube.com/playlist?list=PLFDDC7E64FF1EE996) |
-| [Highlights of Calculus](https://www.youtube.com/playlist?list=PLBE9407EA64E2C318) |
-| [MIT Understanding Lasers and Fiberoptics](https://www.youtube.com/playlist?list=PL6F914D0CF944737A) |
-| [MIT Digital Lab Techniques Manual](https://www.youtube.com/playlist?list=PLB208D0FA80AD438F) |
-| [MIT: Joint Fact Finding in Science Intensive Policy Disputes](https://www.youtube.com/playlist?list=PL4FE9A73665C8A446) |
-| [MIT Exploring Black Holes: General Relativity & Astrophysics](https://www.youtube.com/playlist?list=PL858478F1EC364A2C) |
-| [My Top Videos](https://www.youtube.com/playlist?list=PL9D1D16562A5A2A1D) |
-| [MIT OpenCourseWare Milestone Celebration, Nov 28, 2007](https://www.youtube.com/playlist?list=PL279CA243FCDCF6C0) |
+| **[2.1 Civil and Environmental Engineering (Course 1)](civil-and-environmental-engineering-course-1/index.md)**<br>土木与环境工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.2 Mechanical Engineering (Course 2)](mechanical-engineering-course-2/index.md)**<br>机械工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.3 Materials Science and Engineering (Course 3)](materials-science-and-engineering-course-3/index.md)**<br>材料科学与工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.4 Architecture (Course 4)](architecture-course-4/index.md)**<br>建筑学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.5 Chemistry (Course 5)](chemistry-course-5/index.md)**<br>化学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.6 Electrical Engineering and Computer Science (Course 6)](electrical-engineering-and-computer-science-course-6/index.md)**<br>电子工程与计算机科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.7 Biology (Course 7)](biology-course-7/index.md)**<br>生物学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.8 Physics (Course 8)](physics-course-8/index.md)**<br>物理学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.9 Brain and Cognitive Sciences (Course 9)](brain-and-cognitive-sciences-course-9/index.md)**<br>脑与认知科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.10 Chemical Engineering (Course 10)](chemical-engineering-course-10/index.md)**<br>化学工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.11 Urban Studies and Planning (Course 11)](urban-studies-and-planning-course-11/index.md)**<br>城市研究与规划 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.12 Earth, Atmospheric, and Planetary Sciences (Course 12)](earth-atmospheric-and-planetary-sciences-course-12/index.md)**<br>地球、大气与行星科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.13 Economics (Course 14)](economics-course-14/index.md)**<br>经济学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.14 Management (Course 15)](management-course-15/index.md)**<br>管理学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.15 Aeronautics and Astronautics (Course 16)](aeronautics-and-astronautics-course-16/index.md)**<br>航空航天 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.16 Political Science (Course 17)](political-science-course-17/index.md)**<br>政治学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.17 Mathematics (Course 18)](mathematics-course-18/index.md)**<br>数学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.18 Biological Engineering (Course 20)](biological-engineering-course-20/index.md)**<br>生物工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.19 Anthropology (Course 21A)](anthropology-course-21a/index.md)**<br>人类学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.20 Global Languages (Course 21G)](global-languages-course-21g/index.md)**<br>全球语言 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.21 History (Course 21H)](history-course-21h/index.md)**<br>历史 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.22 Literature (Course 21L)](literature-course-21l/index.md)**<br>文学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.23 Music (Course 21M)](music-course-21m/index.md)**<br>音乐 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.24 Nuclear Science and Engineering (Course 22)](nuclear-science-and-engineering-course-22/index.md)**<br>核科学与工程 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.25 Linguistics and Philosophy (Course 24)](linguistics-and-philosophy-course-24/index.md)**<br>语言学与哲学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.26 Comparative Media Studies / Writing (CMS)](comparative-media-studies-writing-cms/index.md)**<br>比较媒体研究／写作 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.27 Edgerton Center (EC)](edgerton-center-ec/index.md)**<br>埃杰顿中心 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.28 Experimental Study Group (ES)](experimental-study-group-es/index.md)**<br>实验学习小组 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.29 Health Sciences and Technology (HST)](health-sciences-and-technology-hst/index.md)**<br>健康科学与技术 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.30 Data, Systems, and Society (IDS)](data-systems-and-society-ids/index.md)**<br>数据、系统与社会 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.31 Media Arts and Sciences (MAS)](media-arts-and-sciences-mas/index.md)**<br>媒体艺术与科学 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.32 Science, Technology, and Society (STS)](science-technology-and-society-sts/index.md)**<br>科学、技术与社会 | (Definition pending) | （定义待补） | [Massachusetts Institute of Technology, n.d.](https://catalog.mit.edu/subjects/) |
+| **[2.33 Other Numbers](other-numbers/index.md)**<br>其他编号 | (Definition pending) | （定义待补） | [MIT OpenCourseWare, n.d.](https://www.youtube.com/@mitocw/playlists) |
+| **[2.34 Other Playlists](other-playlists/index.md)**<br>其他播放列表 | (Definition pending) | （定义待补） | [MIT OpenCourseWare, n.d.](https://www.youtube.com/@mitocw/playlists) |
 
 ## References
 
 MIT OpenCourseWare. (n.d.). *Playlists* [YouTube channel]. Retrieved November 20, 2026, from <https://www.youtube.com/@mitocw/playlists>
 
-Massachusetts Institute of Technology. (n.d.). *MIT Course Catalog 2026-2027*. Retrieved November 18, 2026, from <https://catalog.mit.edu/>
+Massachusetts Institute of Technology. (n.d.). *Subjects*. MIT Course Catalog. Retrieved November 20, 2026, from <https://catalog.mit.edu/subjects/>
