@@ -63,3 +63,24 @@ items:
     href: international-students/department-of-education.md
   - name: "11.4 IRCC"
     href: international-students/ircc.md
+- name: "12. PR Routes"
+  href: pr-routes/index.md
+  items:
+  - name: "12.1 Five Directions Summary"
+    href: pr-routes/five-directions-summary.md
+  - name: "12.2 Veterinarian"
+    href: pr-routes/veterinarian.md
+  - name: "12.3 Veterinarian, First Version"
+    href: pr-routes/veterinarian-first-version.md
+  - name: "12.4 Physiotherapist"
+    href: pr-routes/physiotherapist.md
+  - name: "12.5 Pilot"
+    href: pr-routes/pilot.md
+  - name: "12.6 Mining"
+    href: pr-routes/mining.md
+  - name: "12.7 Petroleum"
+    href: pr-routes/petroleum.md
+  - name: "12.8 Manitoba College Programs"
+    href: pr-routes/manitoba-college-programs.md
+  - name: "12.9 College to Degree: Nursing and Veterinary Technician"
+    href: pr-routes/college-to-degree.md
