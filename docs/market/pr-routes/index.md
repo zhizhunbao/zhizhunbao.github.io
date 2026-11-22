@@ -20,3 +20,4 @@ ms.date: 2026-11-22
 | **[Petroleum](petroleum.md)**<br>石油方向 PR 路线报告 | (Definition pending) | （定义待补） | (Source pending) |
 | **[Manitoba College Programs](manitoba-college-programs.md)**<br>去曼省读学院拿 PR：专业排名 | (Definition pending) | （定义待补） | (Source pending) |
 | **[College to Degree: Nursing and Veterinary Technician](college-to-degree.md)**<br>学院护士与兽医技术员能否升本：安省以外路线对比 | (Definition pending) | （定义待补） | (Source pending) |
+| **[Two-Year College Programs](two-year-college-programs.md)**<br>能拿 3 年毕业工签的学院课程：五个方向，安省以外 | (Definition pending) | （定义待补） | (Source pending) |
