@@ -38,6 +38,7 @@ ms.date: 2026-10-29
 | **[21 Logistic Regression](logistic-regression/index.md)**<br>逻辑斯谛回归 | (No definition) | （无定义） | [Çetinkaya-Rundel & Hardin, 2024](https://openintro-ims.netlify.app/) |
 | **[22 Cross-validation](cross-validation/index.md)**<br>交叉验证 | (No definition) | （无定义） | [Çetinkaya-Rundel & Hardin, 2024](https://openintro-ims.netlify.app/) |
 | **[23 Bayesian Statistics](bayesian-statistics/index.md)**<br>贝叶斯统计 | (No definition) | （无定义） | [Poldrack, 2023, chapter 11](https://statsthinking21.github.io/statsthinking21-core-site/bayesian-statistics.html) |
+| **[24 Comparing Proportions](comparing-proportions/index.md)**<br>比例的比较 | (No definition) | （无定义） | [NIST/SEMATECH, n.d., section 7.2.4](https://www.itl.nist.gov/div898/handbook/prc/section2/prc24.htm) |
 
 ## References
 
@@ -48,3 +49,5 @@ Weisstein, E. W. (n.d.). *Statistics*. MathWorld: A Wolfram Resource. Retrieved 
 Çetinkaya-Rundel, M., & Hardin, J. (2024). *Introduction to modern statistics* (2nd ed.). OpenIntro. Retrieved October 28, 2026, from <https://openintro-ims.netlify.app/>
 
 Poldrack, R. A. (2023). *Statistical thinking for the 21st century*. Retrieved October 29, 2026, from <https://statsthinking21.github.io/statsthinking21-core-site/>
+
+NIST/SEMATECH. (n.d.). *NIST/SEMATECH e-Handbook of Statistical Methods*. National Institute of Standards and Technology. Retrieved November 24, 2026, from <https://www.itl.nist.gov/div898/handbook/>

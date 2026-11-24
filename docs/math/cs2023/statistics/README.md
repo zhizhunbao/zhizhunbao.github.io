@@ -361,3 +361,23 @@ What the book lacks is added as chapters 20 to 23: bootstrapping, logistic regre
 | Weakly Informative Priors | 11.5 | gap | the page shows a broken character for the apostrophe; written as ’ |
 | Empirical Priors | 11.5 | gap |  |
 | Bayes Factor | 11.6.1 | gap |  |
+
+## Chapter 24 Comparing Proportions
+
+Added 2026-11-24 for what the book lacks on proportions (the Offer2PR pay-rate report): Wilson intervals, sample sizes and tests for proportions from the *NIST/SEMATECH e-Handbook of Statistical Methods* (U.S. government work, quoted word for word), sections 7.2.4.1, 7.2.4.2 and 7.3.3, cached 2026-11-24 (`references/official-docs/urls_kb_conversion_stats_20261124.txt`, `--plain`); and a Bayesian comparison of two proportions after Miller, *Formulas for Bayesian A/B Testing* (2015), which is not openly licensed, so that page links the source and states the formulas and conditions in my own words, with its terms marked (No definition). Pages carry the handbook's section numbers. Skeleton without figures: the chapter figure and page figures wait for the user's confirmation. Left out: the terms the handbook names that the site already defines in chapters 11 and 13 (statistical significance, statistical power) and the worked examples.
+
+| Term | Section | Placed by | Note |
+|---|---|---|---|
+| Wilson Method | 7.2.4.1 | title |  |
+| Wilson Interval Limits | 7.2.4.1 | title | the handbook's formula block, TeX as on the page |
+| One-Sided Confidence Interval | 7.2.4.1 | title |  |
+| Exact Confidence Interval | 7.2.4.1 | by hand | from the "Note" row |
+| Agresti-Coull Method | 7.2.4.1 | by hand | from the "Terminology Note" row |
+| Change in the Proportion Defective | 7.2.4.2 | by hand | $\delta$ in "Problem formulation"; the bar written as \vert |
+| Minimum Sample Size | 7.2.4.2 | title | two-sided formula only |
+| Continuity Correction | 7.2.4.2 | title |  |
+| Z Statistic for Equal Proportions | 7.3.3 | by hand | Case 1 |
+| Fisher Exact Probability Test | 7.3.3 | title | Case 2 |
+| Tocher's Modification | 7.3.3 | title |  |
+| Beta Posterior of a Proportion | Bayesian | by hand | (No definition); own-words formula |
+| Probability That B Beats A | Bayesian | by hand | (No definition); own-words formula |

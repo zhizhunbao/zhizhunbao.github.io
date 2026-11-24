@@ -688,6 +688,17 @@ items:
       href: statistics/bayesian-statistics/11-5-choosing-a-prior.md
     - name: "11.6 Bayesian Hypothesis Testing"
       href: statistics/bayesian-statistics/11-6-bayesian-hypothesis-testing.md
+  - name: "24 Comparing Proportions"
+    href: statistics/comparing-proportions/index.md
+    items:
+    - name: "7.2.4.1 Confidence Intervals"
+      href: statistics/comparing-proportions/7-2-4-1-confidence-intervals.md
+    - name: "7.2.4.2 Sample Sizes Required"
+      href: statistics/comparing-proportions/7-2-4-2-sample-sizes-required.md
+    - name: "7.3.3 Same Proportion of Defectives"
+      href: statistics/comparing-proportions/7-3-3-same-proportion-of-defectives.md
+    - name: "Bayesian Comparison of Two Proportions"
+      href: statistics/comparing-proportions/bayesian-comparison-of-two-proportions.md
 - name: "4. Linear Algebra"
   href: linear-algebra/index.md
   items:
