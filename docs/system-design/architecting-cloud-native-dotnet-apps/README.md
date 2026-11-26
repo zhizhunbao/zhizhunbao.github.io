@@ -8,14 +8,14 @@ Why it is here (2026-11-11): CST8915 Lecture 6 (Container Orchestration I) takes
 
 Status (2026-11-11): skeleton. The ten chapters are pages numbered in the book's order (the web edition has no numbers); each article is a page under its chapter. 1.1 is renamed to the term it defines (the title "What is Cloud Native?" names Cloud Native) and lists its seven sections that hold terms as groups. The other pages keep their table-of-contents titles until they are read.
 
-Abbreviation full forms: AMQP (4.2) = "Advanced Message Queuing Protocol", from Microsoft Learn, *Overview of AMQP 1.0 in Azure Service Bus* (https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-overview, cached).
+Abbreviation full forms: CI/CD (1.1) = "continuous integration/continuous delivery", from the e-book's own DevOps article, section GitHub Actions. AMQP (4.2) = "Advanced Message Queuing Protocol", from Microsoft Learn, *Overview of AMQP 1.0 in Azure Service Bus* (https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-overview, cached).
 
 Left out (no terms): "Deploying eShopOnContainers to Azure" (a how-to: deployment steps for the reference app) and "Summary - Architecting cloud-native .NET apps for Azure" (a closing recap).
 
 | Page | Learn slug | Read |
 |---|---|---|
 | 1. Introduction to Cloud-Native Applications | introduction | no |
-| 1.1 Cloud Native | definition | groups listed; 1.1.6 Backing services written 2026-11-11 (managed backing services, attached resource, Statelessness) |
+| 1.1 Cloud Native | definition | groups listed; 1.1.6 Backing services written 2026-11-11 (managed backing services, attached resource, Statelessness); 1.1.1 and 1.1.7 Automation written 2026-11-25 (IaC, idempotent, CI/CD, inner loop, CI, CD; CST8915 Week 12) |
 | 1.2 Candidate Apps for Cloud Native | candidate-apps | no |
 | 2. Introducing the eShopOnContainers Reference App | introduce-eshoponcontainers-reference-app | no |
 | 2.1 Mapping eShopOnContainers to Azure Services | map-eshoponcontainers-azure-services | groups listed; 2.1.4 Event Bus written 2026-11-18 (RabbitMQ, Azure Service Bus and topics as context rows; CST8915 Week 11) |
@@ -51,7 +51,7 @@ Left out (no terms): "Deploying eShopOnContainers to Azure" (a how-to: deploymen
 | 8.3 Identity Server | identity-server | no |
 | 9. Cloud-Native Security | security | no |
 | 9.1 Azure Security for Cloud-Native Apps | azure-security | no |
-| 10. DevOps | devops | no |
+| 10. DevOps | devops | chapter row and GitHub Actions written 2026-11-25 (CST8915 Week 12); the article's other sections (Azure DevOps, Source control, Task management, CI/CD pipelines) not read for terms |
 | 10.1 Feature Flags | feature-flags | no |
-| 10.2 Infrastructure as Code | infrastructure-as-code | no |
+| 10.2 Infrastructure as Code | infrastructure-as-code | written 2026-11-25: opening, 10.2.1 Azure Resource Manager templates (ARM), 10.2.2 Terraform (cloud agnostic, HCL), 10.2.3 Azure CLI Scripts and Tasks (group row only); no figure yet (CST8915 Week 12) |
 | 10.3 Cloud Native Application Bundles | application-bundles | no |
