@@ -6,8 +6,6 @@ ms.date: 2026-11-24
 
 # CST8913 Oral Exam Practice: EuroRetail Case
 
-教授 2026-11-23 在 Brightspace 发的样例案例。标题按原件目录的层级编号，Description 列是原件原话。公告原话：“Please note that this is only a sample and is not the actual oral exam we will use this year.”
-
 ## 1. Case Study – EuroRetail Group Cloud Migration
 
 ### 1.1 Organization overview
