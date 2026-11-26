@@ -1,5 +1,9 @@
 items:
 - name: "CST8913 Cloud Migration"
   href: index.md
+- name: "CST8913 Oral Exam: MapleCare Case"
+  href: cst8913-oral-exam.md
+- name: "CST8913 Oral Exam Practice: EuroRetail Case"
+  href: cst8913-oral-exam-practice.md
 - name: "CST8914 Accessible by Design"
   href: cst8914.md
