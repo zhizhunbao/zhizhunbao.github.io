@@ -7,8 +7,6 @@
 // of the numbered heading before it, line by line. Without files the browser's own speech synthesis (Web Speech API)
 // reads it line by line, with the most natural English voice the browser has (Edge's "Natural" voices, then Google's,
 // before the robotic Windows desktop voices).
-// Short answers (since 2026-11-27, the CST8914 oral exam practice page): a table row whose cell reads "Short answer" gets
-// a button in its answer cell; audio.json's "answers" lists one MP3 per short answer in page order.
 // Section titles: a reading starts with the numbered heading above its quote or table, highlighted while read;
 // audio.json's "headings" maps a section number to its recording.
 // Step tables (same page): a table whose header starts "Step | Action" gets a button above it that reads its rows in
@@ -76,7 +74,6 @@ function voice() {
 // nested list under it is not highlighted with it).
 function linesOf(quote) {
   if (quote._lines) return quote._lines
-  if (quote.tagName === 'TD') return (quote._lines = [quote])
   if (quote.tagName === 'TABLE') return (quote._lines = [...quote.tBodies[0].rows])
   const out = []
   const walk = (node) => {
@@ -224,7 +221,7 @@ async function recordings() {
     const r = await fetch(new URL(`media/${slug}.audio.json`, location.href), { cache: 'no-store' })
     if (!r.ok) return null
     const data = await r.json()
-    return { sections: data.sections || {}, answers: data.answers || [], tables: data.tables || [], headings: data.headings || {}, base: new URL('media/', location.href) }
+    return { sections: data.sections || {}, tables: data.tables || [], headings: data.headings || {}, base: new URL('media/', location.href) }
   } catch {
     return null
   }
@@ -235,12 +232,9 @@ export async function readAloud(body) {
   const hasSpeech = 'speechSynthesis' in window
   if (hasSpeech) speechSynthesis.getVoices() // starts loading the voice list before the first click
   const quotes = [...body.querySelectorAll('blockquote')].filter((q) => isEnglish(q.innerText))
-  const answers = [...body.querySelectorAll('tr')]
-    .filter((tr) => [...tr.cells].some((c) => c.textContent.trim() === 'Short answer'))
-    .map((tr) => tr.cells[tr.cells.length - 1])
   const tables = [...body.querySelectorAll('table')].filter((t) => t.rows[0]?.cells[0]?.textContent.trim() === 'Step'
     && /^Action/.test(t.rows[0]?.cells[1]?.textContent.trim() || '') && t.tBodies[0]?.rows.length)
-  if (!quotes.length && !answers.length && !tables.length) return
+  if (!quotes.length && !tables.length) return
   const rec = await recordings()
   tables.forEach((t, i) => {
     const files = rec?.tables?.[i]
@@ -251,15 +245,6 @@ export async function readAloud(body) {
   for (const t of playableTables) {
     const b = makeButton(LABEL, 'kb-speak', () => start(b, LABEL, [t]))
     place(b, t)
-  }
-  answers.forEach((cell, i) => {
-    const file = rec?.answers[i]
-    if (file) cell._audio = [new URL(file, rec.base).href]
-  })
-  const playableAnswers = answers.filter((c) => c._audio || hasSpeech)
-  for (const cell of playableAnswers) {
-    const b = makeButton(LABEL, 'kb-speak kb-speak-cell', () => start(b, LABEL, [cell]))
-    cell.prepend(b)
   }
   const h1 = body.querySelector('h1')
   if (playableTables.length > 1) {
