@@ -124,54 +124,165 @@ ms.date: 2026-11-24
 
 #### 1.4.1 Phase 0 – Assessment & Readiness
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Discovery** | The **Azure Migrate appliance** discovers the **120 VMs** and their **dependencies**. | **Azure Migrate 设备**发现 **120 台虚拟机**和它们之间的**依赖**。 | VM 即 virtual machine，虚拟机。 |
-| **Assessment** | **Readiness, sizing and cost** for each workload. | 每个工作负载的**就绪度、规格和费用**。 |  |
-| **PHIPA review** | Confirm which systems hold **patient data** and where that data **may live**. | 确认哪些系统有**病人数据**，这些数据**能放在哪里**。 | PHIPA 即 Personal Health Information Protection Act，个人健康信息保护法。 |
-| **Training plan** | **Azure skills training** for the **8-person IT team**. | 给 **8 人 IT 团队**做 **Azure 技能培训**。 | IT 即 information technology，信息技术。 |
-| **Communication plan** | Agree the plan with the **clinics** and the **EMR vendor**. | 和**诊所**以及 **EMR 厂商**对齐计划。 | EMR 即 Electronic Medical Record，电子病历。 |
+```text
+Phase 0 Assessment & Readiness
+├─ Assessment
+│   ├─ Azure Migrate
+│   └─ Dependencies
+├─ Compliance
+│   └─ PHIPA
+├─ Training
+│   ├─ Azure skills
+│   └─ 8-person IT team
+└─ Communication
+    ├─ Clinics
+    └─ EMR vendor
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Assessment** | **Azure Migrate** | 120 VMs: readiness, size, cost | 120 台虚拟机：就绪度、规格、费用 | VM 即 virtual machine，虚拟机。 |
+|  | **Dependencies** | EMR app servers + SQL nodes | EMR 应用服务器和 SQL 节点 | EMR 即 Electronic Medical Record，电子病历；SQL 即 Structured Query Language，结构化查询语言。 |
+| **Compliance** | **PHIPA** | Where patient data lives | 病人数据放在哪里 | PHIPA 即 Personal Health Information Protection Act，个人健康信息保护法。 |
+| **Training** | **Azure skills** | Before the first migration | 第一次迁移之前 |  |
+|  | **8-person IT team** | Small team | 团队很小 | IT 即 information technology，信息技术。 |
+| **Communication** | **Clinics** | 18 clinics: when each system moves | 18 家诊所：各系统何时迁 |  |
+|  | **EMR vendor** | Test and cutover window | 测试和切换窗口 | EMR 即 Electronic Medical Record，电子病历。 |
 
 #### 1.4.2 Phase 1 – Landing Zone & Connectivity
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Landing zone** | Build the **hub and spokes**, **Azure Policy** and **Entra ID sync**. | 搭好**中心和辐射网络**、**Azure Policy** 和 **Entra ID 同步**。 |  |
-| **Connectivity** | A **site-to-site VPN** from HQ first, then **ExpressRoute**. | 先建总部的**站点到站点 VPN**，再上 **ExpressRoute**。 | VPN 即 virtual private network，虚拟专用网络；HQ 即 headquarters，总部。 |
-| **Central frameworks** | Set up **Log Analytics**, **Azure Backup** and **Defender for Cloud** before **any workload moves**. | 在**任何工作负载迁移之前**，先建好 **Log Analytics**、**Azure Backup** 和 **Defender for Cloud**。 |  |
+```text
+Phase 1 Landing Zone & Connectivity
+├─ Landing zone
+│   ├─ Governance
+│   │   └─ Azure Policy
+│   ├─ Identity
+│   │   └─ Microsoft Entra ID
+│   └─ Security
+│       ├─ Azure Firewall
+│       └─ Azure Bastion
+├─ Connectivity
+│   ├─ VPN
+│   │   └─ Azure VPN Gateway
+│   └─ Azure ExpressRoute
+└─ Central frameworks
+    ├─ Logging
+    ├─ Monitoring
+    └─ Backup
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Landing zone** | **Governance** | Azure Policy: Canada only | 只允许加拿大区域 |  |
+|  | **Identity** | AD → Microsoft Entra ID | AD 同步到 Entra ID | AD 即 Active Directory，活动目录。 |
+|  | **Security** | Azure Firewall, Azure Bastion | 防火墙、跳板登录 |  |
+| **Connectivity** | **VPN** | Azure VPN Gateway, HQ first | 总部先用 VPN | VPN 即 virtual private network，虚拟专用网络；HQ 即 headquarters，总部。 |
+|  | **Azure ExpressRoute** | HQ, later | 之后接专线 | HQ 即 headquarters，总部。 |
+| **Central frameworks** | **Logging** | Log Analytics | 集中日志 |  |
+|  | **Monitoring** | Azure Monitor | 统一监控 |  |
+|  | **Backup** | Azure Backup, replaces tape | 取代磁带 |  |
 
 #### 1.4.3 Phase 2 – Non-Critical Workloads & Pilots
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **File shares** | Move **file servers** to **Azure Files**. | 把**文件服务器**迁到 **Azure Files**。 |  |
-| **Intranet** | Move the **intranet** from SharePoint 2013 to **SharePoint Online**. | 把**内网**从 SharePoint 2013 迁到 **SharePoint Online**。 |  |
-| **Validation** | Check **performance, security and cost** against the **assessment**. | 对照**评估结果**检查**性能、安全和费用**。 |  |
+```text
+Phase 2 Non-Critical Workloads & Pilots
+├─ Internal apps
+│   ├─ File shares
+│   │   └─ Azure Files
+│   └─ Intranet
+│       └─ SharePoint Online
+└─ Validation
+    ├─ Performance
+    ├─ Security
+    └─ Cost
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Internal apps** | **File shares** | Azure Files | 文件服务器迁到 Azure Files |  |
+|  | **Intranet** | SharePoint 2013 → SharePoint Online | 内网换成 SharePoint Online |  |
+| **Validation** | **Performance** | vs assessment | 对照评估结果 |  |
+|  | **Security** | Defender for Cloud | 在 Defender for Cloud 里查 |  |
+|  | **Cost** | vs estimate | 对照估算 |  |
 
 #### 1.4.4 Phase 3 – Patient Portal & PACS
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Patient portal** | Move to **App Service** and **Azure Database for MySQL**, and prove **autoscale** on an **evening peak**. | 迁到 **App Service** 和 **Azure Database for MySQL**，在**晚间高峰**证明**自动扩展**有效。 |  |
-| **PACS** | Copy the **120 TB of images** to **Blob Storage** and set the **lifecycle tiers**. | 把 **120 TB 影像**复制到 **Blob Storage**，设好**生命周期分层**。 | PACS 即 Picture Archiving and Communication System，医学影像存储与传输系统；TB 即 terabyte，太字节。 |
+```text
+Phase 3 Patient Portal & PACS
+├─ Patient portal
+│   ├─ Azure App Service
+│   └─ Azure Database for MySQL
+├─ Peak scaling
+│   └─ Autoscale
+└─ PACS
+    ├─ Azure Blob Storage
+    └─ Lifecycle tiers
+        ├─ Hot
+        ├─ Cool
+        └─ Archive
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Patient portal** | **Azure App Service** | PHP app | PHP 网站 | PHP 即 PHP: Hypertext Preprocessor，一种网页编程语言。 |
+|  | **Azure Database for MySQL** | MySQL database | MySQL 数据库 |  |
+| **Peak scaling** | **Autoscale** | Evenings, weekends | 晚上和周末高峰 |  |
+| **PACS** | **Azure Blob Storage** | 120 TB of images | 120 TB 影像 | PACS 即 Picture Archiving and Communication System，医学影像存储与传输系统；TB 即 terabyte，太字节。 |
+|  | **Lifecycle tiers** | Hot → Cool → Archive | 新影像、旧影像、很少访问的影像 |  |
 
 #### 1.4.5 Phase 4 – EMR Migration
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Replication** | **Azure Migrate** replicates the **4 app servers and 2 SQL nodes together**. | **Azure Migrate** 把 **4 台应用服务器和 2 个 SQL 节点一起**复制。 | SQL 即 Structured Query Language，结构化查询语言。 |
-| **Vendor testing** | The **EMR vendor tests** the system in Azure **before cutover**. | **切换前**由 **EMR 厂商**在 Azure 里**测试**。 | EMR 即 Electronic Medical Record，电子病历。 |
-| **Cutover** | **Change freeze**, final sync, and the switch **within the 2-hour window**. | **冻结变更**，最后一次同步，**在 2 小时窗口内**切换。 |  |
-| **Rollback** | Keep the **on-premises VMs** until **sign-off**, and switch back if tests fail. | **签字确认前保留本地虚拟机**，测试失败就切回去。 | VM 即 virtual machine，虚拟机。 |
+```text
+Phase 4 EMR Migration
+├─ Rehost
+│   ├─ Azure Migrate
+│   └─ Same wave
+├─ Testing
+│   └─ EMR vendor
+├─ Cutover
+│   ├─ Change freeze
+│   └─ 2-hour window
+└─ Rollback
+    └─ On-premises VMs
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Rehost** | **Azure Migrate** | Replicate EMR VMs | 复制 EMR 虚拟机 | EMR 即 Electronic Medical Record，电子病历；VM 即 virtual machine，虚拟机。 |
+|  | **Same wave** | 4 app servers + 2 SQL nodes | 4 台应用服务器加 2 个 SQL 节点一起迁 | SQL 即 Structured Query Language，结构化查询语言。 |
+| **Testing** | **EMR vendor** | Before cutover | 切换前测试 | EMR 即 Electronic Medical Record，电子病历。 |
+| **Cutover** | **Change freeze** | No changes | 冻结变更 |  |
+|  | **2-hour window** | Final sync, switch | 最后同步并切换 |  |
+| **Rollback** | **On-premises VMs** | Kept until sign-off | 签字确认前保留 | VM 即 virtual machine，虚拟机。 |
 
 #### 1.4.6 Phase 5 – Optimization, DR, and Decommission
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **DR** | **Azure Site Recovery** to **Canada East**, and a **DR drill** proves **RPO < 1 hour and RTO < 2 hours**. | 用 **Azure Site Recovery** 复制到**加拿大东部**，用**灾备演练**证明 **RPO 小于 1 小时、RTO 小于 2 小时**。 | DR 即 disaster recovery，灾难恢复；RPO 即 recovery point objective，恢复点目标；RTO 即 recovery time objective，恢复时间目标。 |
-| **Tuning** | **Right-size** VMs, buy **reserved instances**, and move old images to **Archive**. | **调整虚拟机规格**，买**预留实例**，旧影像转到 **Archive**。 | VM 即 virtual machine，虚拟机。 |
-| **Scheduling and billing** | Switch to the vendor's **SaaS version** when it is **released**. | 厂商 **SaaS 版发布**后**切换过去**。 | SaaS 即 Software as a Service，软件即服务。 |
-| **Decommission** | **Decommission** the SAN and hosts, and **close the data center**. | **淘汰** SAN 和主机，**关闭数据中心**。 | SAN 即 Storage Area Network，存储区域网络。 |
+```text
+Phase 5 Optimization, DR, and Decommission
+├─ DR
+│   └─ Azure Site Recovery
+│       ├─ Canada East
+│       └─ DR drill
+├─ Tuning
+│   ├─ Right-sizing
+│   ├─ Reserved instances
+│   └─ Archive tier
+├─ Scheduling and billing
+│   └─ SaaS version
+└─ Decommission
+    ├─ SAN
+    └─ Data center
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **DR** | **Azure Site Recovery** | Canada East; DR drill: RPO < 1 hour, RTO < 2 hours | 复制到加拿大东部；演练证明 RPO 和 RTO | DR 即 disaster recovery，灾难恢复；RPO 即 recovery point objective，恢复点目标；RTO 即 recovery time objective，恢复时间目标。 |
+| **Tuning** | **Right-sizing** | Real usage | 按实际用量调规格 |  |
+|  | **Reserved instances** | Always-on EMR VMs | 一直运行的 EMR 虚拟机 | EMR 即 Electronic Medical Record，电子病历；VM 即 virtual machine，虚拟机。 |
+|  | **Archive tier** | Old PACS images | 旧 PACS 影像 | PACS 即 Picture Archiving and Communication System，医学影像存储与传输系统。 |
+| **Scheduling and billing** | **SaaS version** | When released | 发布后切换 | SaaS 即 Software as a Service，软件即服务。 |
+| **Decommission** | **SAN** | SAN + 8 ESXi hosts | SAN 和 8 台 ESXi 主机 | SAN 即 Storage Area Network，存储区域网络；ESXi 是 VMware 的虚拟化主机系统。 |
+|  | **Data center** | Ottawa HQ | 关闭总部数据中心 | HQ 即 headquarters，总部。 |
 
 ### 1.5 Target Cloud Architecture (High-Level Vision)
 

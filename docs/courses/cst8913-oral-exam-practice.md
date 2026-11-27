@@ -258,50 +258,139 @@ ms.date: 2026-11-24
 
 #### 1.4.1 Phase 0 – Assessment & Readiness
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Assessment** | Detailed **application and infrastructure assessment** | 详细的**应用和基础设施评估**。 |  |
-| **GDPR impact assessment** | **GDPR impact assessment** for **migration** | 针对**迁移**做 **GDPR 影响评估**。 | GDPR 即 General Data Protection Regulation，通用数据保护条例。 |
-| **Training plan** | **Skills and training plan** for **IT teams** | 为 **IT 团队**制定**技能和培训计划**。 | IT 即 information technology，信息技术。 |
-| **Communication plan** | **Business alignment** and **communication plan** | **和业务对齐**，制定**沟通计划**。 |  |
+```text
+Phase 0 Assessment & Readiness
+├─ Assessment
+│   ├─ Application
+│   └─ Infrastructure
+├─ GDPR impact assessment
+├─ Training plan
+└─ Communication plan
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Assessment** | **Application** | Detailed application | 应用评估 |  |
+|  | **Infrastructure** | and infrastructure assessment | 基础设施评估 |  |
+| **GDPR impact assessment** |  | GDPR impact assessment for migration | 迁移前做 GDPR 影响评估 | GDPR 即 General Data Protection Regulation，通用数据保护条例。 |
+| **Training plan** |  | Skills and training plan for IT teams | IT 团队的技能和培训计划 | IT 即 information technology，信息技术。 |
+| **Communication plan** |  | Business alignment and communication plan | 和业务对齐，沟通计划 |  |
 
 #### 1.4.2 Phase 1 – Landing Zone & Connectivity
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Landing zone** | Build **landing zone** with governance, **identity integration**, and basic security controls | 搭建**着陆区**，包括治理、**身份集成**和基础安全控制。 |  |
-| **Connectivity** | Establish **VPN** + plan for **ExpressRoute/Direct Connect** | 建立 **VPN**，并规划 **ExpressRoute 或 Direct Connect**。 | VPN 即 virtual private network，虚拟专用网络。 |
-| **Central frameworks** | Set up **central logging**, monitoring, and **backup frameworks** | 建立**集中日志**、监控和**备份框架**。 |  |
+```text
+Phase 1 Landing Zone & Connectivity
+├─ Landing zone
+│   ├─ Governance
+│   ├─ Identity integration
+│   └─ Basic security controls
+├─ Connectivity
+│   ├─ VPN
+│   └─ ExpressRoute/Direct Connect
+└─ Central frameworks
+    ├─ Central logging
+    ├─ Monitoring
+    └─ Backup frameworks
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Landing zone** | **Governance** | Build landing zone with governance | 治理 |  |
+|  | **Identity integration** | identity integration | 身份集成 |  |
+|  | **Basic security controls** | and basic security controls | 基础安全控制 |  |
+| **Connectivity** | **VPN** | Establish VPN | 先建 VPN | VPN 即 virtual private network，虚拟专用网络。 |
+|  | **ExpressRoute/Direct Connect** | + plan for ExpressRoute/Direct Connect | 再规划专线 |  |
+| **Central frameworks** | **Central logging** | Set up central logging | 集中日志 |  |
+|  | **Monitoring** | monitoring | 监控 |  |
+|  | **Backup frameworks** | and backup frameworks | 备份框架 |  |
 
 #### 1.4.3 Phase 2 – Non-Critical Workloads & Pilots
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Dev/test** | Migrate **dev/test environments** for **ERP, CRM, and e-commerce** | 迁移 **ERP、CRM 和电商**的**开发和测试环境**。 | ERP 即 Enterprise Resource Planning，企业资源计划；CRM 即 Customer Relationship Management，客户关系管理。 |
-| **Internal apps** | Move some **internal apps**, **file shares**, and BI prototypes | 迁移一些**内部应用**、**文件共享**和 BI 原型。 | BI 即 Business Intelligence，商业智能。 |
-| **Validation** | Validate **performance, security, and cost models** | 验证**性能、安全和成本模型**。 |  |
+```text
+Phase 2 Non-Critical Workloads & Pilots
+├─ Dev/test
+│   ├─ ERP
+│   ├─ CRM
+│   └─ E-commerce
+├─ Internal apps
+│   ├─ Some internal apps
+│   ├─ File shares
+│   └─ BI prototypes
+└─ Validation
+    ├─ Performance
+    ├─ Security
+    └─ Cost models
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Dev/test** | **ERP** | Migrate dev/test environments for ERP | ERP 的开发和测试环境 | ERP 即 Enterprise Resource Planning，企业资源计划。 |
+|  | **CRM** | CRM | CRM 的 | CRM 即 Customer Relationship Management，客户关系管理。 |
+|  | **E-commerce** | and e-commerce | 电商的 |  |
+| **Internal apps** | **Some internal apps** | Move some internal apps | 部分内部应用 |  |
+|  | **File shares** | file shares | 文件共享 |  |
+|  | **BI prototypes** | and BI prototypes | BI 原型 | BI 即 Business Intelligence，商业智能。 |
+| **Validation** | **Performance** | Validate performance | 性能 |  |
+|  | **Security** | security | 安全 |  |
+|  | **Cost models** | and cost models | 成本模型 |  |
 
 #### 1.4.4 Phase 3 – E-Commerce & Analytics
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **E-commerce** | Migrate and **modernize e-commerce** to **cloud-native architecture** | 迁移并**现代化电商**，改成**云原生架构**。 |  |
-| **Analytics** | Implement **cloud-based data warehouse/lakehouse** and **analytics tools** | 上线**云数据仓库或湖仓**和**分析工具**。 |  |
-| **Peak scaling** | Prove ability to **scale for seasonal peaks** | 证明能**扛住季节性高峰**。 |  |
+```text
+Phase 3 E-Commerce & Analytics
+├─ E-commerce
+├─ Analytics
+│   ├─ Data warehouse/lakehouse
+│   └─ Analytics tools
+└─ Peak scaling
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **E-commerce** |  | Migrate and modernize e-commerce to cloud-native architecture | 电商改成云原生架构 |  |
+| **Analytics** | **Data warehouse/lakehouse** | Implement cloud-based data warehouse/lakehouse | 云数据仓库或湖仓 |  |
+|  | **Analytics tools** | and analytics tools | 分析工具 |  |
+| **Peak scaling** |  | Prove ability to scale for seasonal peaks | 扛住季节性高峰 |  |
 
 #### 1.4.5 Phase 4 – ERP & CRM Migration
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Rehost ERP and CRM** | **Rehost ERP and CRM** in EU cloud regions with **robust cutover plans** | 在欧盟云区域**重新托管 ERP 和 CRM**，配上**可靠的切换计划**。 | ERP 即 Enterprise Resource Planning，企业资源计划；CRM 即 Customer Relationship Management，客户关系管理；EU 即 European Union，欧盟。 |
-| **POS integration** | **Re-architect POS integration** for **near-real-time data flows** | **重新设计 POS 集成**，实现**近实时数据流**。 | POS 即 Point-of-Sale，销售终端。 |
-| **CRM controls** | Introduce improved **consent and retention controls** in **CRM** | 在 **CRM** 中加强**同意和保留控制**。 | CRM 即 Customer Relationship Management，客户关系管理。 |
+```text
+Phase 4 ERP & CRM Migration
+├─ Rehost ERP and CRM
+├─ POS integration
+└─ CRM controls
+    ├─ Consent
+    └─ Retention
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Rehost ERP and CRM** |  | Rehost ERP and CRM in EU cloud regions with robust cutover plans | 在欧盟区域重新托管，配切换计划 | ERP 即 Enterprise Resource Planning，企业资源计划；CRM 即 Customer Relationship Management，客户关系管理；EU 即 European Union，欧盟。 |
+| **POS integration** |  | Re-architect POS integration for near-real-time data flows | 重新设计 POS 集成，近实时数据流 | POS 即 Point-of-Sale，销售终端。 |
+| **CRM controls** | **Consent** | Introduce improved consent | 同意控制 | CRM 即 Customer Relationship Management，客户关系管理。 |
+|  | **Retention** | and retention controls in CRM | 保留控制 | CRM 即 Customer Relationship Management，客户关系管理。 |
 
 #### 1.4.6 Phase 5 – Optimization, DR, and Decommission
 
-| Keyword | Description | 中文翻译 | 缩写 |
-|---|---|---|---|
-| **Multi-region DR** | Implement full **multi-region DR** for **critical systems** | 为**关键系统**实现完整的**多区域灾备**。 | DR 即 disaster recovery，灾难恢复。 |
-| **Tuning** | Tune performance and cost (**right-sizing**, **reserved instances**, storage tiers) | 调优性能和成本（**调整规格**、**预留实例**、存储层）。 |  |
-| **Decommission** | **Decommission on-prem hardware** and reduce **Frankfurt data center footprint** | **淘汰本地硬件**，缩小**法兰克福数据中心的规模**。 |  |
-| **Operating model** | Finalize updated **operating model** and **governance** | 定下更新后的**运营模式**和**治理**。 |  |
+```text
+Phase 5 Optimization, DR, and Decommission
+├─ Multi-region DR
+├─ Tuning
+│   ├─ Right-sizing
+│   ├─ Reserved instances
+│   └─ Storage tiers
+├─ Decommission
+│   ├─ On-prem hardware
+│   └─ Frankfurt data center
+└─ Operating model
+```
+
+| Category | Keyword | Description | 中文翻译 | 缩写 |
+|---|---|---|---|---|
+| **Multi-region DR** |  | Implement full multi-region DR for critical systems | 关键系统多区域灾备 | DR 即 disaster recovery，灾难恢复。 |
+| **Tuning** | **Right-sizing** | Tune performance and cost (right-sizing | 调整规格 |  |
+|  | **Reserved instances** | reserved instances | 预留实例 |  |
+|  | **Storage tiers** | storage tiers) | 存储分层 |  |
+| **Decommission** | **On-prem hardware** | Decommission on-prem hardware | 淘汰本地硬件 |  |
+|  | **Frankfurt data center** | and reduce Frankfurt data center footprint | 缩小法兰克福数据中心 |  |
+| **Operating model** |  | Finalize updated operating model and governance | 定下运营模式和治理 |  |
