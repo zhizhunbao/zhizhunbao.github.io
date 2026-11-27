@@ -22,6 +22,39 @@ const STOP = '■ Stop'
 let current = null // { button, label, quotes, index, line }
 const player = new Audio()
 
+// A bar fixed at the bottom of the window while a reading runs, so it can be paused or stopped wherever the page has
+// scrolled to (the buttons that started it may be off screen).
+let bar = null
+let paused = false
+function showBar() {
+  if (!bar) {
+    bar = document.createElement('div')
+    bar.className = 'kb-speak-bar'
+    bar.setAttribute('role', 'group')
+    bar.setAttribute('aria-label', 'Reading controls')
+    const pause = makeButton('❚❚ Pause', 'kb-speak-pause', togglePause)
+    const halt = makeButton('■ Stop', 'kb-speak-stop', () => stop())
+    bar.append(pause, halt)
+    document.body.append(bar)
+  }
+  paused = false
+  bar.querySelector('.kb-speak-pause').textContent = '❚❚ Pause'
+  bar.hidden = false
+}
+function togglePause() {
+  if (!current) return
+  paused = !paused
+  bar.querySelector('.kb-speak-pause').textContent = paused ? '▶ Resume' : '❚❚ Pause'
+  if (paused) {
+    player.pause()
+    if ('speechSynthesis' in window) speechSynthesis.pause()
+  } else if ('speechSynthesis' in window && speechSynthesis.paused) {
+    speechSynthesis.resume()
+  } else {
+    player.play().catch(() => {})
+  }
+}
+
 const isEnglish = (text) => {
   const letters = text.replace(/\s/g, '')
   return letters.length > 0 && (letters.match(/[A-Za-z]/g) || []).length > letters.length * 0.5
@@ -83,6 +116,8 @@ function stop() {
   player.pause()
   player.onended = null
   document.querySelectorAll('.kb-line-reading').forEach((n) => n.classList.remove('kb-line-reading'))
+  if (bar) bar.hidden = true
+  paused = false
   if (current) {
     current.button.textContent = current.label
     for (const q of current.quotes) q.classList.remove('kb-speaking')
@@ -139,6 +174,7 @@ function start(button, label, quotes) {
   if (again || !quotes.length) return
   current = { button, label, quotes, index: 0 }
   button.textContent = STOP
+  showBar()
   readQuote(current)
 }
 
