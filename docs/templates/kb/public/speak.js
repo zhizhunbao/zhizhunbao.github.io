@@ -9,6 +9,8 @@
 // before the robotic Windows desktop voices).
 // Short answers (since 2026-11-27, the CST8914 oral exam practice page): a table row whose cell reads "Short answer" gets
 // a button in its answer cell; audio.json's "answers" lists one MP3 per short answer in page order.
+// Section titles: a reading starts with the numbered heading above its quote or table, highlighted while read;
+// audio.json's "headings" maps a section number to its recording.
 // Step tables (same page): a table whose header starts "Step | Action" gets a button above it that reads its rows in
 // order (the Action and the result cells), highlighting the row being read, and the page a "Play all steps" button;
 // audio.json's "tables" lists, per step table in page order, one MP3 per row.
@@ -71,9 +73,9 @@ const textOf = (el) => el.tagName === 'TR'
   ? [...el.cells].slice(1).map(textOf).join('. ')
   : [...el.childNodes].filter((n) => !n.classList?.contains('kb-speak')).map((n) => n.textContent).join('').trim()
 
-function markLine(quote, i) {
+function mark(el) {
   document.querySelectorAll('.kb-line-reading').forEach((n) => n.classList.remove('kb-line-reading'))
-  linesOf(quote)[i]?.classList.add('kb-line-reading')
+  el?.classList.add('kb-line-reading')
 }
 
 function stop() {
@@ -95,32 +97,40 @@ function nextQuote(run) {
   else stop()
 }
 
-function playLine(run, quote, files, j) {
+// The steps of a reading: the section title first (when there is one), then each line; a step plays its recording or,
+// without one, is spoken by the browser.
+function stepsOf(quote) {
+  const steps = quote._heading ? [{ el: quote._heading.el, src: quote._heading.src, text: quote._heading.text }] : []
+  linesOf(quote).forEach((line, i) => steps.push({ el: line, src: quote._audio?.[i], text: textOf(line) }))
+  return steps
+}
+
+function playStep(run, steps, j) {
   if (current !== run) return
-  if (j >= files.length) return nextQuote(run)
-  markLine(quote, j)
-  player.src = files[j]
-  player.onended = () => playLine(run, quote, files, j + 1)
-  player.play().catch(() => playLine(run, quote, files, j + 1))
+  if (j >= steps.length) return nextQuote(run)
+  const step = steps[j]
+  mark(step.el)
+  if (step.src) {
+    player.src = step.src
+    player.onended = () => playStep(run, steps, j + 1)
+    player.play().catch(() => playStep(run, steps, j + 1))
+    return
+  }
+  const v = voice()
+  const u = new SpeechSynthesisUtterance(step.text)
+  u.lang = v?.lang || 'en-US'
+  if (v) u.voice = v
+  u.rate = 0.9
+  u.onend = () => playStep(run, steps, j + 1)
+  speechSynthesis.speak(u)
 }
 
 function readQuote(run) {
   const quote = run.quotes[run.index]
   for (const q of run.quotes) q.classList.remove('kb-speaking')
   quote.classList.add('kb-speaking')
-  quote.scrollIntoView({ behavior: 'smooth', block: 'center' })
-  const lines = linesOf(quote)
-  if (quote._audio?.length) return playLine(run, quote, quote._audio, 0)
-  const v = voice()
-  lines.forEach((line, i) => {
-    const u = new SpeechSynthesisUtterance(textOf(line))
-    u.lang = v?.lang || 'en-US'
-    if (v) u.voice = v
-    u.rate = 0.9
-    u.onstart = () => { if (current === run) markLine(quote, i) }
-    if (i === lines.length - 1) u.onend = () => nextQuote(run)
-    speechSynthesis.speak(u)
-  })
+  ;(quote._heading?.el || quote).scrollIntoView({ behavior: 'smooth', block: 'center' })
+  playStep(run, stepsOf(quote), 0)
 }
 
 function start(button, label, quotes) {
@@ -141,14 +151,24 @@ function makeButton(label, cls, onClick) {
   return b
 }
 
-// the section number ("1.10") of the nearest numbered heading before an element, looking through heading wrappers
-function sectionOf(el) {
-  for (let n = el.previousElementSibling; n; n = n.previousElementSibling) {
+// the nearest numbered heading before an element (looking through heading wrappers): { el, number, text }, where text
+// is the heading's English part (a Chinese gloss in full-width brackets is dropped)
+function headingOf(el) {
+  for (let n = (el.closest('.table-wrapper') || el).previousElementSibling; n; n = n.previousElementSibling) {
     const h = n.matches('h1, h2, h3, h4, h5') ? n : n.querySelector('h1, h2, h3, h4, h5')
     const m = h?.textContent.trim().match(/^(\d+(?:\.\d+)*)\s/)
-    if (m) return m[1]
+    if (m) return { el: h, number: m[1], text: h.textContent.replace(/（[^）]*）/g, '').trim() }
   }
   return null
+}
+const sectionOf = (el) => headingOf(el)?.number || null
+
+// the section title as a reading step: its recording (audio.json "headings", by section number) or its English text
+function titleStep(unit, rec) {
+  const h = headingOf(unit)
+  if (!h) return null
+  const file = rec?.headings?.[h.number]
+  return { el: h.el, src: file ? new URL(file, rec.base).href : null, text: h.text }
 }
 
 async function recordings() {
@@ -157,7 +177,7 @@ async function recordings() {
     const r = await fetch(new URL(`media/${slug}.audio.json`, location.href), { cache: 'no-store' })
     if (!r.ok) return null
     const data = await r.json()
-    return { sections: data.sections || {}, answers: data.answers || [], tables: data.tables || [], base: new URL('media/', location.href) }
+    return { sections: data.sections || {}, answers: data.answers || [], tables: data.tables || [], headings: data.headings || {}, base: new URL('media/', location.href) }
   } catch {
     return null
   }
@@ -179,6 +199,7 @@ export async function readAloud(body) {
     const files = rec?.tables?.[i]
     if (Array.isArray(files) && files.length === t.tBodies[0].rows.length) t._audio = files.map((f) => new URL(f, rec.base).href)
   })
+  for (const t of tables) t._heading = titleStep(t, rec)
   const playableTables = tables.filter((t) => t._audio || hasSpeech)
   for (const t of playableTables) {
     const b = makeButton(LABEL, 'kb-speak', () => start(b, LABEL, [t]))
@@ -202,6 +223,7 @@ export async function readAloud(body) {
     const files = rec?.sections[sectionOf(q)]
     if (Array.isArray(files)) q._audio = files.map((f) => new URL(f, rec.base).href)
   }
+  for (const q of quotes) q._heading = titleStep(q, rec)
   const playable = quotes.filter((q) => q._audio || hasSpeech)
   for (const quote of playable) {
     const b = makeButton(LABEL, 'kb-speak', () => start(b, LABEL, [quote]))
