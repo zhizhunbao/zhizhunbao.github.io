@@ -9,6 +9,8 @@
 // before the robotic Windows desktop voices).
 // Section titles: a reading starts with the numbered heading above its quote or table, highlighted while read;
 // audio.json's "headings" maps a section number to its recording.
+// English and Chinese ("中英对照"): audio.json's "zh" maps a section number to one MP3 per line of the Chinese translation
+// that follows the quote; the button reads the whole English quote, then the whole Chinese translation, line by line.
 // Importance order: audio.json's "priority" lists section numbers, most important first; a "Play by importance" button
 // under "Play all" reads those sections in that order (the order is this site's own judgment, not the source's).
 // Step tables (same page): a table whose header starts "Step | Action" gets a button above it that reads its rows in
@@ -16,9 +18,15 @@
 // audio.json's "tables" lists, per step table in page order, one MP3 per row.
 
 const LABEL = '🔊 Read aloud'
-const ALL = '▶ Play all English'
-const ALL_STEPS = '▶ Play all steps'
+const ALL = '▶︎ Play all English'
+const ALL_STEPS = '▶︎ Play all steps'
 const BY_PRIORITY = '★ Play by importance'
+const BOTH = '▶︎ 中英对照'
+const ICON = {
+  pause: '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>',
+  play: '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>',
+  stop: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1" fill="currentColor"/></svg>',
+}
 const STOP = '■ Stop'
 let current = null // { button, label, quotes, index, line }
 const player = new Audio()
@@ -35,7 +43,8 @@ function showBar() {
     bar.setAttribute('aria-label', 'Reading controls')
     const pause = makeButton('❚❚', 'kb-speak-pause', togglePause)
     pause.setAttribute('aria-label', 'Pause')
-    const halt = makeButton('■', 'kb-speak-stop', () => stop())
+    const halt = makeButton('', 'kb-speak-stop', () => stop())
+    halt.innerHTML = ICON.stop
     halt.setAttribute('aria-label', 'Stop')
     bar.append(pause, halt)
     document.body.append(bar)
@@ -47,7 +56,7 @@ function showBar() {
 }
 function setPause(on) {
   const b = bar.querySelector('.kb-speak-pause')
-  b.textContent = on ? '▶' : '❚❚'
+  b.innerHTML = on ? ICON.play : ICON.pause
   b.setAttribute('aria-label', on ? 'Resume' : 'Pause')
 }
 function togglePause() {
@@ -86,6 +95,32 @@ function voice() {
 function linesOf(quote) {
   if (quote._lines) return quote._lines
   if (quote.tagName === 'TABLE') return (quote._lines = [...quote.tBodies[0].rows])
+  return (quote._lines = linesIn([quote]))
+}
+
+// The Chinese translation of a quote: the paragraphs and lists right after it, up to the next heading, table, figure
+// or quote; its lines pair one to one with the quote's lines.
+function zhBlockOf(quote) {
+  if (quote._zhBlock !== undefined) return quote._zhBlock
+  const parts = []
+  for (let n = quote.nextElementSibling; n; n = n.nextElementSibling) {
+    if (n.matches('.heading-wrapper, h1, h2, h3, h4, h5, .table-wrapper, table, blockquote') || n.querySelector('img')) break
+    if (/^(P|UL|OL)$/.test(n.tagName)) parts.push(n)
+  }
+  if (!parts.length) return (quote._zhBlock = null)
+  const block = document.createElement('div')
+  block.className = 'kb-zh-block'
+  parts[0].before(block)
+  block.append(...parts)
+  return (quote._zhBlock = block)
+}
+function zhLinesOf(quote) {
+  if (quote._zhLines) return quote._zhLines
+  const block = zhBlockOf(quote)
+  return (quote._zhLines = block ? linesIn([...block.children], true) : [])
+}
+
+function linesIn(roots, rootsAreLines = false) {
   const out = []
   const walk = (node) => {
     for (const c of [...node.children]) {
@@ -104,8 +139,11 @@ function linesOf(quote) {
       } else if (/^(UL|OL|DIV)$/.test(c.tagName)) walk(c)
     }
   }
-  walk(quote)
-  quote._lines = out
+  for (const r of roots) {
+    if (rootsAreLines && r.tagName === 'P') out.push(r)
+    else if (rootsAreLines) walk({ children: [r] })
+    else walk(r)
+  }
   return out
 }
 
@@ -124,6 +162,7 @@ function mark(el, isTitle = false) {
   el.classList.add('kb-line-reading')
   follow(el, isTitle)
 }
+
 function follow(el, isTitle) {
   const view = window.visualViewport?.height || innerHeight // phones: the visible height, without the browser bars
   const head = document.querySelector('header')
@@ -142,6 +181,7 @@ function stop() {
   player.onended = null
   document.querySelectorAll('.kb-line-reading').forEach((n) => n.classList.remove('kb-line-reading'))
   if (bar) bar.hidden = true
+  document.querySelectorAll('.kb-zh-block.kb-speaking').forEach((n) => n.classList.remove('kb-speaking'))
   document.documentElement.classList.remove('kb-reading')
   paused = false
   if (current) {
@@ -160,9 +200,15 @@ function nextQuote(run) {
 
 // The steps of a reading: the section title first (when there is one), then each line; a step plays its recording or,
 // without one, is spoken by the browser.
-function stepsOf(quote) {
-  const steps = quote._heading ? [{ el: quote._heading.el, src: quote._heading.src, text: quote._heading.text, title: true }] : []
-  linesOf(quote).forEach((line, i) => steps.push({ el: line, src: quote._audio?.[i], text: textOf(line) }))
+// English and Chinese: the whole English quote first, then the whole Chinese translation below it, each line highlighted
+// and the reading frame moved to the part being read.
+function stepsOf(quote, mode) {
+  const steps = quote._heading ? [{ el: quote._heading.el, src: quote._heading.src, text: quote._heading.text, title: true, box: quote }] : []
+  linesOf(quote).forEach((line, i) => steps.push({ el: line, src: quote._audio?.[i], text: textOf(line), box: quote }))
+  if (mode === 'both') {
+    const block = zhBlockOf(quote)
+    zhLinesOf(quote).forEach((line, i) => steps.push({ el: line, src: quote._zh?.[i], text: textOf(line), zh: true, box: block }))
+  }
   return steps
 }
 
@@ -170,6 +216,11 @@ function playStep(run, steps, j) {
   if (current !== run) return
   if (j >= steps.length) return nextQuote(run)
   const step = steps[j]
+  if (step.box && !step.box.classList.contains('kb-speaking')) {
+    for (const q of run.quotes) q.classList.remove('kb-speaking')
+    document.querySelectorAll('.kb-zh-block.kb-speaking').forEach((n) => n.classList.remove('kb-speaking'))
+    step.box.classList.add('kb-speaking')
+  }
   mark(step.el, step.title)
   if (step.src) {
     player.src = step.src
@@ -177,9 +228,9 @@ function playStep(run, steps, j) {
     player.play().catch(() => playStep(run, steps, j + 1))
     return
   }
-  const v = voice()
+  const v = step.zh ? speechSynthesis.getVoices().find((x) => /^zh/i.test(x.lang)) : voice()
   const u = new SpeechSynthesisUtterance(step.text)
-  u.lang = v?.lang || 'en-US'
+  u.lang = v?.lang || (step.zh ? 'zh-CN' : 'en-US')
   if (v) u.voice = v
   u.rate = 0.9
   u.onend = () => playStep(run, steps, j + 1)
@@ -190,14 +241,14 @@ function readQuote(run) {
   const quote = run.quotes[run.index]
   for (const q of run.quotes) q.classList.remove('kb-speaking')
   quote.classList.add('kb-speaking')
-  playStep(run, stepsOf(quote), 0)
+  playStep(run, stepsOf(quote, run.mode), 0)
 }
 
-function start(button, label, quotes) {
+function start(button, label, quotes, mode = 'en') {
   const again = current?.button === button
   stop()
   if (again || !quotes.length) return
-  current = { button, label, quotes, index: 0 }
+  current = { button, label, quotes, index: 0, mode }
   button.textContent = STOP
   showBar()
   readQuote(current)
@@ -249,7 +300,7 @@ async function recordings() {
     const r = await fetch(new URL(`media/${slug}.audio.json`, location.href), { cache: 'no-store' })
     if (!r.ok) return null
     const data = await r.json()
-    return { sections: data.sections || {}, tables: data.tables || [], headings: data.headings || {}, priority: data.priority || [], base: new URL('media/', location.href) }
+    return { sections: data.sections || {}, tables: data.tables || [], headings: data.headings || {}, priority: data.priority || [], zh: data.zh || {}, base: new URL('media/', location.href) }
   } catch {
     return null
   }
@@ -298,6 +349,15 @@ export async function readAloud(body) {
       const pri = makeButton(BY_PRIORITY, 'kb-speak kb-speak-all', () => start(pri, BY_PRIORITY, order))
       pri.title = `Order: ${rec.priority.join(', ')}`
       all.after(pri)
+    }
+    // English then Chinese, line by line, when the page has the Chinese recordings ("zh" in audio.json)
+    for (const q of playable) {
+      const files = rec?.zh?.[sectionOf(q)]
+      if (Array.isArray(files)) q._zh = files.map((f) => new URL(f, rec.base).href)
+    }
+    if (playable.some((q) => q._zh)) {
+      const both = makeButton(BOTH, 'kb-speak kb-speak-all', () => start(both, BOTH, playable, 'both'))
+      ;(body.querySelector('.kb-speak-all:last-of-type') || all).after(both)
     }
   }
 }
