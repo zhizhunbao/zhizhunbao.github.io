@@ -25,6 +25,7 @@ const BOTH = '▶︎ 中英对照'
 const ICON = {
   pause: '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>',
   play: '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>',
+  speaker: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9H4z" fill="currentColor"/><path d="M16 8.5a4.5 4.5 0 0 1 0 7M18.5 6a8 8 0 0 1 0 12" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round"/></svg>',
   stop: '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1" fill="currentColor"/></svg>',
 }
 const STOP = '■ Stop'
@@ -185,7 +186,7 @@ function stop() {
   document.documentElement.classList.remove('kb-reading')
   paused = false
   if (current) {
-    current.button.textContent = current.label
+    setLabel(current.button, current.label, current.button.dataset.icon)
     for (const q of current.quotes) q.classList.remove('kb-speaking')
   }
   current = null
@@ -249,7 +250,7 @@ function start(button, label, quotes, mode = 'en') {
   stop()
   if (again || !quotes.length) return
   current = { button, label, quotes, index: 0, mode }
-  button.textContent = STOP
+  setLabel(button, STOP, 'stop')
   showBar()
   readQuote(current)
 }
@@ -260,9 +261,21 @@ function place(button, unit) {
   const h = unit._heading?.el
   if (!h) return (unit.closest('.table-wrapper') || unit).before(button)
   button.classList.add('kb-speak-head')
+  // beside a title the button is a small speaker icon, so it fits on the title's line even on a phone
+  button.dataset.icon = 'speaker'
+  button.innerHTML = ICON.speaker
+  button.setAttribute('aria-label', 'Read aloud')
+  button.title = 'Read aloud'
   const wrap = h.closest('.heading-wrapper')
   wrap?.classList.add('kb-has-speak')
   h.after(button)
+}
+
+function setLabel(button, text, icon) {
+  if (button.dataset.icon) {
+    button.innerHTML = ICON[icon] || ICON.speaker
+    button.setAttribute('aria-label', icon === 'stop' ? 'Stop' : 'Read aloud')
+  } else button.textContent = text
 }
 
 function makeButton(label, cls, onClick) {
