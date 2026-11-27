@@ -30,19 +30,27 @@ function showBar() {
     bar.className = 'kb-speak-bar'
     bar.setAttribute('role', 'group')
     bar.setAttribute('aria-label', 'Reading controls')
-    const pause = makeButton('❚❚ Pause', 'kb-speak-pause', togglePause)
-    const halt = makeButton('■ Stop', 'kb-speak-stop', () => stop())
+    const pause = makeButton('❚❚', 'kb-speak-pause', togglePause)
+    pause.setAttribute('aria-label', 'Pause')
+    const halt = makeButton('■', 'kb-speak-stop', () => stop())
+    halt.setAttribute('aria-label', 'Stop')
     bar.append(pause, halt)
     document.body.append(bar)
   }
   paused = false
-  bar.querySelector('.kb-speak-pause').textContent = '❚❚ Pause'
+  setPause(false)
   bar.hidden = false
+  document.documentElement.classList.add('kb-reading')
+}
+function setPause(on) {
+  const b = bar.querySelector('.kb-speak-pause')
+  b.textContent = on ? '▶' : '❚❚'
+  b.setAttribute('aria-label', on ? 'Resume' : 'Pause')
 }
 function togglePause() {
   if (!current) return
   paused = !paused
-  bar.querySelector('.kb-speak-pause').textContent = paused ? '▶ Resume' : '❚❚ Pause'
+  setPause(paused)
   if (paused) {
     player.pause()
     if ('speechSynthesis' in window) speechSynthesis.pause()
@@ -103,20 +111,24 @@ const textOf = (el) => el.tagName === 'TR'
   ? [...el.cells].slice(1).map(textOf).join('. ')
   : [...el.childNodes].filter((n) => !n.classList?.contains('kb-speak')).map((n) => n.textContent).join('').trim()
 
-// Highlights the line being read and follows it like a teleprompter: each line (and each section title) is scrolled
-// smoothly to about a third of the way down the visible window, so the page moves a little per line instead of jumping
-// a whole screen at a time, and the next lines stay in view below it (on phones too: the visible height is used).
-function mark(el) {
+// Highlights the line being read and keeps it in view. A section title goes to the top of the window (just under the
+// header), so the section reads from the top down. A line does not move the page while it is in the upper part of the
+// window; once lines pass 40% of the visible height, each one is scrolled smoothly back to 40%, so the page moves a
+// little per line (never a whole screen, never backwards). Phones: the visible height is used.
+function mark(el, isTitle = false) {
   document.querySelectorAll('.kb-line-reading').forEach((n) => n.classList.remove('kb-line-reading'))
   if (!el) return
   el.classList.add('kb-line-reading')
-  follow(el)
+  follow(el, isTitle)
 }
-function follow(el) {
+function follow(el, isTitle) {
   const view = window.visualViewport?.height || innerHeight // phones: the visible height, without the browser bars
   const header = Math.max(0, document.querySelector('header')?.getBoundingClientRect().bottom || 0)
-  const spot = Math.max(header + 16, view * 0.3)
-  scrollTo({ top: scrollY + el.getBoundingClientRect().top - spot, behavior: 'smooth' })
+  const top = el.getBoundingClientRect().top
+  let spot = null
+  if (isTitle) spot = header + 8
+  else if (top > view * 0.4 || top < header + 8) spot = Math.max(header + 8, view * 0.4)
+  if (spot !== null) scrollTo({ top: scrollY + top - spot, behavior: 'smooth' })
 }
 
 function stop() {
@@ -125,6 +137,7 @@ function stop() {
   player.onended = null
   document.querySelectorAll('.kb-line-reading').forEach((n) => n.classList.remove('kb-line-reading'))
   if (bar) bar.hidden = true
+  document.documentElement.classList.remove('kb-reading')
   paused = false
   if (current) {
     current.button.textContent = current.label
@@ -143,7 +156,7 @@ function nextQuote(run) {
 // The steps of a reading: the section title first (when there is one), then each line; a step plays its recording or,
 // without one, is spoken by the browser.
 function stepsOf(quote) {
-  const steps = quote._heading ? [{ el: quote._heading.el, src: quote._heading.src, text: quote._heading.text }] : []
+  const steps = quote._heading ? [{ el: quote._heading.el, src: quote._heading.src, text: quote._heading.text, title: true }] : []
   linesOf(quote).forEach((line, i) => steps.push({ el: line, src: quote._audio?.[i], text: textOf(line) }))
   return steps
 }
@@ -152,7 +165,7 @@ function playStep(run, steps, j) {
   if (current !== run) return
   if (j >= steps.length) return nextQuote(run)
   const step = steps[j]
-  mark(step.el)
+  mark(step.el, step.title)
   if (step.src) {
     player.src = step.src
     player.onended = () => playStep(run, steps, j + 1)
