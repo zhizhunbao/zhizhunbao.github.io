@@ -10,7 +10,8 @@
 // Section titles: a reading starts with the numbered heading above its quote or table, highlighted while read;
 // audio.json's "headings" maps a section number to its recording.
 // English and Chinese ("中英对照"): audio.json's "zh" maps a section number to one MP3 per line of the Chinese translation
-// that follows the quote; the button reads the whole English quote, then the whole Chinese translation, line by line.
+// that follows the quote; with the 中英对照 box checked, a reading takes the whole English quote, then the whole Chinese
+// translation, line by line.
 // Importance order: audio.json's "priority" lists section numbers, most important first; a "Play by importance" button
 // under "Play all" reads those sections in that order (the order is this site's own judgment, not the source's).
 // Step tables (same page): a table whose header starts "Step | Action" gets a button above it that reads its rows in
@@ -18,10 +19,9 @@
 // audio.json's "tables" lists, per step table in page order, one MP3 per row.
 
 const LABEL = '🔊 Read aloud'
-const ALL = '▶︎ Play all English'
+const ALL = '▶︎ Play all'
 const ALL_STEPS = '▶︎ Play all steps'
 const BY_PRIORITY = '★ Play by importance'
-const BOTH = '▶︎ 中英对照'
 const ICON = {
   pause: '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1" fill="currentColor"/><rect x="14" y="5" width="4" height="14" rx="1" fill="currentColor"/></svg>',
   play: '<svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M8 5v14l11-7z" fill="currentColor"/></svg>',
@@ -206,7 +206,7 @@ function nextQuote(run) {
 function stepsOf(quote, mode) {
   const steps = quote._heading ? [{ el: quote._heading.el, src: quote._heading.src, text: quote._heading.text, title: true, box: quote }] : []
   linesOf(quote).forEach((line, i) => steps.push({ el: line, src: quote._audio?.[i], text: textOf(line), box: quote }))
-  if (mode === 'both') {
+  if (mode === 'both' && quote._zh) {
     const block = zhBlockOf(quote)
     zhLinesOf(quote).forEach((line, i) => steps.push({ el: line, src: quote._zh?.[i], text: textOf(line), zh: true, box: block }))
   }
@@ -245,7 +245,12 @@ function readQuote(run) {
   playStep(run, stepsOf(quote, run.mode), 0)
 }
 
-function start(button, label, quotes, mode = 'en') {
+// "中英对照" checkbox (on the pages with Chinese recordings): checked, every reading reads each section's English and
+// then its Chinese; it starts checked and the choice is remembered in this browser.
+let zhToggle = null
+const ZH_KEY = 'kb-speak-zh'
+
+function start(button, label, quotes, mode = zhToggle?.checked ? 'both' : 'en') {
   const again = current?.button === button
   stop()
   if (again || !quotes.length) return
@@ -321,6 +326,7 @@ async function recordings() {
 
 export async function readAloud(body) {
   stop() // a page swapped in place stops the previous page's reading
+  zhToggle = null
   const hasSpeech = 'speechSynthesis' in window
   if (hasSpeech) speechSynthesis.getVoices() // starts loading the voice list before the first click
   const quotes = [...body.querySelectorAll('blockquote')].filter((q) => isEnglish(q.innerText))
@@ -339,9 +345,19 @@ export async function readAloud(body) {
     place(b, t)
   }
   const h1 = body.querySelector('h1')
+  // the page-wide controls sit in one row under the title, all the same height
+  let bar_ = null
+  const toolbar = () => {
+    if (!bar_) {
+      bar_ = document.createElement('div')
+      bar_.className = 'kb-speak-toolbar'
+      h1 ? h1.after(bar_) : body.prepend(bar_)
+    }
+    return bar_
+  }
   if (playableTables.length > 1) {
     const all = makeButton(ALL_STEPS, 'kb-speak kb-speak-all', () => start(all, ALL_STEPS, playableTables))
-    h1 ? h1.after(all) : body.prepend(all)
+    toolbar().append(all)
   }
   for (const q of quotes) {
     const files = rec?.sections[sectionOf(q)]
@@ -355,13 +371,13 @@ export async function readAloud(body) {
   }
   if (playable.length > 1) {
     const all = makeButton(ALL, 'kb-speak kb-speak-all', () => start(all, ALL, playable))
-    h1 ? h1.after(all) : body.prepend(all)
+    toolbar().append(all)
     // audio.json "priority": section numbers, most important first; the button plays those sections in that order
     const order = (rec?.priority || []).map((n) => playable.find((q) => sectionOf(q) === n)).filter(Boolean)
     if (order.length > 1) {
       const pri = makeButton(BY_PRIORITY, 'kb-speak kb-speak-all', () => start(pri, BY_PRIORITY, order))
       pri.title = `Order: ${rec.priority.join(', ')}`
-      all.after(pri)
+      toolbar().append(pri)
     }
     // English then Chinese, line by line, when the page has the Chinese recordings ("zh" in audio.json)
     for (const q of playable) {
@@ -369,8 +385,14 @@ export async function readAloud(body) {
       if (Array.isArray(files)) q._zh = files.map((f) => new URL(f, rec.base).href)
     }
     if (playable.some((q) => q._zh)) {
-      const both = makeButton(BOTH, 'kb-speak kb-speak-all', () => start(both, BOTH, playable, 'both'))
-      ;(body.querySelector('.kb-speak-all:last-of-type') || all).after(both)
+      const box = document.createElement('label')
+      box.className = 'kb-speak-zh'
+      zhToggle = document.createElement('input')
+      zhToggle.type = 'checkbox'
+      zhToggle.checked = localStorage.getItem(ZH_KEY) !== '0'
+      zhToggle.addEventListener('change', () => localStorage.setItem(ZH_KEY, zhToggle.checked ? '1' : '0'))
+      box.append(zhToggle, document.createTextNode(' 中英对照'))
+      toolbar().append(box)
     }
   }
 }
