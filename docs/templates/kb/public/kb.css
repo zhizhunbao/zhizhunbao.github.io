@@ -338,6 +338,8 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 .kb-speak-bar button { font-size: 15px; line-height: 22px; padding: 6px 16px; border: 1px solid #0f6cbd; border-radius: 18px; cursor: pointer; }
 .kb-speak-bar .kb-speak-pause { background: #0f6cbd; color: #fff; }
 .kb-speak-bar .kb-speak-stop { background: #fff; color: #0f6cbd; }
+.content .heading-wrapper.kb-has-speak { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; }
+.content .kb-speak.kb-speak-head { margin: 0; }
 .content .kb-line-reading { background: #fff3b0; box-shadow: 0 0 0 2px #fff3b0; border-radius: 2px; }
 
 /* nested lists (a list inside a list item) sit right under their item, without the 16 px gap of a top-level list (since 2026-11-27) */

@@ -178,6 +178,17 @@ function start(button, label, quotes) {
   readQuote(current)
 }
 
+// A unit's button sits on the line of its numbered section title (beside the heading, not inside it, so the outline
+// and the anchor keep the title's own text); without a title it goes above the unit.
+function place(button, unit) {
+  const h = unit._heading?.el
+  if (!h) return (unit.closest('.table-wrapper') || unit).before(button)
+  button.classList.add('kb-speak-head')
+  const wrap = h.closest('.heading-wrapper')
+  wrap?.classList.add('kb-has-speak')
+  h.after(button)
+}
+
 function makeButton(label, cls, onClick) {
   const b = document.createElement('button')
   b.type = 'button'
@@ -239,7 +250,7 @@ export async function readAloud(body) {
   const playableTables = tables.filter((t) => t._audio || hasSpeech)
   for (const t of playableTables) {
     const b = makeButton(LABEL, 'kb-speak', () => start(b, LABEL, [t]))
-    ;(t.closest('.table-wrapper') || t).before(b)
+    place(b, t)
   }
   answers.forEach((cell, i) => {
     const file = rec?.answers[i]
@@ -263,7 +274,7 @@ export async function readAloud(body) {
   const playable = quotes.filter((q) => q._audio || hasSpeech)
   for (const quote of playable) {
     const b = makeButton(LABEL, 'kb-speak', () => start(b, LABEL, [quote]))
-    quote.before(b)
+    place(b, quote)
   }
   if (playable.length > 1) {
     const all = makeButton(ALL, 'kb-speak kb-speak-all', () => start(all, ALL, playable))
