@@ -1,0 +1,54 @@
+{
+ "voice": "en-US-AriaNeural",
+ "rate": "-10%",
+ "tables": [
+  [
+   "cst8914/audio/step-1-01.mp3",
+   "cst8914/audio/step-1-02.mp3",
+   "cst8914/audio/step-1-03.mp3",
+   "cst8914/audio/step-1-04.mp3"
+  ],
+  [
+   "cst8914/audio/step-2-01.mp3",
+   "cst8914/audio/step-2-02.mp3",
+   "cst8914/audio/step-2-03.mp3",
+   "cst8914/audio/step-2-04.mp3",
+   "cst8914/audio/step-2-05.mp3",
+   "cst8914/audio/step-2-06.mp3",
+   "cst8914/audio/step-2-07.mp3"
+  ],
+  [
+   "cst8914/audio/step-3-01.mp3",
+   "cst8914/audio/step-3-02.mp3",
+   "cst8914/audio/step-3-03.mp3",
+   "cst8914/audio/step-3-04.mp3"
+  ],
+  [
+   "cst8914/audio/step-4-01.mp3",
+   "cst8914/audio/step-4-02.mp3",
+   "cst8914/audio/step-4-03.mp3",
+   "cst8914/audio/step-4-04.mp3",
+   "cst8914/audio/step-4-05.mp3",
+   "cst8914/audio/step-4-06.mp3"
+  ],
+  [
+   "cst8914/audio/step-5-01.mp3",
+   "cst8914/audio/step-5-02.mp3",
+   "cst8914/audio/step-5-03.mp3",
+   "cst8914/audio/step-5-04.mp3",
+   "cst8914/audio/step-5-05.mp3",
+   "cst8914/audio/step-5-06.mp3",
+   "cst8914/audio/step-5-07.mp3"
+  ]
+ ],
+ "answers": [
+  "cst8914/audio/answer-01.mp3",
+  "cst8914/audio/answer-02.mp3",
+  "cst8914/audio/answer-03.mp3",
+  "cst8914/audio/answer-04.mp3",
+  "cst8914/audio/answer-05.mp3",
+  "cst8914/audio/answer-06.mp3",
+  "cst8914/audio/answer-07.mp3",
+  "cst8914/audio/answer-08.mp3"
+ ]
+}

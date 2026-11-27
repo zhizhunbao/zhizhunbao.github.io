@@ -7,9 +7,15 @@
 // of the numbered heading before it, line by line. Without files the browser's own speech synthesis (Web Speech API)
 // reads it line by line, with the most natural English voice the browser has (Edge's "Natural" voices, then Google's,
 // before the robotic Windows desktop voices).
+// Short answers (since 2026-11-27, the CST8914 oral exam practice page): a table row whose cell reads "Short answer" gets
+// a button in its answer cell; audio.json's "answers" lists one MP3 per short answer in page order.
+// Step tables (same page): a table whose header starts "Step | Action" gets a button above it that reads its rows in
+// order (the Action and the result cells), highlighting the row being read, and the page a "Play all steps" button;
+// audio.json's "tables" lists, per step table in page order, one MP3 per row.
 
 const LABEL = '🔊 Read aloud'
 const ALL = '▶ Play all English'
+const ALL_STEPS = '▶ Play all steps'
 const STOP = '■ Stop'
 let current = null // { button, label, quotes, index, line }
 const player = new Audio()
@@ -35,6 +41,8 @@ function voice() {
 // nested list under it is not highlighted with it).
 function linesOf(quote) {
   if (quote._lines) return quote._lines
+  if (quote.tagName === 'TD') return (quote._lines = [quote])
+  if (quote.tagName === 'TABLE') return (quote._lines = [...quote.tBodies[0].rows])
   const out = []
   const walk = (node) => {
     for (const c of [...node.children]) {
@@ -57,6 +65,11 @@ function linesOf(quote) {
   quote._lines = out
   return out
 }
+
+// the text of an element without the read-aloud button inside it
+const textOf = (el) => el.tagName === 'TR'
+  ? [...el.cells].slice(1).map(textOf).join('. ')
+  : [...el.childNodes].filter((n) => !n.classList?.contains('kb-speak')).map((n) => n.textContent).join('').trim()
 
 function markLine(quote, i) {
   document.querySelectorAll('.kb-line-reading').forEach((n) => n.classList.remove('kb-line-reading'))
@@ -100,7 +113,7 @@ function readQuote(run) {
   if (quote._audio?.length) return playLine(run, quote, quote._audio, 0)
   const v = voice()
   lines.forEach((line, i) => {
-    const u = new SpeechSynthesisUtterance(line.textContent.trim())
+    const u = new SpeechSynthesisUtterance(textOf(line))
     u.lang = v?.lang || 'en-US'
     if (v) u.voice = v
     u.rate = 0.9
@@ -144,7 +157,7 @@ async function recordings() {
     const r = await fetch(new URL(`media/${slug}.audio.json`, location.href), { cache: 'no-store' })
     if (!r.ok) return null
     const data = await r.json()
-    return { sections: data.sections || {}, base: new URL('media/', location.href) }
+    return { sections: data.sections || {}, answers: data.answers || [], tables: data.tables || [], base: new URL('media/', location.href) }
   } catch {
     return null
   }
@@ -155,8 +168,36 @@ export async function readAloud(body) {
   const hasSpeech = 'speechSynthesis' in window
   if (hasSpeech) speechSynthesis.getVoices() // starts loading the voice list before the first click
   const quotes = [...body.querySelectorAll('blockquote')].filter((q) => isEnglish(q.innerText))
-  if (!quotes.length) return
+  const answers = [...body.querySelectorAll('tr')]
+    .filter((tr) => [...tr.cells].some((c) => c.textContent.trim() === 'Short answer'))
+    .map((tr) => tr.cells[tr.cells.length - 1])
+  const tables = [...body.querySelectorAll('table')].filter((t) => t.rows[0]?.cells[0]?.textContent.trim() === 'Step'
+    && /^Action/.test(t.rows[0]?.cells[1]?.textContent.trim() || '') && t.tBodies[0]?.rows.length)
+  if (!quotes.length && !answers.length && !tables.length) return
   const rec = await recordings()
+  tables.forEach((t, i) => {
+    const files = rec?.tables?.[i]
+    if (Array.isArray(files) && files.length === t.tBodies[0].rows.length) t._audio = files.map((f) => new URL(f, rec.base).href)
+  })
+  const playableTables = tables.filter((t) => t._audio || hasSpeech)
+  for (const t of playableTables) {
+    const b = makeButton(LABEL, 'kb-speak', () => start(b, LABEL, [t]))
+    ;(t.closest('.table-wrapper') || t).before(b)
+  }
+  answers.forEach((cell, i) => {
+    const file = rec?.answers[i]
+    if (file) cell._audio = [new URL(file, rec.base).href]
+  })
+  const playableAnswers = answers.filter((c) => c._audio || hasSpeech)
+  for (const cell of playableAnswers) {
+    const b = makeButton(LABEL, 'kb-speak kb-speak-cell', () => start(b, LABEL, [cell]))
+    cell.prepend(b)
+  }
+  const h1 = body.querySelector('h1')
+  if (playableTables.length > 1) {
+    const all = makeButton(ALL_STEPS, 'kb-speak kb-speak-all', () => start(all, ALL_STEPS, playableTables))
+    h1 ? h1.after(all) : body.prepend(all)
+  }
   for (const q of quotes) {
     const files = rec?.sections[sectionOf(q)]
     if (Array.isArray(files)) q._audio = files.map((f) => new URL(f, rec.base).href)
@@ -168,7 +209,6 @@ export async function readAloud(body) {
   }
   if (playable.length > 1) {
     const all = makeButton(ALL, 'kb-speak kb-speak-all', () => start(all, ALL, playable))
-    const h1 = body.querySelector('h1')
     h1 ? h1.after(all) : body.prepend(all)
   }
 }
