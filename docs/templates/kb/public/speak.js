@@ -103,9 +103,20 @@ const textOf = (el) => el.tagName === 'TR'
   ? [...el.cells].slice(1).map(textOf).join('. ')
   : [...el.childNodes].filter((n) => !n.classList?.contains('kb-speak')).map((n) => n.textContent).join('').trim()
 
+// Highlights the line being read and follows it like a teleprompter: each line (and each section title) is scrolled
+// smoothly to about a third of the way down the visible window, so the page moves a little per line instead of jumping
+// a whole screen at a time, and the next lines stay in view below it (on phones too: the visible height is used).
 function mark(el) {
   document.querySelectorAll('.kb-line-reading').forEach((n) => n.classList.remove('kb-line-reading'))
-  el?.classList.add('kb-line-reading')
+  if (!el) return
+  el.classList.add('kb-line-reading')
+  follow(el)
+}
+function follow(el) {
+  const view = window.visualViewport?.height || innerHeight // phones: the visible height, without the browser bars
+  const header = Math.max(0, document.querySelector('header')?.getBoundingClientRect().bottom || 0)
+  const spot = Math.max(header + 16, view * 0.3)
+  scrollTo({ top: scrollY + el.getBoundingClientRect().top - spot, behavior: 'smooth' })
 }
 
 function stop() {
@@ -161,7 +172,6 @@ function readQuote(run) {
   const quote = run.quotes[run.index]
   for (const q of run.quotes) q.classList.remove('kb-speaking')
   quote.classList.add('kb-speaking')
-  ;(quote._heading?.el || quote).scrollIntoView({ behavior: 'smooth', block: 'center' })
   playStep(run, stepsOf(quote), 0)
 }
 
