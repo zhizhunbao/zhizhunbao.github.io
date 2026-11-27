@@ -32,18 +32,6 @@ MapleCare 靠收购扩张。每家诊所以前各用各的 IT 方案；中央 IT
 
 董事会批准了一个 3 年的数字化转型计划，主要组成部分是从本地基础设施迁到公有云服务商（例如 Azure 或 AWS）。
 
-```text
-Organization overview
-├─ Organization
-│   ├─ Company
-│   └─ Acquisitions
-├─ Locations
-│   ├─ Head office
-│   └─ Clinics
-├─ Staff
-└─ Program
-```
-
 | Category | Keyword | Description | 中文翻译 | 缩写 |
 |---|---|---|---|---|
 | **Organization** | **Company** | MapleCare Health Network (MCHN) is a **mid-sized healthcare organization** based in **Ontario** | MapleCare 医疗网络（MCHN）是一家位于**安大略省**的**中型医疗机构**。 | MCHN 即 MapleCare Health Network，MapleCare 医疗网络。 |
@@ -84,24 +72,6 @@ Organization overview
     - corp.maplecare.local（主域）
     - legacy.clinic.local（来自一次收购）
   - 一些 SaaS 应用用 Azure AD 或 Entra ID 做单点登录，但很多用户在老旧应用里仍然有各自的本地账号。
-
-```text
-Current IT Landscape (On-Premises)
-└─ Data Center & Infrastructure
-    ├─ Single data center
-    │   ├─ ESXi hosts and SAN
-    │   ├─ VMs
-    │   └─ Backup
-    ├─ Network
-    │   ├─ MPLS WAN
-    │   ├─ Internet breakout
-    │   └─ No SD-WAN
-    ├─ Identity
-    │   ├─ AD forest
-    │   ├─ corp.maplecare.local
-    │   └─ legacy.clinic.local
-    └─ SSO
-```
 
 #### 1.2.1 Data Center & Infrastructure
 
@@ -165,33 +135,6 @@ Current IT Landscape (On-Premises)
    - 胖客户端装在诊所的电脑上。
    - 客户端连接本地的应用服务器和 SQL 数据库。
    - 厂商的路线图显示 12 到 18 个月后会有 SaaS 版本。
-
-```text
-Key Applications
-├─ Electronic Medical Record (EMR) System
-│   ├─ Hosting
-│   │   ├─ Vendor-provided
-│   │   ├─ App servers
-│   │   └─ SQL Server cluster
-│   ├─ Usage
-│   ├─ Integration
-│   └─ RPO and RTO
-├─ PACS (Imaging System)
-│   ├─ Images
-│   ├─ Storage
-│   └─ Access
-├─ Intranet & Collaboration
-│   ├─ SharePoint 2013
-│   └─ File servers
-├─ Public Website & Patient Portal
-│   ├─ Website hosting
-│   ├─ Patient portal
-│   └─ Peak performance
-└─ Clinical Scheduling and Billing System
-    ├─ Thick client
-    ├─ Back end
-    └─ SaaS roadmap
-```
 
 #### 1.3.1 Electronic Medical Record (EMR) System
 
@@ -257,19 +200,6 @@ Key Applications
   - 数据中心内部网络分段不够。
   - 手工开通和注销用户账号。
 
-```text
-Security & Compliance
-├─ PHIPA
-├─ Requirements
-│   ├─ Data residency
-│   ├─ Access and auditing
-│   └─ Yearly audit
-└─ Current issues
-    ├─ Patching
-    ├─ Segmentation
-    └─ User provisioning
-```
-
 | Category | Keyword | Description | 中文翻译 | 缩写 |
 |---|---|---|---|---|
 | **PHIPA** |  | Subject to **PHIPA** (Ontario health information privacy), **similar to HIPAA**. | 受 **PHIPA**（安大略省的健康信息隐私法）约束，**类似美国的 HIPAA**。 | PHIPA 即 Personal Health Information Protection Act，个人健康信息保护法。<br>HIPAA 即 Health Insurance Portability and Accountability Act，美国的健康保险流通与责任法案。 |
@@ -297,18 +227,6 @@ Security & Compliance
   - 2 名应用支持专员
 - 监控工具分散：服务器、网络和应用日志各用各的工具。
 - 大部分流程靠手工（例如灾备演练、打补丁、备份验证）。
-
-```text
-Operations & Monitoring
-├─ IT team
-│   ├─ Size
-│   ├─ Infrastructure admins
-│   ├─ Network engineers
-│   ├─ Security analyst
-│   └─ Application support
-├─ Monitoring
-└─ Manual processes
-```
 
 | Category | Keyword | Description | 中文翻译 | 缩写 |
 |---|---|---|---|---|
@@ -356,25 +274,6 @@ Operations & Monitoring
    - 转向基础设施即代码和自动化部署。
    - 新项目遵循“云优先”策略。
 
-```text
-Business Drivers for Cloud Migration
-├─ Executive team
-├─ Reduce Data Center Risk & Cost
-│   ├─ SAN end-of-life
-│   ├─ Contracts
-│   └─ Power and cooling
-├─ Improve Availability & Resilience
-│   ├─ Single point of failure
-│   └─ Limited DR
-├─ Enable Innovation
-│   ├─ Analytics
-│   └─ Mobile apps
-└─ Standardize & Simplify IT
-    ├─ Fewer technologies
-    ├─ IaC and automation
-    └─ Cloud-first
-```
-
 | Category | Keyword | Description | 中文翻译 | 缩写 |
 |---|---|---|---|---|
 | **Executive team** |  | The **Executive team** wants to: | **管理层**希望： |  |
@@ -406,17 +305,6 @@ Business Drivers for Cloud Migration
 - 把患者门户现代化，改成可扩展的云原生架构。
 - 在云上建立集中的日志、监控和安全控制。
 - 在云上实施可靠的备份和灾备方案（尽量跨区域，但仍在加拿大境内）。
-
-```text
-Migration Goals & Scope
-├─ Plan
-└─ Goals
-    ├─ Decommission
-    ├─ High availability
-    ├─ Patient portal
-    ├─ Central controls
-    └─ Backup and DR
-```
 
 | Category | Keyword | Description | 中文翻译 | 缩写 |
 |---|---|---|---|---|
@@ -450,20 +338,6 @@ Migration Goals & Scope
 - 可能不在范围内或放到后期
   - 非关键的内部工具和老旧应用，可能直接退役。
   - 很老的归档数据可以保持离线，需要时再调取。
-
-```text
-Not everything moves at once:
-├─ In-scope for Migration
-│   ├─ EMR
-│   ├─ PACS
-│   ├─ Intranet
-│   ├─ File servers
-│   ├─ Patient portal
-│   └─ Scheduling and billing
-└─ Potentially Out-of-Scope / Later Phases
-    ├─ Legacy tools
-    └─ Old archive data
-```
 
 | Category | Keyword | Description | 中文翻译 | 缩写 |
 |---|---|---|---|---|
@@ -513,27 +387,6 @@ Not everything moves at once:
 - 合规和审计：
   - 迁移计划必须经隐私官批准。
   - 所有对病人数据的访问都需要详细的日志和审计。
-
-```text
-Constraints & Challenges
-├─ Data Residency
-├─ Downtime limits
-│   ├─ EMR
-│   └─ Patient portal
-├─ Third-party EMR vendor
-│   ├─ Supported platforms
-│   ├─ No SaaS
-│   └─ Vendor involvement
-├─ Network Connectivity
-│   ├─ Clinic access
-│   └─ Hybrid options
-├─ Skill Gaps
-│   ├─ Limited experience
-│   └─ Training
-└─ Compliance & Audit
-    ├─ Privacy officer
-    └─ Access logging
-```
 
 | Category | Keyword | Description | 中文翻译 | 缩写 |
 |---|---|---|---|---|
@@ -637,39 +490,6 @@ Constraints & Challenges
      - 应用基础设施的部署。
    - 用自动化管道做应用更新。
    - 自动打补丁、自动扩缩和监控告警。
-
-```text
-Target Cloud Architecture (High-Level Vision)
-├─ Landing Zone Approach
-│   ├─ Central environment
-│   ├─ Subscriptions
-│   ├─ Network model
-│   └─ Centralized controls
-├─ Identity & Access
-│   ├─ Cloud identity
-│   ├─ Hybrid identity
-│   └─ RBAC
-├─ Networking
-│   ├─ Hybrid connectivity
-│   ├─ Firewalls and NSGs
-│   └─ Segmentation
-├─ Application Strategies (6/7 Rs)
-│   ├─ EMR
-│   ├─ Patient Portal
-│   ├─ File Servers & Intranet
-│   └─ Legacy, low-value apps
-├─ Data, Backup & DR
-│   ├─ Backup
-│   ├─ Geo-redundant storage
-│   └─ RPO/RTO
-├─ Security & Governance
-│   ├─ Central policies
-│   └─ Guardrails
-└─ Operations & Automation
-    ├─ IaC
-    ├─ Pipelines
-    └─ Automation
-```
 
 | Category | Keyword | Description | 中文翻译 | 缩写 |
 |---|---|---|---|---|
@@ -775,44 +595,6 @@ Target Cloud Architecture (High-Level Vision)
    - 调整资源规格，合适的地方开自动扩缩。
    - 评估成本优化的机会。
    - 淘汰本地的工作负载和硬件。
-
-```text
-Migration Phases
-├─ 1. Assessment & Discovery
-│   ├─ Inventory
-│   │   ├─ Workloads
-│   │   ├─ Dependencies
-│   │   └─ Data flows
-│   ├─ Classify apps
-│   └─ Risks
-│       ├─ Technical
-│       └─ Business
-├─ 2. Landing Zone & Foundation
-│   ├─ Foundation
-│   │   ├─ Identity
-│   │   ├─ Networking
-│   │   ├─ Security baseline
-│   │   └─ Subscriptions/accounts
-│   └─ Connectivity
-├─ 3. Pilot Migrations
-│   ├─ Non-critical apps
-│   │   ├─ EMR test environment
-│   │   └─ Small internal tools
-│   └─ Validation
-│       ├─ Performance
-│       ├─ Monitoring
-│       └─ Backup
-├─ 4. Core Workload Migrations
-│   ├─ EMR
-│   ├─ PACS
-│   └─ Patient portal
-└─ 5. Optimization & Decommission
-    ├─ Right-sizing
-    │   ├─ Right-size
-    │   └─ Autoscaling
-    ├─ Cost
-    └─ Decommission
-```
 
 #### 1.11.1 Assessment & Discovery
 
