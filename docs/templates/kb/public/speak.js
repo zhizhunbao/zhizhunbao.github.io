@@ -9,6 +9,8 @@
 // before the robotic Windows desktop voices).
 // Section titles: a reading starts with the numbered heading above its quote or table, highlighted while read;
 // audio.json's "headings" maps a section number to its recording.
+// Importance order: audio.json's "priority" lists section numbers, most important first; a "Play by importance" button
+// under "Play all" reads those sections in that order (the order is this site's own judgment, not the source's).
 // Step tables (same page): a table whose header starts "Step | Action" gets a button above it that reads its rows in
 // order (the Action and the result cells), highlighting the row being read, and the page a "Play all steps" button;
 // audio.json's "tables" lists, per step table in page order, one MP3 per row.
@@ -16,6 +18,7 @@
 const LABEL = '🔊 Read aloud'
 const ALL = '▶ Play all English'
 const ALL_STEPS = '▶ Play all steps'
+const BY_PRIORITY = '★ Play by importance'
 const STOP = '■ Stop'
 let current = null // { button, label, quotes, index, line }
 const player = new Audio()
@@ -246,7 +249,7 @@ async function recordings() {
     const r = await fetch(new URL(`media/${slug}.audio.json`, location.href), { cache: 'no-store' })
     if (!r.ok) return null
     const data = await r.json()
-    return { sections: data.sections || {}, tables: data.tables || [], headings: data.headings || {}, base: new URL('media/', location.href) }
+    return { sections: data.sections || {}, tables: data.tables || [], headings: data.headings || {}, priority: data.priority || [], base: new URL('media/', location.href) }
   } catch {
     return null
   }
@@ -289,5 +292,12 @@ export async function readAloud(body) {
   if (playable.length > 1) {
     const all = makeButton(ALL, 'kb-speak kb-speak-all', () => start(all, ALL, playable))
     h1 ? h1.after(all) : body.prepend(all)
+    // audio.json "priority": section numbers, most important first; the button plays those sections in that order
+    const order = (rec?.priority || []).map((n) => playable.find((q) => sectionOf(q) === n)).filter(Boolean)
+    if (order.length > 1) {
+      const pri = makeButton(BY_PRIORITY, 'kb-speak kb-speak-all', () => start(pri, BY_PRIORITY, order))
+      pri.title = `Order: ${rec.priority.join(', ')}`
+      all.after(pri)
+    }
   }
 }
