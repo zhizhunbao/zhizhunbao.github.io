@@ -123,7 +123,9 @@ function mark(el, isTitle = false) {
 }
 function follow(el, isTitle) {
   const view = window.visualViewport?.height || innerHeight // phones: the visible height, without the browser bars
-  const header = Math.max(0, document.querySelector('header')?.getBoundingClientRect().bottom || 0)
+  const head = document.querySelector('header')
+  // the site header scrolls away with the page; leave room for it only if it stays fixed at the top
+  const header = head && /fixed|sticky/.test(getComputedStyle(head).position) ? Math.max(0, head.getBoundingClientRect().bottom) : 0
   const top = el.getBoundingClientRect().top
   let spot = null
   if (isTitle) spot = header + 8
