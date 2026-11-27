@@ -322,3 +322,14 @@ body.layout-body { min-height: 100vh; min-height: 100dvh; }
 /* lists inside table cells (Market timelines, since 2026-11-03): no top margin, a short indent */
 .content td ul, .content td ol { margin: 0; padding-inline-start: 18px; }
 .content table.kb-dated td:first-child { white-space: nowrap; }
+
+/* read-aloud button above each English quote (speak.js, since 2026-11-27); the quote being read is outlined */
+.content .kb-speak { display: inline-block; margin: 8px 0 4px; padding: 2px 10px; font-size: 13px; line-height: 20px; cursor: pointer;
+  border: 1px solid var(--theme-border, #d1d1d1); border-radius: 4px; background: var(--theme-body-background, #fff); color: inherit; }
+.content .kb-speak:hover { background: var(--theme-hover-base, #f2f2f2); }
+.content .kb-speak-all { display: block; margin: 4px 0 12px; font-weight: 600; }
+.content blockquote.kb-speaking { outline: 2px solid #0078d4; outline-offset: 4px; }
+.content .kb-line-reading { background: #fff3b0; box-shadow: 0 0 0 2px #fff3b0; border-radius: 2px; }
+
+/* nested lists (a list inside a list item) sit right under their item, without the 16 px gap of a top-level list (since 2026-11-27) */
+.content li > ul, .content li > ol { margin-top: 0; }
