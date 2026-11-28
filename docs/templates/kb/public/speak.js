@@ -14,6 +14,8 @@
 // translation, line by line.
 // Importance order: audio.json's "priority" lists section numbers, most important first; a "Play by importance" button
 // under "Play all" reads those sections in that order (the order is this site's own judgment, not the source's).
+// A step table with a "中文翻译" column (audio.json's "zhTables": per table, one MP3 per row) reads its English rows,
+// then that column, row by row, when 中英对照 is checked.
 // Step tables (same page): a table whose header starts "Step | Action" gets a button above it that reads its rows in
 // order (the Action and the result cells), highlighting the row being read, and the page a "Play all steps" button;
 // audio.json's "tables" lists, per step table in page order, one MP3 per row.
@@ -101,8 +103,11 @@ function linesOf(quote) {
 
 // The Chinese translation of a quote: the paragraphs and lists right after it, up to the next heading, table, figure
 // or quote; its lines pair one to one with the quote's lines.
+const zhColumn = (table) => [...(table.rows[0]?.cells || [])].findIndex((c) => c.textContent.trim() === '中文翻译')
+
 function zhBlockOf(quote) {
   if (quote._zhBlock !== undefined) return quote._zhBlock
+  if (quote.tagName === 'TABLE') return (quote._zhBlock = quote)
   const parts = []
   for (let n = quote.nextElementSibling; n; n = n.nextElementSibling) {
     if (n.matches('.heading-wrapper, h1, h2, h3, h4, h5, .table-wrapper, table, blockquote') || n.querySelector('img')) break
@@ -117,6 +122,10 @@ function zhBlockOf(quote) {
 }
 function zhLinesOf(quote) {
   if (quote._zhLines) return quote._zhLines
+  if (quote.tagName === 'TABLE') {
+    const col = zhColumn(quote)
+    return (quote._zhLines = col < 0 ? [] : [...quote.tBodies[0].rows].map((r) => r.cells[col]))
+  }
   const block = zhBlockOf(quote)
   return (quote._zhLines = block ? linesIn([...block.children], true) : [])
 }
@@ -150,7 +159,7 @@ function linesIn(roots, rootsAreLines = false) {
 
 // the text of an element without the read-aloud button inside it
 const textOf = (el) => el.tagName === 'TR'
-  ? [...el.cells].slice(1).map(textOf).join('. ')
+  ? [...el.cells].slice(1).filter((c, i) => i + 1 !== zhColumn(el.closest('table'))).map(textOf).join('. ')
   : [...el.childNodes].filter((n) => !n.classList?.contains('kb-speak')).map((n) => n.textContent).join('').trim()
 
 // Highlights the line being read and keeps it in view. A section title goes to the top of the window (just under the
@@ -318,7 +327,7 @@ async function recordings() {
     const r = await fetch(new URL(`media/${slug}.audio.json`, location.href), { cache: 'no-store' })
     if (!r.ok) return null
     const data = await r.json()
-    return { sections: data.sections || {}, tables: data.tables || [], headings: data.headings || {}, priority: data.priority || [], zh: data.zh || {}, base: new URL('media/', location.href) }
+    return { sections: data.sections || {}, tables: data.tables || [], headings: data.headings || {}, zhTables: data.zhTables || [], priority: data.priority || [], zh: data.zh || {}, base: new URL('media/', location.href) }
   } catch {
     return null
   }
@@ -339,6 +348,10 @@ export async function readAloud(body) {
     if (Array.isArray(files) && files.length === t.tBodies[0].rows.length) t._audio = files.map((f) => new URL(f, rec.base).href)
   })
   for (const t of tables) t._heading = titleStep(t, rec)
+  tables.forEach((t, i) => {
+    const files = rec?.zhTables?.[i]
+    if (Array.isArray(files) && files.length === t.tBodies[0].rows.length) t._zh = files.map((f) => new URL(f, rec.base).href)
+  })
   const playableTables = tables.filter((t) => t._audio || hasSpeech)
   for (const t of playableTables) {
     const b = makeButton(LABEL, 'kb-speak', () => start(b, LABEL, [t]))
@@ -384,15 +397,15 @@ export async function readAloud(body) {
       const files = rec?.zh?.[sectionOf(q)]
       if (Array.isArray(files)) q._zh = files.map((f) => new URL(f, rec.base).href)
     }
-    if (playable.some((q) => q._zh)) {
-      const box = document.createElement('label')
-      box.className = 'kb-speak-zh'
-      zhToggle = document.createElement('input')
-      zhToggle.type = 'checkbox'
-      zhToggle.checked = localStorage.getItem(ZH_KEY) !== '0'
-      zhToggle.addEventListener('change', () => localStorage.setItem(ZH_KEY, zhToggle.checked ? '1' : '0'))
-      box.append(zhToggle, document.createTextNode(' 中英对照'))
-      toolbar().append(box)
-    }
+  }
+  if ([...playable, ...playableTables].some((x) => x._zh)) {
+    const box = document.createElement('label')
+    box.className = 'kb-speak-zh'
+    zhToggle = document.createElement('input')
+    zhToggle.type = 'checkbox'
+    zhToggle.checked = localStorage.getItem(ZH_KEY) !== '0'
+    zhToggle.addEventListener('change', () => localStorage.setItem(ZH_KEY, zhToggle.checked ? '1' : '0'))
+    box.append(zhToggle, document.createTextNode(' 中英对照'))
+    toolbar().append(box)
   }
 }
