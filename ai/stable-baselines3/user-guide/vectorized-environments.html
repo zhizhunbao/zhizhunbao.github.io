@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.2 Vectorized Environments | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Stable-Baselines3, 1.2 Vectorized Environments: VecEnv API vs Gym API, Modifying Vectorized Environments Attributes, Vectorized Environments Wrappers, VecEnv, DummyVecEnv, SubprocVecEnv, Wrappers.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="12-vectorized-environments">1.2 Vectorized Environments</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/vectorized-environments.png" alt="1.2 Vectorized Environments: its parts from the official menu, each with the entries the menu lists under it, in Stable-Baselines3."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1.2 Vectorized Environments</strong><br>向量化环境</td>
+<td>&quot;Vectorized Environments are <strong>a method for stacking multiple independent environments into a single environment</strong>.&quot;</td>
+<td>向量化环境是<strong>一种把多个独立环境堆叠成单个环境的方法</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#vectorized-environments">Raffin et al., n.d., &quot;Vectorized Environments&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv API vs Gym API</strong><br>VecEnv API 与 Gym API</td>
+<td>(context) &quot;For consistency across Stable-Baselines3 (SB3) versions and because of its special requirements and features, <strong>SB3 VecEnv API is not the same as Gym API</strong>.&quot;</td>
+<td>（语境）为了在 Stable-Baselines3（SB3）各版本之间保持一致，也因为它的特殊需求和功能，<strong>SB3 的 VecEnv API 与 Gym API 并不相同</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#vecenv-api-vs-gym-api">Raffin et al., n.d., &quot;VecEnv API vs Gym API&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Modifying Vectorized Environments Attributes</strong><br>修改向量化环境的属性</td>
+<td>(context) &quot;If you plan to modify the attributes of an environment while it is used (e.g., modifying an attribute specifying the task carried out for a portion of training when doing multi-task learning, or a parameter of the environment dynamics), <strong>you must expose a setter method</strong>.&quot;</td>
+<td>（语境）如果你打算在环境使用期间修改它的属性（例如在多任务学习中修改一个指定某段训练所执行任务的属性，或环境动力学的某个参数），<strong>你必须暴露一个 setter 方法</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#modifying-vectorized-environments-attributes">Raffin et al., n.d., &quot;Modifying Vectorized Environments Attributes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Vectorized Environments Wrappers</strong><br>向量化环境包装器</td>
+<td>(context) &quot;If you want to <strong>alter or augment a VecEnv without redefining it completely</strong> (e.g. stack multiple frames, monitor the VecEnv, normalize the observation, …), you can use VecEnvWrapper for that.&quot;</td>
+<td>（语境）如果你想<strong>在不完全重新定义的情况下修改或增强一个 VecEnv</strong>（例如堆叠多帧、监控 VecEnv、归一化观测……），可以使用 VecEnvWrapper。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#vectorized-environments-wrappers">Raffin et al., n.d., &quot;Vectorized Environments Wrappers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnvWrapper</strong><br>VecEnvWrapper 向量化环境包装器</td>
+<td>&quot;They are <strong>the vectorized equivalents (i.e., they act on multiple environments at the same time) of gym.Wrapper</strong>.&quot;</td>
+<td>它们是 <strong>gym.Wrapper 的向量化对应物（即同时作用于多个环境）</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#vectorized-environments-wrappers">Raffin et al., n.d., &quot;Vectorized Environments Wrappers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv</strong><br>VecEnv 向量化环境</td>
+<td>&quot;<strong>An abstract asynchronous, vectorized environment</strong>.&quot;</td>
+<td><strong>一个抽象的异步向量化环境</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.close</strong><br>close 方法</td>
+<td>&quot;<strong>Clean up the environment’s resources</strong>.&quot;</td>
+<td><strong>清理环境的资源</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.close">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.env_is_wrapped</strong><br>env_is_wrapped 方法</td>
+<td>&quot;<strong>Check if environments are wrapped with a given wrapper</strong>.&quot;</td>
+<td><strong>检查各环境是否被给定的包装器包装</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.env_is_wrapped">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.env_method</strong><br>env_method 方法</td>
+<td>&quot;<strong>Call instance methods of vectorized environments</strong>.&quot;</td>
+<td><strong>调用向量化环境的实例方法</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.env_method">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.get_attr</strong><br>get_attr 方法</td>
+<td>&quot;<strong>Return attribute from vectorized environment</strong>.&quot;</td>
+<td><strong>从向量化环境返回属性</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.get_attr">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.get_images</strong><br>get_images 方法</td>
+<td>&quot;<strong>Return RGB images from each environment when available</strong>&quot;</td>
+<td><strong>在可用时从每个环境返回 RGB 图像</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.get_images">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.getattr_depth_check</strong><br>getattr_depth_check 方法</td>
+<td>&quot;<strong>Check if an attribute reference is being hidden in a recursive call to <strong>getattr</strong></strong>&quot;</td>
+<td><strong>检查某个属性引用是否在对 <strong>getattr</strong> 的递归调用中被隐藏</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.getattr_depth_check">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.has_attr</strong><br>has_attr 方法</td>
+<td>&quot;<strong>Check if an attribute exists for a vectorized environment</strong>.&quot;</td>
+<td><strong>检查向量化环境是否存在某个属性</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.has_attr">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.render</strong><br>render 方法</td>
+<td>&quot;<strong>Gym environment rendering</strong>&quot;</td>
+<td><strong>Gym 环境渲染</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.render">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Reset all the environments and return an array of observations, or a tuple of observation arrays</strong>.&quot;</td>
+<td><strong>重置所有环境并返回一个观测数组，或一个由观测数组组成的元组</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.reset">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.seed</strong><br>seed 方法</td>
+<td>&quot;<strong>Sets the random seeds for all environments, based on a given seed</strong>.&quot;</td>
+<td><strong>基于给定的种子为所有环境设置随机种子</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.seed">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.set_attr</strong><br>set_attr 方法</td>
+<td>&quot;<strong>Set attribute inside vectorized environments</strong>.&quot;</td>
+<td><strong>在向量化环境内部设置属性</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.set_attr">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.set_options</strong><br>set_options 方法</td>
+<td>&quot;<strong>Set environment options for all environments</strong>.&quot;</td>
+<td><strong>为所有环境设置环境选项</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.set_options">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.step</strong><br>step 方法</td>
+<td>&quot;<strong>Step the environments with the given action</strong>&quot;</td>
+<td><strong>用给定的动作让各环境前进一步</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.step">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.step_async</strong><br>step_async 方法</td>
+<td>&quot;<strong>Tell all the environments to start taking a step with the given actions</strong>.&quot;</td>
+<td><strong>通知所有环境开始用给定的动作执行一步</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.step_async">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecEnv.step_wait</strong><br>step_wait 方法</td>
+<td>&quot;<strong>Wait for the step taken with step_async()</strong>.&quot;</td>
+<td><strong>等待用 step_async() 执行的那一步完成</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecEnv.step_wait">Raffin et al., n.d., &quot;VecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DummyVecEnv</strong><br>DummyVecEnv 顺序向量化环境</td>
+<td>&quot;Creates <strong>a simple vectorized wrapper for multiple environments, calling each environment in sequence on the current Python process</strong>.&quot;</td>
+<td>创建<strong>一个用于多个环境的简单向量化包装器，在当前 Python 进程中依次调用每个环境</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.DummyVecEnv">Raffin et al., n.d., &quot;DummyVecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DummyVecEnv.env_is_wrapped</strong><br>env_is_wrapped 方法</td>
+<td>&quot;<strong>Check if worker environments are wrapped with a given wrapper</strong>&quot;</td>
+<td><strong>检查各工作环境是否被给定的包装器包装</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.DummyVecEnv.env_is_wrapped">Raffin et al., n.d., &quot;DummyVecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DummyVecEnv.render</strong><br>render 方法</td>
+<td>&quot;Gym environment rendering. If there are multiple environments then <strong>they are tiled together in one image</strong> via BaseVecEnv.render().&quot;</td>
+<td>Gym 环境渲染。如果有多个环境，<strong>它们会通过 BaseVecEnv.render() 拼接成一张图像</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.DummyVecEnv.render">Raffin et al., n.d., &quot;DummyVecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SubprocVecEnv</strong><br>SubprocVecEnv 多进程向量化环境</td>
+<td>&quot;Creates <strong>a multiprocess vectorized wrapper for multiple environments, distributing each environment to its own process</strong>, allowing significant speed up when the environment is computationally complex.&quot;</td>
+<td>创建<strong>一个用于多个环境的多进程向量化包装器，把每个环境分配到各自的进程中</strong>，在环境计算复杂时可以显著提速。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.SubprocVecEnv">Raffin et al., n.d., &quot;SubprocVecEnv&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Wrappers</strong><br>包装器</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#wrappers">Raffin et al., n.d., &quot;Wrappers&quot;</a></td>
+</tr>
+<tr>
+<td><strong>VecFrameStack</strong><br>VecFrameStack 帧堆叠包装器</td>
+<td>&quot;<strong>Frame stacking wrapper for vectorized environment</strong>.&quot;</td>
+<td><strong>用于向量化环境的帧堆叠包装器</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecFrameStack">Raffin et al., n.d., &quot;VecFrameStack&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecFrameStack.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Reset all environments</strong>&quot;</td>
+<td><strong>重置所有环境</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecFrameStack.reset">Raffin et al., n.d., &quot;VecFrameStack&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>StackedObservations</strong><br>StackedObservations 堆叠观测</td>
+<td>&quot;<strong>Frame stacking wrapper for data</strong>.&quot;</td>
+<td><strong>用于数据的帧堆叠包装器</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.stacked_observations.StackedObservations">Raffin et al., n.d., &quot;StackedObservations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>StackedObservations.compute_stacking</strong><br>compute_stacking 方法</td>
+<td>&quot;<strong>Calculates the parameters in order to stack observations</strong>&quot;</td>
+<td><strong>计算堆叠观测所需的参数</strong></td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.stacked_observations.StackedObservations.compute_stacking">Raffin et al., n.d., &quot;StackedObservations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>StackedObservations.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Reset the stacked_obs, add the reset observation to the stack, and return the stack</strong>.&quot;</td>
+<td><strong>重置 stacked_obs，把重置后的观测加入堆栈，并返回该堆栈</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.stacked_observations.StackedObservations.reset">Raffin et al., n.d., &quot;StackedObservations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>StackedObservations.update</strong><br>update 方法</td>
+<td>&quot;<strong>Add the observations to the stack and use the dones to update the infos</strong>.&quot;</td>
+<td><strong>把观测加入堆栈，并用 dones 更新 infos</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.stacked_observations.StackedObservations.update">Raffin et al., n.d., &quot;StackedObservations&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize</strong><br>VecNormalize 归一化包装器</td>
+<td>&quot;<strong>A moving average, normalizing wrapper for vectorized environment</strong>.&quot;</td>
+<td><strong>用于向量化环境的滑动平均归一化包装器</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.get_original_obs</strong><br>get_original_obs 方法</td>
+<td>&quot;<strong>Returns an unnormalized version of the observations from the most recent step or reset</strong>.&quot;</td>
+<td><strong>返回最近一次 step 或 reset 得到的观测的未归一化版本</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.get_original_obs">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.get_original_reward</strong><br>get_original_reward 方法</td>
+<td>&quot;<strong>Returns an unnormalized version of the rewards from the most recent step</strong>.&quot;</td>
+<td><strong>返回最近一次 step 得到的奖励的未归一化版本</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.get_original_reward">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.load</strong><br>load 方法</td>
+<td>&quot;<strong>Loads a saved VecNormalize object</strong>.&quot;</td>
+<td><strong>加载一个已保存的 VecNormalize 对象</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.load">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.normalize_obs</strong><br>normalize_obs 方法</td>
+<td>&quot;<strong>Normalize observations using this VecNormalize’s observations statistics</strong>.&quot;</td>
+<td><strong>用这个 VecNormalize 的观测统计量归一化观测</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.normalize_obs">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.normalize_reward</strong><br>normalize_reward 方法</td>
+<td>&quot;<strong>Normalize rewards using this VecNormalize’s rewards statistics</strong>.&quot;</td>
+<td><strong>用这个 VecNormalize 的奖励统计量归一化奖励</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.normalize_reward">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Reset all environments</strong> :return: first observation of the episode&quot;</td>
+<td><strong>重置所有环境</strong> :return: 回合的第一个观测</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.reset">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.save</strong><br>save 方法</td>
+<td>&quot;<strong>Save current VecNormalize object with all running statistics and settings</strong> (e.g. clip_obs)&quot;</td>
+<td><strong>保存当前的 VecNormalize 对象及其全部运行统计量和设置</strong>（例如 clip_obs）</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.save">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.set_venv</strong><br>set_venv 方法</td>
+<td>&quot;<strong>Sets the vector environment to wrap to venv</strong>.&quot;</td>
+<td><strong>把要包装的向量环境设为 venv</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.set_venv">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecNormalize.step_wait</strong><br>step_wait 方法</td>
+<td>&quot;<strong>Apply sequence of actions to sequence of environments</strong> actions -&gt; (observations, rewards, dones)&quot;</td>
+<td><strong>把一组动作施加到一组环境上</strong> actions -&gt; (observations, rewards, dones)</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecNormalize.step_wait">Raffin et al., n.d., &quot;VecNormalize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecVideoRecorder</strong><br>VecVideoRecorder 视频录制包装器</td>
+<td>&quot;<strong>Wraps a VecEnv or VecEnvWrapper object to record rendered image as mp4 video</strong>.&quot;</td>
+<td><strong>包装一个 VecEnv 或 VecEnvWrapper 对象，把渲染的图像录制为 mp4 视频</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecVideoRecorder">Raffin et al., n.d., &quot;VecVideoRecorder&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecVideoRecorder.close</strong><br>close 方法</td>
+<td>&quot;<strong>Closes the wrapper then the video recorder</strong>.&quot;</td>
+<td><strong>先关闭包装器，再关闭视频录制器</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecVideoRecorder.close">Raffin et al., n.d., &quot;VecVideoRecorder&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecCheckNan</strong><br>VecCheckNan NaN 检查包装器</td>
+<td>&quot;<strong>NaN and inf checking wrapper for vectorized environment</strong>, will raise a warning by default, allowing you to know from what the NaN of inf originated from.&quot;</td>
+<td><strong>用于向量化环境的 NaN 与 inf 检查包装器</strong>，默认会发出警告，让你知道 NaN 或 inf 源自何处。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecCheckNan">Raffin et al., n.d., &quot;VecCheckNan&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecCheckNan.check_array_value</strong><br>check_array_value 方法</td>
+<td>&quot;<strong>Check for inf and NaN for a single numpy array</strong>.&quot;</td>
+<td><strong>检查单个 numpy 数组中的 inf 和 NaN</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecCheckNan.check_array_value">Raffin et al., n.d., &quot;VecCheckNan&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecTransposeImage</strong><br>VecTransposeImage 图像转置包装器</td>
+<td>&quot;<strong>Re-order channels, from HxWxC to CxHxW</strong>.&quot;</td>
+<td><strong>重新排列通道，从 HxWxC 变为 CxHxW</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecTransposeImage">Raffin et al., n.d., &quot;VecTransposeImage&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecTransposeImage.transpose_image</strong><br>transpose_image 方法</td>
+<td>&quot;<strong>Transpose an image or batch of images (re-order channels)</strong>.&quot;</td>
+<td><strong>转置一张图像或一批图像（重新排列通道）</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecTransposeImage.transpose_image">Raffin et al., n.d., &quot;VecTransposeImage&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecTransposeImage.transpose_observations</strong><br>transpose_observations 方法</td>
+<td>&quot;<strong>Transpose (if needed) and return new observations</strong>.&quot;</td>
+<td><strong>（在需要时）转置并返回新的观测</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecTransposeImage.transpose_observations">Raffin et al., n.d., &quot;VecTransposeImage&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecTransposeImage.transpose_space</strong><br>transpose_space 方法</td>
+<td>&quot;<strong>Transpose an observation space (re-order channels)</strong>.&quot;</td>
+<td><strong>转置一个观测空间（重新排列通道）</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecTransposeImage.transpose_space">Raffin et al., n.d., &quot;VecTransposeImage&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecMonitor</strong><br>VecMonitor 向量化监控包装器</td>
+<td>&quot;<strong>A vectorized monitor wrapper for vectorized Gym environments</strong>, it is used to record the episode reward, length, time and other data.&quot;</td>
+<td><strong>用于向量化 Gym 环境的向量化监控包装器</strong>，用来记录回合奖励、长度、时间和其他数据。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecMonitor">Raffin et al., n.d., &quot;VecMonitor&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>VecExtractDictObs</strong><br>VecExtractDictObs 字典观测提取包装器</td>
+<td>&quot;<strong>A vectorized wrapper for extracting dictionary observations</strong>.&quot;</td>
+<td><strong>用于提取字典观测的向量化包装器</strong>。</td>
+<td><a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html#stable_baselines3.common.vec_env.VecExtractDictObs">Raffin et al., n.d., &quot;VecExtractDictObs&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Raffin, A., Hill, A., Gleave, A., Kanervisto, A., Ernestus, M., &amp; Dormann, N.. (n.d.). <em>Vectorized Environments</em>. Stable-Baselines3 docs (Version 2.9.2a0). Retrieved October 31, 2026, from <a href="https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html">https://stable-baselines3.readthedocs.io/en/master/guide/vec_envs.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

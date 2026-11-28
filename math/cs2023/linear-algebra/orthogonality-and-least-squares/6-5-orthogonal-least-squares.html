@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.5 Orthogonal Least Squares | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="6.5 Orthogonal Least Squares, part of 6 Orthogonality and Least Squares: 9 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="65-orthogonal-least-squares">6.5 Orthogonal Least Squares</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/6-5-orthogonal-least-squares.png" alt="6.5 Orthogonal Least Squares: its 9 terms, in 6 Orthogonality and Least Squares."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>6.5 Orthogonal Least Squares</strong><br>正交最小二乘</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html">Austin, 2023, section 6.5</a></td>
+</tr>
+<tr>
+<td><strong>Coefficient of Determination</strong><br>决定系数</td>
+<td>&quot;The <strong>coefficient of determination</strong> is <strong><span class="math">\(R^2 = 1 - \frac{\vert \mathbf{b} - A\widehat{\mathbf{x}}\vert ^2} {\vert \widetilde{\mathbf{b}}\vert ^2}\)</span></strong>, where <span class="math">\(\widetilde{\mathbf{b}}\)</span> is the vector obtained by demeaning <span class="math">\(\mathbf{b}\)</span>.&quot;</td>
+<td><strong>决定系数</strong>为 <strong><span class="math">\(R^2 = 1 - \frac{\vert \mathbf{b} - A\widehat{\mathbf{x}}\vert ^2} {\vert \widetilde{\mathbf{b}}\vert ^2}\)</span></strong>，其中 <span class="math">\(\widetilde{\mathbf{b}}\)</span> 是对 <span class="math">\(\mathbf{b}\)</span> 去均值得到的向量。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-5-14">Austin, 2023, Definition 6.5.12</a></td>
+</tr>
+<tr>
+<td><strong>Normal Equation</strong><br>正规方程</td>
+<td>&quot;Because the least-squares approximate solution is the vector <span class="math">\(\widehat{\mathbf{x}}\)</span> such that <span class="math">\(A\widehat{\mathbf{x}} = \widehat{\mathbf{b}}\)</span>, we can rearrange this equation to see that <span class="math">\(\begin{aligned} A^T(A\widehat{\mathbf{x}} - \mathbf{b}) &amp; = \mathbf{0}\\ A^TA\widehat{\mathbf{x}} - A^T\mathbf{b} &amp; = \mathbf{0}\\ A^TA\widehat{\mathbf{x}} &amp; = A^T\mathbf{b} \end{aligned}\)</span>. This equation is called the <strong>normal equation</strong>, and we have the following proposition.&quot;</td>
+<td>由于最小二乘近似解是满足 <span class="math">\(A\widehat{\mathbf{x}} = \widehat{\mathbf{b}}\)</span> 的向量 <span class="math">\(\widehat{\mathbf{x}}\)</span>，我们可以把这个方程整理为 <span class="math">\(\begin{aligned} A^T(A\widehat{\mathbf{x}} - \mathbf{b}) &amp; = \mathbf{0}\\ A^TA\widehat{\mathbf{x}} - A^T\mathbf{b} &amp; = \mathbf{0}\\ A^TA\widehat{\mathbf{x}} &amp; = A^T\mathbf{b} \end{aligned}\)</span>。这个方程称为<strong>正规方程</strong>，由此得到下面的命题。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-5-5">Austin, 2023, section 6.5</a></td>
+</tr>
+<tr>
+<td><strong>Orthogonal Least Squares</strong><br>正交最小二乘</td>
+<td>&quot;This activity illustrates the idea behind a technique known as <strong>orthogonal least squares</strong>, which we have been working toward throughout this chapter.&quot;</td>
+<td>这个活动说明了一种称为<strong>正交最小二乘</strong>的技术背后的思想，本章一直在为它做准备。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-4-4">Austin, 2023, section 6.5</a></td>
+</tr>
+<tr>
+<td><strong>Least-squares Problem</strong><br>最小二乘问题</td>
+<td>&quot;Our approach finds the values for <span class="math">\(b\)</span> and <span class="math">\(m\)</span> that make <strong>this sum of squares as small as possible</strong>, which is why we call this a <strong>least-squares problem</strong>.&quot;</td>
+<td>我们的方法求出使<strong>这个平方和尽可能小</strong>的 <span class="math">\(b\)</span> 和 <span class="math">\(m\)</span> 的值，这就是我们称之为<strong>最小二乘问题</strong>的原因。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-4-6">Austin, 2023, section 6.5</a></td>
+</tr>
+<tr>
+<td><strong>Least-squares Approximate Solution</strong><br>最小二乘近似解</td>
+<td>&quot;We will usually denote the <strong>solution of <span class="math">\(A\mathbf{x} = \widehat{\mathbf{b}}\)</span></strong> by <span class="math">\(\widehat{\mathbf{x}}\)</span> and call this vector the <strong>least-squares approximate solution</strong> of <span class="math">\(A\mathbf{x}=\mathbf{b}\)</span> to distinguish it from a (possibly non-existent) solution of <span class="math">\(A\mathbf{x}=\mathbf{b}\)</span>.&quot;</td>
+<td>我们通常把 <strong><span class="math">\(A\mathbf{x} = \widehat{\mathbf{b}}\)</span> 的解</strong>记为 <span class="math">\(\widehat{\mathbf{x}}\)</span>，并称这个向量为 <span class="math">\(A\mathbf{x}=\mathbf{b}\)</span> 的<strong>最小二乘近似解</strong>，以区别于 <span class="math">\(A\mathbf{x}=\mathbf{b}\)</span> 的（可能不存在的）解。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-5-4">Austin, 2023, section 6.5</a></td>
+</tr>
+<tr>
+<td><strong>Linear Regression</strong><br>线性回归</td>
+<td>&quot;This example demonstrates an approach, called <strong>linear regression</strong>, in which a collection of data is <strong>modeled using a linear function found by solving a least-squares problem</strong>.&quot;</td>
+<td>这个例子展示了一种称为<strong>线性回归</strong>的方法，在这种方法中，一组数据<strong>用通过求解最小二乘问题得到的线性函数来建模</strong>。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-5-9">Austin, 2023, section 6.5</a></td>
+</tr>
+<tr>
+<td><strong>Overfitting</strong><br>过拟合</td>
+<td>&quot;Fitting the data with a polynomial whose <strong>degree is too high</strong> is called <strong>overfitting</strong>, a phenomenon that can appear in many machine learning applications.&quot;</td>
+<td>用<strong>次数过高</strong>的多项式拟合数据称为<strong>过拟合</strong>，这种现象可能出现在许多机器学习应用中。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-7-5-1-5-1-5-4">Austin, 2023, section 6.5</a></td>
+</tr>
+<tr>
+<td><strong>Noise</strong><br>噪声</td>
+<td>&quot;The <strong>error built in to the data</strong> is called <strong>noise</strong>, and its presence means that we shouldn’t expect our polynomial to fit the data perfectly.&quot;</td>
+<td><strong>数据中固有的误差</strong>称为<strong>噪声</strong>，它的存在意味着我们不应指望多项式能完美地拟合数据。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-7-5-1-5-1-5-3">Austin, 2023, section 6.5</a></td>
+</tr>
+<tr>
+<td><strong>Vandermonde Matrix</strong><br>范德蒙德矩阵</td>
+<td>&quot;This is called a <strong>Vandermonde matrix</strong> of degree <span class="math">\(k\)</span>.&quot;</td>
+<td>这称为 <span class="math">\(k\)</span> 次<strong>范德蒙德矩阵</strong>。</td>
+<td><a href="https://understandinglinearalgebra.org/sec-least-squares.html#sec-least-squares-7-4">Austin, 2023, section 6.5</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Austin, D. (2023). <em>Understanding linear algebra</em> (2023 update). Retrieved October 29, 2026, from <a href="https://understandinglinearalgebra.org/home.html">https://understandinglinearalgebra.org/home.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-29">10/29/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

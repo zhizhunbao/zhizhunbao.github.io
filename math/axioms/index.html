@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>Axioms | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Axioms in learning order: arithmetic, geometry, algebra, probability, analysis, logic and set theory, each axiom with its statement and a Chinese reading, and the symbols they use.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="axioms">Axioms</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/axioms.png" alt="Axioms in learning order: 1 Arithmetic, 2 Geometry, 3 Algebra, 4 Probability, 5 Analysis, 6 Logic, 7 Set Theory, 8 Symbols; each group lists its axiom systems as its source names them (8 Symbols lists its symbols)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Axioms</strong><br>公理</td>
+<td>&quot;An axiom is <strong>a fundamental assumption that provides a starting point for reasoning</strong>.&quot;</td>
+<td>公理是<strong>为推理提供起点的基本假设</strong>。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong><a href="1-arithmetic.html">1 Arithmetic</a></strong><br>算术</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathworld.wolfram.com/PeanosAxioms.html">Weisstein, n.d., &quot;Peano's axioms&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong>Peano's Axioms</strong><br>皮亚诺公理</td>
+<td>&quot;Peano's axioms <strong>characterize the natural numbers</strong> as follows.&quot;</td>
+<td>皮亚诺公理<strong>这样刻画自然数</strong>：</td>
+<td><a href="https://mathworld.wolfram.com/PeanosAxioms.html">Weisstein, n.d., &quot;Peano's axioms&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/index.html">2 Geometry</a></strong><br>几何</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html#posts">Euclid, ca. 300 B.C.E./1996, Book I, &quot;Postulates&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/1-postulates.html">Postulates</a></strong><br>公设</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html#posts">Euclid, ca. 300 B.C.E./1996, Book I, &quot;Postulates&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/2-common-notions.html">Common Notions</a></strong><br>公理（一般概念）</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html#cns">Euclid, ca. 300 B.C.E./1996, Book I, &quot;Common Notions&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/3-group-i-axioms-of-connection.html">Group I: Axioms of Connection</a></strong><br>第一组：关联公理</td>
+<td>&quot;The axioms of this group <strong>establish a connection between the concepts</strong> indicated above; namely, <strong>points, straight lines, and planes</strong>.&quot;</td>
+<td>这一组公理<strong>在前面所说的概念之间建立联系</strong>，即<strong>点、直线和平面</strong>。</td>
+<td><a href="https://www.gutenberg.org/ebooks/17384">Hilbert, 1902, § 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/4-group-ii-axioms-of-order.html">Group II: Axioms of Order</a></strong><br>第二组：顺序公理</td>
+<td>&quot;The axioms of this group <strong>define the idea expressed by the word &quot;between,&quot;</strong> and make possible, upon the basis of this idea, <strong>an order of sequence of the points</strong> upon a straight line, in a plane, and in space.&quot;</td>
+<td>这一组公理<strong>定义“在……之间”这个词所表达的概念</strong>，并在此基础上，使直线上、平面上和空间中的<strong>点有先后顺序</strong>。</td>
+<td><a href="https://www.gutenberg.org/ebooks/17384">Hilbert, 1902, § 3</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/5-group-iii-axiom-of-parallels-euclid-s-axiom.html">Group III: Axiom of Parallels (Euclid's Axiom)</a></strong><br>第三组：平行公理（欧几里得公理）</td>
+<td>&quot;The introduction of this axiom <strong>simplifies greatly the fundamental principles of geometry</strong> and facilitates in no small degree its development.&quot;</td>
+<td>引入这条公理<strong>大大简化了几何的基本原理</strong>，并在很大程度上便利了几何的发展。</td>
+<td><a href="https://www.gutenberg.org/ebooks/17384">Hilbert, 1902, § 5</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/6-group-iv-axioms-of-congruence.html">Group IV: Axioms of Congruence</a></strong><br>第四组：合同公理</td>
+<td>&quot;The axioms of this group <strong>define the idea of congruence or displacement</strong>.&quot;</td>
+<td>这一组公理<strong>定义合同（全等）或移动的概念</strong>。</td>
+<td><a href="https://www.gutenberg.org/ebooks/17384">Hilbert, 1902, § 6</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/7-group-v-axiom-of-continuity-archimedean-axiom.html">Group V: Axiom of Continuity (Archimedean Axiom)</a></strong><br>第五组：连续公理（阿基米德公理）</td>
+<td>&quot;This axiom <strong>makes possible the introduction into geometry of the idea of continuity</strong>.&quot;</td>
+<td>这条公理<strong>使连续性的概念得以引入几何</strong>。</td>
+<td><a href="https://www.gutenberg.org/ebooks/17384">Hilbert, 1902, § 8</a></td>
+</tr>
+<tr>
+<td><strong><a href="2-geometry/8-axiom-of-completeness.html">Axiom of Completeness</a></strong><br>完备公理</td>
+<td>&quot;To the preceeding five groups of axioms, we may add the following one, which, although <strong>not of a purely geometrical nature</strong>, merits particular attention from a theoretical point of view.&quot;</td>
+<td>在前面五组公理之外，还可以加上下面这一条，它虽然<strong>不纯粹是几何性质的</strong>，但从理论上看值得特别注意。</td>
+<td><a href="https://www.gutenberg.org/ebooks/17384">Hilbert, 1902, § 8</a></td>
+</tr>
+<tr>
+<td><strong><a href="3-algebra/index.html">3 Algebra</a></strong><br>代数</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathworld.wolfram.com/Group.html">Weisstein, n.d., &quot;Group&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong><a href="3-algebra/1-group.html">Group</a></strong><br>群</td>
+<td>&quot;A group G is a finite or infinite set of group elements together with a group operation that satisfies <strong>the four fundamental properties of closure, associativity, the existence of an identity element, and the existence of inverse elements</strong>.&quot;</td>
+<td>群 G 是由有限或无限个群元素组成的集合，连同一个群运算，满足<strong>四条基本性质：封闭性、结合律、存在单位元、存在逆元</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/Group.html">Weisstein, n.d., &quot;Group&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong><a href="3-algebra/2-ring.html">Ring</a></strong><br>环</td>
+<td>&quot;A ring in the mathematical sense is <strong>a set S together with two binary operators</strong> + and * (commonly interpreted as addition and multiplication, respectively) satisfying the following conditions&quot;</td>
+<td>数学意义上的环是<strong>一个集合 S 连同两个二元运算</strong> + 和 *（通常分别解释为加法和乘法），并满足以下条件</td>
+<td><a href="https://mathworld.wolfram.com/Ring.html">Weisstein, n.d., &quot;Ring&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong><a href="3-algebra/3-field-axioms.html">Field Axioms</a></strong><br>域公理</td>
+<td>&quot;The field axioms are <strong>conditions on two binary operations, addition and multiplication, on a set F</strong>.&quot;</td>
+<td>域公理是<strong>对集合 F 上加法和乘法这两个二元运算的条件</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/FieldAxioms.html">Weisstein, n.d., &quot;Field axioms&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong><a href="3-algebra/4-vector-space.html">Vector Space</a></strong><br>向量空间</td>
+<td>&quot;A vector space V is <strong>a set equipped with vector addition and scalar multiplication</strong> satisfying the axioms below.&quot;</td>
+<td>向量空间 V 是<strong>配有向量加法和数乘的集合</strong>，满足下列公理。</td>
+<td><a href="https://mathworld.wolfram.com/VectorSpace.html">Weisstein, n.d., &quot;Vector space&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong><a href="4-probability.html">4 Probability</a></strong><br>概率</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathworld.wolfram.com/ProbabilityAxioms.html">Weisstein, n.d., &quot;Probability axioms&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong>Probability Axioms</strong><br>概率公理</td>
+<td>&quot;Probability axioms state that, given an event E in a sample space S which is either finite with N elements or countably infinite with N=∞ elements, we can write S=⋃_(i=1)^N E_i, and <strong>a quantity P(E_i), called the probability of event E_i</strong>, is defined such that&quot;</td>
+<td>概率公理说：给定样本空间 S（有限，有 N 个元素；或可数无限，N = ∞）中的事件 E，可以写成 S = ⋃ Eᵢ，并且定义一个量 P(Eᵢ)，<strong>称为事件 Eᵢ 的概率</strong>，使得</td>
+<td><a href="https://mathworld.wolfram.com/ProbabilityAxioms.html">Weisstein, n.d., &quot;Probability axioms&quot; entry</a></td>
+</tr>
+<tr>
+<td><strong><a href="5-analysis.html">5 Analysis</a></strong><br>分析</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>The 22 Axioms for Complex Numbers</strong><br>复数的 22 条公理</td>
+<td>&quot;We then assert that these eight objects have <strong>the properties specified by the axioms in the table below, as extensions to ZFC set theory</strong>.&quot;</td>
+<td>然后我们断言这八个对象具有<strong>下表公理所规定的性质，作为 ZFC 集合论的扩充</strong>。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong><a href="6-logic/index.html">6 Logic</a></strong><br>逻辑</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong><a href="6-logic/1-propositional-calculus.html">Propositional Calculus</a></strong><br>命题演算</td>
+<td>&quot;Our system of <strong>propositional calculus</strong> consists of <strong>three axioms and the modus ponens inference rule</strong>.&quot;</td>
+<td>我们的<strong>命题演算</strong>系统由<strong>三条公理和肯定前件推理规则</strong>组成。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong><a href="6-logic/2-predicate-calculus.html">Predicate Calculus</a></strong><br>谓词演算</td>
+<td>&quot;The axioms of <strong>predicate calculus</strong> express <strong>the logical properties of these new symbols that are universally true</strong>, independent from any theory (like set theory) making use of them.&quot;</td>
+<td><strong>谓词演算</strong>的公理表达<strong>这些新符号普遍成立的逻辑性质</strong>，与使用它们的任何理论（如集合论）无关。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong><a href="7-set-theory/index.html">7 Set Theory</a></strong><br>集合论</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong><a href="7-set-theory/1-zermelo-fraenkel-set-theory-with-choice-zfc.html">Zermelo-Fraenkel Set Theory with Choice (ZFC)</a></strong><br>带选择公理的策梅洛-弗兰克尔集合论（ZFC）</td>
+<td>&quot;<strong>Set theory</strong> uses the formalism of propositional and predicate calculus <strong>to assert properties of arbitrary mathematical objects called &quot;sets.&quot;</strong>&quot;</td>
+<td><strong>集合论</strong>用命题演算和谓词演算的形式体系，<strong>来断言称为“集合”的任意数学对象的性质</strong>。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong><a href="7-set-theory/2-the-tarski-grothendieck-axiom.html">The Tarski–Grothendieck Axiom</a></strong><br>塔斯基-格罗滕迪克公理</td>
+<td>&quot;The main important missing piece is the ability to do category theory, which requires <strong>huge sets (inaccessible cardinals)</strong> larger than those postulated by the ZFC axioms. The Tarski–Grothendieck Axiom <strong>postulates the existence of such sets</strong>.&quot;</td>
+<td>主要缺少的一块是做范畴论的能力，范畴论需要比 ZFC 公理所假定的更大的<strong>巨大集合（不可达基数）</strong>。塔斯基-格罗滕迪克公理<strong>假定这样的集合存在</strong>。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong><a href="8-symbols.html">8 Symbols</a></strong><br>符号</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>⊢</strong><br>可证符号（十字转门）</td>
+<td>&quot;The turnstile ⊢ is a symbol (introduced by Frege in 1879) used in formal logic <strong>to indicate that the wff that follows is provable</strong> (and is traditionally used even for an axiom, which is &quot;provable&quot; in one step, itself); it can be ignored for informal reading.&quot;</td>
+<td>十字转门 ⊢ 是一个符号（弗雷格于 1879 年引入），在形式逻辑中<strong>表示其后的合式公式可证</strong>（传统上公理也用它，公理一步即“可证”）；非正式阅读时可以忽略它。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>→</strong><br>蕴涵（如果……那么）</td>
+<td>&quot;The constants that occur in the axioms of predicate calculus are ( , ) , → , ¬ , = , ∈ , and ∀ (left parenthesis, right parenthesis, <strong>implies</strong>, not, equals, is a member of, for all).&quot;</td>
+<td>谓词演算公理中出现的常量是 ( 、 ) 、 → 、 ¬ 、 = 、 ∈ 和 ∀（左括号、右括号、<strong>蕴涵</strong>、非、等于、属于、对所有）。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>↔</strong><br>当且仅当（双条件）</td>
+<td>&quot;( 𝜑 ↔ 𝜓 ) is <strong>an abbreviation for (( 𝜑 → 𝜓 ) ∧ ( 𝜓 → 𝜑 ))</strong>&quot;</td>
+<td>( 𝜑 ↔ 𝜓 ) 是 <strong>(( 𝜑 → 𝜓 ) ∧ ( 𝜓 → 𝜑 )) 的缩写</strong></td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>∀</strong><br>全称量词（对所有）</td>
+<td>&quot;The wff ∀ 𝑥 𝜑 is read <strong>&quot;for all x, it is the case that phi is true.&quot;</strong>&quot;</td>
+<td>合式公式 ∀ 𝑥 𝜑 读作“<strong>对所有 x，phi 都为真</strong>”。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>∃</strong><br>存在量词（存在）</td>
+<td>&quot;∃ 𝑥 𝜑 is <strong>an abbreviation for ¬ ∀ 𝑥 ¬ 𝜑</strong>&quot;</td>
+<td>∃ 𝑥 𝜑 是 <strong>¬ ∀ 𝑥 ¬ 𝜑 的缩写</strong></td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong>⊆</strong><br>子集（包含于）</td>
+<td>&quot;Define <strong>the subclass relationship</strong>. Definition 5.9 of [TakeutiZaring] p. 17. For example, {1, 2} ⊆ {1, 2, 3}&quot;</td>
+<td>定义<strong>子类关系</strong>。见 [TakeutiZaring] 第 17 页定义 5.9。例如 {1, 2} ⊆ {1, 2, 3}</td>
+<td><a href="https://us.metamath.org/mpeuni/df-ss.html">Megill, n.d.-a, &quot;df-ss&quot; page</a></td>
+</tr>
+<tr>
+<td><strong>≈</strong><br>等势</td>
+<td>&quot;Define <strong>the equinumerosity relation</strong>.&quot;</td>
+<td>定义<strong>等势关系</strong>。</td>
+<td><a href="https://us.metamath.org/mpeuni/df-en.html">Megill, n.d.-b, &quot;df-en&quot; page</a></td>
+</tr>
+<tr>
+<td><strong>ℂ</strong><br>复数集</td>
+<td>&quot;we introduce two classes <strong>ℂ (set of complex numbers)</strong> and ℝ (set of real numbers)&quot;</td>
+<td>我们引入两个类：<strong>ℂ（复数集）</strong>，以及 ℝ（实数集）</td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>ℝ</strong><br>实数集</td>
+<td>&quot;we introduce two classes ℂ (set of complex numbers) and <strong>ℝ (set of real numbers)</strong>&quot;</td>
+<td>我们引入两个类：ℂ（复数集）和 <strong>ℝ（实数集）</strong></td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>&lt;ℝ</strong><br>实数的小于</td>
+<td>&quot;and one binary relation <strong>&lt;ℝ (less than for real numbers)</strong>&quot;</td>
+<td>以及一个二元关系 <strong>&lt;ℝ（实数的小于）</strong></td>
+<td><a href="https://us.metamath.org/mpeuni/mmcomplex.html">Megill, n.d.-c, &quot;The 22 Axioms for Complex Numbers&quot; table</a></td>
+</tr>
+<tr>
+<td><strong>∅</strong><br>空集</td>
+<td>&quot;Define <strong>the empty set</strong>.&quot;</td>
+<td>定义<strong>空集</strong>。</td>
+<td><a href="https://us.metamath.org/mpeuni/df-nul.html">Megill, n.d.-d, &quot;df-nul&quot; page</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Euclid. (1996). <em>Euclid's Elements</em> (D. E. Joyce, Ed.; T. L. Heath, Trans.). Clark University. (Original work published ca. 300 B.C.E.) Retrieved October 29, 2026, from <a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html">https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html</a></p>
+<p>Hilbert, D. (1902). <em>The foundations of geometry</em> (E. J. Townsend, Trans.). Open Court. Project Gutenberg. <a href="https://www.gutenberg.org/ebooks/17384">https://www.gutenberg.org/ebooks/17384</a></p>
+<p>Megill, N. (2026). <em>Metamath Proof Explorer home page</em> (last updated January 19, 2026). Metamath. Retrieved October 29, 2026, from <a href="https://us.metamath.org/mpeuni/mmset.html">https://us.metamath.org/mpeuni/mmset.html</a></p>
+<p>Megill, N. (n.d.-c). <em>Real and complex numbers: Metamath Proof Explorer</em>. Metamath. Retrieved October 29, 2026, from <a href="https://us.metamath.org/mpeuni/mmcomplex.html">https://us.metamath.org/mpeuni/mmcomplex.html</a></p>
+<p>Weisstein, E. W. (n.d.). <em>Field axioms</em>. MathWorld. Retrieved October 29, 2026, from <a href="https://mathworld.wolfram.com/FieldAxioms.html">https://mathworld.wolfram.com/FieldAxioms.html</a></p>
+<p>Weisstein, E. W. (n.d.). <em>Group</em>. MathWorld. Retrieved October 29, 2026, from <a href="https://mathworld.wolfram.com/Group.html">https://mathworld.wolfram.com/Group.html</a></p>
+<p>Weisstein, E. W. (n.d.). <em>Peano's axioms</em>. MathWorld. Retrieved October 29, 2026, from <a href="https://mathworld.wolfram.com/PeanosAxioms.html">https://mathworld.wolfram.com/PeanosAxioms.html</a></p>
+<p>Weisstein, E. W. (n.d.). <em>Probability axioms</em>. MathWorld. Retrieved October 29, 2026, from <a href="https://mathworld.wolfram.com/ProbabilityAxioms.html">https://mathworld.wolfram.com/ProbabilityAxioms.html</a></p>
+<p>Weisstein, E. W. (n.d.). <em>Ring</em>. MathWorld. Retrieved October 29, 2026, from <a href="https://mathworld.wolfram.com/Ring.html">https://mathworld.wolfram.com/Ring.html</a></p>
+<p>Weisstein, E. W. (n.d.). <em>Vector space</em>. MathWorld. Retrieved October 29, 2026, from <a href="https://mathworld.wolfram.com/VectorSpace.html">https://mathworld.wolfram.com/VectorSpace.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-29 19:52:02-04:00">10/29/2026 19:52:02</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

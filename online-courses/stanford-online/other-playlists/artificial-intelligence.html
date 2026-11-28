@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.9.34 Artificial Intelligence | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Other Playlists &gt; Artificial Intelligence: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1934-artificial-intelligence">1.9.34 Artificial Intelligence</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Artificial Intelligence</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=l07K2cdLofM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI Costs: Tokens, Energy, Model Choice &amp; API Keys | Stanford CS193T Lecture 7 with Cynthia Bailey">AI Costs: Tokens, Energy, Model Choice &amp; API Keys | Stanford CS193T Lecture 7 with Cynthia Bailey</a></td>
+<td>49:00</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=1S5nJp-qRs8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Post-Training Techniques: On-Policy Distillation | Afshine &amp; Shervine Amidi">Post-Training Techniques: On-Policy Distillation | Afshine &amp; Shervine Amidi</a></td>
+<td>1:34</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=0Uk4uLjuEeY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Vibe Coding, AI Risk &amp; AI Evaluation | Stanford CS193T Lecture 6 with Cynthia Bailey">Vibe Coding, AI Risk &amp; AI Evaluation | Stanford CS193T Lecture 6 with Cynthia Bailey</a></td>
+<td>1:09:28</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=ho00IesajkY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="How AI Agents Work: Connectors, MCP &amp; Agent Safety | Stanford CS193T Lecture 5 with Cynthia Bailey">How AI Agents Work: Connectors, MCP &amp; Agent Safety | Stanford CS193T Lecture 5 with Cynthia Bailey</a></td>
+<td>58:53</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=PeRJkvzIEts&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Using AI in Research | Stanford CS193T Guest Panel with Mark Algee-Hewitt, Megan Ma &amp; Markus Covert">Using AI in Research | Stanford CS193T Guest Panel with Mark Algee-Hewitt, Megan Ma &amp; Markus Covert</a></td>
+<td>1:11:22</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=8Ok6ZYILp2Q&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI Memory, RAG &amp; Prompt Injection Explained | Stanford CS193T Lecture 3 with Cynthia Bailey">AI Memory, RAG &amp; Prompt Injection Explained | Stanford CS193T Lecture 3 with Cynthia Bailey</a></td>
+<td>1:03:20</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=Qhf1mp74tbk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="How to Prompt AI Well: Trust, Evidence &amp; Context Rot | Stanford CS193T Lecture 2 with Cynthia Bailey">How to Prompt AI Well: Trust, Evidence &amp; Context Rot | Stanford CS193T Lecture 2 with Cynthia Bailey</a></td>
+<td>1:16:17</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=I7zvCSGMkoc&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="How AI Chatbots Work: LLMs, Tokens &amp; Hallucination | Stanford CS193T Lecture 1 with Cynthia Bailey">How AI Chatbots Work: LLMs, Tokens &amp; Hallucination | Stanford CS193T Lecture 1 with Cynthia Bailey</a></td>
+<td>1:12:42</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=GyjB3GYxEj0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford EE292R AI and Data for Science | Autumn 2026 | Multimodal Modeling for Precision Medicine">Stanford EE292R AI and Data for Science | Multimodal Modeling for Precision Medicine</a></td>
+<td>59:42</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=IfkeGU4bEJI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford EE292R AI and Data for Science | Autumn 2026 | From World Models to World Agents">Stanford EE292R AI and Data for Science | From World Models to World Agents</a></td>
+<td>54:31</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=RxQ3VbuyOzY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Sydney Katz: What Is Mechanistic Interpretability?">Sydney Katz: What Is Mechanistic Interpretability?</a></td>
+<td>1:09</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=dAzTioGQIzQ&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Webinar: Regulating at the Speed of AI with Francis Fukuyama and Nate Persily">Webinar: Regulating at the Speed of AI with Francis Fukuyama and Nate Persily</a></td>
+<td>56:46</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=bt-R1RNc-5k&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford EE292R AI and Data for Science | Autumn 2026 | Models of Computation in the Retina">Stanford EE292R AI and Data for Science | Models of Computation in the Retina</a></td>
+<td>1:00:01</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=8cAQdELWYuo&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Teaching AI to Touch Atoms">Stanford CS153 Frontier Systems | Teaching AI to Touch Atoms</a></td>
+<td>42:09</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=HTlf3KNNez0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Andrew Ng: One Skill to Stay Relevant in the Age of AI">Andrew Ng: One Skill to Stay Relevant in the Age of AI</a></td>
+<td>1:29</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=k2oGY54IN58&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Post-Training Techniques: How LLMs Learn to Follow Instructions">Post-Training Techniques: How LLMs Learn to Follow Instructions</a></td>
+<td>1:34</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=6NjVnSxJCTY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Can LLMs Actually Do Things? (Not Just Talk)">Can LLMs Actually Do Things? (Not Just Talk)</a></td>
+<td>1:11</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=_nZ27w6s9hw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="LLMs Don't Have to Write One Word at a Time">LLMs Don't Have to Write One Word at a Time</a></td>
+<td>1:18</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=J7CossjMvEg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 20: GMM (EM), PCA">Stanford CS229 Machine Learning | Lecture 20: GMM (EM), PCA</a></td>
+<td>1:18:56</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=xveNBYVTrqw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 18: GMM (EM), PCA">Stanford CS229 Machine Learning | Lecture 18: GMM (EM), PCA</a></td>
+<td>1:16:25</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=hHC-SF3utxg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 16: Basic Concept in RL, Policy Gradient">Stanford CS229 Machine Learning | Lecture 16: Basic Concept in RL, Policy Gradient</a></td>
+<td>1:13:19</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=pwQ0l4hFCVI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 14: Transformers, In-Context Learning">Stanford CS229 Machine Learning | Lecture 14: Transformers, In-Context Learning</a></td>
+<td>1:17:32</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=lNTajqxxOn4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 13: LLMs, Next-Word Prediction Loss">Stanford CS229 Machine Learning | Lecture 13: LLMs, Next-Word Prediction Loss</a></td>
+<td>1:00:42</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=_kREM2UAiJ8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 12: Representation Learning">Stanford CS229 Machine Learning | Lecture 12: Representation Learning</a></td>
+<td>1:15:57</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=dqUMCzWjZSI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 11: Diffusion Models">Stanford CS229 Machine Learning | Lecture 11: Diffusion Models</a></td>
+<td>1:22:31</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=sUS-eTa0l6s&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 10: GMM (EM), PCA">Stanford CS229 Machine Learning | Lecture 10: GMM (EM), PCA</a></td>
+<td>1:20:06</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=bSmIGBCoffA&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 9: K-Means and GMM (non-EM)">Stanford CS229 Machine Learning | Lecture 9: K-Means and GMM (non-EM)</a></td>
+<td>1:16:30</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=ne2ngVAoMG8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 8: Neural Networks 2 (Backprop)">Stanford CS229 Machine Learning | Lecture 8: Neural Networks 2 (Backprop)</a></td>
+<td>1:02:13</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=fRM41w9jzQo&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 7: Neural Networks 1 (Architecture)">Stanford CS229 Machine Learning | Lecture 7: Neural Networks 1 (Architecture)</a></td>
+<td>1:20:28</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=llnEgyyuYkQ&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 6: Dataset Split, ML Advice">Stanford CS229 Machine Learning | Lecture 6: Dataset Split, ML Advice</a></td>
+<td>1:18:27</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=zRdE8A4UZes&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 5: Gaussian Discriminant Analysis">Stanford CS229 Machine Learning | Lecture 5: Gaussian Discriminant Analysis</a></td>
+<td>1:21:38</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=8gVi4Rk21Eg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 4: Exponential Family, GLMs Classification">Stanford CS229 Machine Learning | Lecture 4: Exponential Family, GLMs Classification</a></td>
+<td>1:14:12</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=uJF_gL3jhxI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 3: Weighted Least Squares">Stanford CS229 Machine Learning | Lecture 3: Weighted Least Squares</a></td>
+<td>1:02:14</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=cmNIMjPYdgM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 2: Supervised Learning Setup">Stanford CS229 Machine Learning | Lecture 2: Supervised Learning Setup</a></td>
+<td>1:18:10</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=DATnpGoGhM8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction">Stanford CS229 Machine Learning | Lecture 1: Introduction</a></td>
+<td>36:59</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=BBl8bNJP6ds&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | The GPU Economy">Stanford MS&amp;E435 Economics of the AI Supercycle | The GPU Economy</a></td>
+<td>56:01</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=LNSvp-9b-J0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | Economics of Generative AI">Stanford MS&amp;E435 Economics of the AI Supercycle | Economics of Generative AI</a></td>
+<td>34:23</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=nWKiJHKIZfo&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | Applications, AI in Life Sciences">Stanford MS&amp;E435 Economics of the AI Supercycle | Applications, AI in Life Sciences</a></td>
+<td>49:13</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=sRvrXL83N-c&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | Infrasctructure, Enterprise AI, SaaS">Stanford MS&amp;E435 Economics of the AI Supercycle | Infrasctructure, Enterprise AI, SaaS</a></td>
+<td>39:09</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=y81IfY-Cc1U&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Live from Stanford Health AI Week">Live from Stanford Health AI Week</a></td>
+<td>1:36:01</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=oWip48RPq0s&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Course - Technical Fundamentals of Generative AI">Stanford Course - Technical Fundamentals of Generative AI</a></td>
+<td>1:01</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=qglA5eql38c&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Course Overview - Technical Fundamentals of Generative AI">Course Overview - Technical Fundamentals of Generative AI</a></td>
+<td>1:28</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=d0Pfu6B7gIM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Building the Frontier Ecosystem">Stanford CS153 Frontier Systems | Building the Frontier Ecosystem</a></td>
+<td>57:18</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=HA7lZd7zk3M&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | Applications, Coding AI">Stanford MS&amp;E435 Economics of the AI Supercycle | Applications, Coding AI</a></td>
+<td>49:22</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=GcCGzfKdCd0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | Building AI Factories">Stanford MS&amp;E435 Economics of the AI Supercycle | Building AI Factories</a></td>
+<td>49:48</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=GasnZ5EecRA&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: Inside the Rise of AI in Healthcare, Open Evidence and Cyber Risks">AI in Healthcare Series: Inside the Rise of AI in Healthcare, Open Evidence and Cyber Risks</a></td>
+<td>38:47</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=F_7M4Hc-usM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything">Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything</a></td>
+<td>41:10</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=Qh7Oxvo5sJI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | Applications, Applied AI">Stanford MS&amp;E435 Economics of the AI Supercycle | Applications, Applied AI</a></td>
+<td>49:16</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=9EEm4iMAF5s&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Guest Lecture: Dan Fu">Stanford CS336 Language Modeling from Scratch | Guest Lecture: Dan Fu</a></td>
+<td>1:11:41</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=26FtD08ZpOU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 17: Alignment - Multimodality">Stanford CS336 Language Modeling from Scratch | Lecture 17: Alignment - Multimodality</a></td>
+<td>1:17:40</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=g50FHC-PzK8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | The Road Ahead: Resilience Required">Stanford CS153 Frontier Systems | The Road Ahead: Resilience Required</a></td>
+<td>1:05:19</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=dIFAi87Ws4E&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 16: Post-Training - RLVR">Stanford CS336 Language Modeling from Scratch | Lecture 16: Post-Training - RLVR</a></td>
+<td>1:15:51</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=2oH6PWPrYFo&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 15: Mid/Post-Training">Stanford CS336 Language Modeling from Scratch | Lecture 15: Mid/Post-Training</a></td>
+<td>1:19:55</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=JpAxdTWQJxM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 12: Evaluation">Stanford CS336 Language Modeling from Scratch | Lecture 12: Evaluation</a></td>
+<td>1:18:34</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=5sxHosTLPF8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 14: Data">Stanford CS336 Language Modeling from Scratch | Lecture 14: Data</a></td>
+<td>1:24:46</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=-qm0ln33G24&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 13: Data (Sources, Datasets)">Stanford CS336 Language Modeling from Scratch | Lecture 13: Data (Sources, Datasets)</a></td>
+<td>1:22:02</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=4k53z3Ysjg0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | Infrastructure, Capstone Case">Stanford MS&amp;E435 Economics of the AI Supercycle | Infrastructure, Capstone Case</a></td>
+<td>46:06</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=LRGX-gTegVA&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford MS&amp;E435 Economics of the AI Supercycle | Spring 2026 | Enterprise Internal Knowledge">Stanford MS&amp;E435 Economics of the AI Supercycle | Enterprise Internal Knowledge</a></td>
+<td>48:10</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=VeTqsCpcDgg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | The Discipline of Delivering Value per Gigawatt">Stanford CS153 Frontier Systems | The Discipline of Delivering Value per Gigawatt</a></td>
+<td>1:04:23</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=Lri2LNYtERM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | The AI Native Company: How One Founder Becomes a 1000x Engineer">Stanford CS153 Frontier Systems | The AI Native Company: How One Founder Becomes a 1000x Engineer</a></td>
+<td>47:15</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=wisccQYTRQc&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Scott Nolan from General Matter on Energy Bottlenecks">Stanford CS153 Frontier Systems | Scott Nolan from General Matter on Energy Bottlenecks</a></td>
+<td>1:00:28</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=EfM546A79aM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 10: Inference">Stanford CS336 Language Modeling from Scratch | Lecture 10: Inference</a></td>
+<td>1:25:30</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=B8NvdfssGac&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Ben Horowitz from a16z on Venture Capital Systems, Network Effects">Stanford CS153 Frontier Systems | Ben Horowitz from a16z on Venture Capital Systems, Network Effects</a></td>
+<td>1:06:18</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=BQrJ4lHAjhc&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Nikhyl Singhal from Skip on Product Management in the AI Era">Stanford CS153 Frontier Systems | Nikhyl Singhal from Skip on Product Management in the AI Era</a></td>
+<td>1:03:14</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=6nUl_w5W9Wk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Amit Jain from Luma AI on Unified Intelligence Systems">Stanford CS153 Frontier Systems | Amit Jain from Luma AI on Unified Intelligence Systems</a></td>
+<td>57:42</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=knX-ekyjxF4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Online AI Programs Top Questions: When and How to Enroll in Online AI Courses">Stanford Online AI Programs Top Questions: When and How to Enroll in Online AI Courses</a></td>
+<td>1:14</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=NLS7gtdcElQ&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Online AI Programs Top Questions: Enrolling in Online Courses vs Self Study">Stanford Online AI Programs Top Questions: Enrolling in Online Courses vs Self Study</a></td>
+<td>1:27</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=1U-dyBiwDBw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Online AI Programs Top Questions: What's the Learning Experience Like?">Stanford Online AI Programs Top Questions: What's the Learning Experience Like?</a></td>
+<td>2:17</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=5p2D-p7AMC0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Online AI Programs Top Questions: Ready to Start? Preparing for Success">Stanford Online AI Programs Top Questions: Ready to Start? Preparing for Success</a></td>
+<td>1:57</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=GUC6kQZf0A8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Online AI Programs Top Questions: Choosing Your AI Program and Getting Started">Stanford Online AI Programs Top Questions: Choosing Your AI Program and Getting Started</a></td>
+<td>3:20</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=Cv7uVstoCW8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Online AI Programs Top Questions: Graduate vs Professional - Which Is Right for You?">Stanford Online AI Programs Top Questions: Graduate vs Professional - Which Is Right for You?</a></td>
+<td>4:56</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=CBaLU0dDEY8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Andreas Blattmann from Black Forest Labs on Visual Intelligence">Stanford CS153 Frontier Systems | Andreas Blattmann from Black Forest Labs on Visual Intelligence</a></td>
+<td>1:01:14</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=vfF011ko89o&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Mati Staniszewski from ElevenLabs on The Future of Voice Systems">Stanford CS153 Frontier Systems | Mati Staniszewski from ElevenLabs on The Future of Voice Systems</a></td>
+<td>1:06:26</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=Q15rhEWZPQ4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 9: Scaling Laws">Stanford CS336 Language Modeling from Scratch | Lecture 9: Scaling Laws</a></td>
+<td>1:17:57</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=O5PfU_uDhS0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS153 Frontier Systems | Anjney Midha from AMP PBC on Frontier Systems">Stanford CS153 Frontier Systems | Anjney Midha from AMP PBC on Frontier Systems</a></td>
+<td>1:05:55</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=6-cXp-aOmdg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 8: Parallelism">Stanford CS336 Language Modeling from Scratch | Lecture 8: Parallelism</a></td>
+<td>1:20:11</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=SzpOcwdIL0Y&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 7: Parallelism">Stanford CS336 Language Modeling from Scratch | Lecture 7: Parallelism</a></td>
+<td>1:21:03</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=xnDHaNUvHBg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 6: Kernels, Triton, XLA">Stanford CS336 Language Modeling from Scratch | Lecture 6: Kernels, Triton, XLA</a></td>
+<td>1:26:41</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=izZba4UA7iY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 5: GPUs, TPUs">Stanford CS336 Language Modeling from Scratch | Lecture 5: GPUs, TPUs</a></td>
+<td>1:18:39</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=cKSwj_qZ8Jg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 4: Attention Alternatives">Stanford CS336 Language Modeling from Scratch | Lecture 4: Attention Alternatives</a></td>
+<td>1:26:21</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=lVynu4bo1rY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 3: Architectures">Stanford CS336 Language Modeling from Scratch | Lecture 3: Architectures</a></td>
+<td>1:29:14</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=kuYAsz7zspQ&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 2: PyTorch (einops)">Stanford CS336 Language Modeling from Scratch | Lecture 2: PyTorch (einops)</a></td>
+<td>1:17:25</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=JuoVZkPBiKk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS336 Language Modeling from Scratch | Spring 2026 | Lecture 1: Overview, Tokenization">Stanford CS336 Language Modeling from Scratch | Lecture 1: Overview, Tokenization</a></td>
+<td>1:19:22</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=WL08n97t3Ug&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Course Overview: Mastering Difficult Conversations with AI">Course Overview: Mastering Difficult Conversations with AI</a></td>
+<td>2:28</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=5UJ0uWqO1Ho&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Human-Centered AI: Designing Systems People Trust">Stanford Webinar - Human-Centered AI: Designing Systems People Trust</a></td>
+<td>55:54</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=LF7Wi_2fJVM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Innovation for Growth and Sustainability in the Era of AI">Innovation for Growth and Sustainability in the Era of AI</a></td>
+<td>56:18</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=KGl076xkxG4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: You Can’t Delegate AI with Andy Slavitt">AI in Healthcare Series: You Can’t Delegate AI with Andy Slavitt</a></td>
+<td>39:41</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=_B8aNrsy09Y&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Climate Innovation: Digital Technology for Sustainable Agriculture and Infrastructure Development">Climate Innovation: Digital Technology for Sustainable Agriculture and Infrastructure Development</a></td>
+<td>53:28</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=vaRO69Qv_hc&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI and Climate: From Grids to Data Centers — AI Strategy &amp; Innovation">AI and Climate: From Grids to Data Centers — AI Strategy &amp; Innovation</a></td>
+<td>38:40</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=AuZoDsNmG_s&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 9: Career Advice in AI">Stanford CS230 | Lecture 9: Career Advice in AI</a></td>
+<td>1:45:09</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=Ozb1AR_F5MU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 10: What’s Going On Inside My Model?">Stanford CS230 | Lecture 10: What’s Going On Inside My Model?</a></td>
+<td>1:46:54</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=k1njvbBmfsw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 8: Agents, Prompts, and RAG">Stanford CS230 | Lecture 8: Agents, Prompts, and RAG</a></td>
+<td>1:49:54</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=v6txmsCy5J4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Be Nice to ChatGPT - Mehran Sahami, Professor and Chair, Computer Science Department">Be Nice to ChatGPT - Mehran Sahami, Professor and Chair, Computer Science Department</a></td>
+<td>0:50</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=xHSqr7jAciM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: AI as Your Personal Health Partner">AI in Healthcare Series: AI as Your Personal Health Partner</a></td>
+<td>34:10</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=cKtGsMHAp8g&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="It's Never Too Late to Learn to Code: Insights from Mehran Sahami">It's Never Too Late to Learn to Code: Insights from Mehran Sahami</a></td>
+<td>6:47</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=x0aLBWTBOuQ&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - AI Safety">Stanford Webinar - AI Safety</a></td>
+<td>51:04</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=A4o5ZeDN1GI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Why Code Breaks - Mehran Sahami, Professor and Chair, Computer Science Department">Why Code Breaks - Mehran Sahami, Professor and Chair, Computer Science Department</a></td>
+<td>0:59</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=qCBfc8sfAJo&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI &amp; Cybersecurity: Dan Boneh Interviews Nicolas Carlini">AI &amp; Cybersecurity: Dan Boneh Interviews Nicolas Carlini</a></td>
+<td>1:17:08</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=QgLWDcQAi04&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI &amp; Cybersecurity: Neil Daswani Interviews Heather Adkins">AI &amp; Cybersecurity: Neil Daswani Interviews Heather Adkins</a></td>
+<td>1:05:02</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=940zih5bee4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI &amp; Cybersecurity: Dan Boneh Interviews Sam Altman">AI &amp; Cybersecurity: Dan Boneh Interviews Sam Altman</a></td>
+<td>39:07</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=qrysX8hvDDs&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Ethical Dimensions of AI Tools - Mehran Sahami, Professor and Chair, Computer Science Department">Ethical Dimensions of AI Tools - Mehran Sahami, Professor and Chair, Computer Science Department</a></td>
+<td>1:11</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=enCiCPAOTFE&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="The Journey of Computer Science Education with Mehran Sahami">The Journey of Computer Science Education with Mehran Sahami</a></td>
+<td>6:15</td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="https://www.youtube.com/watch?v=s6JVGzABKho&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 6: AI Project Strategy">Stanford CS230 | Lecture 6: AI Project Strategy</a></td>
+<td>1:15:18</td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="https://www.youtube.com/watch?v=4E27qlfYw0A&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 5: Deep Reinforcement Learning">Stanford CS230 | Lecture 5: Deep Reinforcement Learning</a></td>
+<td>1:45:01</td>
+</tr>
+<tr>
+<td>105</td>
+<td><a href="https://www.youtube.com/watch?v=_gqYKyfYCCM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Choosing Your Path: AI Professional Program Course Selection Guide">Choosing Your Path: AI Professional Program Course Selection Guide</a></td>
+<td>18:31</td>
+</tr>
+<tr>
+<td>106</td>
+<td><a href="https://www.youtube.com/watch?v=aWlRtOlacYM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 4: Adversarial Robustness and Generative Models">Stanford CS230 | Lecture 4: Adversarial Robustness and Generative Models</a></td>
+<td>1:47:17</td>
+</tr>
+<tr>
+<td>107</td>
+<td><a href="https://www.youtube.com/watch?v=sMB4YYJDeIg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Global Alumni Webinar | August 2025 | AI Agent Simulation of Human Behavior">Stanford Global Alumni Webinar | August 2025 | AI Agent Simulation of Human Behavior</a></td>
+<td>46:01</td>
+</tr>
+<tr>
+<td>108</td>
+<td><a href="https://www.youtube.com/watch?v=cpN-Bu5L6xg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: Tracking and Trusting AI in Medicine, Dr. Shantanu Nundy">AI in Healthcare Series: Tracking and Trusting AI in Medicine, Dr. Shantanu Nundy</a></td>
+<td>33:49</td>
+</tr>
+<tr>
+<td>109</td>
+<td><a href="https://www.youtube.com/watch?v=MGqQuQEUXhk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 3: Full Cycle of a DL project">Stanford CS230 | Lecture 3: Full Cycle of a DL project</a></td>
+<td>1:07:05</td>
+</tr>
+<tr>
+<td>110</td>
+<td><a href="https://www.youtube.com/watch?v=DNCn1BpCAUY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 2: Supervised, Self-Supervised, &amp; Weakly Supervised Learning">Stanford CS230 | Lecture 2: Supervised, Self-Supervised, &amp; Weakly Supervised Learning</a></td>
+<td>1:39:48</td>
+</tr>
+<tr>
+<td>111</td>
+<td><a href="https://www.youtube.com/watch?v=_NLHFoVNlbg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS230 | Autumn 2025 | Lecture 1: Introduction to Deep Learning">Stanford CS230 | Lecture 1: Introduction to Deep Learning</a></td>
+<td>1:00:17</td>
+</tr>
+<tr>
+<td>112</td>
+<td><a href="https://www.youtube.com/watch?v=YcTytFL1Bc0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - From Pixels to Human Impact: Unlocking Real-World Value with Computer Vision">Stanford Webinar - From Pixels to Human Impact: Unlocking Real-World Value with Computer Vision</a></td>
+<td>1:02:06</td>
+</tr>
+<tr>
+<td>113</td>
+<td><a href="https://www.youtube.com/watch?v=ivgrovYkyII&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Building Human-Centered AI: From Reward Functions to Real Products">Stanford Webinar - Building Human-Centered AI: From Reward Functions to Real Products</a></td>
+<td>55:17</td>
+</tr>
+<tr>
+<td>114</td>
+<td><a href="https://www.youtube.com/watch?v=I7F0ws-vwv8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Building Human-Centered AI: From Reward Functions to Real Products">Stanford Webinar - Building Human-Centered AI: From Reward Functions to Real Products</a></td>
+<td>55:17</td>
+</tr>
+<tr>
+<td>115</td>
+<td><a href="https://www.youtube.com/watch?v=z7RBPQL0rZ4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 I Machine Learning I Building Agents That Do the Work of Human Software Engineers">Stanford CS229 I Machine Learning I Building Agents That Do the Work of Human Software Engineers</a></td>
+<td>1:22:18</td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href="https://www.youtube.com/watch?v=J5rLFZ49160&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Successful Startups Share This Trait - Michelle Pokrass, Post-Training Research Lead at OpenAI">Successful Startups Share This Trait - Michelle Pokrass, Post-Training Research Lead at OpenAI</a></td>
+<td>0:37</td>
+</tr>
+<tr>
+<td>117</td>
+<td><a href="https://www.youtube.com/watch?v=Pv9hlys6KbM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="The Capabilities Overhang - Michelle Pokrass, Post-Training Research Lead at OpenAI #generativeai">The Capabilities Overhang - Michelle Pokrass, Post-Training Research Lead at OpenAI #generativeai</a></td>
+<td>0:23</td>
+</tr>
+<tr>
+<td>118</td>
+<td><a href="https://www.youtube.com/watch?v=0CKaOck4TR8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="The Importance of Few-Shot Examples - Stanford Professor Chris Potts #generativeai #ai">The Importance of Few-Shot Examples - Stanford Professor Chris Potts #generativeai #ai</a></td>
+<td>1:09</td>
+</tr>
+<tr>
+<td>119</td>
+<td><a href="https://www.youtube.com/watch?v=bhN1rinKajM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Move Forward Faster with Flexible Evals - Stanford Professor Chris Potts #generativeai #evals #ai">Move Forward Faster with Flexible Evals - Stanford Professor Chris Potts #generativeai #evals #ai</a></td>
+<td>1:07</td>
+</tr>
+<tr>
+<td>120</td>
+<td><a href="https://www.youtube.com/watch?v=UWM7H0q2tn0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Where Might AI Be Underused? - Stanford Professor Chris Potts #generativeai #ai">Where Might AI Be Underused? - Stanford Professor Chris Potts #generativeai #ai</a></td>
+<td>1:15</td>
+</tr>
+<tr>
+<td>121</td>
+<td><a href="https://www.youtube.com/watch?v=POhUXJWt6-8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="The State of AI and Trust Among Business Leaders - Aditya Challapally, ML Engineer at Microsoft #ai">The State of AI and Trust Among Business Leaders - Aditya Challapally, ML Engineer at Microsoft #ai</a></td>
+<td>0:36</td>
+</tr>
+<tr>
+<td>122</td>
+<td><a href="https://www.youtube.com/watch?v=3HG2ffMZAws&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Who Decides How Models Behave? - Aditya Challapally, ML Engineer at Microsoft #generativeai">Who Decides How Models Behave? - Aditya Challapally, ML Engineer at Microsoft #generativeai</a></td>
+<td>0:23</td>
+</tr>
+<tr>
+<td>123</td>
+<td><a href="https://www.youtube.com/watch?v=k3q3xtoT3pk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI In Healthcare Series: Leveraging GPT-5, Cosmos, and Predictive Models for Better Outcomes">AI In Healthcare Series: Leveraging GPT-5, Cosmos, and Predictive Models for Better Outcomes</a></td>
+<td>38:13</td>
+</tr>
+<tr>
+<td>124</td>
+<td><a href="https://www.youtube.com/watch?v=IbY6TLExbpI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Ten Game-Changing Generative AI Uses for Clinical Research">Stanford Webinar - Ten Game-Changing Generative AI Uses for Clinical Research</a></td>
+<td>55:09</td>
+</tr>
+<tr>
+<td>125</td>
+<td><a href="https://www.youtube.com/watch?v=BbTWPtrM-Rc&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: Empowering Patients with Kimberly Powell, NVIDIA">AI in Healthcare Series: Empowering Patients with Kimberly Powell, NVIDIA</a></td>
+<td>44:34</td>
+</tr>
+<tr>
+<td>126</td>
+<td><a href="https://www.youtube.com/watch?v=4shJQtkL3Ms&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: Accelerating the AI Revolution in Medicine, with Peter Lee, Microsoft">AI in Healthcare Series: Accelerating the AI Revolution in Medicine, with Peter Lee, Microsoft</a></td>
+<td>50:01</td>
+</tr>
+<tr>
+<td>127</td>
+<td><a href="https://www.youtube.com/watch?v=9-eXLFvAoKM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Making GenAI Useful: Lessons from Research and Deployment">Stanford Webinar - Making GenAI Useful: Lessons from Research and Deployment</a></td>
+<td>49:46</td>
+</tr>
+<tr>
+<td>128</td>
+<td><a href="https://www.youtube.com/watch?v=pfbiHmRPmV8&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: The Future of Personalized Healthcare Technology with Dr. Jessica Mega">AI in Healthcare Series: The Future of Personalized Healthcare Technology with Dr. Jessica Mega</a></td>
+<td>37:59</td>
+</tr>
+<tr>
+<td>129</td>
+<td><a href="https://www.youtube.com/watch?v=1TonDx9Wh3U&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: AI, Longevity, and the Future of Healthcare, with Dr. Eric Topol">AI in Healthcare Series: AI, Longevity, and the Future of Healthcare, with Dr. Eric Topol</a></td>
+<td>40:52</td>
+</tr>
+<tr>
+<td>130</td>
+<td><a href="https://www.youtube.com/watch?v=eLAq8yzvu8Q&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Generative AI for Healthcare (Part 1): Demystifying Large Language Models">Generative AI for Healthcare (Part 1): Demystifying Large Language Models</a></td>
+<td>58:35</td>
+</tr>
+<tr>
+<td>131</td>
+<td><a href="https://www.youtube.com/watch?v=W8z2o0zV2SA&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: Navigating Medical Innovation, Dr. Amy Abernathy, Highlander Health">AI in Healthcare Series: Navigating Medical Innovation, Dr. Amy Abernathy, Highlander Health</a></td>
+<td>25:39</td>
+</tr>
+<tr>
+<td>132</td>
+<td><a href="https://www.youtube.com/watch?v=6CicqliQ1nA&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Information Session: Artificial Intelligence Online Programs I March 2025">Information Session: Artificial Intelligence Online Programs I March 2025</a></td>
+<td>58:33</td>
+</tr>
+<tr>
+<td>133</td>
+<td><a href="https://www.youtube.com/watch?v=TC64U_rzEuI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: From Decision Support to Drug Prescriptions, Dr. Graham Walker, Kaiser">AI in Healthcare Series: From Decision Support to Drug Prescriptions, Dr. Graham Walker, Kaiser</a></td>
+<td>36:18</td>
+</tr>
+<tr>
+<td>134</td>
+<td><a href="https://www.youtube.com/watch?v=v44pVYj-ciw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI in Healthcare Series: State of Gen AI in Healthcare, Troy Tazbaz Former Head Digital Health FDA">AI in Healthcare Series: State of Gen AI in Healthcare, Troy Tazbaz Former Head Digital Health FDA</a></td>
+<td>29:35</td>
+</tr>
+<tr>
+<td>135</td>
+<td><a href="https://www.youtube.com/watch?v=kJLiOGle3Lw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Agentic AI: A Progression of Language Model Usage">Stanford Webinar - Agentic AI: A Progression of Language Model Usage</a></td>
+<td>57:06</td>
+</tr>
+<tr>
+<td>136</td>
+<td><a href="https://www.youtube.com/watch?v=rF_9vIQRF_s&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Our learners share about their experience in the AI Professional Program">Our learners share about their experience in the AI Professional Program</a></td>
+<td>2:18</td>
+</tr>
+<tr>
+<td>137</td>
+<td><a href="https://www.youtube.com/watch?v=cA06owceRM4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Kuniaki Iwanami Shares His Experience in the AI Professional Program">Kuniaki Iwanami Shares His Experience in the AI Professional Program</a></td>
+<td>1:22</td>
+</tr>
+<tr>
+<td>138</td>
+<td><a href="https://www.youtube.com/watch?v=0UvOd1uwLGc&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Beiliei Zhu Shares Her Experience in the AI Professional Program">Beiliei Zhu Shares Her Experience in the AI Professional Program</a></td>
+<td>1:09</td>
+</tr>
+<tr>
+<td>139</td>
+<td><a href="https://www.youtube.com/watch?v=oaNodDadWyg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Creating Fair, Useful, and Reliable AI in Healthcare">Stanford Webinar - Creating Fair, Useful, and Reliable AI in Healthcare</a></td>
+<td>49:15</td>
+</tr>
+<tr>
+<td>140</td>
+<td><a href="https://www.youtube.com/watch?v=iLMzsV0JOHk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford AA228/CS238 Decision Making Under Uncertainty I Online Planning and Policy Search">Stanford AA228/CS238 Decision Making Under Uncertainty I Online Planning and Policy Search</a></td>
+<td>1:20:59</td>
+</tr>
+<tr>
+<td>141</td>
+<td><a href="https://www.youtube.com/watch?v=vRTcE19M-KE&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Large Language Models Get the Hype, but Compound Systems Are the Future of AI">Stanford Webinar - Large Language Models Get the Hype, but Compound Systems Are the Future of AI</a></td>
+<td>58:06</td>
+</tr>
+<tr>
+<td>142</td>
+<td><a href="https://www.youtube.com/watch?v=HFrCySzH9QI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS329H: Machine Learning from Human Preferences I Guest Lecture: Joseph Jay Williams">Stanford CS329H: Machine Learning from Human Preferences I Guest Lecture: Joseph Jay Williams</a></td>
+<td>1:10:41</td>
+</tr>
+<tr>
+<td>143</td>
+<td><a href="https://www.youtube.com/watch?v=PgPNfPhG4Wc&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford AA228/CS238 Decision Making Under Uncertainty I Policy Gradient Estimation &amp; Optimization">Stanford AA228/CS238 Decision Making Under Uncertainty I Policy Gradient Estimation &amp; Optimization</a></td>
+<td>45:47</td>
+</tr>
+<tr>
+<td>144</td>
+<td><a href="https://www.youtube.com/watch?v=rHwTPGqR67w&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Generative AI Program: Technology, Business &amp; Society">Generative AI Program: Technology, Business &amp; Society</a></td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>145</td>
+<td><a href="https://www.youtube.com/watch?v=3ENnyP7iM1E&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Course Overview - Human-Centered Generative AI">Course Overview - Human-Centered Generative AI</a></td>
+<td>1:26</td>
+</tr>
+<tr>
+<td>146</td>
+<td><a href="https://www.youtube.com/watch?v=0oGidOXWeds&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Business Opportunities and Applications of Generative AI">Business Opportunities and Applications of Generative AI</a></td>
+<td>1:28</td>
+</tr>
+<tr>
+<td>147</td>
+<td><a href="https://www.youtube.com/watch?v=J91_npj0Nfw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - How AI is Changing Coding and Education, Andrew Ng &amp; Mehran Sahami">Stanford Webinar - How AI is Changing Coding and Education, Andrew Ng &amp; Mehran Sahami</a></td>
+<td>53:59</td>
+</tr>
+<tr>
+<td>148</td>
+<td><a href="https://www.youtube.com/watch?v=9vM4p9NN0Ts&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)">Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)</a></td>
+<td>1:44:31</td>
+</tr>
+<tr>
+<td>149</td>
+<td><a href="https://www.youtube.com/watch?v=XNqpySV97IU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Identifying AI Opportunities: Strategies for Market Success">Stanford Webinar - Identifying AI Opportunities: Strategies for Market Success</a></td>
+<td>59:22</td>
+</tr>
+<tr>
+<td>150</td>
+<td><a href="https://www.youtube.com/watch?v=NswVO9bMV30&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Learn about Stanford's Online's Professional &amp; Graduate AI Programs">Learn about Stanford's Online's Professional &amp; Graduate AI Programs</a></td>
+<td>2:47</td>
+</tr>
+<tr>
+<td>151</td>
+<td><a href="https://www.youtube.com/watch?v=XZ0PMRWXBEU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS236: Deep Generative Models I 2023 I Lecture 1 - Introduction">Stanford CS236: Deep Generative Models I 2023 I Lecture 1 - Introduction</a></td>
+<td>57:28</td>
+</tr>
+<tr>
+<td>152</td>
+<td><a href="https://www.youtube.com/watch?v=olhFrDHP7iU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS221 I Algorithms and Distribution I 2023">Stanford CS221 I Algorithms and Distribution I 2023</a></td>
+<td>7:26</td>
+</tr>
+<tr>
+<td>153</td>
+<td><a href="https://www.youtube.com/watch?v=aWAqgzXENr0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS221 I Encoding Human Values I 2023">Stanford CS221 I Encoding Human Values I 2023</a></td>
+<td>14:36</td>
+</tr>
+<tr>
+<td>154</td>
+<td><a href="https://www.youtube.com/watch?v=5WHObJWE1FE&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS221 I The AI Alignment Problem: Reward Hacking &amp; Negative Side Effects I 2023">Stanford CS221 I The AI Alignment Problem: Reward Hacking &amp; Negative Side Effects I 2023</a></td>
+<td>11:34</td>
+</tr>
+<tr>
+<td>155</td>
+<td><a href="https://www.youtube.com/watch?v=2xQLCXqOtdU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS221 I Externalities and Dual-Use Technologies I 2023">Stanford CS221 I Externalities and Dual-Use Technologies I 2023</a></td>
+<td>8:26</td>
+</tr>
+<tr>
+<td>156</td>
+<td><a href="https://www.youtube.com/watch?v=pe-4W1-mdIQ&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Professor Chris Manning: Ask About AI - Full Version">Stanford Professor Chris Manning: Ask About AI - Full Version</a></td>
+<td>33:19</td>
+</tr>
+<tr>
+<td>157</td>
+<td><a href="https://www.youtube.com/watch?v=ykkqVLHG3nk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Ask About AI: Professor Chris Manning on Explainability in AI Models">Ask About AI: Professor Chris Manning on Explainability in AI Models</a></td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>158</td>
+<td><a href="https://www.youtube.com/watch?v=W31MdOMOapw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Ask About AI: Professor Chris Manning on Foundation Models">Ask About AI: Professor Chris Manning on Foundation Models</a></td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>159</td>
+<td><a href="https://www.youtube.com/watch?v=5SVXUAFvui4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Artificial Intelligence Professional Program Overview">Artificial Intelligence Professional Program Overview</a></td>
+<td>2:21</td>
+</tr>
+<tr>
+<td>160</td>
+<td><a href="https://www.youtube.com/watch?v=_dzJaJuhfXk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Ask About AI: Professor Chris Manning on the Future of AI">Ask About AI: Professor Chris Manning on the Future of AI</a></td>
+<td>4:41</td>
+</tr>
+<tr>
+<td>161</td>
+<td><a href="https://www.youtube.com/watch?v=ke6AVZvDVPg&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Ask About AI: Professor Chris Manning Answers AI-Generated Questions">Ask About AI: Professor Chris Manning Answers AI-Generated Questions</a></td>
+<td>3:30</td>
+</tr>
+<tr>
+<td>162</td>
+<td><a href="https://www.youtube.com/watch?v=Af4YySLTzuw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Ask About AI: Professor Chris Manning Answers Your AI Career Questions">Ask About AI: Professor Chris Manning Answers Your AI Career Questions</a></td>
+<td>2:40</td>
+</tr>
+<tr>
+<td>163</td>
+<td><a href="https://www.youtube.com/watch?v=d2RIsD0cFi0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - How ChatGPT and Generative AI Will Shape the Future of Work">Stanford Webinar - How ChatGPT and Generative AI Will Shape the Future of Work</a></td>
+<td>26:14</td>
+</tr>
+<tr>
+<td>164</td>
+<td><a href="https://www.youtube.com/watch?v=5p248yoa3oE&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Andrew Ng: Opportunities in AI - 2023">Andrew Ng: Opportunities in AI</a></td>
+<td>36:55</td>
+</tr>
+<tr>
+<td>165</td>
+<td><a href="https://www.youtube.com/watch?v=K_Dh0Sxujuc&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford XCS224U: NLU I Intro &amp; Evolution of Natural Language Understanding, Pt. 1 I Spring 2023">Stanford XCS224U: NLU I Intro &amp; Evolution of Natural Language Understanding, Pt. 1 I</a></td>
+<td>1:13:52</td>
+</tr>
+<tr>
+<td>166</td>
+<td><a href="https://www.youtube.com/watch?v=Bl4Feh_Mjvo&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS229 Machine Learning I Introduction I 2022 I Lecture 1">Stanford CS229 Machine Learning I Introduction I 2022 I Lecture 1</a></td>
+<td>1:18:42</td>
+</tr>
+<tr>
+<td>167</td>
+<td><a href="https://www.youtube.com/watch?v=8rXD5-xhemo&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 1 – Introduction and Word Vectors">Stanford CS224N: NLP with Deep Learning | Lecture 1 – Introduction and Word Vectors</a></td>
+<td>1:21:52</td>
+</tr>
+<tr>
+<td>168</td>
+<td><a href="https://www.youtube.com/watch?v=6w0Po83ZmjA&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Andrew Ng and Chris Manning Discuss Natural Language Processing">Andrew Ng and Chris Manning Discuss Natural Language Processing</a></td>
+<td>47:28</td>
+</tr>
+<tr>
+<td>169</td>
+<td><a href="https://www.youtube.com/watch?v=yHPbFXCDr3k&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="What does the future hold for Natural Language Processing? - Andrew Ng &amp; Chris Manning">What does the future hold for Natural Language Processing? - Andrew Ng &amp; Chris Manning</a></td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>170</td>
+<td><a href="https://www.youtube.com/watch?v=IDvdyv_49-M&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Building Safe and Reliable Autonomous Systems">Stanford Webinar - Building Safe and Reliable Autonomous Systems</a></td>
+<td>43:40</td>
+</tr>
+<tr>
+<td>171</td>
+<td><a href="https://www.youtube.com/watch?v=iDnKK4G-K1U&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="What advice do you have for someone breaking in to AI? - Chris Manning &amp; Andrew Ng">What advice do you have for someone breaking in to AI? - Chris Manning &amp; Andrew Ng</a></td>
+<td>1:21</td>
+</tr>
+<tr>
+<td>172</td>
+<td><a href="https://www.youtube.com/watch?v=_DYQdP_F-LA&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Seminar - ML Explainability Part 1 I Overview and Motivation for Explainability">Stanford Seminar - ML Explainability Part 1 I Overview and Motivation for Explainability</a></td>
+<td>28:07</td>
+</tr>
+<tr>
+<td>173</td>
+<td><a href="https://www.youtube.com/watch?v=YlKXux1r_tw&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Seminar - Collaborating with GPT-4: Ken Kahn, Oxford">Stanford Seminar - Collaborating with GPT-4: Ken Kahn, Oxford</a></td>
+<td>1:30:42</td>
+</tr>
+<tr>
+<td>174</td>
+<td><a href="https://www.youtube.com/watch?v=-oSkiUHlgo0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Seminar - Applications of Generative Design for Fabrication in Healthcare Settings">Stanford Seminar - Applications of Generative Design for Fabrication in Healthcare Settings</a></td>
+<td>41:05</td>
+</tr>
+<tr>
+<td>175</td>
+<td><a href="https://www.youtube.com/watch?v=XfpMkf4rD6E&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy">Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy</a></td>
+<td>1:11:41</td>
+</tr>
+<tr>
+<td>176</td>
+<td><a href="https://www.youtube.com/watch?v=aIJzsso7siE&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="What inspired you to study Natural Language Processing? - Chris Manning &amp; Andrew Ng">What inspired you to study Natural Language Processing? - Chris Manning &amp; Andrew Ng</a></td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>177</td>
+<td><a href="https://www.youtube.com/watch?v=IT734HriiHQ&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="AI and Robotics - Chelsea Finn &amp; Andrew Ng">AI and Robotics - Chelsea Finn &amp; Andrew Ng</a></td>
+<td>33:19</td>
+</tr>
+<tr>
+<td>178</td>
+<td><a href="https://www.youtube.com/watch?v=yCn8VCx49jA&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="What does the future hold for AI and Robotics? - Chelsea Finn &amp; Andrew Ng">What does the future hold for AI and Robotics? - Chelsea Finn &amp; Andrew Ng</a></td>
+<td>0:56</td>
+</tr>
+<tr>
+<td>179</td>
+<td><a href="https://www.youtube.com/watch?v=CggrzkwKM9k&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="What inspired you to choose AI and Robotics as a profession? - Chelsea Finn &amp; Andrew Ng">What inspired you to choose AI and Robotics as a profession? - Chelsea Finn &amp; Andrew Ng</a></td>
+<td>0:56</td>
+</tr>
+<tr>
+<td>180</td>
+<td><a href="https://www.youtube.com/watch?v=NJg0CtLd4BU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="What is it like working in an AI lab? - Chelsea Finn &amp; Andrew Ng">What is it like working in an AI lab? - Chelsea Finn &amp; Andrew Ng</a></td>
+<td>1:16</td>
+</tr>
+<tr>
+<td>181</td>
+<td><a href="https://www.youtube.com/watch?v=Aws-cOIXsNQ&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="What is our ethical responsibility with AI &amp; Machine Learning? - Fei-Fei Li &amp; Andrew Ng">What is our ethical responsibility with AI &amp; Machine Learning? - Fei-Fei Li &amp; Andrew Ng</a></td>
+<td>1:00</td>
+</tr>
+<tr>
+<td>182</td>
+<td><a href="https://www.youtube.com/watch?v=UNhC6Ox0T0o&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Andrew Ng and Fei-Fei Li Discuss Human-Centered Artificial Intelligence - Stanford Online">Andrew Ng and Fei-Fei Li Discuss Human-Centered Artificial Intelligence - Stanford Online</a></td>
+<td>41:43</td>
+</tr>
+<tr>
+<td>183</td>
+<td><a href="https://www.youtube.com/watch?v=cxJi15eXWJU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="What advice do you have for getting started in AI &amp; Machine Learning? - Fei-Fei Li &amp; Andrew Ng">What advice do you have for getting started in AI &amp; Machine Learning? - Fei-Fei Li &amp; Andrew Ng</a></td>
+<td>0:59</td>
+</tr>
+<tr>
+<td>184</td>
+<td><a href="https://www.youtube.com/watch?v=ltTVcdItq1U&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Is a Career in AI and Machine Learning Right for Me? - Fei-Fei Li &amp; Andrew Ng">Is a Career in AI and Machine Learning Right for Me? - Fei-Fei Li &amp; Andrew Ng</a></td>
+<td>2:04</td>
+</tr>
+<tr>
+<td>185</td>
+<td><a href="https://www.youtube.com/watch?v=5-DlTQkHaiE&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Seminar - Should We Pause Giant AI Experiments?">Stanford Seminar - Should We Pause Giant AI Experiments?</a></td>
+<td>1:28:32</td>
+</tr>
+<tr>
+<td>186</td>
+<td><a href="https://www.youtube.com/watch?v=ihiwuw7VkI4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Seminar - Bridging AI &amp; HCI: Incorporating Human Values into the Development of AI Tech">Stanford Seminar - Bridging AI &amp; HCI: Incorporating Human Values into the Development of AI Tech</a></td>
+<td>1:00:57</td>
+</tr>
+<tr>
+<td>187</td>
+<td><a href="https://www.youtube.com/watch?v=yGgO4PAnj6o&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - The Frontier of Deep Learning for Robotics, Chelsea Finn">Stanford Webinar - The Frontier of Deep Learning for Robotics, Chelsea Finn</a></td>
+<td>51:39</td>
+</tr>
+<tr>
+<td>188</td>
+<td><a href="https://www.youtube.com/watch?v=-lnHHWRCDGk&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - GPT-3 &amp; Beyond">Stanford Webinar - GPT-3 &amp; Beyond</a></td>
+<td>57:53</td>
+</tr>
+<tr>
+<td>189</td>
+<td><a href="https://www.youtube.com/watch?v=KcmDfVwCUSo&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Digital 101: Robotics, Drones, and Autonomous Vehicles">Digital 101: Robotics, Drones, and Autonomous Vehicles</a></td>
+<td>50:30</td>
+</tr>
+<tr>
+<td>190</td>
+<td><a href="https://www.youtube.com/watch?v=7rs79MUDId0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - How Artificial Intelligence Can Improve Healthcare">Stanford Webinar - How Artificial Intelligence Can Improve Healthcare</a></td>
+<td>53:55</td>
+</tr>
+<tr>
+<td>191</td>
+<td><a href="https://www.youtube.com/watch?v=OgPYgzSk41M&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Bringing AI into Healthcare Safely and Ethically">Stanford Webinar - Bringing AI into Healthcare Safely and Ethically</a></td>
+<td>54:00</td>
+</tr>
+<tr>
+<td>192</td>
+<td><a href="https://www.youtube.com/watch?v=yNP76SCx3bY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Hear from our learners | Natural Language Understanding (XCS224U)">Hear from our learners | Natural Language Understanding (XCS224U)</a></td>
+<td>2:37</td>
+</tr>
+<tr>
+<td>193</td>
+<td><a href="https://www.youtube.com/watch?v=9e3TGcAFHx0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Seminar - Machine Learning for Creativity, Interaction, and Inclusion">Stanford Seminar - Machine Learning for Creativity, Interaction, and Inclusion</a></td>
+<td>55:22</td>
+</tr>
+<tr>
+<td>194</td>
+<td><a href="https://www.youtube.com/watch?v=v331oULMCYI&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Seminar - Overview of AI in Smart Physical Systems">Stanford Seminar - Overview of AI in Smart Physical Systems</a></td>
+<td>1:05:22</td>
+</tr>
+<tr>
+<td>195</td>
+<td><a href="https://www.youtube.com/watch?v=wUHBoNOmGzs&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Artificial Intelligence for Business Leaders">Stanford Webinar - Artificial Intelligence for Business Leaders</a></td>
+<td>59:16</td>
+</tr>
+<tr>
+<td>196</td>
+<td><a href="https://www.youtube.com/watch?v=L3N_wr_coHU&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Student Spotlight: Jaro Habr on completing the Machine Learning course in Coursera">Student Spotlight: Jaro Habr on completing the Machine Learning course in Coursera</a></td>
+<td>1:59</td>
+</tr>
+<tr>
+<td>197</td>
+<td><a href="https://www.youtube.com/watch?v=ZgVulzUl_c4&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Design &amp; AI: Envisioning AI-augmented Products">Stanford Webinar - Design &amp; AI: Envisioning AI-augmented Products</a></td>
+<td>56:26</td>
+</tr>
+<tr>
+<td>198</td>
+<td><a href="https://www.youtube.com/watch?v=asKwoOG6nHM&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Natural Language Understanding Student Project Showcase - Plus AI Program Q&amp;A">Stanford Webinar - Natural Language Understanding Student Project Showcase - Plus AI Program Q&amp;A</a></td>
+<td>1:02:53</td>
+</tr>
+<tr>
+<td>199</td>
+<td><a href="https://www.youtube.com/watch?v=a8pThgjd2aY&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar - Create a Better User Experience through AI, Michael Bernstein">Stanford Webinar - Create a Better User Experience through AI, Michael Bernstein</a></td>
+<td>57:56</td>
+</tr>
+<tr>
+<td>200</td>
+<td><a href="https://www.youtube.com/watch?v=vKikt2d9PE0&amp;list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3" title="Stanford Webinar with Dan Boneh - Hacking AI: Security &amp; Privacy of Machine Learning Models">Stanford Webinar with Dan Boneh - Hacking AI: Security &amp; Privacy of Machine Learning Models</a></td>
+<td>58:16</td>
+</tr>
+</tbody>
+</table>
+<p>(YouTube counts 202 videos; the playlist page lists 200.)</p>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Artificial Intelligence</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3">https://www.youtube.com/playlist?list=PLoROMvodv4rPgrvmYbBrxZCK_GwXvDVL3</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

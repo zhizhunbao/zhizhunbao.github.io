@@ -1,0 +1,1168 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.14.2 MIT 15.071 The Analytics Edge, Spring 2017 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Management (Course 15) &gt; MIT 15.071 The Analytics Edge, Spring 2017: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2142-mit-15071-the-analytics-edge-spring-2017">2.14.2 MIT 15.071 The Analytics Edge, Spring 2017</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The AI Edge</strong><br>AI优势</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>15.071</td>
+<td>The AI Edge<br>AI优势</td>
+<td>Spring 2017</td>
+<td>193</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=ag7TLcT7VPQ&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.1.1 Welcome to Unit 1: An Introduction to Analytics">1.1.1 Welcome to Unit 1: An Introduction to Analytics</a></td>
+<td>0:44</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=-mW-DYFyGqg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.2.1 The Analytics Edge - Video 1: Introduction to The Analytics Edge">1.2.1 The Analytics Edge - Video 1: Introduction to The Analytics Edge</a></td>
+<td>4:50</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=Vd6yR63nfHY&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.2.2 The Analytics Edge - Video 2: Example 1 - IBM Watson">1.2.2 The Analytics Edge - Video 2: Example 1 - IBM Watson</a></td>
+<td>6:38</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=9lMOz_7bIGU&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.2.3 The Analytics Edge - Video 3: Example 2 - eHarmony">1.2.3 The Analytics Edge - Video 3: Example 2 - eHarmony</a></td>
+<td>1:51</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=oAW8AgU0FE4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.2.4 The Analytics Edge - Video 4: Example 3 - The Framingham Heart Study">1.2.4 The Analytics Edge - Video 4: Example 3 - The Framingham Heart Study</a></td>
+<td>2:42</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=08Ih9GGB5-c&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.2.5 The Analytics Edge - Video 5: Example 4 - D2Hawkeye">1.2.5 The Analytics Edge - Video 5: Example 4 - D2Hawkeye</a></td>
+<td>2:03</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=QDzTeo6n0Q8&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.2.6 The Analytics Edge - Video 6: This Class">1.2.6 The Analytics Edge - Video 6: This Class</a></td>
+<td>1:14</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=d2CfWJkklvo&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.3.2 Working with Data - Video 1: History of R">1.3.2 Working with Data - Video 1: History of R</a></td>
+<td>3:19</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=E_KUHMuoPLE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.3.4 Working with Data - Video 2: Getting Started in R">1.3.4 Working with Data - Video 2: Getting Started in R</a></td>
+<td>8:09</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=MvERdFp8mvI&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.3.6 Working with Data - Video 3: Vectors and Data Frames">1.3.6 Working with Data - Video 3: Vectors and Data Frames</a></td>
+<td>9:29</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=Cfx7hyAoGL4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.3.8 Working with Data - Video 4: Loading Data Files">1.3.8 Working with Data - Video 4: Loading Data Files</a></td>
+<td>8:22</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=Goo1EUY-Y8M&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.3.10 Working with Data - Video 5: Data Analysis - Summary Statistics and Scatterplots">1.3.10 Working with Data - Video 5: Data Analysis - Summary Statistics and Scatterplots</a></td>
+<td>7:56</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=FYXIRXnQ8Fc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.3.12 Working with Data - Video 6: Data Analysis - Plots and Summary Tables">1.3.12 Working with Data - Video 6: Data Analysis - Plots and Summary Tables</a></td>
+<td>7:19</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=dDHsLmwd9No&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.3.14 Working with Data - Video 7: Saving with Script Files">1.3.14 Working with Data - Video 7: Saving with Script Files</a></td>
+<td>2:46</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=ktGKsoTGIho&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.4.1 Welcome to Recitation 1 - Understanding Food: Nutritional Education with Data">1.4.1 Welcome to Recitation 1 - Understanding Food: Nutritional Education with Data</a></td>
+<td>0:27</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=rg0TYEdU0TA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.4.2 R1. Understanding Food - Video 1: The Importance of Food and Nutrition">1.4.2 R1. Understanding Food - Video 1: The Importance of Food and Nutrition</a></td>
+<td>2:18</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=oTnXMW4mx-c&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.4.3 R1. Understanding Food - Video 2: Working with Data in R">1.4.3 R1. Understanding Food - Video 2: Working with Data in R</a></td>
+<td>4:11</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=jXu7NEuZED4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.4.4 R1. Understanding Food - Video 3: Data Analysis">1.4.4 R1. Understanding Food - Video 3: Data Analysis</a></td>
+<td>7:42</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=Q-nk311H-Fw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.4.5 R1. Understanding Food - Video 4: Creating Plots in R">1.4.5 R1. Understanding Food - Video 4: Creating Plots in R</a></td>
+<td>7:46</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=HJGwmvpZOyI&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.4.6 R1. Understanding Food - Video 5: Adding Variables">1.4.6 R1. Understanding Food - Video 5: Adding Variables</a></td>
+<td>4:50</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=B0d9FBokqvY&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="1.4.7 R1. Understanding Food - Video 6: Summary Tables">1.4.7 R1. Understanding Food - Video 6: Summary Tables</a></td>
+<td>6:27</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=Sn-5Dwt_1qw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.1.1 Welcome to Unit 2 - An Introduction to Linear Regression">2.1.1 Welcome to Unit 2 - An Introduction to Linear Regression</a></td>
+<td>0:45</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=f-EN4QySwAs&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.2.1 An Introduction to Linear Regression - Video 1: Predicting the Quality of Wine">2.2.1 An Introduction to Linear Regression - Video 1: Predicting the Quality of Wine</a></td>
+<td>4:06</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=wT3Y2K-fxXw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.2.3 An Introduction to Linear Regression - Video 2: One-variable Linear Regression">2.2.3 An Introduction to Linear Regression - Video 2: One-variable Linear Regression</a></td>
+<td>8:47</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=5tCSR5L4nWI&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.2.5 An Introduction to Linear Regression - Video 3: Multiple Linear Regression">2.2.5 An Introduction to Linear Regression - Video 3: Multiple Linear Regression</a></td>
+<td>3:53</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=Du0HgYO3E6U&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.2.7 An Introduction to Linear Regression - Video 4: Linear Regression in R">2.2.7 An Introduction to Linear Regression - Video 4: Linear Regression in R</a></td>
+<td>8:27</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=xxjhXhhcg74&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.2.9 An Introduction to Linear Regression - Video 5: Understanding the Model">2.2.9 An Introduction to Linear Regression - Video 5: Understanding the Model</a></td>
+<td>12:32</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=gE1wRDQMR8E&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.2.11 An Introduction to Linear Regression - Video 6: Correlation and Multicollinearity">2.2.11 An Introduction to Linear Regression - Video 6: Correlation and Multicollinearity</a></td>
+<td>7:26</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=7MAVWhOUTGU&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.2.13 An Introduction to Linear Regression - Video 7: Making Predictions">2.2.13 An Introduction to Linear Regression - Video 7: Making Predictions</a></td>
+<td>6:17</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=xYnq8nVcN4g&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.2.15 An Introduction to Linear Regression - Video 8: Comparing the Model to the Experts">2.2.15 An Introduction to Linear Regression - Video 8: Comparing the Model to the Experts</a></td>
+<td>1:48</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=WacNWdXhvVM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.3.2 Sports Analytics - Video 1: The Story of Moneyball">2.3.2 Sports Analytics - Video 1: The Story of Moneyball</a></td>
+<td>7:30</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=kYjwB3vfnZg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.3.3 Sports Analytics - Video 2: Making It to the Playoffs">2.3.3 Sports Analytics - Video 2: Making It to the Playoffs</a></td>
+<td>7:25</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=mwL__eKs3fI&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.3.5 Sports Analytics - Video 3: Predicting Runs">2.3.5 Sports Analytics - Video 3: Predicting Runs</a></td>
+<td>5:49</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=j9sl8e7wLnc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.3.7 Sports Analytics - Video 4: Using the Model to Make Predictions">2.3.7 Sports Analytics - Video 4: Using the Model to Make Predictions</a></td>
+<td>4:18</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=D2FQ-JnltPw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.3.9 Sports Analytics - Video 5: Winning the World Series">2.3.9 Sports Analytics - Video 5: Winning the World Series</a></td>
+<td>1:56</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=1G6iJmM64LA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.3.11 Sports Analytics - Video 6: The Analytics Edge in Sports">2.3.11 Sports Analytics - Video 6: The Analytics Edge in Sports</a></td>
+<td>4:36</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=xAuh5VptDQ4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.4.1 R2. Playing Moneyball in the NBA - Welcome to Recitation 2">2.4.1 R2. Playing Moneyball in the NBA - Welcome to Recitation 2</a></td>
+<td>0:23</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=NZbQZVMDeEc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.4.2 R2. Moneyball in the NBA - Video 1: The Data">2.4.2 R2. Moneyball in the NBA - Video 1: The Data</a></td>
+<td>4:22</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=4YP38f2u36E&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.4.3 R2. Moneyball in the NBA - Video 2: Playoffs and Wins">2.4.3 R2. Moneyball in the NBA - Video 2: Playoffs and Wins</a></td>
+<td>6:56</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=RmUVz9jEnzg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.4.4 R2. Moneyball in the NBA - Video 3: Points Scored">2.4.4 R2. Moneyball in the NBA - Video 3: Points Scored</a></td>
+<td>10:16</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=E16wcCKx89w&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="2.4.5 R2. Moneyball in the NBA - Video 4: Making Predictions">2.4.5 R2. Moneyball in the NBA - Video 4: Making Predictions</a></td>
+<td>3:34</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=ruFpq-_wpc0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.1.1 Welcome to Unit 3: Modeling the Expert - An Introduction to Logistical Regression">3.1.1 Welcome to Unit 3: Modeling the Expert - An Introduction to Logistical Regression</a></td>
+<td>0:38</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=wYcMru4gYF4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.2.1 Introduction to Logistical Regression - Video 1: Replicating Expert Assessment">3.2.1 Introduction to Logistical Regression - Video 1: Replicating Expert Assessment</a></td>
+<td>4:04</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=iq7cPtJzgZM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.2.2 Introduction to Logistical Regression - Video 2: Building the Dataset">3.2.2 Introduction to Logistical Regression - Video 2: Building the Dataset</a></td>
+<td>3:41</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=U57wvHVpe-8&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.2.4 Introduction to Logistical Regression - Video 3: Logistic Regression">3.2.4 Introduction to Logistical Regression - Video 3: Logistic Regression</a></td>
+<td>4:03</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=JcKvI821H0c&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.2.6 Introduction to Logistical Regression - Video 4: Logistic Regression in R">3.2.6 Introduction to Logistical Regression - Video 4: Logistic Regression in R</a></td>
+<td>12:00</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=c_2RtTEkyo8&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.2.8 Introduction to Logistical Regression - Video 5: Thresholding">3.2.8 Introduction to Logistical Regression - Video 5: Thresholding</a></td>
+<td>8:03</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=D8HcmzYnBv0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.2.10 Introduction to Logistical Regression - Video 6: ROC Curves">3.2.10 Introduction to Logistical Regression - Video 6: ROC Curves</a></td>
+<td>7:59</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=o8Zdk_3wVSo&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.2.12 Introduction to Logistical Regression - Video 7: Interpreting the Model">3.2.12 Introduction to Logistical Regression - Video 7: Interpreting the Model</a></td>
+<td>8:33</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=m0Yce2rtZJ8&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.2.14 Introduction to Logistical Regression - Video 8: The Analytics Edge">3.2.14 Introduction to Logistical Regression - Video 8: The Analytics Edge</a></td>
+<td>2:56</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=O7AoQhYEdLA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.3.1 The Framingham Heart Study - Video 1: Evaluating Risk Factors to Save Lives">3.3.1 The Framingham Heart Study - Video 1: Evaluating Risk Factors to Save Lives</a></td>
+<td>4:12</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=X_reyHNRYws&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.3.3 The Framingham Heart Study - Video 2: Risk Factors">3.3.3 The Framingham Heart Study - Video 2: Risk Factors</a></td>
+<td>4:08</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=0x4PfWpy-ls&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.3.5 The Framingham Heart Study - Video 3: A Logistical Regression Model">3.3.5 The Framingham Heart Study - Video 3: A Logistical Regression Model</a></td>
+<td>10:23</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=n80gFc12u60&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.3.7 The Framingham Heart Study - Video 4: Validating the Model">3.3.7 The Framingham Heart Study - Video 4: Validating the Model</a></td>
+<td>2:45</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=mi-pl3_fIfc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.3.9 The Framingham Heart Study - Video 5: Interventions">3.3.9 The Framingham Heart Study - Video 5: Interventions</a></td>
+<td>1:45</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=H5uEHZBRWtc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.3.11 The Framingham Heart Study - Video 6: Overall Impact">3.3.11 The Framingham Heart Study - Video 6: Overall Impact</a></td>
+<td>4:06</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=VKFwl-T7Hs0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.4.1 Recitation 3 - Election Forecasting: Predicting the Winner Before Any Votes Are Cast">3.4.1 Recitation 3 - Election Forecasting: Predicting the Winner Before Any Votes Are Cast</a></td>
+<td>0:25</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=9i1sOSIccgw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.4.2 R3. Election Forecasting - Video 1: Election Prediction">3.4.2 R3. Election Forecasting - Video 1: Election Prediction</a></td>
+<td>4:41</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=isTQo2B_1Ng&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.4.3 R3. Election Forecasting - Video 2: Dealing with Missing Data">3.4.3 R3. Election Forecasting - Video 2: Dealing with Missing Data</a></td>
+<td>7:14</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=lm_qReHVm0A&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.4.4 R3. Election Forecasting - Video 3: A Sophisticated Baseline Method">3.4.4 R3. Election Forecasting - Video 3: A Sophisticated Baseline Method</a></td>
+<td>5:46</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=uo0EmonbUhU&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.4.5 R3. Election Forecasting - Video 4: Logistic Regression Models">3.4.5 R3. Election Forecasting - Video 4: Logistic Regression Models</a></td>
+<td>8:00</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=mw0jJm_3KXs&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="3.4.6 R3. Election Forecasting - Video 5: Test Set Predictions">3.4.6 R3. Election Forecasting - Video 5: Test Set Predictions</a></td>
+<td>4:25</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=BKsi-Khu7Bs&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.1.1 Welcome to Unit 4 - Judge, Jury, and Classifier: An Introduction to Trees">4.1.1 Welcome to Unit 4 - Judge, Jury, and Classifier: An Introduction to Trees</a></td>
+<td>0:46</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=CLaRAzHxJGo&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.2.1 An Introduction to Trees - Video 1: The Supreme Court">4.2.1 An Introduction to Trees - Video 1: The Supreme Court</a></td>
+<td>5:52</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=W5zVgQ4SbX8&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.2.3 An Introduction to Trees - Video 2: CART">4.2.3 An Introduction to Trees - Video 2: CART</a></td>
+<td>7:03</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=3cN7bSffVm4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.2.5 An Introduction to Trees - Video 3: Splitting and Predictions">4.2.5 An Introduction to Trees - Video 3: Splitting and Predictions</a></td>
+<td>2:40</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=JvtqThS69bw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.2.7 An Introduction to Trees - Video 4: CART in R">4.2.7 An Introduction to Trees - Video 4: CART in R</a></td>
+<td>12:08</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=ykiTs5MipJU&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.2.9 An Introduction to Trees - Video 5: Random Forests">4.2.9 An Introduction to Trees - Video 5: Random Forests</a></td>
+<td>7:41</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=CROEh9u0VLM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.2.11 An Introduction to Trees - Video 6: Cross-Validation">4.2.11 An Introduction to Trees - Video 6: Cross-Validation</a></td>
+<td>10:47</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=YaEufT_7EbU&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.2.13 An Introduction to Trees - Video 7: The Model v. The Experts">4.2.13 An Introduction to Trees - Video 7: The Model v. The Experts</a></td>
+<td>5:36</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=D-9R7zfUTWw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.1 Healthcare Costs - Video 1: The Story of D2Hawkeye">4.3.1 Healthcare Costs - Video 1: The Story of D2Hawkeye</a></td>
+<td>4:04</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=WYrDTn37m-I&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.3 Healthcare Costs - Video 2: Claims Data">4.3.3 Healthcare Costs - Video 2: Claims Data</a></td>
+<td>4:06</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=HIIclMih_zQ&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.5 Healthcare Costs - Video 3: The Variables">4.3.5 Healthcare Costs - Video 3: The Variables</a></td>
+<td>5:22</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=xeszYyi9ooM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.7 Healthcare Costs- Video 4: Error Measures">4.3.7 Healthcare Costs- Video 4: Error Measures</a></td>
+<td>2:21</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=Goi9xfybb80&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.9 Healthcare Costs - Video 5: CART to Predict Cost">4.3.9 Healthcare Costs - Video 5: CART to Predict Cost</a></td>
+<td>3:56</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=ag4Qe2uheP0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.11 Healthcare Costs - Video 6: Claims Data in R">4.3.11 Healthcare Costs - Video 6: Claims Data in R</a></td>
+<td>5:46</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=12KzzzmaYrw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.13 Healthcare Costs - Video 7: Baseline Method and Penalty Matrix">4.3.13 Healthcare Costs - Video 7: Baseline Method and Penalty Matrix</a></td>
+<td>5:20</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=iJvEgQkLjow&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.15 Healthcare Costs - Video 8: Predicting Healthcare Cost in R">4.3.15 Healthcare Costs - Video 8: Predicting Healthcare Cost in R</a></td>
+<td>9:27</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=xyZEB6vkPb8&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.3.17 Healthcare Costs - Video 9: Results">4.3.17 Healthcare Costs - Video 9: Results</a></td>
+<td>3:05</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=WCb-_SRDzKE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.4.1 Welcome to Recitation 4 - Location, Location, Location: Regression Trees for Housing Data">4.4.1 Welcome to Recitation 4 - Location, Location, Location: Regression Trees for Housing Data</a></td>
+<td>0:20</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=xPneVSOZERk&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.4.2 R4. Regression Trees - Video 1: Boston Housing Data">4.4.2 R4. Regression Trees - Video 1: Boston Housing Data</a></td>
+<td>4:46</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=vsAzc7GvQSs&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.4.3 R4. Regression Trees- Video 2: The Data">4.4.3 R4. Regression Trees- Video 2: The Data</a></td>
+<td>9:26</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=jcvxkX2V-SM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.4.4 R4. Regression Trees - Video 3: Geographical Predictions">4.4.4 R4. Regression Trees - Video 3: Geographical Predictions</a></td>
+<td>5:22</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=IZ0qGEZkTIw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.4.5 R4. Regression Trees - Video 4: Regression Trees">4.4.5 R4. Regression Trees - Video 4: Regression Trees</a></td>
+<td>6:36</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=cllmFIIbzrc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.4.6 R4. Regression Trees - Video 5: Putting it all Together">4.4.6 R4. Regression Trees - Video 5: Putting it all Together</a></td>
+<td>6:37</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=5CExAUWzHEQ&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.4.7 R4. Regression Trees - Video 6: The CP Parameter">4.4.7 R4. Regression Trees - Video 6: The CP Parameter</a></td>
+<td>3:18</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=IXwPD4R6V6M&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="4.4.8 R4. Regression Trees - Video 7: Cross-Validation">4.4.8 R4. Regression Trees - Video 7: Cross-Validation</a></td>
+<td>7:01</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=MYcoFYXPba4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.1.1 Welcome to Unit 5 - Turning Tweets into Knowledge: An Introduction to Text Analytics">5.1.1 Welcome to Unit 5 - Turning Tweets into Knowledge: An Introduction to Text Analytics</a></td>
+<td>0:38</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=8fW7ooZLIuc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.2.1 An Introduction to Text Analytics - Video 1: Twitter">5.2.1 An Introduction to Text Analytics - Video 1: Twitter</a></td>
+<td>2:22</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=aktu4aRQ5X4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.2.2 An Introduction to Text Analytics - Video 2: Text Analytics">5.2.2 An Introduction to Text Analytics - Video 2: Text Analytics</a></td>
+<td>2:37</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=n19qLvOY-rc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.2.4 An Introduction to Text Analytics - Video 3: Creating the Dataset">5.2.4 An Introduction to Text Analytics - Video 3: Creating the Dataset</a></td>
+<td>4:26</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=e8yvJp0VqtI&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.2.6 An Introduction to Text Analytics - Video 4: Bag of Words">5.2.6 An Introduction to Text Analytics - Video 4: Bag of Words</a></td>
+<td>6:18</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=FqiB9tmtdSc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.2.8 An Introduction to Text Analytics - Video 5: Pre-Processing in R">5.2.8 An Introduction to Text Analytics - Video 5: Pre-Processing in R</a></td>
+<td>7:59</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=JcAB1JeDs8Y&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.2.10 An Introduction to Text Analytics - Video 6: Bag of Words in R">5.2.10 An Introduction to Text Analytics - Video 6: Bag of Words in R</a></td>
+<td>6:47</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=CaLv-IWX5vo&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.2.12 An Introduction to Text Analytics - Video 7: Predicting Sentiment">5.2.12 An Introduction to Text Analytics - Video 7: Predicting Sentiment</a></td>
+<td>6:42</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=eUZHMoJ1EJE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.2.14 An Introduction to Text Analytics - Video 8: Conclusion">5.2.14 An Introduction to Text Analytics - Video 8: Conclusion</a></td>
+<td>1:42</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=Mge-sj1UVFM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.3.1 How IBM Built a Jeopardy Champion - Video 1: IBM Watson">5.3.1 How IBM Built a Jeopardy Champion - Video 1: IBM Watson</a></td>
+<td>5:30</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=1-_pwzJ8nPw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.3.3 How IBM Built a Jeopardy Champion - Video 2: The Game of Jeopardy">5.3.3 How IBM Built a Jeopardy Champion - Video 2: The Game of Jeopardy</a></td>
+<td>2:57</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=6Rl8scykyEQ&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.3.5 How IBM Built a Jeopardy Champion - Video 3: Watson's Database and Tools">5.3.5 How IBM Built a Jeopardy Champion - Video 3: Watson's Database and Tools</a></td>
+<td>4:24</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=_L315IjxyUM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.3.7 How IBM Built a Jeopardy Champion - Video 4: How Watson Works - Steps 1 and 2">5.3.7 How IBM Built a Jeopardy Champion - Video 4: How Watson Works - Steps 1 and 2</a></td>
+<td>3:42</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=fQXFHIsvV-c&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.3.9 How IBM Built a Jeopardy Champion - Video 5: How Watson Works - Steps 3 and 4">5.3.9 How IBM Built a Jeopardy Champion - Video 5: How Watson Works - Steps 3 and 4</a></td>
+<td>5:43</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=fEXkGiLYDug&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.3.11 How IBM Built a Jeopardy Champion - Video 6: The Results">5.3.11 How IBM Built a Jeopardy Champion - Video 6: The Results</a></td>
+<td>8:33</td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="https://www.youtube.com/watch?v=ww-S4khiumM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.1 Welcome to Recitation 5 - Predictive Coding: Bringing Text Analytics to the Courtroom">5.4.1 Welcome to Recitation 5 - Predictive Coding: Bringing Text Analytics to the Courtroom</a></td>
+<td>0:28</td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="https://www.youtube.com/watch?v=hqiH39PShmA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.2 R5. Predictive Coding - Video 1: The Story of Enron">5.4.2 R5. Predictive Coding - Video 1: The Story of Enron</a></td>
+<td>3:30</td>
+</tr>
+<tr>
+<td>105</td>
+<td><a href="https://www.youtube.com/watch?v=S-UZTbRqjeo&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.3 R5. Predictive Coding - Video 2: The Data">5.4.3 R5. Predictive Coding - Video 2: The Data</a></td>
+<td>3:57</td>
+</tr>
+<tr>
+<td>106</td>
+<td><a href="https://www.youtube.com/watch?v=qhOVXxNXAug&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.4 R5. Predictive Coding - Video 3: Pre-Processing">5.4.4 R5. Predictive Coding - Video 3: Pre-Processing</a></td>
+<td>2:36</td>
+</tr>
+<tr>
+<td>107</td>
+<td><a href="https://www.youtube.com/watch?v=EQYlOQjzYOA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.5 R5. Predictive Coding - Video 4: Bag of Words">5.4.5 R5. Predictive Coding - Video 4: Bag of Words</a></td>
+<td>2:28</td>
+</tr>
+<tr>
+<td>108</td>
+<td><a href="https://www.youtube.com/watch?v=Cks6Wn29TLg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.6 R5. Predictive Coding - Video 5: Building Models">5.4.6 R5. Predictive Coding - Video 5: Building Models</a></td>
+<td>3:08</td>
+</tr>
+<tr>
+<td>109</td>
+<td><a href="https://www.youtube.com/watch?v=6m39f8lDONs&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.7 R5. Predictive Coding - Video 6: Evaluating the Model">5.4.7 R5. Predictive Coding - Video 6: Evaluating the Model</a></td>
+<td>4:10</td>
+</tr>
+<tr>
+<td>110</td>
+<td><a href="https://www.youtube.com/watch?v=xglWbWk_swE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.8 R5. Predictive Coding - Video 7: The ROC Curve">5.4.8 R5. Predictive Coding - Video 7: The ROC Curve</a></td>
+<td>3:20</td>
+</tr>
+<tr>
+<td>111</td>
+<td><a href="https://www.youtube.com/watch?v=_JGetImYLis&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today">5.4.9 R5. Predictive Coding - Video 8: Predictive Coding Today</a></td>
+<td>0:49</td>
+</tr>
+<tr>
+<td>112</td>
+<td><a href="https://www.youtube.com/watch?v=PLRK4oOkXuI&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.1.1 Welcome to Unit 6 - An Introduction to Clustering">6.1.1 Welcome to Unit 6 - An Introduction to Clustering</a></td>
+<td>0:39</td>
+</tr>
+<tr>
+<td>113</td>
+<td><a href="https://www.youtube.com/watch?v=WTuwV-rWxUc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.2.1 An Introduction to Clustering - Video 1: Introduction to Netflix">6.2.1 An Introduction to Clustering - Video 1: Introduction to Netflix</a></td>
+<td>4:29</td>
+</tr>
+<tr>
+<td>114</td>
+<td><a href="https://www.youtube.com/watch?v=ee6E6aUGpm0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.2.3 An Introduction to Clustering - Video 2: Recommendation Systems">6.2.3 An Introduction to Clustering - Video 2: Recommendation Systems</a></td>
+<td>4:47</td>
+</tr>
+<tr>
+<td>115</td>
+<td><a href="https://www.youtube.com/watch?v=xEjZjz7oxbI&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.2.5 An Introduction to Clustering - Video 3: Movie Data and Clustering">6.2.5 An Introduction to Clustering - Video 3: Movie Data and Clustering</a></td>
+<td>3:26</td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href="https://www.youtube.com/watch?v=R8SQafbqR1w&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.2.7 An Introduction to Clustering - Video 4: Computing Distances">6.2.7 An Introduction to Clustering - Video 4: Computing Distances</a></td>
+<td>6:19</td>
+</tr>
+<tr>
+<td>117</td>
+<td><a href="https://www.youtube.com/watch?v=fuUC0WVeKsg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.2.9 An Introduction to Clustering - Video 5: Hierarchical Clustering">6.2.9 An Introduction to Clustering - Video 5: Hierarchical Clustering</a></td>
+<td>4:13</td>
+</tr>
+<tr>
+<td>118</td>
+<td><a href="https://www.youtube.com/watch?v=UQHz2U1ik9c&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.2.11 An Introduction to Clustering - Video 6: Getting the Data">6.2.11 An Introduction to Clustering - Video 6: Getting the Data</a></td>
+<td>6:47</td>
+</tr>
+<tr>
+<td>119</td>
+<td><a href="https://www.youtube.com/watch?v=GPOUGpF-Sno&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.2.13 An Introduction to Clustering - Video 7: Hierarchical Clustering in R">6.2.13 An Introduction to Clustering - Video 7: Hierarchical Clustering in R</a></td>
+<td>8:38</td>
+</tr>
+<tr>
+<td>120</td>
+<td><a href="https://www.youtube.com/watch?v=sJalJ1A9NDg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.2.15 An Introduction to Clustering - Video 8: The Analytics Edge of Recommendation Systems">6.2.15 An Introduction to Clustering - Video 8: The Analytics Edge of Recommendation Systems</a></td>
+<td>3:23</td>
+</tr>
+<tr>
+<td>121</td>
+<td><a href="https://www.youtube.com/watch?v=RS4Ol9PzxCM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.3.1 Predictive Diagnosis - Video 1: Heart Attacks">6.3.1 Predictive Diagnosis - Video 1: Heart Attacks</a></td>
+<td>2:33</td>
+</tr>
+<tr>
+<td>122</td>
+<td><a href="https://www.youtube.com/watch?v=UVeZhQBNvkE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.3.3 Predictive Diagnosis - Video 2: The Data">6.3.3 Predictive Diagnosis - Video 2: The Data</a></td>
+<td>5:47</td>
+</tr>
+<tr>
+<td>123</td>
+<td><a href="https://www.youtube.com/watch?v=fsF79kN9G28&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.3.5 Predictive Diagnosis - Video 3: Predicting Heart Attacks Using Clustering">6.3.5 Predictive Diagnosis - Video 3: Predicting Heart Attacks Using Clustering</a></td>
+<td>5:21</td>
+</tr>
+<tr>
+<td>124</td>
+<td><a href="https://www.youtube.com/watch?v=NAQhRc3OQAw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.3.7 Predictive Diagnosis - Video 4: Understanding Cluster Patterns">6.3.7 Predictive Diagnosis - Video 4: Understanding Cluster Patterns</a></td>
+<td>3:23</td>
+</tr>
+<tr>
+<td>125</td>
+<td><a href="https://www.youtube.com/watch?v=va-mL-_jui4&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.3.9 Predictive Diagnosis - Video 5: The Analytics Edge">6.3.9 Predictive Diagnosis - Video 5: The Analytics Edge</a></td>
+<td>1:12</td>
+</tr>
+<tr>
+<td>126</td>
+<td><a href="https://www.youtube.com/watch?v=o5bqy_5T07Y&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.4.1 Welcome to Recitation 6 - Seeing the Big Picture: Segmenting Images to Create Data">6.4.1 Welcome to Recitation 6 - Seeing the Big Picture: Segmenting Images to Create Data</a></td>
+<td>0:28</td>
+</tr>
+<tr>
+<td>127</td>
+<td><a href="https://www.youtube.com/watch?v=j1d4_wrUEVs&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.4.2 Recitation 6 - Video 1: Image Segmentation">6.4.2 Recitation 6 - Video 1: Image Segmentation</a></td>
+<td>4:00</td>
+</tr>
+<tr>
+<td>128</td>
+<td><a href="https://www.youtube.com/watch?v=8jpO-p1YvdM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.4.3 R6. Segmenting Images - Video 2: Clustering Pixels">6.4.3 R6. Segmenting Images - Video 2: Clustering Pixels</a></td>
+<td>7:42</td>
+</tr>
+<tr>
+<td>129</td>
+<td><a href="https://www.youtube.com/watch?v=t8nLB1AmUgE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.4.4 R6. Segmenting Images - Video 3: Hierarchical Clustering">6.4.4 R6. Segmenting Images - Video 3: Hierarchical Clustering</a></td>
+<td>7:43</td>
+</tr>
+<tr>
+<td>130</td>
+<td><a href="https://www.youtube.com/watch?v=35kwBJQwmLg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.4.6 R6. Segmenting Images - Video 4: MRI Image">6.4.6 R6. Segmenting Images - Video 4: MRI Image</a></td>
+<td>5:34</td>
+</tr>
+<tr>
+<td>131</td>
+<td><a href="https://www.youtube.com/watch?v=WIKsL9tPoAE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.4.7 R6. Segmenting Images - Video 5: K-Means Clustering">6.4.7 R6. Segmenting Images - Video 5: K-Means Clustering</a></td>
+<td>6:36</td>
+</tr>
+<tr>
+<td>132</td>
+<td><a href="https://www.youtube.com/watch?v=R250-aMpyAo&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.4.8 R6. Segmenting Images - Video 6: Detecting Tumors">6.4.8 R6. Segmenting Images - Video 6: Detecting Tumors</a></td>
+<td>7:27</td>
+</tr>
+<tr>
+<td>133</td>
+<td><a href="https://www.youtube.com/watch?v=8ryWylXv0WE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="6.4.9 R6. Segmenting Images - Video 7: Comparing Methods">6.4.9 R6. Segmenting Images - Video 7: Comparing Methods</a></td>
+<td>3:41</td>
+</tr>
+<tr>
+<td>134</td>
+<td><a href="https://www.youtube.com/watch?v=ByiCbXfwGbc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.1.1 Welcome to Unit 7 - Visualizing the World: An Introduction to Visualization">7.1.1 Welcome to Unit 7 - Visualizing the World: An Introduction to Visualization</a></td>
+<td>0:46</td>
+</tr>
+<tr>
+<td>135</td>
+<td><a href="https://www.youtube.com/watch?v=cYGYTNZTP7M&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.2.1 An Introduction to Visualization - Video 1: The Power of Visualizations">7.2.1 An Introduction to Visualization - Video 1: The Power of Visualizations</a></td>
+<td>3:17</td>
+</tr>
+<tr>
+<td>136</td>
+<td><a href="https://www.youtube.com/watch?v=kTOfGiScMsI&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.2.3 An Introduction to Visualization - Video 2: The World Health Organization (WHO)">7.2.3 An Introduction to Visualization - Video 2: The World Health Organization (WHO)</a></td>
+<td>1:26</td>
+</tr>
+<tr>
+<td>137</td>
+<td><a href="https://www.youtube.com/watch?v=2wtc5Su-fZA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.2.5 An Introduction to Visualization - Video 3: What is Data Visualization?">7.2.5 An Introduction to Visualization - Video 3: What is Data Visualization?</a></td>
+<td>4:59</td>
+</tr>
+<tr>
+<td>138</td>
+<td><a href="https://www.youtube.com/watch?v=nqqYjtK1zIk&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.2.7 An Introduction to Visualization - Video 4: Basic Scatterplots Using ggplot">7.2.7 An Introduction to Visualization - Video 4: Basic Scatterplots Using ggplot</a></td>
+<td>8:24</td>
+</tr>
+<tr>
+<td>139</td>
+<td><a href="https://www.youtube.com/watch?v=pj_Ro7sFpUE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.2.9 An Introduction to Visualization - Video 5: Advanced Scatterplots Using ggplot">7.2.9 An Introduction to Visualization - Video 5: Advanced Scatterplots Using ggplot</a></td>
+<td>7:14</td>
+</tr>
+<tr>
+<td>140</td>
+<td><a href="https://www.youtube.com/watch?v=vhkBbC9qp1M&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.3.1 Visualization for Law and Order - Video 1: Predictive Policing">7.3.1 Visualization for Law and Order - Video 1: Predictive Policing</a></td>
+<td>4:23</td>
+</tr>
+<tr>
+<td>141</td>
+<td><a href="https://www.youtube.com/watch?v=Kdbia6SXSFA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.3.3 Visualization for Law and Order - Video 2: Visualizing Crime Over Time">7.3.3 Visualization for Law and Order - Video 2: Visualizing Crime Over Time</a></td>
+<td>4:17</td>
+</tr>
+<tr>
+<td>142</td>
+<td><a href="https://www.youtube.com/watch?v=4MhGi6JSGbA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.3.5 Visualization for Law and Order - Video 3: A Line Plot">7.3.5 Visualization for Law and Order - Video 3: A Line Plot</a></td>
+<td>8:08</td>
+</tr>
+<tr>
+<td>143</td>
+<td><a href="https://www.youtube.com/watch?v=DU0_NM0mZPE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.3.7 Visualization for Law and Order - Video 4: A Heatmap">7.3.7 Visualization for Law and Order - Video 4: A Heatmap</a></td>
+<td>9:06</td>
+</tr>
+<tr>
+<td>144</td>
+<td><a href="https://www.youtube.com/watch?v=plpDQpjB044&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.3.9 Visualization for Law and Order - Video 5: A Geographical Hot Spot Map">7.3.9 Visualization for Law and Order - Video 5: A Geographical Hot Spot Map</a></td>
+<td>8:25</td>
+</tr>
+<tr>
+<td>145</td>
+<td><a href="https://www.youtube.com/watch?v=8hBr-bpykso&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.3.11 Visualization for Law and Order - Video 6: A Heatmap on the United States">7.3.11 Visualization for Law and Order - Video 6: A Heatmap on the United States</a></td>
+<td>9:26</td>
+</tr>
+<tr>
+<td>146</td>
+<td><a href="https://www.youtube.com/watch?v=2Yl5IkDMoUU&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.3.13 Visualization for Law and Order - Video 7: The Analytics Edge">7.3.13 Visualization for Law and Order - Video 7: The Analytics Edge</a></td>
+<td>1:07</td>
+</tr>
+<tr>
+<td>147</td>
+<td><a href="https://www.youtube.com/watch?v=1r6cLE2BoTA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.4.1 Welcome to Recitation 7 - The Good, the Bad, and the Ugly in Visualization">7.4.1 Welcome to Recitation 7 - The Good, the Bad, and the Ugly in Visualization</a></td>
+<td>0:27</td>
+</tr>
+<tr>
+<td>148</td>
+<td><a href="https://www.youtube.com/watch?v=JAmiDL8pBhg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.4.2 R7. Visualization - Video 1: Introduction">7.4.2 R7. Visualization - Video 1: Introduction</a></td>
+<td>2:12</td>
+</tr>
+<tr>
+<td>149</td>
+<td><a href="https://www.youtube.com/watch?v=_EtlZAMQ2gc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.4.3 R7. Visualization - Video 2: Pie Charts">7.4.3 R7. Visualization - Video 2: Pie Charts</a></td>
+<td>3:54</td>
+</tr>
+<tr>
+<td>150</td>
+<td><a href="https://www.youtube.com/watch?v=En0xvjBnmfU&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.4.4 R7. Visualization - Video 3: Bar Charts in R">7.4.4 R7. Visualization - Video 3: Bar Charts in R</a></td>
+<td>7:30</td>
+</tr>
+<tr>
+<td>151</td>
+<td><a href="https://www.youtube.com/watch?v=4bsc1II5KK0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.4.5 R7. Visualization - Video 4: A Better Visualization">7.4.5 R7. Visualization - Video 4: A Better Visualization</a></td>
+<td>1:36</td>
+</tr>
+<tr>
+<td>152</td>
+<td><a href="https://www.youtube.com/watch?v=2rnsbodsJVc&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.4.6 R7. Visualization - Video 5: World Maps in R">7.4.6 R7. Visualization - Video 5: World Maps in R</a></td>
+<td>11:38</td>
+</tr>
+<tr>
+<td>153</td>
+<td><a href="https://www.youtube.com/watch?v=iR1nRg-jm1o&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.4.7 R7. Visualization - Video 6: Scales">7.4.7 R7. Visualization - Video 6: Scales</a></td>
+<td>4:53</td>
+</tr>
+<tr>
+<td>154</td>
+<td><a href="https://www.youtube.com/watch?v=JtIa7ofeXIY&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="7.4.8 R7. Visualization - Video 7: Using Line Charts Instead">7.4.8 R7. Visualization - Video 7: Using Line Charts Instead</a></td>
+<td>5:47</td>
+</tr>
+<tr>
+<td>155</td>
+<td><a href="https://www.youtube.com/watch?v=VDtL2g9Viik&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.1.1 Welcome to Unit 8 - Airline Revenue Management: An Introduction to Linear Optimization">8.1.1 Welcome to Unit 8 - Airline Revenue Management: An Introduction to Linear Optimization</a></td>
+<td>0:35</td>
+</tr>
+<tr>
+<td>156</td>
+<td><a href="https://www.youtube.com/watch?v=UA3QA3KE4sw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.2.1 An Introduction to Linear Optimization - Video 1: Introduction">8.2.1 An Introduction to Linear Optimization - Video 1: Introduction</a></td>
+<td>3:25</td>
+</tr>
+<tr>
+<td>157</td>
+<td><a href="https://www.youtube.com/watch?v=MK3DduTjcrA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.2.2 An Introduction to Linear Optimization - Video 2: A Single Flight">8.2.2 An Introduction to Linear Optimization - Video 2: A Single Flight</a></td>
+<td>2:27</td>
+</tr>
+<tr>
+<td>158</td>
+<td><a href="https://www.youtube.com/watch?v=6m4l2k9hBZw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.2.4 An Introduction to Linear Optimization - Video 3: The Problem Formulation">8.2.4 An Introduction to Linear Optimization - Video 3: The Problem Formulation</a></td>
+<td>3:46</td>
+</tr>
+<tr>
+<td>159</td>
+<td><a href="https://www.youtube.com/watch?v=wQvjFfMvXrk&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.2.6 An Introduction to Linear Optimization - Video 4: Solving the Problem">8.2.6 An Introduction to Linear Optimization - Video 4: Solving the Problem</a></td>
+<td>6:40</td>
+</tr>
+<tr>
+<td>160</td>
+<td><a href="https://www.youtube.com/watch?v=0RaZe62Rg2A&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.2.8 An Introduction to Linear Optimization - Video 5: Visualizing the Problem">8.2.8 An Introduction to Linear Optimization - Video 5: Visualizing the Problem</a></td>
+<td>2:42</td>
+</tr>
+<tr>
+<td>161</td>
+<td><a href="https://www.youtube.com/watch?v=aDdkt8rRWGs&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.2.10 An Introduction to Linear Optimization - Video 6: Sensitivity Analysis">8.2.10 An Introduction to Linear Optimization - Video 6: Sensitivity Analysis</a></td>
+<td>6:34</td>
+</tr>
+<tr>
+<td>162</td>
+<td><a href="https://www.youtube.com/watch?v=DCcPG4aS5I0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.2.12 An Introduction to Linear Optimization - Video 7: Connecting Flights">8.2.12 An Introduction to Linear Optimization - Video 7: Connecting Flights</a></td>
+<td>8:18</td>
+</tr>
+<tr>
+<td>163</td>
+<td><a href="https://www.youtube.com/watch?v=S0g0ad4zX7A&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.2.14 An Introduction to Linear Optimization - Video 8: The Edge of Revenue Management">8.2.14 An Introduction to Linear Optimization - Video 8: The Edge of Revenue Management</a></td>
+<td>2:50</td>
+</tr>
+<tr>
+<td>164</td>
+<td><a href="https://www.youtube.com/watch?v=8p_4qP03AM0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.3.1 An Application of Linear Optimization - Video 1: Introduction to Radiation Therapy">8.3.1 An Application of Linear Optimization - Video 1: Introduction to Radiation Therapy</a></td>
+<td>5:30</td>
+</tr>
+<tr>
+<td>165</td>
+<td><a href="https://www.youtube.com/watch?v=EXYgISgOw0g&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.3.3 Radiation Therapy - Video 2: An Optimization Problem">8.3.3 Radiation Therapy - Video 2: An Optimization Problem</a></td>
+<td>5:56</td>
+</tr>
+<tr>
+<td>166</td>
+<td><a href="https://www.youtube.com/watch?v=UjbutTp3z3I&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.3.5 Radiation Therapy - Video 3: Solving the Problem">8.3.5 Radiation Therapy - Video 3: Solving the Problem</a></td>
+<td>8:14</td>
+</tr>
+<tr>
+<td>167</td>
+<td><a href="https://www.youtube.com/watch?v=98cyATFdwIk&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.3.7 Radiation Therapy - Video 4: A Head and Neck Case">8.3.7 Radiation Therapy - Video 4: A Head and Neck Case</a></td>
+<td>3:12</td>
+</tr>
+<tr>
+<td>168</td>
+<td><a href="https://www.youtube.com/watch?v=8T248H2ax8c&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.3.9 Radiation Therapy - Video 5: Sensitivity Analysis">8.3.9 Radiation Therapy - Video 5: Sensitivity Analysis</a></td>
+<td>3:51</td>
+</tr>
+<tr>
+<td>169</td>
+<td><a href="https://www.youtube.com/watch?v=7QJyMB9qGQg&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.3.11 Radiation Therapy - Video 6: The Analytics Edge">8.3.11 Radiation Therapy - Video 6: The Analytics Edge</a></td>
+<td>3:12</td>
+</tr>
+<tr>
+<td>170</td>
+<td><a href="https://www.youtube.com/watch?v=kntypWFmyyM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.1 Welcome to Recitation 8 - Google AdWords: Optimizing Online Advertising">8.4.1 Welcome to Recitation 8 - Google AdWords: Optimizing Online Advertising</a></td>
+<td>0:38</td>
+</tr>
+<tr>
+<td>171</td>
+<td><a href="https://www.youtube.com/watch?v=AByfsx3Dkek&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.2 R8. Google AdWords - Video 1: Introduction">8.4.2 R8. Google AdWords - Video 1: Introduction</a></td>
+<td>4:52</td>
+</tr>
+<tr>
+<td>172</td>
+<td><a href="https://www.youtube.com/watch?v=zasCvIWLyRA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.3 R8. Google AdWords - Video 2: How Online Advertising Works">8.4.3 R8. Google AdWords - Video 2: How Online Advertising Works</a></td>
+<td>5:05</td>
+</tr>
+<tr>
+<td>173</td>
+<td><a href="https://www.youtube.com/watch?v=ril5Z4UxI3w&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.4 R8. Google AdWords - Video 3: Prices and Queries">8.4.4 R8. Google AdWords - Video 3: Prices and Queries</a></td>
+<td>2:53</td>
+</tr>
+<tr>
+<td>174</td>
+<td><a href="https://www.youtube.com/watch?v=BvZlP1ZyToo&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.5 R8. Google AdWords - Video 4: Modeling the Problem">8.4.5 R8. Google AdWords - Video 4: Modeling the Problem</a></td>
+<td>4:55</td>
+</tr>
+<tr>
+<td>175</td>
+<td><a href="https://www.youtube.com/watch?v=akNw8CEHC_c&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.6 R8. Google AdWords - Video 5: Solving the Problem">8.4.6 R8. Google AdWords - Video 5: Solving the Problem</a></td>
+<td>10:26</td>
+</tr>
+<tr>
+<td>176</td>
+<td><a href="https://www.youtube.com/watch?v=0fWDzzMSk8I&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.7 R8. Google AdWords - Video 6: A Greedy Approach">8.4.7 R8. Google AdWords - Video 6: A Greedy Approach</a></td>
+<td>10:59</td>
+</tr>
+<tr>
+<td>177</td>
+<td><a href="https://www.youtube.com/watch?v=1i5TDkri78Y&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.8 R8. Google AdWords - Video 7: Sensitivity Analysis">8.4.8 R8. Google AdWords - Video 7: Sensitivity Analysis</a></td>
+<td>6:25</td>
+</tr>
+<tr>
+<td>178</td>
+<td><a href="https://www.youtube.com/watch?v=EGDQfE7MREw&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="8.4.9 R8. Google AdWords - Video 8: Extensions and the Edge">8.4.9 R8. Google AdWords - Video 8: Extensions and the Edge</a></td>
+<td>6:06</td>
+</tr>
+<tr>
+<td>179</td>
+<td><a href="https://www.youtube.com/watch?v=-G_d3A0x_0Y&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.1.1 Welcome to Unit 9: An Introduction to Integer Optimization">9.1.1 Welcome to Unit 9: An Introduction to Integer Optimization</a></td>
+<td>0:41</td>
+</tr>
+<tr>
+<td>180</td>
+<td><a href="https://www.youtube.com/watch?v=9aKidJvppF0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.2.1 Sports Scheduling - Video 1: Introduction">9.2.1 Sports Scheduling - Video 1: Introduction</a></td>
+<td>5:22</td>
+</tr>
+<tr>
+<td>181</td>
+<td><a href="https://www.youtube.com/watch?v=dgjhoPD1FA0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.2.3 Sports Scheduling - Video 2: The Optimization Problem">9.2.3 Sports Scheduling - Video 2: The Optimization Problem</a></td>
+<td>8:18</td>
+</tr>
+<tr>
+<td>182</td>
+<td><a href="https://www.youtube.com/watch?v=cT3KA-QLEI0&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.2.5 Sports Scheduling - Video 3: Solving the Problem">9.2.5 Sports Scheduling - Video 3: Solving the Problem</a></td>
+<td>7:52</td>
+</tr>
+<tr>
+<td>183</td>
+<td><a href="https://www.youtube.com/watch?v=05DWB1NzozM&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.2.7 Sports Scheduling - Video 4: Logical Constraints">9.2.7 Sports Scheduling - Video 4: Logical Constraints</a></td>
+<td>5:30</td>
+</tr>
+<tr>
+<td>184</td>
+<td><a href="https://www.youtube.com/watch?v=EOWyWHTA_vQ&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.2.9 Sports Scheduling - Video 5: The Edge">9.2.9 Sports Scheduling - Video 5: The Edge</a></td>
+<td>4:04</td>
+</tr>
+<tr>
+<td>185</td>
+<td><a href="https://www.youtube.com/watch?v=suHTm7R7kfQ&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.3.1 eHarmony - Video 1: The Goal of eHarmony">9.3.1 eHarmony - Video 1: The Goal of eHarmony</a></td>
+<td>3:49</td>
+</tr>
+<tr>
+<td>186</td>
+<td><a href="https://www.youtube.com/watch?v=AlDhA-NY5IA&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.3.3 eHarmony - Video 2: Using Integer Optimization">9.3.3 eHarmony - Video 2: Using Integer Optimization</a></td>
+<td>3:31</td>
+</tr>
+<tr>
+<td>187</td>
+<td><a href="https://www.youtube.com/watch?v=pelPpuYUAho&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.3.5 eHarmony - Video 3: Predicting Compatibility Scores">9.3.5 eHarmony - Video 3: Predicting Compatibility Scores</a></td>
+<td>3:45</td>
+</tr>
+<tr>
+<td>188</td>
+<td><a href="https://www.youtube.com/watch?v=bzxoBEh4is8&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.3.7 eHarmony - Video 4: The Analytics Edge">9.3.7 eHarmony - Video 4: The Analytics Edge</a></td>
+<td>1:24</td>
+</tr>
+<tr>
+<td>189</td>
+<td><a href="https://www.youtube.com/watch?v=X3dLfxatijE&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.4.1 Welcome to Recitation 9 - Operating Room Scheduling: Making Hospitals Run Smoothly">9.4.1 Welcome to Recitation 9 - Operating Room Scheduling: Making Hospitals Run Smoothly</a></td>
+<td>0:24</td>
+</tr>
+<tr>
+<td>190</td>
+<td><a href="https://www.youtube.com/watch?v=SSzcvj2biAQ&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.4.2 R9. Operating Room Scheduling - Video 1: The Problem">9.4.2 R9. Operating Room Scheduling - Video 1: The Problem</a></td>
+<td>6:05</td>
+</tr>
+<tr>
+<td>191</td>
+<td><a href="https://www.youtube.com/watch?v=J9-3p_J9o2Y&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.4.3 R9. Operating Room Scheduling - Video 2: An Optimization Model">9.4.3 R9. Operating Room Scheduling - Video 2: An Optimization Model</a></td>
+<td>4:24</td>
+</tr>
+<tr>
+<td>192</td>
+<td><a href="https://www.youtube.com/watch?v=ayrdDJPAD5M&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.4.4 R9. Operating Room Scheduling - Video 3: Solving the Problem">9.4.4 R9. Operating Room Scheduling - Video 3: Solving the Problem</a></td>
+<td>15:21</td>
+</tr>
+<tr>
+<td>193</td>
+<td><a href="https://www.youtube.com/watch?v=lkrsGRNsoEU&amp;list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq" title="9.4.5 R9. Operating Room Scheduling - Video 4: The Solution">9.4.5 R9. Operating Room Scheduling - Video 4: The Solution</a></td>
+<td>9:35</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>MIT 15.071 The Analytics Edge, Spring 2017</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq">https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq</a></p>
+<p>Massachusetts Institute of Technology. (n.d.). <em>MIT Course Catalog 2026-2027</em>. Retrieved November 18, 2026, from <a href="https://catalog.mit.edu/">https://catalog.mit.edu/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

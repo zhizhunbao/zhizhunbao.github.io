@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2 Geometry | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Definitions, Geometry: the 23 definitions that open Euclid&#39;s Elements Book I, naming 35 concepts, each with its Chinese name.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2-geometry">2 Geometry</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/2-geometry.png" alt="2 Geometry: the 35 concepts of Euclid's 23 definitions in the source's order."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="index.html">Definitions</a></strong><br>定义</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html#defs">Euclid, ca. 300 B.C.E./1996, Book I, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>2 Geometry</strong><br>几何</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html#defs">Euclid, ca. 300 B.C.E./1996, Book I, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Point</strong><br>点</td>
+<td>&quot;A <strong>point</strong> is that which has no part.&quot;</td>
+<td><strong>点</strong>是没有部分的东西。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI1.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 1</a></td>
+</tr>
+<tr>
+<td><strong>Line</strong><br>线</td>
+<td>&quot;A <strong>line</strong> is breadthless length.&quot;</td>
+<td><strong>线</strong>是没有宽度的长度。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI2.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 2</a></td>
+</tr>
+<tr>
+<td><strong>Ends of a line</strong><br>线的端点</td>
+<td>&quot;<strong>The ends of a line</strong> are points.&quot;</td>
+<td><strong>线的两端</strong>是点。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI3.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 3</a></td>
+</tr>
+<tr>
+<td><strong>Straight line</strong><br>直线</td>
+<td>&quot;A <strong>straight line</strong> is a line which lies evenly with the points on itself.&quot;</td>
+<td><strong>直线</strong>是与其上的点平齐地放置的线。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI4.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 4</a></td>
+</tr>
+<tr>
+<td><strong>Surface</strong><br>面</td>
+<td>&quot;A <strong>surface</strong> is that which has length and breadth only.&quot;</td>
+<td><strong>面</strong>是只有长度和宽度的东西。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI5.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 5</a></td>
+</tr>
+<tr>
+<td><strong>Edges of a surface</strong><br>面的边</td>
+<td>&quot;<strong>The edges of a surface</strong> are lines.&quot;</td>
+<td><strong>面的边</strong>是线。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI6.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 6</a></td>
+</tr>
+<tr>
+<td><strong>Plane surface</strong><br>平面</td>
+<td>&quot;A <strong>plane surface</strong> is a surface which lies evenly with the straight lines on itself.&quot;</td>
+<td><strong>平面</strong>是与其上的直线平齐地放置的面。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI7.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 7</a></td>
+</tr>
+<tr>
+<td><strong>Plane angle</strong><br>平面角</td>
+<td>&quot;A <strong>plane angle</strong> is the inclination to one another of two lines in a plane which meet one another and do not lie in a straight line.&quot;</td>
+<td><strong>平面角</strong>是平面上相交而不在一条直线上的两条线彼此的倾斜度。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI8.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 8</a></td>
+</tr>
+<tr>
+<td><strong>Rectilinear angle</strong><br>直线角</td>
+<td>&quot;And when the lines containing the angle are straight, the angle is called <strong>rectilinear</strong>.&quot;</td>
+<td>当夹成角的线是直线时，这个角称为<strong>直线角</strong>。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI9.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 9</a></td>
+</tr>
+<tr>
+<td><strong>Right angle</strong><br>直角</td>
+<td>&quot;When a straight line standing on a straight line makes the adjacent angles equal to one another, each of the equal angles is <strong>right</strong>&quot;</td>
+<td>一条直线立在另一条直线上，使相邻两角彼此相等时，相等的每个角都是<strong>直角</strong></td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI10.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 10</a></td>
+</tr>
+<tr>
+<td><strong>Perpendicular</strong><br>垂线</td>
+<td>&quot;the straight line standing on the other is called a <strong>perpendicular</strong> to that on which it stands.&quot;</td>
+<td>立在另一条直线上的那条直线称为它所立直线的<strong>垂线</strong>。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI10.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 10</a></td>
+</tr>
+<tr>
+<td><strong>Obtuse angle</strong><br>钝角</td>
+<td>&quot;An <strong>obtuse angle</strong> is an angle greater than a right angle.&quot;</td>
+<td><strong>钝角</strong>是大于直角的角。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI11.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 11</a></td>
+</tr>
+<tr>
+<td><strong>Acute angle</strong><br>锐角</td>
+<td>&quot;An <strong>acute angle</strong> is an angle less than a right angle.&quot;</td>
+<td><strong>锐角</strong>是小于直角的角。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI11.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 12</a></td>
+</tr>
+<tr>
+<td><strong>Boundary</strong><br>边界</td>
+<td>&quot;A <strong>boundary</strong> is that which is an extremity of anything.&quot;</td>
+<td><strong>边界</strong>是任何东西的端部。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI13.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 13</a></td>
+</tr>
+<tr>
+<td><strong>Figure</strong><br>图形</td>
+<td>&quot;A <strong>figure</strong> is that which is contained by any boundary or boundaries.&quot;</td>
+<td><strong>图形</strong>是由一条或几条边界围成的东西。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI13.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 14</a></td>
+</tr>
+<tr>
+<td><strong>Circle</strong><br>圆</td>
+<td>&quot;A <strong>circle</strong> is a plane figure contained by one line such that all the straight lines falling upon it from one point among those lying within the figure equal one another.&quot;</td>
+<td><strong>圆</strong>是由一条线围成的平面图形，从图形内某一点到这条线的所有直线都彼此相等。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI15.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 15</a></td>
+</tr>
+<tr>
+<td><strong>Center</strong><br>圆心</td>
+<td>&quot;And the point is called the <strong>center</strong> of the circle.&quot;</td>
+<td>这个点称为圆的<strong>圆心</strong>。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI15.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 16</a></td>
+</tr>
+<tr>
+<td><strong>Diameter</strong><br>直径</td>
+<td>&quot;A <strong>diameter</strong> of the circle is any straight line drawn through the center and terminated in both directions by the circumference of the circle, and such a straight line also bisects the circle.&quot;</td>
+<td>圆的<strong>直径</strong>是经过圆心、两端都终止于圆周的任何直线，这样的直线也把圆平分。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI15.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 17</a></td>
+</tr>
+<tr>
+<td><strong>Semicircle</strong><br>半圆</td>
+<td>&quot;A <strong>semicircle</strong> is the figure contained by the diameter and the circumference cut off by it.&quot;</td>
+<td><strong>半圆</strong>是由直径和被它截下的圆周围成的图形。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI15.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 18</a></td>
+</tr>
+<tr>
+<td><strong>Rectilinear figures</strong><br>直线形</td>
+<td>&quot;<strong>Rectilinear figures</strong> are those which are contained by straight lines&quot;</td>
+<td><strong>直线形</strong>是由直线围成的图形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI19.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 19</a></td>
+</tr>
+<tr>
+<td><strong>Trilateral figures</strong><br>三边形</td>
+<td>&quot;<strong>trilateral</strong> figures being those contained by three&quot;</td>
+<td><strong>三边形</strong>是由三条直线围成的图形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI19.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 19</a></td>
+</tr>
+<tr>
+<td><strong>Quadrilateral figures</strong><br>四边形</td>
+<td>&quot;<strong>quadrilateral</strong> those contained by four&quot;</td>
+<td><strong>四边形</strong>是由四条直线围成的图形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI19.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 19</a></td>
+</tr>
+<tr>
+<td><strong>Multilateral figures</strong><br>多边形</td>
+<td>&quot;<strong>multilateral</strong> those contained by more than four straight lines.&quot;</td>
+<td><strong>多边形</strong>是由四条以上直线围成的图形。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI19.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 19</a></td>
+</tr>
+<tr>
+<td><strong>Equilateral triangle</strong><br>等边三角形</td>
+<td>&quot;Of trilateral figures, an <strong>equilateral triangle</strong> is that which has its three sides equal&quot;</td>
+<td>三边形中，<strong>等边三角形</strong>是三条边都相等的三角形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI20.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 20</a></td>
+</tr>
+<tr>
+<td><strong>Isosceles triangle</strong><br>等腰三角形</td>
+<td>&quot;an <strong>isosceles triangle</strong> that which has two of its sides alone equal&quot;</td>
+<td><strong>等腰三角形</strong>是只有两条边相等的三角形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI20.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 20</a></td>
+</tr>
+<tr>
+<td><strong>Scalene triangle</strong><br>不等边三角形</td>
+<td>&quot;a <strong>scalene triangle</strong> that which has its three sides unequal.&quot;</td>
+<td><strong>不等边三角形</strong>是三条边都不相等的三角形。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI20.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 20</a></td>
+</tr>
+<tr>
+<td><strong>Right-angled triangle</strong><br>直角三角形</td>
+<td>&quot;Further, of trilateral figures, a <strong>right-angled triangle</strong> is that which has a right angle&quot;</td>
+<td>此外，三边形中，<strong>直角三角形</strong>是有一个直角的三角形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI20.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 21</a></td>
+</tr>
+<tr>
+<td><strong>Obtuse-angled triangle</strong><br>钝角三角形</td>
+<td>&quot;an <strong>obtuse-angled triangle</strong> that which has an obtuse angle&quot;</td>
+<td><strong>钝角三角形</strong>是有一个钝角的三角形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI20.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 21</a></td>
+</tr>
+<tr>
+<td><strong>Acute-angled triangle</strong><br>锐角三角形</td>
+<td>&quot;an <strong>acute-angled triangle</strong> that which has its three angles acute.&quot;</td>
+<td><strong>锐角三角形</strong>是三个角都是锐角的三角形。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI20.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 21</a></td>
+</tr>
+<tr>
+<td><strong>Square</strong><br>正方形</td>
+<td>&quot;Of quadrilateral figures, a <strong>square</strong> is that which is both equilateral and right-angled&quot;</td>
+<td>四边形中，<strong>正方形</strong>是四边相等且四角都是直角的四边形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI22.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 22</a></td>
+</tr>
+<tr>
+<td><strong>Oblong</strong><br>长方形</td>
+<td>&quot;an <strong>oblong</strong> that which is right-angled but not equilateral&quot;</td>
+<td><strong>长方形</strong>是四角都是直角但四边不都相等的四边形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI22.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 22</a></td>
+</tr>
+<tr>
+<td><strong>Rhombus</strong><br>菱形</td>
+<td>&quot;a <strong>rhombus</strong> that which is equilateral but not right-angled&quot;</td>
+<td><strong>菱形</strong>是四边相等但角不是直角的四边形</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI22.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 22</a></td>
+</tr>
+<tr>
+<td><strong>Rhomboid</strong><br>长斜方形</td>
+<td>&quot;a <strong>rhomboid</strong> that which has its opposite sides and angles equal to one another but is neither equilateral nor right-angled.&quot;</td>
+<td><strong>长斜方形</strong>是对边、对角分别相等，但四边不都相等、角也不是直角的四边形。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI22.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 22</a></td>
+</tr>
+<tr>
+<td><strong>Trapezia</strong><br>不规则四边形</td>
+<td>&quot;And let quadrilaterals other than these be called <strong>trapezia</strong>.&quot;</td>
+<td>其余的四边形称为<strong>不规则四边形</strong>。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI22.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 22</a></td>
+</tr>
+<tr>
+<td><strong>Parallel straight lines</strong><br>平行线</td>
+<td>&quot;<strong>Parallel</strong> straight lines are straight lines which, being in the same plane and being produced indefinitely in both directions, do not meet one another in either direction.&quot;</td>
+<td><strong>平行</strong>直线是在同一平面内、向两个方向无限延长后在两个方向都不相交的直线。</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/defI23.html">Euclid, ca. 300 B.C.E./1996, Book I, Definition 23</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Euclid. (1996). <em>Euclid's Elements</em> (D. E. Joyce, Ed.; T. L. Heath, Trans.). Clark University. (Original work published ca. 300 B.C.E.) Retrieved October 29, 2026, from <a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html">https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html</a></p>
+<p>Hilbert, D. (1902). <em>The foundations of geometry</em> (E. J. Townsend, Trans.). Open Court. Project Gutenberg. <a href="https://www.gutenberg.org/ebooks/17384">https://www.gutenberg.org/ebooks/17384</a></p>
+<p>Megill, N. (2026). <em>Metamath Proof Explorer home page</em> (last updated January 19, 2026). Metamath. Retrieved October 29, 2026, from <a href="https://us.metamath.org/mpeuni/mmset.html">https://us.metamath.org/mpeuni/mmset.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-02 17:03:17-05:00">11/02/2026 17:03:17</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

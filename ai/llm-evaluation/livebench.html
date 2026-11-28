@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>LiveBench | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="LLM Evaluation: LiveBench, from its GitHub README and changelog (quoted), its LiveBench 2.0 methodology page and paper (Summary rows); Instruction Following is a LiveBench 1 category.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="livebench">LiveBench</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/livebench.png" alt="LiveBench: its 23 terms, LiveBench 1 and LiveBench 2.0, in LLM Evaluation."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>LiveBench</strong><br>LiveBench</td>
+<td>&quot;Introducing LiveBench: <strong>a benchmark for LLMs</strong> designed with <strong>test set contamination and objective evaluation</strong> in mind.&quot;</td>
+<td>介绍 LiveBench：<strong>一个面向 LLM 的基准</strong>，设计时考虑了<strong>测试集污染与客观评测</strong>。</td>
+<td><a href="https://github.com/LiveBench/LiveBench#introduction">LiveBench, n.d.-a, &quot;Introduction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Test Set Contamination</strong><br>测试集污染</td>
+<td>(Summary) The case in which <strong>a benchmark's test data ends up in the training set</strong> of a newer model, which can make a benchmark <strong>unfair and soon obsolete</strong>.</td>
+<td>（概述）<strong>基准的测试数据进入了较新模型的训练集</strong>，会让基准<strong>失去公平、很快过时</strong>。</td>
+<td><a href="https://arxiv.org/abs/2406.19314">White et al., 2024, Abstract</a></td>
+</tr>
+<tr>
+<td><strong>Contamination Limiting</strong><br>限制污染</td>
+<td>(context) &quot;LiveBench is designed to limit potential contamination by <strong>releasing new questions monthly</strong>, as well as having questions based on <strong>recently-released datasets, arXiv papers, news articles, and IMDb movie synopses</strong>.&quot;</td>
+<td>（语境）LiveBench 的设计通过<strong>每月发布新题</strong>来限制潜在的污染，同时题目取材于<strong>新近发布的数据集、arXiv 论文、新闻文章和 IMDb 电影梗概</strong>。</td>
+<td><a href="https://github.com/LiveBench/LiveBench#introduction">LiveBench, n.d.-a, &quot;Introduction&quot;, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Ground-Truth Answer</strong><br>标准答案</td>
+<td>(context) &quot;Each question has <strong>verifiable, objective ground-truth answers</strong>, allowing hard questions to be scored accurately and automatically, <strong>without the use of an LLM judge</strong>.&quot;</td>
+<td>（语境）每道题都有<strong>可验证的、客观的标准答案</strong>，使难题也能准确而自动地评分，<strong>不必使用 LLM 评审</strong>。</td>
+<td><a href="https://github.com/LiveBench/LiveBench#introduction">LiveBench, n.d.-a, &quot;Introduction&quot;, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>LiveBench Category</strong><br>LiveBench 类别</td>
+<td>(context) &quot;LiveBench currently contains <strong>a set of 18 diverse tasks across 6 categories</strong>, and we will <strong>release new, harder tasks</strong> over time.&quot;</td>
+<td>（语境）LiveBench 目前包含<strong>分属 6 个类别的 18 项不同任务</strong>，并将随时间<strong>发布新的、更难的任务</strong>。</td>
+<td><a href="https://github.com/LiveBench/LiveBench#introduction">LiveBench, n.d.-a, &quot;Introduction&quot;, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>Question Release</strong><br>题目发布</td>
+<td>(context) &quot;The current LiveBench release is 2025-04-25; however, <strong>not all questions for this release</strong> are <strong>public on Huggingface</strong>.&quot;</td>
+<td>（语境）当前 LiveBench 版本是 2025-04-25；不过，<strong>这一版本的题目并非全部</strong>都<strong>在 Huggingface 上公开</strong>。</td>
+<td><a href="https://github.com/LiveBench/LiveBench#running-evaluations">LiveBench, n.d.-a, &quot;Running Evaluations&quot;, note 1</a></td>
+</tr>
+<tr>
+<td><strong>Instruction Following</strong><br>指令遵循</td>
+<td>(Summary) A LiveBench 1 category in which the model does <strong>one of four tasks on the opening sentences of a recent Guardian article</strong> (paraphrase, simplify, story generation, summarize) while obeying several randomly drawn instructions; it is <strong>scored only on adherence to those instructions</strong>.</td>
+<td>（概述）LiveBench 1 的一个类别：模型针对<strong>一篇《卫报》新近文章的开头几句完成四项任务之一</strong>（改写、简化、写故事、摘要），同时遵守随机抽取的几条指令；<strong>只按是否遵守这些指令评分</strong>。</td>
+<td><a href="https://arxiv.org/html/2406.19314#S2.SS5">White et al., 2024, section 2.5</a></td>
+</tr>
+<tr>
+<td><strong>Verifiable Instruction</strong><br>可验证指令</td>
+<td>(Summary) An instruction <strong>whose compliance a program can check</strong>, such as a minimum word count or a required closing phrase; LiveBench uses <strong>16 of the 25 IFEval instructions</strong>, leaving out those unlike real-world use.</td>
+<td>（概述）<strong>能由程序检查是否遵守</strong>的指令，如最少字数或规定的结尾语；LiveBench 用了 <strong>IFEval 25 条指令中的 16 条</strong>，去掉了不像真实用法的那些。</td>
+<td><a href="https://arxiv.org/html/2406.19314#S2.SS5">White et al., 2024, section 2.5</a></td>
+</tr>
+<tr>
+<td><strong>Prompt-Level Accuracy</strong><br>提示级准确率</td>
+<td>(Summary) The part of the instruction-following score that is <strong>1 if every instruction in the prompt was followed</strong> and <strong>0 if any was missed</strong>.</td>
+<td>（概述）指令遵循得分中的一部分：<strong>提示中每条指令都遵守则为 1</strong>，<strong>漏掉任何一条则为 0</strong>。</td>
+<td><a href="https://arxiv.org/html/2406.19314#A1.SS3.SSS5">White et al., 2024, appendix A.3.5, &quot;Scoring&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Instruction-Level Accuracy</strong><br>指令级准确率</td>
+<td>(Summary) The part of the instruction-following score that is <strong>the fraction of individual instructions followed</strong>; the final score is <strong>the average of the two parts</strong>, between 0 and 1.</td>
+<td>（概述）指令遵循得分中的另一部分：<strong>单条指令被遵守的比例</strong>；最终得分是<strong>两部分的平均</strong>，介于 0 和 1 之间。</td>
+<td><a href="https://arxiv.org/html/2406.19314#A1.SS3.SSS5">White et al., 2024, appendix A.3.5, &quot;Scoring&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Instruction Following Update</strong><br>指令遵循更新</td>
+<td>(context) &quot;Updated the instruction following tasks with <strong>both newer articles</strong> as well as <strong>new, more difficult types of instructions</strong>, and resolved issues with impossible tasks&quot;</td>
+<td>（语境）更新了指令遵循任务，既用了<strong>更新的文章</strong>，也加入了<strong>新的、更难的指令类型</strong>，并解决了无法完成的任务的问题。</td>
+<td><a href="https://github.com/LiveBench/LiveBench/blob/main/changelog.md">LiveBench, n.d.-b, &quot;2025-11-25&quot;, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>LiveBench 1.0</strong><br>LiveBench 1.0</td>
+<td>(Summary) The earlier LiveBench board, kept on the site as LiveBench v1: <strong>objective tasks in seven categories</strong>, Instruction Following among them, <strong>refreshed every six months</strong> (last release 2026-06-25).</td>
+<td>（概述）较早的 LiveBench 榜单，网站上保留为 LiveBench v1：<strong>七个类别的客观任务</strong>，其中包括 Instruction Following，<strong>每六个月更新</strong>（最后一版 2026-06-25）。</td>
+<td><a href="https://livebench.ai/#/release/2026-06-25">LiveBench, n.d.-d, &quot;LiveBench v1&quot;</a></td>
+</tr>
+<tr>
+<td><strong>LiveBench 2.0</strong><br>LiveBench 2.0</td>
+<td>(Summary) The current board of <strong>seven suites, five of them agentic</strong>, in which the model works through end-to-end tasks with tools; each cell is <strong>the model's mean task score from 0 to 100, from a single run</strong>. Instruction Following is not one of its suites.</td>
+<td>（概述）当前榜单，有<strong>七个套件，其中五个是智能体类</strong>，模型借助工具完成端到端任务；每格是<strong>模型的平均任务得分，0 到 100，来自单次运行</strong>。Instruction Following 不在其套件之列。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;What the numbers mean&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Agentic</strong><br>智能体任务</td>
+<td>(Summary) A suite of <strong>long-running work</strong> in which <strong>early decisions must hold up</strong> through later turns, simulated months or test cases, graded by scripts against hidden reference data.</td>
+<td>（概述）一个<strong>长时间工作</strong>的套件，<strong>早期决定必须经得起</strong>后面的轮次、模拟的数月或测试用例的检验，由脚本对照隐藏的参考数据评分。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;The suites&quot;, Agentic</a></td>
+</tr>
+<tr>
+<td><strong>Reasoning</strong><br>推理</td>
+<td>(Summary) A suite of <strong>short logic, spatial and theory-of-mind questions</strong> with <strong>a single correct answer each</strong>, answered without tools.</td>
+<td>（概述）一个由<strong>简短的逻辑、空间和心智理论题</strong>组成的套件，<strong>每题只有一个正确答案</strong>，不用工具作答。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;The suites&quot;, Reasoning</a></td>
+</tr>
+<tr>
+<td><strong>Coding</strong><br>编程</td>
+<td>(Summary) A suite in which the model must <strong>fix a real bug</strong> in <strong>a large production codebase frozen at a snapshot</strong>, each bug one that a merged pull request fixed.</td>
+<td>（概述）一个套件：模型必须在<strong>冻结于某个快照的大型生产代码库</strong>里<strong>修复一个真实缺陷</strong>，每个缺陷都由一个已合并的拉取请求修过。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;The suites&quot;, Coding</a></td>
+</tr>
+<tr>
+<td><strong>Browser Use</strong><br>浏览器操作</td>
+<td>(Summary) A suite of <strong>multi-step jobs in working web applications</strong>, done through <strong>a real browser seen by screenshot</strong>; a model that cannot take screenshots scores 0.</td>
+<td>（概述）一个在<strong>可运行的网页应用中完成多步工作</strong>的套件，通过<strong>以截图观察的真实浏览器</strong>完成；不能接收截图的模型得 0 分。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;The suites&quot;, Browser Use</a></td>
+</tr>
+<tr>
+<td><strong>Data Analysis</strong><br>数据分析</td>
+<td>(Summary) A suite of <strong>short questions on small tables</strong> with <strong>a single correct answer each</strong>, answered without tools.</td>
+<td>（概述）一个由<strong>针对小表格的简短问题</strong>组成的套件，<strong>每题只有一个正确答案</strong>，不用工具作答。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;The suites&quot;, Data Analysis</a></td>
+</tr>
+<tr>
+<td><strong>Research</strong><br>研究</td>
+<td>(Summary) A suite in which the model <strong>researches an open-ended brief</strong> and <strong>writes a report with sources</strong>, graded against a task-specific rubric.</td>
+<td>（概述）一个套件：模型<strong>针对开放式任务说明做研究</strong>，并<strong>写出附来源的报告</strong>，按任务专用的评分细则评分。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;The suites&quot;, Research</a></td>
+</tr>
+<tr>
+<td><strong>Design</strong><br>设计</td>
+<td>(Summary) A suite in which the model <strong>produces or reworks a finished document</strong> (Word, PDF or slides), scored on <strong>visual and structural checks</strong> of the rendered file.</td>
+<td>（概述）一个套件：模型<strong>制作或改写一份成品文档</strong>（Word、PDF 或幻灯片），按渲染后文件的<strong>视觉与结构检查</strong>评分。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;The suites&quot;, Design</a></td>
+</tr>
+<tr>
+<td><strong>Overall</strong><br>总分</td>
+<td>(Summary) The <strong>weighted mean of the suites</strong> a model has a score for; <strong>each release sets its weights</strong>, and releases up to 2026-10-14 weight every suite equally.</td>
+<td>（概述）模型已有得分的各<strong>套件的加权平均</strong>；<strong>每个版本自定权重</strong>，2026-10-14 及以前的版本各套件等权。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;Reading a row&quot;, Overall</a></td>
+</tr>
+<tr>
+<td><strong>Unmeasured Task</strong><br>未测得任务</td>
+<td>(Summary) A task the run <strong>could not measure even after one rerun</strong>, which <strong>scores 0</strong> like a failed task and is never left out of the mean.</td>
+<td>（概述）运行中<strong>重跑一次后仍无法测得</strong>的任务，与失败任务一样<strong>记 0 分</strong>，从不排除在平均之外。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;How a cell is computed&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Single Run</strong><br>单次运行</td>
+<td>(Summary) Each suite is <strong>run once per model</strong>, so a cell is <strong>one run's mean</strong>, not an average over repeats.</td>
+<td>（概述）每个套件<strong>对每个模型只运行一次</strong>，所以一格是<strong>一次运行的平均</strong>，不是多次重复的平均。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;How a cell is computed&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Cost per Successful Task</strong><br>每成功任务成本</td>
+<td>(Summary) <strong>Cost per task divided by the score</strong>, times 100, over the selected suites, so <strong>failures and partial credit raise it</strong>.</td>
+<td>（概述）<strong>每任务成本除以得分</strong>再乘以 100，按所选套件计算，因此<strong>失败和部分得分会把它推高</strong>。</td>
+<td><a href="https://livebench.ai/#/methodology">LiveBench, n.d.-c, &quot;Cost&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>LiveBench. (n.d.-a). <em>LiveBench</em> [Source code]. GitHub. Retrieved November 10, 2026, from <a href="https://github.com/LiveBench/LiveBench">https://github.com/LiveBench/LiveBench</a></p>
+<p>LiveBench. (n.d.-b). <em>Changelog</em>. GitHub. Retrieved November 10, 2026, from <a href="https://github.com/LiveBench/LiveBench/blob/main/changelog.md">https://github.com/LiveBench/LiveBench/blob/main/changelog.md</a></p>
+<p>LiveBench. (n.d.-c). <em>Methodology</em>. LiveBench 2.0. Retrieved November 10, 2026, from <a href="https://livebench.ai/#/methodology">https://livebench.ai/#/methodology</a></p>
+<p>LiveBench. (n.d.-d). <em>LiveBench v1: Release 2026-06-25</em>. Retrieved November 10, 2026, from <a href="https://livebench.ai/#/release/2026-06-25">https://livebench.ai/#/release/2026-06-25</a></p>
+<p>White, C., Dooley, S., Roberts, M., Pal, A., Feuer, B., Jain, S., Shwartz-Ziv, R., Jain, N., Saifullah, K., Dey, S., Shubh-Agrawal, Sandha, S. S., Naidu, S. V., Hegde, C., LeCun, Y., Goldstein, T., Neiswanger, W., &amp; Goldblum, M. (2024). <em>LiveBench: A challenging, contamination-limited LLM benchmark</em> (arXiv:2406.19314). arXiv. <a href="https://doi.org/10.48550/arXiv.2406.19314">https://doi.org/10.48550/arXiv.2406.19314</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-10">11/10/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

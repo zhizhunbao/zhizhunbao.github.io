@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.2 Service to Service Communication | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Architecting Cloud Native .NET Applications for Azure, 4.2 Service to Service Communication: 4.2.0 interaction types, 4.2.1 Queries, 4.2.2 Commands, 4.2.3 Events.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="42-service-to-service-communication">4.2 Service to Service Communication</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/4-2-service-to-service-communication.png" alt="4.2 Service to Service Communication: the sections of its page that hold terms, numbered here, each with its terms, in Architecting Cloud Native .NET Applications for Azure."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4.2 Service to Service Communication</strong><br>服务间通信</td>
+<td>&quot;When constructing <strong>a cloud-native application</strong>, you'll want to be sensitive to <strong>how back-end services communicate with each other</strong>.&quot;</td>
+<td>构建<strong>云原生应用</strong>时，你需要留意<strong>后端服务之间如何通信</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=When%20constructing%20a%20cloud%2Dnative%20application%2C%20you%27ll">Microsoft, 2022, &quot;Service-to-service communication&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>4.2.0 Type of communication interaction</strong><br>通信交互类型</td>
+<td>&quot;There are <strong>several widely accepted approaches</strong> to implementing cross-service communication. The <em><strong>type of communication interaction</strong></em> will often determine the best approach.&quot;</td>
+<td>实现跨服务通信有<strong>几种被广泛接受的方法</strong>。<em><strong>通信交互类型</strong></em>往往决定了最佳方法。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=There%20are%20several%20widely%20accepted%20approaches">Microsoft, 2022, &quot;Service-to-service communication&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Query</strong><br>查询</td>
+<td>&quot;<em><strong>Query</strong></em> – when <strong>a calling microservice requires a response</strong> from a called microservice, such as, &quot;Hey, give me the buyer information for a given customer Id.&quot;&quot;</td>
+<td><em><strong>查询</strong></em>：<strong>调用方微服务需要被调用的微服务返回响应</strong>时，例如“嘿，把某个客户 Id 的买家信息给我。”</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=when%20a%20calling%20microservice%20requires%20a%20response">Microsoft, 2022, &quot;Service-to-service communication&quot;, para. 4, item 1</a></td>
+</tr>
+<tr>
+<td><strong>Command</strong><br>命令</td>
+<td>&quot;<em><strong>Command</strong></em> – when the calling microservice needs <strong>another microservice to execute an action</strong> but <strong>doesn't require a response</strong>, such as, &quot;Hey, just ship this order.&quot;&quot;</td>
+<td><em><strong>命令</strong></em>：调用方微服务需要<strong>另一个微服务执行某个操作</strong>，但<strong>不需要响应</strong>时，例如“嘿，把这个订单发货就行。”</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=when%20the%20calling%20microservice%20needs%20another%20microservice">Microsoft, 2022, &quot;Service-to-service communication&quot;, para. 4, item 2</a></td>
+</tr>
+<tr>
+<td><strong>Event</strong><br>事件</td>
+<td>&quot;<em><strong>Event</strong></em> – when a microservice, called <strong>the publisher</strong>, raises an event that state has changed or an action has occurred. Other microservices, called <strong>subscribers</strong>, who are interested, can react to the event appropriately. The publisher and the subscribers <strong>aren't aware of each other</strong>.&quot;</td>
+<td><em><strong>事件</strong></em>：一个微服务，即<strong>发布者</strong>，发出事件，表明状态已改变或某个操作已发生。其他感兴趣的微服务，即<strong>订阅者</strong>，可以对该事件做出相应反应。发布者和订阅者<strong>彼此并不知道对方</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=when%20a%20microservice%2C%20called%20the%20publisher">Microsoft, 2022, &quot;Service-to-service communication&quot;, para. 4, item 3</a></td>
+</tr>
+<tr>
+<td><strong>4.2.1 Queries</strong><br>查询</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#queries">Microsoft, 2022, &quot;Queries&quot;</a></td>
+</tr>
+<tr>
+<td><strong>4.2.2 Commands</strong><br>命令</td>
+<td>&quot;Another type of communication interaction is a <em><strong>command</strong></em>. A microservice may need <strong>another microservice to perform an action</strong>.&quot;</td>
+<td>另一种通信交互类型是<em><strong>命令</strong></em>。一个微服务可能需要<strong>另一个微服务执行某个操作</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Another%20type%20of%20communication%20interaction%20is%20a">Microsoft, 2022, &quot;Commands&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Producer</strong><br>生产者</td>
+<td>&quot;In Figure 4-12, one microservice, called a <strong>Producer</strong>, sends a message to another microservice, the Consumer, <strong>commanding it to do something</strong>.&quot;</td>
+<td>在图 4-12 中，一个微服务，即<strong>生产者</strong>，向另一个微服务（消费者）发送消息，<strong>命令它做某件事</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=one%20microservice%2C%20called%20a%20Producer">Microsoft, 2022, &quot;Commands&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Consumer</strong><br>消费者</td>
+<td>&quot;In Figure 4-12, one microservice, called a Producer, <strong>sends a message</strong> to another microservice, <strong>the Consumer</strong>, commanding it to do something.&quot;</td>
+<td>在图 4-12 中，一个微服务（生产者）<strong>发送一条消息</strong>给另一个微服务，即<strong>消费者</strong>，命令它做某件事。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=one%20microservice%2C%20called%20a%20Producer">Microsoft, 2022, &quot;Commands&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>fire-and-forget</strong><br>发后即忘</td>
+<td>&quot;Most often, the Producer <strong>doesn't require a response</strong> and can <em><strong>fire-and-forget</strong></em> the message.&quot;</td>
+<td>大多数情况下，生产者<strong>不需要响应</strong>，可以对消息<em><strong>发后即忘</strong></em>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Most%20often%2C%20the%20Producer%20doesn%27t">Microsoft, 2022, &quot;Commands&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>message broker</strong><br>消息代理</td>
+<td>&quot;A command message is best sent <strong>asynchronously with a message queue</strong>. supported by <strong>a lightweight message broker</strong>.&quot;</td>
+<td>命令消息最好<strong>通过消息队列异步发送</strong>，由<strong>轻量级消息代理</strong>提供支持。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=A%20command%20message%20is%20best%20sent">Microsoft, 2022, &quot;Commands&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>at-least-once delivery</strong><br>至少一次投递</td>
+<td>&quot;As many message queues may dispatch <strong>the same message more than once</strong>, known as <strong>at-least-once delivery</strong>, the consumer must be able to identify and handle these scenarios correctly using the relevant idempotent message processing patterns.&quot;</td>
+<td>由于许多消息队列可能把<strong>同一条消息分发不止一次</strong>，这被称为<strong>至少一次投递</strong>，消费者必须能够使用相应的幂等消息处理模式，正确识别并处理这些情况。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=As%20many%20message%20queues%20may%20dispatch">Microsoft, 2022, &quot;Commands&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>idempotent message processing patterns</strong><br>幂等消息处理模式</td>
+<td>&quot;As many message queues may dispatch the same message more than once, known as at-least-once delivery, <strong>the consumer must be able to identify and handle these scenarios</strong> correctly using the relevant <strong>idempotent message processing patterns</strong>.&quot;</td>
+<td>由于许多消息队列可能把同一条消息分发不止一次，这被称为至少一次投递，<strong>消费者必须能够识别并正确处理这些情况</strong>，方法是使用相应的<strong>幂等消息处理模式</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=As%20many%20message%20queues%20may%20dispatch">Microsoft, 2022, &quot;Commands&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>message queue</strong><br>消息队列</td>
+<td>&quot;A <strong>message queue</strong> is <strong>an intermediary construct</strong> through which a producer and consumer pass a message.&quot;</td>
+<td><strong>消息队列</strong>是<strong>一种中间结构</strong>，生产者和消费者通过它传递消息。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=A%20message%20queue%20is%20an%20intermediary">Microsoft, 2022, &quot;Commands&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>point-to-point messaging pattern</strong><br>点对点消息传递模式</td>
+<td>&quot;Queues implement an asynchronous, <strong>point-to-point messaging pattern</strong>. The Producer knows where a command needs to be sent and routes appropriately. The queue guarantees that <strong>a message is processed by exactly one of the consumer instances</strong> that are reading from the channel.&quot;</td>
+<td>队列实现一种异步的<strong>点对点消息传递模式</strong>。生产者知道命令需要发到哪里，并相应地路由。队列保证<strong>一条消息只被正在读取该通道的消费者实例中的一个处理</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Queues%20implement%20an%20asynchronous%2C%20point%2Dto%2Dpoint">Microsoft, 2022, &quot;Commands&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>backing services</strong><br>支撑服务</td>
+<td>(context) &quot;Backing services are ancillary resources upon which cloud-native systems depend. <strong>Message queues</strong> are <strong>backing services</strong>.&quot;</td>
+<td>（语境）支撑服务是云原生系统所依赖的辅助资源。<strong>消息队列</strong>是<strong>支撑服务</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Backing%20services%20are%20ancillary%20resources">Microsoft, 2022, &quot;Commands&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Azure Storage Queues</strong><br>Azure 存储队列</td>
+<td>&quot;Azure storage queues offer <strong>a simple queueing infrastructure</strong> that is fast, affordable, and <strong>backed by Azure storage accounts</strong>.&quot;</td>
+<td>Azure 存储队列提供<strong>一种简单的排队基础设施</strong>，快速、实惠，并且<strong>以 Azure 存储账户为后盾</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Azure%20storage%20queues%20offer%20a%20simple">Microsoft, 2022, &quot;Azure Storage Queues&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>intermediation layer</strong><br>中间层</td>
+<td>&quot;Introduce <strong>an intermediation layer</strong>, or intermediate API, that <strong>exposes generic operations</strong> and encapsulates the concrete library.&quot;</td>
+<td>引入<strong>一个中间层</strong>，即中间 API，它<strong>公开通用操作</strong>并封装具体的库。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Introduce%20an%20intermediation%20layer">Microsoft, 2022, &quot;Azure Storage Queues&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Azure Service Bus Queues</strong><br>Azure 服务总线队列</td>
+<td>(context) &quot;For <strong>more complex messaging requirements</strong>, consider <strong>Azure Service Bus queues</strong>.&quot;</td>
+<td>（语境）对于<strong>更复杂的消息传递需求</strong>，可以考虑 <strong>Azure Service Bus 队列</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=For%20more%20complex%20messaging%20requirements">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>brokered messaging model</strong><br>代理消息传递模型</td>
+<td>&quot;Sitting atop a robust message infrastructure, Azure Service Bus supports a <em><strong>brokered messaging model</strong></em>. Messages are <strong>reliably stored in a broker</strong> (the queue) until received by the consumer.&quot;</td>
+<td>Azure Service Bus 建立在强大的消息基础设施之上，支持<em><strong>代理消息传递模型</strong></em>。消息被<strong>可靠地存储在代理中</strong>，也就是队列中，直到被消费者接收。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Sitting%20atop%20a%20robust%20message%20infrastructure">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>First-In/First-Out (FIFO)</strong><br>先进先出</td>
+<td>&quot;The queue guarantees <strong>First-In/First-Out (FIFO) message delivery</strong>, respecting <strong>the order in which messages were added</strong> to the queue.&quot;</td>
+<td>队列保证<strong>先进先出（FIFO）的消息投递</strong>，遵循<strong>消息加入队列的顺序</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=The%20queue%20guarantees%20First%2DIn%2FFirst%2DOut">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>AMQP</strong><br>Advanced Message Queuing Protocol<br>高级消息队列协议</td>
+<td>&quot;<strong>AMQP</strong> is an open-standard across vendors that supports <strong>a binary protocol</strong> and higher degrees of reliability.&quot;</td>
+<td><strong>AMQP</strong> 是一个跨厂商的开放标准，支持<strong>二进制协议</strong>和更高的可靠性。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=AMQP%20is%20an%20open%2Dstandard%20across%20vendors">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>transaction support</strong><br>事务支持</td>
+<td>&quot;Service Bus provides <strong>a rich set of features</strong>, including <strong>transaction support</strong> and a duplicate detection feature.&quot;</td>
+<td>Service Bus 提供<strong>一组丰富的功能</strong>，包括<strong>事务支持</strong>和重复检测功能。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Service%20Bus%20provides%20a%20rich%20set">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>duplicate detection</strong><br>重复检测</td>
+<td>&quot;Service Bus provides <strong>a rich set of features</strong>, including transaction support and <strong>a duplicate detection feature</strong>.&quot;</td>
+<td>Service Bus 提供<strong>一组丰富的功能</strong>，包括事务支持和<strong>重复检测功能</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Service%20Bus%20provides%20a%20rich%20set">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>at most once delivery</strong><br>至多一次投递</td>
+<td>&quot;The queue guarantees <strong>&quot;at most once delivery&quot;</strong> per message. It automatically discards <strong>a message that has already been sent</strong>.&quot;</td>
+<td>队列对每条消息保证<strong>至多一次投递</strong>。它会自动丢弃<strong>已经发送过的消息</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=The%20queue%20guarantees%20%22at%20most%20once">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Service Bus Partitioning</strong><br>Service Bus 分区</td>
+<td>&quot;But, <strong>Service Bus Partitioning</strong> spreads the queue across <strong>multiple message brokers and message stores</strong>.&quot;</td>
+<td>但是，<strong>Service Bus 分区</strong>会把队列分散到<strong>多个消息代理和消息存储</strong>上。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=But%2C%20Service%20Bus%20Partitioning%20spreads">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>Service Bus Sessions</strong><br>Service Bus 会话</td>
+<td>&quot;<strong>Service Bus Sessions</strong> provide a way to <strong>group-related messages</strong>.&quot;</td>
+<td><strong>Service Bus 会话</strong>提供一种<strong>把相关消息分组</strong>的方法。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Service%20Bus%20Sessions%20provide%20a%20way">Microsoft, 2022, &quot;Azure Service Bus Queues&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>4.2.3 Events</strong><br>事件</td>
+<td>&quot;To address this scenario, we move to the third type of message interaction, the <em><strong>event</strong></em>. <strong>One microservice announces that an action had occurred</strong>.&quot;</td>
+<td>为了解决这种情况，我们转向第三种消息交互类型：<em><strong>事件</strong></em>。<strong>一个微服务宣布某个操作已经发生</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=To%20address%20this%20scenario%2C%20we%20move">Microsoft, 2022, &quot;Events&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>event-driven architectural style</strong><br>事件驱动架构风格</td>
+<td>&quot;Other microservices, if interested, <strong>react to the action, or event</strong>. This is also known as the <strong>event-driven architectural style</strong>.&quot;</td>
+<td>其他微服务如果感兴趣，就会<strong>对该操作或事件做出反应</strong>。这也被称为<strong>事件驱动架构风格</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Other%20microservices%2C%20if%20interested%2C%20react">Microsoft, 2022, &quot;Events&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Eventing</strong><br>事件机制</td>
+<td>&quot;<strong>Eventing</strong> is a two-step process. For a given state change, a microservice <strong>publishes an event to a message broker</strong>, making it available to any other interested microservice. The interested microservice is notified by <strong>subscribing to the event in the message broker</strong>.&quot;</td>
+<td><strong>事件机制</strong>是一个两步过程。对于某个状态变化，一个微服务<strong>把事件发布到消息代理</strong>，使任何其他感兴趣的微服务都能获取它。感兴趣的微服务通过<strong>在消息代理中订阅该事件</strong>来获得通知。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Eventing%20is%20a%20two%2Dstep%20process">Microsoft, 2022, &quot;Events&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Publish/Subscribe pattern</strong><br>发布/订阅模式</td>
+<td>&quot;You use the <strong>Publish/Subscribe pattern</strong> to implement <strong>event-based communication</strong>.&quot;</td>
+<td>你使用<strong>发布/订阅模式</strong>来实现<strong>基于事件的通信</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=You%20use%20the%20Publish%2FSubscribe%20pattern">Microsoft, 2022, &quot;Events&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>event bus</strong><br>事件总线</td>
+<td>&quot;Note the <em><strong>event bus</strong></em> component that sits in the middle of the communication channel. It's <strong>a custom class that encapsulates the message broker</strong> and decouples it from the underlying application.&quot;</td>
+<td>注意位于通信通道中间的<em><strong>事件总线</strong></em>组件。它是<strong>一个封装消息代理的自定义类</strong>，并把消息代理与底层应用解耦。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Note%20the%20event%20bus%20component">Microsoft, 2022, &quot;Events&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>topic</strong><br>主题</td>
+<td>&quot;With eventing, we move from queuing technology to <em><strong>topics</strong></em>. A topic is similar to a queue, but supports <strong>a one-to-many messaging pattern</strong>.&quot;</td>
+<td>有了事件机制，我们就从排队技术转向<em><strong>主题</strong></em>。主题与队列类似，但支持<strong>一对多的消息传递模式</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=With%20eventing%2C%20we%20move%20from">Microsoft, 2022, &quot;Events&quot;, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>subscription</strong><br>订阅</td>
+<td>&quot;At the end, subscribers receive messages from <strong>subscriptions</strong>. In the middle, <strong>the topic forwards messages to subscriptions</strong> based on a set of rules, shown in dark blue boxes.&quot;</td>
+<td>在末端，订阅者从<strong>订阅</strong>接收消息。在中间，<strong>主题根据一组规则把消息转发到各个订阅</strong>，规则显示为深蓝色方框。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=At%20the%20end%2C%20subscribers%20receive">Microsoft, 2022, &quot;Events&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>rule</strong><br>规则</td>
+<td>&quot;<strong>Rules</strong> act as <strong>a filter that forward specific messages to a subscription</strong>.&quot;</td>
+<td><strong>规则</strong>充当<strong>把特定消息转发到某个订阅的过滤器</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Rules%20act%20as%20a%20filter">Microsoft, 2022, &quot;Events&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Azure Service Bus Topics</strong><br>Azure 服务总线主题</td>
+<td>&quot;Sitting on top of the same robust brokered message model of Azure Service Bus queues are <strong>Azure Service Bus Topics</strong>. A topic can receive messages from <strong>multiple independent publishers</strong> and send messages to up to 2,000 subscribers.&quot;</td>
+<td>建立在与 Azure Service Bus 队列相同的强大代理消息模型之上的是 <strong>Azure Service Bus 主题</strong>。一个主题可以接收来自<strong>多个独立发布者</strong>的消息，并把消息发送给最多 2,000 个订阅者。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Sitting%20on%20top%20of%20the%20same">Microsoft, 2022, &quot;Azure Service Bus Topics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Scheduled Message Delivery</strong><br>计划消息投递</td>
+<td>&quot;<strong>Scheduled Message Delivery</strong> tags a message with <strong>a specific time for processing</strong>.&quot;</td>
+<td><strong>计划消息投递</strong>为消息标记<strong>一个特定的处理时间</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Scheduled%20Message%20Delivery%20tags%20a%20message">Microsoft, 2022, &quot;Azure Service Bus Topics&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Message Deferral</strong><br>消息延迟</td>
+<td>&quot;<strong>Message Deferral</strong> enables you to <strong>defer a retrieval of a message</strong> to a later time.&quot;</td>
+<td><strong>消息延迟</strong>让你可以把<strong>消息的获取推迟</strong>到以后。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Message%20Deferral%20enables%20you%20to">Microsoft, 2022, &quot;Azure Service Bus Topics&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Azure Event Grid</strong><br>Azure 事件网格</td>
+<td>&quot;At first glance, Event Grid may look like just another <strong>topic-based messaging system</strong>. However, it's different in many ways. Focused on <strong>event-driven workloads</strong>, it enables real-time event processing, deep Azure integration, and an open-platform - all on serverless infrastructure.&quot;</td>
+<td>乍一看，Event Grid 可能像是又一个<strong>基于主题的消息传递系统</strong>。但它在很多方面都不同。它专注于<strong>事件驱动的工作负载</strong>，在无服务器基础设施上提供实时事件处理、深度 Azure 集成和开放平台。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=At%20first%20glance%2C%20Event%20Grid%20may">Microsoft, 2022, &quot;Azure Event Grid&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>eventing backplane</strong><br>事件底板</td>
+<td>&quot;As a centralized <em><strong>eventing backplane</strong></em>, or pipe, Event Grid <strong>reacts to events inside Azure resources</strong> and from your own services.&quot;</td>
+<td>作为集中式的<em><strong>事件底板</strong></em>，也就是管道，Event Grid <strong>对 Azure 资源内部的事件做出反应</strong>，也对你自己服务中的事件做出反应。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=As%20a%20centralized%20eventing%20backplane">Microsoft, 2022, &quot;Azure Event Grid&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Event Grid Topic</strong><br>Event Grid 主题</td>
+<td>&quot;Event notifications are published to <strong>an Event Grid Topic</strong>, which, in turn, <strong>routes each event to a subscription</strong>.&quot;</td>
+<td>事件通知被发布到 <strong>Event Grid 主题</strong>，主题再<strong>把每个事件路由到一个订阅</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Event%20notifications%20are%20published%20to">Microsoft, 2022, &quot;Azure Event Grid&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>filtered subscriber model</strong><br>过滤订阅者模型</td>
+<td>&quot;Like Service Bus, Event Grid supports a <em><strong>filtered subscriber model</strong></em> where <strong>a subscription sets rule for the events it wishes to receive</strong>.&quot;</td>
+<td>与 Service Bus 一样，Event Grid 支持<em><strong>过滤订阅者模型</strong></em>，其中<strong>订阅为它希望接收的事件设置规则</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Like%20Service%20Bus%2C%20Event%20Grid%20supports">Microsoft, 2022, &quot;Azure Event Grid&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>message exchange pattern</strong><br>消息交换模式</td>
+<td>&quot;<strong>A major difference</strong> between EventGrid and Service Bus is the underlying <em><strong>message exchange pattern</strong></em>.&quot;</td>
+<td>EventGrid 与 Service Bus 之间的<strong>一个主要区别</strong>是底层的<em><strong>消息交换模式</strong></em>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=A%20major%20difference%20between%20EventGrid">Microsoft, 2022, &quot;Azure Event Grid&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>pull model</strong><br>拉取模型</td>
+<td>&quot;Service Bus implements an older style <em><strong>pull model</strong></em> in which <strong>the downstream subscriber actively polls the topic subscription</strong> for new messages.&quot;</td>
+<td>Service Bus 实现的是一种较老的<em><strong>拉取模型</strong></em>，其中<strong>下游订阅者主动轮询主题订阅</strong>以获取新消息。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Service%20Bus%20implements%20an%20older%20style">Microsoft, 2022, &quot;Azure Event Grid&quot;, para. 8</a></td>
+</tr>
+<tr>
+<td><strong>push model</strong><br>推送模型</td>
+<td>&quot;It implements a <em><strong>push model</strong></em> in which <strong>events are sent to the EventHandlers as received</strong>, giving near real-time event delivery.&quot;</td>
+<td>它实现的是<em><strong>推送模型</strong></em>，其中<strong>事件一收到就被发送给事件处理程序</strong>，实现近乎实时的事件投递。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=It%20implements%20a%20push%20model">Microsoft, 2022, &quot;Azure Event Grid&quot;, para. 9</a></td>
+</tr>
+<tr>
+<td><strong>dead-letter queue</strong><br>死信队列</td>
+<td>&quot;<strong>Undelivered messages</strong> can be moved to <strong>a &quot;dead-letter&quot; queue</strong> for resolution.&quot;</td>
+<td><strong>未投递的消息</strong>可以移到<strong>死信队列</strong>中等待处理。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Undelivered%20messages%20can%20be%20moved">Microsoft, 2022, &quot;Azure Event Grid&quot;, para. 10</a></td>
+</tr>
+<tr>
+<td><strong>Event streams</strong><br>事件流</td>
+<td>&quot;But, what if your cloud-native system needs to process a <em><strong>stream of related events</strong></em>? <strong>Event streams</strong> are more complex. They're typically <strong>time-ordered, interrelated, and must be processed as a group</strong>.&quot;</td>
+<td>但是，如果你的云原生系统需要处理<em><strong>一连串相关事件</strong></em>呢？<strong>事件流</strong>更复杂。它们通常<strong>按时间排序、彼此关联，并且必须作为一组来处理</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=But%2C%20what%20if%20your%20cloud%2Dnative">Microsoft, 2022, &quot;Streaming messages in the Azure cloud&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Event Hub</strong><br>Azure 事件中心</td>
+<td>&quot;<strong>Azure Event Hub</strong> is <strong>a data streaming platform and event ingestion service</strong> that collects, transforms, and stores events.&quot;</td>
+<td><strong>Azure Event Hub</strong> 是<strong>一个数据流平台和事件引入服务</strong>，用于收集、转换和存储事件。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Azure%20Event%20Hub%20is%20a%20data">Microsoft, 2022, &quot;Streaming messages in the Azure cloud&quot;, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>retention period</strong><br>保留期</td>
+<td>&quot;Events stored in event hub are only deleted upon <strong>expiration of the retention period</strong>, which is <strong>one day by default</strong>, but configurable.&quot;</td>
+<td>事件中心里存储的事件只有在<strong>保留期到期</strong>时才会被删除，保留期<strong>默认为一天</strong>，但可以配置。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Events%20stored%20in%20event%20hub">Microsoft, 2022, &quot;Streaming messages in the Azure cloud&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Kafka</strong><br>Kafka</td>
+<td>(context) &quot;It also supports <strong>Kafka 1.0</strong>. Existing Kafka applications can communicate with Event Hub using <strong>the Kafka protocol</strong> providing an alternative to managing large Kafka clusters.&quot;</td>
+<td>（语境）它还支持 <strong>Kafka 1.0</strong>。现有的 Kafka 应用可以使用 <strong>Kafka 协议</strong>与 Event Hub 通信，从而不必管理大型 Kafka 集群。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=It%20also%20supports%20Kafka%201.0">Microsoft, 2022, &quot;Streaming messages in the Azure cloud&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>partitioned consumer model</strong><br>分区消费者模型</td>
+<td>&quot;Event Hubs implements message streaming through <strong>a partitioned consumer model</strong> in which <strong>each consumer only reads a specific subset, or partition, of the message stream</strong>.&quot;</td>
+<td>Event Hubs 通过<strong>分区消费者模型</strong>实现消息流式处理，在这种模型中，<strong>每个消费者只读取消息流的一个特定子集，即一个分区</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Event%20Hubs%20implements%20message%20streaming">Microsoft, 2022, &quot;Streaming messages in the Azure cloud&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>partition</strong><br>分区</td>
+<td>&quot;A <strong>partition</strong> is <strong>an ordered sequence of events</strong> that is held in an event hub.&quot;</td>
+<td><strong>分区</strong>是<strong>一个有序的事件序列</strong>，保存在事件中心里。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=A%20partition%20is%20an%20ordered">Microsoft, 2022, &quot;Streaming messages in the Azure cloud&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>consumer group</strong><br>使用者组</td>
+<td>&quot;Instead of reading from the same resource, <strong>each consumer group</strong> reads across <strong>a subset, or partition, of the message stream</strong>.&quot;</td>
+<td>每个<strong>使用者组</strong>不是从同一个资源读取，而是读取<strong>消息流的一个子集，即一个分区</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication#:%7E:text=Instead%20of%20reading%20from%20the%20same">Microsoft, 2022, &quot;Streaming messages in the Azure cloud&quot;, para. 6</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Microsoft. (2022, April 6). <em>Service-to-service communication</em>. Microsoft Learn. Retrieved November 11, 2026, from <a href="https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication">https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/service-to-service-communication</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-18 21:01:30-05:00">11/18/2026 21:01:30</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

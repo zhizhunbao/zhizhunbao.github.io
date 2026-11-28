@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.4.10 Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2021 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Computer Science (CS) &gt; Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2021: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1410-stanford-cs221-artificial-intelligence-principles-and-techniques--autumn-2021">1.4.10 Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2021</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Artificial Intelligence: Principles and Techniques</strong><br>人工智能：原理与技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CS 221</td>
+<td>Artificial Intelligence: Principles and Techniques<br>人工智能：原理与技术</td>
+<td>Autumn 2021</td>
+<td>60</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=ZiwogMtbjr4&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="General Intro | Stanford CS221: Artificial Intelligence: Principles and Techniques (Autumn 2021)">General Intro: Artificial Intelligence: Principles and Techniques</a></td>
+<td>1:08:12</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=z8fEXuH0mu0&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="AI History | Stanford CS221: AI (Autumn 2021)">AI History</a></td>
+<td>18:08</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=C0IhR4D5KYc&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence Today | Stanford CS221: AI (Autumn 2021)">Artificial Intelligence Today</a></td>
+<td>13:46</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=mtrYwgIrRNk&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence and Machine Learning 1 - Overview | Stanford CS221: AI (Autumn 2021)">Artificial Intelligence and Machine Learning 1 - Overview</a></td>
+<td>6:50</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=nEWNNt2KmfQ&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence &amp; Machine Learning 2 - Linear Regression | Stanford CS221: AI (Autumn 2021)">Artificial Intelligence &amp; Machine Learning 2 - Linear Regression</a></td>
+<td>22:44</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=WcaMiqJR09s&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence &amp; Machine learning 3 - Linear Classification | Stanford CS221 (Autumn 2021)">Artificial Intelligence &amp; Machine learning 3 - Linear Classification</a></td>
+<td>28:02</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=bl2WgBLH0tI&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence &amp; Machine Learning 4 - Stochastic Gradient Descent | Stanford CS221 (2021)">Artificial Intelligence &amp; Machine Learning 4 - Stochastic Gradient Descent</a></td>
+<td>15:05</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=ZFK2XtWqUbw&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence and Machine Learning 5 - Group DRO | Stanford CS221: AI (Autumn 2021)">Artificial Intelligence and Machine Learning 5 - Group DRO</a></td>
+<td>17:40</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=eIxbNkB4byY&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence &amp; Machine Learning 6 - Non Linear Features | Stanford CS221: AI(Autumn 2021)">Artificial Intelligence &amp; Machine Learning 6 - Non Linear Features</a></td>
+<td>14:05</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=2QfSBLtvioE&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence &amp; Machine Learning 7 - Feature Templates | Stanford CS221: AI (Autumn 2021)">Artificial Intelligence &amp; Machine Learning 7 - Feature Templates</a></td>
+<td>11:52</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=pnKXgBHuN58&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence &amp; Machine Learning 8 - Neural Networks | Stanford CS221: AI (Autumn 2021)">Artificial Intelligence &amp; Machine Learning 8 - Neural Networks</a></td>
+<td>18:35</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=OcAF-l2xB9Y&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Machine Learning 9 - Backpropagation | Stanford CS221: AI (Autumn 2021)">Machine Learning 9 - Backpropagation</a></td>
+<td>30:47</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=c5btEEisp_g&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Machine Learning 10 - Differentiable Programming | Stanford CS221: AI (Autumn 2021)">Machine Learning 10 - Differentiable Programming</a></td>
+<td>37:42</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=Gq-Ah-QrOQM&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence &amp; Machine Learning 11 - Generalization | Stanford CS221: AI (Autumn 2021)">Artificial Intelligence &amp; Machine Learning 11 - Generalization</a></td>
+<td>14:54</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=ouvGV2YZEEM&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Artificial Intelligence &amp; Machine Learning 12 - Best Practices | Stanford CS221: AI (Autumn 2021)">Artificial Intelligence &amp; Machine Learning 12 - Best Practices</a></td>
+<td>23:50</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=5-Fn8R9fH7A&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Machine Learning 13 - K-means | Stanford CS221: AI (Autumn 2021)">Machine Learning 13 - K-means</a></td>
+<td>19:24</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=aIsgJJYrlXk&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Search 1 - Dynamic Programming, Uniform Cost Search | Stanford CS221: AI (Autumn 2019)">Search 1 - Dynamic Programming, Uniform Cost Search: AI</a></td>
+<td>1:20:25</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=HEs1ZCvLH2s&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Search 2 - A* | Stanford CS221: Artificial Intelligence (Autumn 2019)">Search 2 - A*: Artificial Intelligence</a></td>
+<td>1:21:54</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=9g32v7bK3Co&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Markov Decision Processes 1 - Value Iteration | Stanford CS221: AI (Autumn 2019)">Markov Decision Processes 1 - Value Iteration: AI</a></td>
+<td>1:23:07</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=HpaHTfY52RQ&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Markov Decision Processes 2 - Reinforcement Learning | Stanford CS221: AI (Autumn 2019)">Markov Decision Processes 2 - Reinforcement Learning: AI</a></td>
+<td>1:14:38</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=3pU-Hrz_xy4&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Game Playing 1 - Minimax, Alpha-beta Pruning | Stanford CS221: AI (Autumn 2019)">Game Playing 1 - Minimax, Alpha-beta Pruning: AI</a></td>
+<td>1:21:33</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=WoFwXj4p4Sc&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Game Playing 2 - TD Learning, Game Theory | Stanford CS221: Artificial Intelligence (Autumn 2019)">Game Playing 2 - TD Learning, Game Theory: Artificial Intelligence</a></td>
+<td>1:19:26</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=-IO4fPO0rxk&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Constraint Satisfaction Problems (CSPs) 1 - Overview | Stanford CS221: AI (Autumn 2021)">Constraint Satisfaction Problems (CSPs) 1 - Overview</a></td>
+<td>13:50</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=uj5wCcHsSlA&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Constraint Satisfaction Problems (CSPs) 2 - Definitions | Stanford CS221: AI (Autumn 2021)">Constraint Satisfaction Problems (CSPs) 2 - Definitions</a></td>
+<td>19:12</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=Tu6BiZhMDCc&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Constraint Satisfaction Problems (CSPs) 3 - Examples | Stanford CS221: AI (Autumn 2021)">Constraint Satisfaction Problems (CSPs) 3 - Examples</a></td>
+<td>24:55</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=Lyu8VzbIe_A&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Constraint Satisfaction Problems (CSPs) 4 - Dynamic Ordering | Stanford CS221: AI (Autumn 2021)">Constraint Satisfaction Problems (CSPs) 4 - Dynamic Ordering</a></td>
+<td>19:17</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=5rlIYGJdPy4&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Constraint Satisfaction Problems (CSPs) 5 - Arc Consistency | Stanford CS221: AI (Autumn 2021)">Constraint Satisfaction Problems (CSPs) 5 - Arc Consistency</a></td>
+<td>14:10</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=XuWMeIHGkus&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Constraint Satisfaction Problems (CSPs) 6 - Beam Search | Stanford CS221: AI (Autumn 2021)">Constraint Satisfaction Problems (CSPs) 6 - Beam Search</a></td>
+<td>14:30</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=VwZKPlK6jUg&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Constraint Satisfaction Problems (CSPs) 7 - Local Search | Stanford CS221: AI (Autumn 2021)">Constraint Satisfaction Problems (CSPs) 7 - Local Search</a></td>
+<td>12:43</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=neeaJb3wCYw&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Markov Networks 1 - Overview | Stanford CS221: Artificial Intelligence (Autumn 2021)">Markov Networks 1 - Overview: Artificial Intelligence</a></td>
+<td>14:12</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=k6aZZF2pk7k&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Markov Networks 2 - Gibbs Sampling | Stanford CS221: AI (Autumn 2021)">Markov Networks 2 - Gibbs Sampling</a></td>
+<td>17:55</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=fA7zP6EcVdw&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 1 - Overview | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 1 - Overview</a></td>
+<td>10:43</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=xvC6XmZmR_U&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 2 - Definition | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 2 - Definition</a></td>
+<td>28:40</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=ZVk8y1zVoD4&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 3 - Probabilistic Programming | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 3 - Probabilistic Programming</a></td>
+<td>15:33</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=-dGOWB9Zh8s&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 4 - Probabilistic Inference | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 4 - Probabilistic Inference</a></td>
+<td>15:16</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=N-ZPbpJOQs0&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 5 - Forward-backward Algorithm | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 5 - Forward-backward Algorithm</a></td>
+<td>16:33</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=8sOtXbQIOuE&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 6 - Particle Filtering | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 6 - Particle Filtering</a></td>
+<td>24:02</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=_rbDjsJTgm8&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 7 - Supervised Learning | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 7 - Supervised Learning</a></td>
+<td>31:44</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=M7rWvN_0xbw&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 8 - Smoothing | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 8 - Smoothing</a></td>
+<td>7:02</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=CPVFJBd-Qcg&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Bayesian Networks 9 - EM Algorithm | Stanford CS221: AI (Autumn 2021)">Bayesian Networks 9 - EM Algorithm</a></td>
+<td>37:29</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=oM5LUGPO7Zk&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 1 - Overview: Logic Based Models | Stanford CS221: AI (Autumn 2021)">Logic 1 - Overview: Logic Based Models</a></td>
+<td>22:14</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=LBjNaewGJzk&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 2 - Propositional Logic Syntax | Stanford CS221: AI (Autumn 2021)">Logic 2 - Propositional Logic Syntax</a></td>
+<td>5:42</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=N37yIn1jX98&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 3 - Propositional Logic Semantics | Stanford CS221: AI (Autumn 2021)">Logic 3 - Propositional Logic Semantics</a></td>
+<td>38:34</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=RIk67yGMVv4&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 4 - Inference Rules | Stanford CS221: AI (Autumn 2021)">Logic 4 - Inference Rules</a></td>
+<td>24:20</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=6bj4z2mt1KE&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 5 - Propositional Modus Ponens | Stanford CS221: AI (Autumn 2021)">Logic 5 - Propositional Modus Ponens</a></td>
+<td>8:07</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=egLAF4dFdBo&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 6 - Propositional Resolutions | Stanford CS221: AI (Autumn 2021)">Logic 6 - Propositional Resolutions</a></td>
+<td>19:32</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=Z-O0Q3_oTJM&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 7 - First Order Logic | Stanford CS221: AI (Autumn 2021)">Logic 7 - First Order Logic</a></td>
+<td>26:10</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=mndzhfBpyUw&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 8 - First Order Modus Ponens | Stanford CS221: Artificial Intelligence (Autumn 2021)">Logic 8 - First Order Modus Ponens: Artificial Intelligence</a></td>
+<td>16:08</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=iG_tz7ZjZAI&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 9 - First Order Resolution | Stanford CS221: AI (Autumn 2021)">Logic 9 - First Order Resolution</a></td>
+<td>10:53</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=LYsOjtmLpPo&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Logic 10 - Recap | Stanford CS221: Artificial Intelligence (Autumn 2021)">Logic 10 - Recap: Artificial Intelligence</a></td>
+<td>11:46</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=_-hBu3_Jz-0&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="AI and Law I Mariano-Florentino Cuéllar, President of the Carnegie Endowment for International Peace">AI and Law I Mariano-Florentino Cuéllar, President of the Carnegie Endowment for International Peace</a></td>
+<td>1:15:26</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=xr8AHGlieOE&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Stanford Fireside Talks: Robustness in Machine Learning I Robust Machine Learning">Stanford Fireside Talks: Robustness in Machine Learning I Robust Machine Learning</a></td>
+<td>1:11:04</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=hVsR9DdR3qE&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Fireside Talks: State of Robotics I Automation and Robotics Engineering Lectures - Stanford">Fireside Talks: State of Robotics I Automation and Robotics Engineering Lectures - Stanford</a></td>
+<td>1:25:05</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=0IZhDmh1dmI&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Stanford Talk: Inequality in Healthcare, AI &amp; Data Science to Reduce Inequality - Improve Healthcare">Stanford Talk: Inequality in Healthcare, AI &amp; Data Science to Reduce Inequality - Improve Healthcare</a></td>
+<td>1:13:20</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=pI72PseZQo8&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Fireside Talks: Artificial Intelligence (AI) and Language">Fireside Talks: Artificial Intelligence (AI) and Language</a></td>
+<td>1:27:06</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=iUGmupxCdjs&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="General Conclusion | Stanford CS221: AI (Autumn 2021)">General Conclusion</a></td>
+<td>1:11:44</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=2xQLCXqOtdU&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Stanford CS221 I Externalities and Dual-Use Technologies I 2023">I Externalities and Dual-Use Technologies I 2023</a></td>
+<td>8:26</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=5WHObJWE1FE&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Stanford CS221 I The AI Alignment Problem: Reward Hacking &amp; Negative Side Effects I 2023">I The AI Alignment Problem: Reward Hacking &amp; Negative Side Effects I 2023</a></td>
+<td>11:34</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=aWAqgzXENr0&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Stanford CS221 I Encoding Human Values I 2023">I Encoding Human Values I 2023</a></td>
+<td>14:36</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=olhFrDHP7iU&amp;list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2" title="Stanford CS221 I Algorithms and Distribution I 2023">I Algorithms and Distribution I 2023</a></td>
+<td>7:26</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2021</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2">https://www.youtube.com/playlist?list=PLoROMvodv4rOca_Ovz1DvdtWuz8BfSWL2</a></p>
+<p>Stanford University. (n.d.). <em>Stanford Bulletin 2026-2027</em>. Retrieved November 18, 2026, from <a href="https://bulletin.stanford.edu/">https://bulletin.stanford.edu/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

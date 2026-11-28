@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>9.6 Planarity and Colorings | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="9.6 Planarity and Colorings, part of 9 Graph Theory: 11 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="96-planarity-and-colorings">9.6 Planarity and Colorings</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/9-6-planarity-and-colorings.png" alt="9.6 Planarity and Colorings: its 11 terms, in 9 Graph Theory."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>9.6 Planarity and Colorings</strong><br>平面性与着色</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html">Doerr &amp; Levasseur, n.d., section 9.6</a></td>
+</tr>
+<tr>
+<td><strong>Planar Graph/Plane Graph</strong><br>平面图／平面嵌入图</td>
+<td>&quot;A graph is <strong>planar</strong> if it can be drawn in a plane so that <strong>no edges cross</strong>. A drawing of a graph on the plane such that there are no edge crossings is called a <strong>planar embedding</strong> of the graph, or a <strong>plane graph</strong> for short.&quot;</td>
+<td>若图可以画在平面上使得<strong>没有边相交</strong>，则称它是<strong>平面图</strong>。图在平面上没有边相交的画法称为图的<strong>平面嵌入</strong>，简称<strong>平面图形</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#def-planar-graph">Doerr &amp; Levasseur, n.d., Definition 9.6.1</a></td>
+</tr>
+<tr>
+<td><strong>Path Graph</strong><br>路径图</td>
+<td>&quot;A <strong>path graph of length <span class="math">\(n\text{,}\)</span></strong> denoted <span class="math">\(P_n\text{,}\)</span> is an undirected graph with <span class="math">\(n+1\)</span> vertices <span class="math">\(v_0, v_1,\dots, v_n\)</span> having <span class="math">\(n\)</span> edges <span class="math">\(\{v_i,v_{i+1}\}\text{,}\)</span> <span class="math">\(i=0, 1, \dots, n-1\text{.}\)</span>&quot;</td>
+<td>长度为 <span class="math">\(n\)</span> 的<strong>路径图</strong>，记作 <span class="math">\(P_n\)</span>，是有 <span class="math">\(n+1\)</span> 个顶点 <span class="math">\(v_0, v_1,\dots, v_n\)</span> 和 <span class="math">\(n\)</span> 条边 <span class="math">\(\{v_i,v_{i+1}\}\)</span>，（<span class="math">\(i=0, 1, \dots, n-1\)</span>）的无向图。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#def-def-path-graph">Doerr &amp; Levasseur, n.d., Definition 9.6.4</a></td>
+</tr>
+<tr>
+<td><strong>Euler’s Formula</strong><br>欧拉公式</td>
+<td>&quot;If <span class="math">\(G = (V, E)\)</span> is a <strong>connected planar graph with <span class="math">\(r\)</span> regions, <span class="math">\(v\)</span> vertices, and <span class="math">\(e\)</span> edges</strong>, then&quot;</td>
+<td>若 <span class="math">\(G = (V, E)\)</span> 是有 <span class="math">\(r\)</span> 个区域、<span class="math">\(v\)</span> 个顶点和 <span class="math">\(e\)</span> 条边的<strong>连通平面图</strong>，则</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#theorem-euler-formula">Doerr &amp; Levasseur, n.d., Theorem 9.6.8</a></td>
+</tr>
+<tr>
+<td><strong>A Bound on Edges of a Planar Graph</strong><br>平面图边数的上界</td>
+<td>&quot;If <span class="math">\(G = (V, E)\)</span> is a connected planar graph with <span class="math">\(v\)</span> vertices, <span class="math">\(v\geq 3\)</span>, and <span class="math">\(e\)</span> edges, then <strong><span class="math">\(e \leq 3v - 6\)</span></strong>&quot;</td>
+<td>若 <span class="math">\(G = (V, E)\)</span> 是有 <span class="math">\(v\)</span> 个顶点（<span class="math">\(v\geq 3\)</span>）、<span class="math">\(e\)</span> 条边的连通平面图，则 <strong><span class="math">\(e \leq 3v - 6\)</span></strong></td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#theorem-edge-bound">Doerr &amp; Levasseur, n.d., Theorem 9.6.10</a></td>
+</tr>
+<tr>
+<td><strong>A Vertex of Degree Five</strong><br>度数为五的顶点</td>
+<td>&quot;If <span class="math">\(G\)</span> is a connected planar graph, then it <strong>has a vertex with degree 5 or less</strong>.&quot;</td>
+<td>若 <span class="math">\(G\)</span> 是连通平面图，则它<strong>有一个度数不超过 5 的顶点</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#theorem-degree-5">Doerr &amp; Levasseur, n.d., Theorem 9.6.12</a></td>
+</tr>
+<tr>
+<td><strong>Graph Coloring</strong><br>图着色</td>
+<td>&quot;Given an undirected graph <span class="math">\(G = (V, E)\text{,}\)</span> a “<strong>coloring function</strong>” is a function <span class="math">\(f\)</span> from <span class="math">\(V\)</span> into a set of colors <span class="math">\(H\)</span> such that <span class="math">\(\{v_i,v_j\} \in E \Rightarrow f\left(v_i\right)\neq f\left(v_j\right)\text{.}\)</span> If <span class="math">\(H\)</span> has the smallest possible cardinality, its cardinality is called the <strong>chromatic number of <span class="math">\(G\text{,}\)</span></strong> <span class="math">\(\chi(G)\text{.}\)</span>&quot;</td>
+<td>给定无向图 <span class="math">\(G = (V, E)\)</span>，“<strong>着色函数</strong>”是从 <span class="math">\(V\)</span> 到颜色集 <span class="math">\(H\)</span> 的函数 <span class="math">\(f\)</span>，使得 <span class="math">\(\{v_i,v_j\} \in E \Rightarrow f\left(v_i\right)\neq f\left(v_j\right)\)</span>。若 <span class="math">\(H\)</span> 的基数是可能的最小值，则该基数称为 <span class="math">\(G\)</span>， 的<strong>色数</strong>，记作 <span class="math">\(\chi(G)\)</span>。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#def-graph-coloring">Doerr &amp; Levasseur, n.d., Definition 9.6.15</a></td>
+</tr>
+<tr>
+<td><strong>The Four-Color Theorem</strong><br>四色定理</td>
+<td>&quot;<strong>If <span class="math">\(G\)</span> is a planar graph</strong>, then <span class="math">\(\chi (G)\leq 4\text{.}\)</span>&quot;</td>
+<td><strong>若 <span class="math">\(G\)</span> 是平面图</strong>，则 <span class="math">\(\chi (G)\leq 4\)</span>。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#theorem-four-color-theorem">Doerr &amp; Levasseur, n.d., Theorem 9.6.16</a></td>
+</tr>
+<tr>
+<td><strong>The Five-Color Theorem</strong><br>五色定理</td>
+<td>&quot;<strong>If <span class="math">\(G\)</span> is a planar graph</strong>, then <span class="math">\(\chi (G)\leq 5\text{.}\)</span>&quot;</td>
+<td><strong>若 <span class="math">\(G\)</span> 是平面图</strong>，则 <span class="math">\(\chi (G)\leq 5\)</span>。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#theorem-five-color-theorem">Doerr &amp; Levasseur, n.d., Theorem 9.6.17</a></td>
+</tr>
+<tr>
+<td><strong>Bipartite Graph</strong><br>二分图</td>
+<td>&quot;A <strong>bipartite graph</strong> is a graph that has <strong>a 2-coloring</strong>. Equivalently, a graph is bipartite if its vertices can be <strong>partitioned into two nonempty subsets so that no edge connects vertices from the same subset</strong>.&quot;</td>
+<td><strong>二部图</strong>是<strong>具有 2-着色的图</strong>。等价地，若图的顶点可以<strong>划分为两个非空子集，使得没有边连接同一子集中的顶点</strong>，则该图是二部图。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#def-bipartite-graph">Doerr &amp; Levasseur, n.d., Definition 9.6.19</a></td>
+</tr>
+<tr>
+<td><strong>Planarity</strong><br>平面性</td>
+<td>(context) &quot;A graph is <strong>planar</strong> if it can be drawn in a plane so that no edges cross.&quot;</td>
+<td>（语境）如果一个图可以画在平面上而使任何边都不相交，则该图是<strong>平面图</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#def-planar-graph-5-1">Doerr &amp; Levasseur, n.d., section 9.6</a></td>
+</tr>
+<tr>
+<td><strong>No Odd Circuits in a Bipartite Graph</strong><br>二部图中没有奇回路</td>
+<td>&quot;An undirected graph is bipartite if and only if it <strong>has no circuit of odd length</strong>.&quot;</td>
+<td>无向图是二部图，当且仅当它<strong>没有长度为奇数的回路</strong>。</td>
+<td><a href="https://discretemath.org/ads/s-planarity-and-colorings.html#theorem-no-odd">Doerr &amp; Levasseur, n.d., Theorem 9.6.21</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Doerr, A., &amp; Levasseur, K. (n.d.). <em>Applied discrete structures</em>. Retrieved October 28, 2026, from <a href="https://discretemath.org/ads/index-ads.html">https://discretemath.org/ads/index-ads.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-29 19:52:55-04:00">10/29/2026 19:52:55</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

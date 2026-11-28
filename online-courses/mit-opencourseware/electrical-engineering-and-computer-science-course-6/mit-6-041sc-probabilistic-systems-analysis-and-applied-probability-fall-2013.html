@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.6.19 MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Electrical Engineering and Computer Science (Course 6) &gt; MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2619-mit-6041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013">2.6.19 MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>6.041SC</td>
+<td></td>
+<td>Fall 2013</td>
+<td>76</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=j9WZyLZCBzs&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="1. Probability Models and Axioms">1. Probability Models and Axioms</a></td>
+<td>51:11</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=o4Ccc1qJyAo&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="The Probability of the Difference of Two Events">The Probability of the Difference of Two Events</a></td>
+<td>5:55</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=y7lV5jwK27E&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Geniuses and Chocolates">Geniuses and Chocolates</a></td>
+<td>8:43</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=jxxrwZtpHH0&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Uniform Probabilities on a Square">Uniform Probabilities on a Square</a></td>
+<td>9:16</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=TluTv5V0RmE&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="2. Conditioning and Bayes' Rule">2. Conditioning and Bayes' Rule</a></td>
+<td>51:11</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=S_Egep9GOpQ&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="A Coin Tossing Puzzle">A Coin Tossing Puzzle</a></td>
+<td>8:11</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=6MffbP5O2v0&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Conditional Probability Example">Conditional Probability Example</a></td>
+<td>14:22</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=UgKrQ2ywVfs&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="The Monty Hall Problem">The Monty Hall Problem</a></td>
+<td>15:59</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=19Ql_Q3l0GA&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="3. Independence">3. Independence</a></td>
+<td>46:30</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=ya1braz5n88&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="A Random Walker">A Random Walker</a></td>
+<td>5:52</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=rzg_CavQI_M&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Communication over a Noisy Channel">Communication over a Noisy Channel</a></td>
+<td>19:53</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=PqZj8pySQiU&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Network Reliability">Network Reliability</a></td>
+<td>7:24</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=eilGapl5cz8&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="A Chess Tournament Problem">A Chess Tournament Problem</a></td>
+<td>18:33</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=6oV3pKLgW2I&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="4. Counting">4. Counting</a></td>
+<td>51:34</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=Na4R11fWVJg&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Rooks on a Chessboard">Rooks on a Chessboard</a></td>
+<td>18:28</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=3gCQ6-yitFc&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Hypergeometric Probabilities">Hypergeometric Probabilities</a></td>
+<td>5:49</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=3MOahpLxj6A&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="5. Discrete Random Variables I">5. Discrete Random Variables I</a></td>
+<td>50:35</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=0MrkYxOg_Vo&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Sampling People on Buses">Sampling People on Buses</a></td>
+<td>11:56</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=Qx2NKaUCUw0&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="PMF of a Function of a Random Variable">PMF of a Function of a Random Variable</a></td>
+<td>15:26</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=-qCEoqpwjf4&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="6. Discrete Random Variables II">6. Discrete Random Variables II</a></td>
+<td>50:53</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=7zjuscCceR8&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Flipping a Coin a Random Number of Times">Flipping a Coin a Random Number of Times</a></td>
+<td>8:43</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=81ZWzdj-I9w&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Joint Probability Mass Function (PMF) Drill 1">Joint Probability Mass Function (PMF) Drill 1</a></td>
+<td>17:37</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=3mu47FWEuqA&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="The Coupon Collector Problem">The Coupon Collector Problem</a></td>
+<td>7:15</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=EObHWIEKGjA&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="7. Discrete Random Variables III">7. Discrete Random Variables III</a></td>
+<td>50:42</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=JIOJRuzwJQw&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Joint Probability Mass Function (PMF) Drill 2">Joint Probability Mass Function (PMF) Drill 2</a></td>
+<td>13:45</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=mHfn_7ym6to&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="8. Continuous Random Variables">8. Continuous Random Variables</a></td>
+<td>50:29</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=wQ6Q9W3Y1ZE&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Calculating a Cumulative Distribution Function (CDF)">Calculating a Cumulative Distribution Function (CDF)</a></td>
+<td>8:44</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=6UdLp2gpmcE&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="A Mixed Distribution Example">A Mixed Distribution Example</a></td>
+<td>13:25</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=GJ2klfD0Q3g&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Mean &amp; Variance of the Exponential">Mean &amp; Variance of the Exponential</a></td>
+<td>15:11</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=62KrMWdX-RU&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Normal Probability Calculation">Normal Probability Calculation</a></td>
+<td>5:25</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=CadZXGNauY0&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="9. Multiple Continuous Random Variables">9. Multiple Continuous Random Variables</a></td>
+<td>50:51</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=v8N6l9RXbOM&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Uniform Probabilities on a Triangle">Uniform Probabilities on a Triangle</a></td>
+<td>22:58</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=xFS4xpYQ82w&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Probability that Three Pieces Form a Triangle">Probability that Three Pieces Form a Triangle</a></td>
+<td>12:30</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=X5ch4xZf3LE&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="The Absent Minded Professor">The Absent Minded Professor</a></td>
+<td>13:09</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=H_k1w3cfny8&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="10. Continuous Bayes' Rule; Derived Distributions">10. Continuous Bayes' Rule; Derived Distributions</a></td>
+<td>48:53</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=96UEwIcSTG0&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Inferring a Discrete Random Variable from a Continuous Measurement">Inferring a Discrete Random Variable from a Continuous Measurement</a></td>
+<td>18:37</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=TbC-kPbRt3c&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Inferring a Continuous Random Variable from a Discrete Measurement">Inferring a Continuous Random Variable from a Discrete Measurement</a></td>
+<td>11:35</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=HwkKtHLCmzo&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="A Derived Distribution Example">A Derived Distribution Example</a></td>
+<td>9:30</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=euqZK85cQwo&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="The Probability Distribution Function (PDF) of [X]">The Probability Distribution Function (PDF) of [X]</a></td>
+<td>9:06</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=gpMLYEMIw24&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Ambulance Travel Time">Ambulance Travel Time</a></td>
+<td>6:47</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=l4NoMKEHQwM&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="11. Derived Distributions (ctd.); Covariance">11. Derived Distributions (ctd.); Covariance</a></td>
+<td>51:55</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=f8Nli1AfygM&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="The Difference of Two Independent Exponential Random Variables">The Difference of Two Independent Exponential Random Variables</a></td>
+<td>6:12</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=8ueUXUTRlSQ&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="The Sum of Discrete and Continuous Random Variables">The Sum of Discrete and Continuous Random Variables</a></td>
+<td>5:37</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=P7a4bjE6Crk&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="12. Iterated Expectations">12. Iterated Expectations</a></td>
+<td>47:54</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=NlRgBtSLViI&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="The Variance in the Stick Breaking Problem">The Variance in the Stick Breaking Problem</a></td>
+<td>11:30</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=Y8zx1tWEbeI&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Widgets and Crates">Widgets and Crates</a></td>
+<td>10:06</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=CSkcBXUIJh4&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Using the Conditional Expectation and Variance">Using the Conditional Expectation and Variance</a></td>
+<td>10:10</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=NYOcZx6Kxsw&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="A Random Number of Coin Flips">A Random Number of Coin Flips</a></td>
+<td>17:19</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=aGyJO6G3mxQ&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="A Coin with Random Bias">A Coin with Random Bias</a></td>
+<td>22:58</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=gMTiAeE0NCw&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="13. Bernoulli Process">13. Bernoulli Process</a></td>
+<td>50:58</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=i0Jom_gR0t4&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Bernoulli Process Practice">Bernoulli Process Practice</a></td>
+<td>8:22</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=jsqSScywvMc&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="14. Poisson Process I">14. Poisson Process I</a></td>
+<td>52:44</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=eUPpqZFSqdw&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Competing Exponentials">Competing Exponentials</a></td>
+<td>7:42</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=XsYXACeIklU&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="15. Poisson Process II">15. Poisson Process II</a></td>
+<td>49:28</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=VUgN-YEklTU&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Random Incidence Under Erlang Arrivals">Random Incidence Under Erlang Arrivals</a></td>
+<td>9:43</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=IkbkEtOOC1Y&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="16. Markov Chains I">16. Markov Chains I</a></td>
+<td>52:06</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=ibFeUX5F_fw&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Setting Up a Markov Chain">Setting Up a Markov Chain</a></td>
+<td>10:36</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=nxHOWeT0ID0&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Markov Chain Practice 1">Markov Chain Practice 1</a></td>
+<td>11:42</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=ZulMqrvP-Pk&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="17. Markov Chains II">17. Markov Chains II</a></td>
+<td>51:25</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=HIMxdWDLEK8&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="18. Markov Chains III">18. Markov Chains III</a></td>
+<td>51:50</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=fa5Bdv_94ZE&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Mean First Passage and Recurrence Times">Mean First Passage and Recurrence Times</a></td>
+<td>9:27</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=3eiio3Tw7UQ&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="19. Weak Law of Large Numbers">19. Weak Law of Large Numbers</a></td>
+<td>50:13</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=x4q6H6lxFFE&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Convergence in Probability and in the Mean Part 1">Convergence in Probability and in the Mean Part 1</a></td>
+<td>13:37</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=D_vUxa3tEGs&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Convergence in Probability and in the Mean Part 2">Convergence in Probability and in the Mean Part 2</a></td>
+<td>5:46</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=eb-eRduYwZY&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Convergence in Probability Example">Convergence in Probability Example</a></td>
+<td>7:37</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=Tx7zzD4aeiA&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="20. Central Limit Theorem">20. Central Limit Theorem</a></td>
+<td>51:23</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=s8geHBRvSos&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Probabilty Bounds">Probabilty Bounds</a></td>
+<td>10:46</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=M3615Gbd6-8&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Using the Central Limit Theorem">Using the Central Limit Theorem</a></td>
+<td>11:25</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=1jDBM9UM9xk&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="21. Bayesian Statistical Inference I">21. Bayesian Statistical Inference I</a></td>
+<td>48:50</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=XtNXQJkgkhI&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="22. Bayesian Statistical Inference II">22. Bayesian Statistical Inference II</a></td>
+<td>52:16</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=9hzVb4hfPPo&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Inferring a Parameter of Uniform Part 1">Inferring a Parameter of Uniform Part 1</a></td>
+<td>24:51</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=DwBK4duYhTU&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="Inferring a Parameter of Uniform Part 2">Inferring a Parameter of Uniform Part 2</a></td>
+<td>19:35</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=1s2H3QssiMw&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="An Inference Example">An Inference Example</a></td>
+<td>27:51</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=4UJc0S8APm4&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="23. Classical Statistical Inference I">23. Classical Statistical Inference I</a></td>
+<td>49:32</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=tBUHRpFZy0s&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="24. Classical Inference II">24. Classical Inference II</a></td>
+<td>51:50</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=rYefUsYuEp0&amp;list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe" title="25. Classical Inference III">25. Classical Inference III</a></td>
+<td>52:07</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe">https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

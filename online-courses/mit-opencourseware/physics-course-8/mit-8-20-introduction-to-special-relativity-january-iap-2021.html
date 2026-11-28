@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.8.9 MIT 8.20 Introduction to Special Relativity, January IAP 2021 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Physics (Course 8) &gt; MIT 8.20 Introduction to Special Relativity, January IAP 2021: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="289-mit-820-introduction-to-special-relativity-january-iap-2021">2.8.9 MIT 8.20 Introduction to Special Relativity, January IAP 2021</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Introduction to Special Relativity</strong><br>狭义相对论入门</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>8.20</td>
+<td>Introduction to Special Relativity<br>狭义相对论入门</td>
+<td>IAP 2021</td>
+<td>52</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=uMc-j5aQTH8&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="1.1 Course Organization (8.20 Introduction to Special Relativity)">1.1 Course Organization ( Introduction to Special Relativity)</a></td>
+<td>19:07</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=_S1CREXGfvE&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="1.2. Prof. Klute’s Research">1.2. Prof. Klute’s Research</a></td>
+<td>13:22</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=fW9ZyXvdCwE&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="1.3 History of Special Relativity">1.3 History of Special Relativity</a></td>
+<td>10:46</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=EsciE9ws4qw&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="1.4 Guest Lecture: Space, Time, and Spacetime">1.4 Guest Lecture: Space, Time, and Spacetime</a></td>
+<td>1:13:41</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=24iPsnbS6_0&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="1.5 Categories of Physics">1.5 Categories of Physics</a></td>
+<td>3:31</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=OCQGydLI5LY&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="2.1 Events">2.1 Events</a></td>
+<td>3:32</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=XAt0dX5M-TA&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="2.2 Galilean Transformation">2.2 Galilean Transformation</a></td>
+<td>6:14</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=ZmKaHSXDbn0&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="3.1 Light">3.1 Light</a></td>
+<td>7:27</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=QP-xHC_naJ4&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="3.2 Waves">3.2 Waves</a></td>
+<td>8:51</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=8rbXjIqF3IA&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="3.3 Michelson-Morley Experiment">3.3 Michelson-Morley Experiment</a></td>
+<td>5:38</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=Wd5s5uLk7xs&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="3.4 Stellar Aberration">3.4 Stellar Aberration</a></td>
+<td>3:54</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=5QUe51d_22w&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="4.1 Time Dilation">4.1 Time Dilation</a></td>
+<td>13:38</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=f08-SYyjMp0&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="4.2 Muons">4.2 Muons</a></td>
+<td>4:47</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=96RHvPVlxN8&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="4.3 Length Contraction">4.3 Length Contraction</a></td>
+<td>3:29</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=0lPfTMmyzvk&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="4.4 Invariance">4.4 Invariance</a></td>
+<td>5:49</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=_naTiUQOq34&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="4.5 Lorentz Transformation">4.5 Lorentz Transformation</a></td>
+<td>6:54</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=2YPu29d8RZY&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="5.1 Voyager Program">5.1 Voyager Program</a></td>
+<td>3:36</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=icqwK_WyoII&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="5.2 Velocity Addition">5.2 Velocity Addition</a></td>
+<td>6:18</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=mBGJOLE7ZUg&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="5.3 Spacetime Diagrams">5.3 Spacetime Diagrams</a></td>
+<td>8:00</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=6fFfT7LhtPw&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="5.4 Regions in Spacetime Diagrams">5.4 Regions in Spacetime Diagrams</a></td>
+<td>4:33</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=FscOJbr_bvs&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="5.5 Causality">5.5 Causality</a></td>
+<td>5:37</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=gtQ046Tu2S4&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="6.1 Pole-in-the-Barn Paradox">6.1 Pole-in-the-Barn Paradox</a></td>
+<td>7:17</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=rlC8mLGvong&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="6.2 Twin Paradox">6.2 Twin Paradox</a></td>
+<td>6:08</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=ka99Wu1VlVo&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="6.3 Spacecraft-on-a-Rope Paradox">6.3 Spacecraft-on-a-Rope Paradox</a></td>
+<td>4:35</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=Pas_hfAna28&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="7.1 Introduction to the Doppler Effect">7.1 Introduction to the Doppler Effect</a></td>
+<td>6:13</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=CPaFPYeVKoY&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="7.2 Relativistic Doppler Effect">7.2 Relativistic Doppler Effect</a></td>
+<td>3:19</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=lhOaghjCdic&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="7.3 Redshift">7.3 Redshift</a></td>
+<td>6:03</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=0STE0476EOk&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="7.4 Galaxy Travel">7.4 Galaxy Travel</a></td>
+<td>5:54</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=UQFwsgznP-E&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="8.1 Algebra of Lorentz transformations">8.1 Algebra of Lorentz transformations</a></td>
+<td>5:07</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=Pf_PvckSdTg&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="8.2 Introduction to 4-Vector Notation">8.2 Introduction to 4-Vector Notation</a></td>
+<td>5:45</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=8ytpmbkqF54&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="8.3 Proper Velocity">8.3 Proper Velocity</a></td>
+<td>4:02</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=aQAhRAn6ewc&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="9.1 Momentum Conservation">9.1 Momentum Conservation</a></td>
+<td>4:07</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=Tc7g4iF8pHc&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="9.2 Energy Conservation">9.2 Energy Conservation</a></td>
+<td>3:43</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=2jHK2MxGoio&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="9.4 Forces and Kinetic Energy">9.4 Forces and Kinetic Energy</a></td>
+<td>6:46</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=PV6lhcTfSGU&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="9.3 Collisions">9.3 Collisions</a></td>
+<td>7:09</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=MVJzzWfAwNY&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="10.1 Tests of Special Relativity">10.1 Tests of Special Relativity</a></td>
+<td>6:33</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=VOlOArfGRqQ&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="10.2 The Large Electron-Positron Collider">10.2 The Large Electron-Positron Collider</a></td>
+<td>4:21</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=0V93uTCjQKo&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="10.3 Deuteron Production">10.3 Deuteron Production</a></td>
+<td>3:17</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=ijOnv0DUCPE&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="10.4 Absorption and Emission of Photons">10.4 Absorption and Emission of Photons</a></td>
+<td>5:15</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=Ac-0-yaHsAg&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="10.5 Decay of a Pion">10.5 Decay of a Pion</a></td>
+<td>3:01</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=0OnLn3Ito8o&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="10.6 Creation of Particles">10.6 Creation of Particles</a></td>
+<td>5:58</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=Sa1DMeTf8U8&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="10.7 Compton Effect">10.7 Compton Effect</a></td>
+<td>4:51</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=o-CZeUT_Ud4&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="10.8 Global Positioning System">10.8 Global Positioning System</a></td>
+<td>4:55</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=LaTbPEKrE-8&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="11.1 Charge and Current">11.1 Charge and Current</a></td>
+<td>6:36</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=d8IDtE-Ea0o&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="11.2 Electric and Magnetic Fields">11.2 Electric and Magnetic Fields</a></td>
+<td>4:30</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=UxTIYMtNc4g&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="12.1 Equivalence Principle">12.1 Equivalence Principle</a></td>
+<td>1:58</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=eF38136N_4c&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="12.2 Time Dilation Effect on Earth">12.2 Time Dilation Effect on Earth</a></td>
+<td>3:10</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=hZtjMB3Y9ZA&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="12.3 Bending of Light">12.3 Bending of Light</a></td>
+<td>4:40</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=4U9B9YgEqe4&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="12.4 Redshift Tests">12.4 Redshift Tests</a></td>
+<td>2:41</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=v5jffYzm5pg&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="12.5 General Relativity">12.5 General Relativity</a></td>
+<td>7:42</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=lRSMmxJeaKA&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="12.6 Experimental Evidence">12.6 Experimental Evidence</a></td>
+<td>9:35</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=0YvENlEZwNg&amp;list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8" title="13.2 Course Review">13.2 Course Review</a></td>
+<td>18:13</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>MIT 8.20 Introduction to Special Relativity, January IAP 2021</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8">https://www.youtube.com/playlist?list=PLUl4u3cNGP61Zc3rR6wVM0kpsiyIq0fk8</a></p>
+<p>Massachusetts Institute of Technology. (n.d.). <em>MIT Course Catalog 2026-2027</em>. Retrieved November 18, 2026, from <a href="https://catalog.mit.edu/">https://catalog.mit.edu/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.1 Statements and Conditional Statements | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="1.1 Statements and Conditional Statements, part of 1 Introduction to Writing Proofs in Mathematics: 15 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="11-statements-and-conditional-statements">1.1 Statements and Conditional Statements</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/1-1-statements-and-conditional-statements.png" alt="1.1 Statements and Conditional Statements: its 15 terms, in 1 Introduction to Writing Proofs in Mathematics."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1 Introduction to Writing Proofs in Mathematics</strong><br>数学证明写作入门</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/C_1intro.html">Sundstrom, 2022, chapter 1</a></td>
+</tr>
+<tr>
+<td><strong>1.1 Statements and Conditional Statements</strong><br>陈述与条件陈述</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Statement</strong><br>陈述</td>
+<td>&quot;In mathematics, a statement is <strong>a declarative sentence that must have a definite truth value</strong>, <strong>either true or false but not both</strong>.&quot;</td>
+<td>在数学中，陈述是<strong>必须有确定真值的陈述句</strong>，<strong>要么真要么假，不能两者都是</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#PA_prop">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Proposition</strong><br>命题</td>
+<td>&quot;A statement is <strong>sometimes called a proposition</strong>.&quot;</td>
+<td>陈述<strong>有时也称为命题</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-79">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Conjecture</strong><br>猜想</td>
+<td>&quot;When we <strong>make a guess in mathematics</strong>, we usually call it a conjecture.&quot;</td>
+<td>当我们<strong>在数学中做出猜测</strong>时，通常称它为猜想。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#li-39">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Counterexample</strong><br>反例</td>
+<td>&quot;In this way, we can gather information that provides evidence that a statement is true, or we might find <strong>an example that shows the statement is false</strong>. This type of example is called a counterexample.&quot;</td>
+<td>这样我们可以收集证据说明某个陈述为真，也可能找到<strong>说明该陈述为假的例子</strong>。这类例子称为反例。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#li-40">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Conditional Statement</strong><br>条件陈述</td>
+<td>&quot;A conditional statement is a statement that <strong>can be written in the form “If</strong> <span class="math">\(P\)</span> <strong>then</strong> <span class="math">\(Q\text{,}\)</span>” where <span class="math">\(P\)</span> and <span class="math">\(Q\)</span> are sentences.&quot;</td>
+<td>条件陈述是<strong>能写成“如果</strong> <span class="math">\(P\)</span> <strong>那么</strong> <span class="math">\(Q\)</span>”形式的陈述，其中 <span class="math">\(P\)</span> 和 <span class="math">\(Q\)</span> 是语句。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#D_conditional">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Hypothesis</strong><br>假设</td>
+<td>&quot;For this conditional statement, <span class="math">\(P\)</span> is <strong>called the hypothesis</strong> and <span class="math">\(Q\)</span> is called the conclusion.&quot;</td>
+<td>对这个条件陈述，<span class="math">\(P\)</span> <strong>称为假设</strong>，<span class="math">\(Q\)</span> 称为结论。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#D_conditional">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Conclusion</strong><br>结论</td>
+<td>&quot;For this conditional statement, <span class="math">\(P\)</span> is called the hypothesis and <span class="math">\(Q\)</span> is <strong>called the conclusion</strong>.&quot;</td>
+<td>对这个条件陈述，<span class="math">\(P\)</span> 称为假设，<span class="math">\(Q\)</span> <strong>称为结论</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#D_conditional">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Truth Table</strong><br>真值表</td>
+<td>&quot;This is summarized in Table 1.3, which is called <strong>a truth table for the conditional statement</strong> <span class="math">\(P \to Q\text{.}\)</span>&quot;</td>
+<td>这一点总结在表 1.3 中，它称为<strong>条件陈述 <span class="math">\(P \to Q\)</span> 的真值表</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-150">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Real Number System</strong><br>实数系</td>
+<td>&quot;The primary number system used in algebra and calculus is the real number system. We usually use the symbol <span class="math">\(\mathbb{R}\)</span> to stand for the set of all real numbers. The real numbers <strong>consist of the rational numbers and the irrational numbers</strong>.&quot;</td>
+<td>代数和微积分中使用的主要数系是实数系。我们通常用符号 <span class="math">\(\mathbb{R}\)</span> 表示全体实数的集合。实数<strong>由有理数和无理数组成</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-186">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Closure Properties</strong><br>封闭性</td>
+<td>&quot;Notice that these so-called closure properties are <strong>defined in terms of conditional statements</strong>.&quot;</td>
+<td>注意，这些所谓的封闭性是<strong>用条件陈述来定义的</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-186">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Natural Numbers</strong><br>自然数</td>
+<td>&quot;The natural numbers <strong>consist of the positive whole numbers</strong> such as 1, 2, 3, 107, and 203.&quot;</td>
+<td>自然数<strong>由正整数组成</strong>，例如 1、2、3、107 和 203。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-187">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Integers</strong><br>整数</td>
+<td>&quot;The integers <strong>consist of zero, the natural numbers, and the negatives of the natural numbers</strong>.&quot;</td>
+<td>整数<strong>由零、自然数和自然数的相反数组成</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-187">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Closed under Addition</strong><br>对加法封闭</td>
+<td>&quot;Three of the basic properties of the integers are that the set <span class="math">\(\mathbb{Z}\)</span> is <strong>closed under addition</strong>, the set <span class="math">\(\mathbb{Z}\)</span> is closed under multiplication, and the set of integers is closed under subtraction. This means that If <span class="math">\(x\)</span> and <span class="math">\(y\)</span> are integers, then <span class="math">\(x + y\)</span> <strong>is an integer</strong>;&quot;</td>
+<td>整数的三个基本性质是：集合 <span class="math">\(\mathbb{Z}\)</span> <strong>对加法封闭</strong>，对乘法封闭，整数集对减法封闭。这意味着：如果 <span class="math">\(x\)</span> 和 <span class="math">\(y\)</span> 是整数，那么 <span class="math">\(x + y\)</span> <strong>是整数</strong>；</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-188">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Closed under Multiplication</strong><br>对乘法封闭</td>
+<td>&quot;Three of the basic properties of the integers are that the set <span class="math">\(\mathbb{Z}\)</span> is closed under addition, the set <span class="math">\(\mathbb{Z}\)</span> is <strong>closed under multiplication</strong>, and the set of integers is closed under subtraction. This means that If <span class="math">\(x\)</span> and <span class="math">\(y\)</span> are integers, then <span class="math">\(x + y\)</span> is an integer; If <span class="math">\(x\)</span> and <span class="math">\(y\)</span> are integers, then <span class="math">\(x \cdot y\)</span> <strong>is an integer</strong>;&quot;</td>
+<td>整数的三个基本性质是：集合 <span class="math">\(\mathbb{Z}\)</span> 对加法封闭，<strong>对乘法封闭</strong>，整数集对减法封闭。这意味着：如果 <span class="math">\(x\)</span> 和 <span class="math">\(y\)</span> 是整数，那么 <span class="math">\(x + y\)</span> 是整数；如果 <span class="math">\(x\)</span> 和 <span class="math">\(y\)</span> 是整数，那么 <span class="math">\(x \cdot y\)</span> <strong>是整数</strong>；</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-188">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+<tr>
+<td><strong>Closed under Subtraction</strong><br>对减法封闭</td>
+<td>&quot;Three of the basic properties of the integers are that the set <span class="math">\(\mathbb{Z}\)</span> is closed under addition, the set <span class="math">\(\mathbb{Z}\)</span> is closed under multiplication, and the set of integers is <strong>closed under subtraction</strong>. This means that If <span class="math">\(x\)</span> and <span class="math">\(y\)</span> are integers, then <span class="math">\(x + y\)</span> is an integer; If <span class="math">\(x\)</span> and <span class="math">\(y\)</span> are integers, then <span class="math">\(x \cdot y\)</span> is an integer; and If <span class="math">\(x\)</span> and <span class="math">\(y\)</span> are integers, then <span class="math">\(x - y\)</span> <strong>is an integer</strong>.&quot;</td>
+<td>整数的三个基本性质是：集合 <span class="math">\(\mathbb{Z}\)</span> 对加法封闭，对乘法封闭，整数集<strong>对减法封闭</strong>。这意味着：如果 <span class="math">\(x\)</span> 和 <span class="math">\(y\)</span> 是整数，那么 <span class="math">\(x + y\)</span> 是整数；如果 <span class="math">\(x\)</span> 和 <span class="math">\(y\)</span> 是整数，那么 <span class="math">\(x \cdot y\)</span> 是整数；如果 <span class="math">\(x\)</span> 和 <span class="math">\(y\)</span> 是整数，那么 <span class="math">\(x - y\)</span> <strong>是整数</strong>。</td>
+<td><a href="https://gvsuoer.github.io/sundstrom-textbook/S_1prop.html#p-188">Sundstrom, 2022, section 1.1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Sundstrom, T. (2022). <em>Mathematical reasoning: Writing and proof</em> (Version 2.1; PreTeXt edition by Grand Valley State University). Retrieved October 30, 2026, from <a href="https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html">https://gvsuoer.github.io/sundstrom-textbook/frontmatter.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 13:36:26-04:00">10/30/2026 13:36:26</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

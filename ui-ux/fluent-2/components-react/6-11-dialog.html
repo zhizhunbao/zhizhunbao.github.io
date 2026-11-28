@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>6.11 Dialog | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Fluent 2, 6.11 Dialog: 9 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="611-dialog">6.11 Dialog</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Dialog</strong><br>对话框</td>
+<td>&quot;A dialog is <strong>a supplemental surface</strong> that can provide helpful interactions or <strong>require someone to take an action</strong> before they can continue their task, like confirming a deletion.&quot;</td>
+<td>对话框是<strong>一个补充界面</strong>，可以提供有用的交互，或<strong>要求用户先做一个操作</strong>才能继续手头的任务，比如确认删除。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=A%20dialog%20is%20a%20supplemental%20surface">Microsoft, n.d., &quot;Dialog&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Modal</strong><br>模态</td>
+<td>&quot;A modal dialog <strong>disables the page content behind it</strong> and usually obscures or dims it to surface its content. Use it when someone needs to perform <strong>a focused task</strong>, like signing into an app.&quot;</td>
+<td>模态对话框会<strong>让后面的页面内容不可操作</strong>，通常还会遮住或调暗页面来突出自己的内容。当用户需要完成<strong>一项专注的任务</strong>时使用，比如登录应用。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=A%20modal%20dialog%20disables%20the%20page">Microsoft, n.d., &quot;Dialog&quot;, Types</a></td>
+</tr>
+<tr>
+<td><strong>Non-modal</strong><br>非模态</td>
+<td>&quot;A non-modal dialog allows someone to <strong>continue interacting with the page content</strong> behind the window and aids in their workflow, like find and replace. Use it as <strong>a helper in a task</strong>.&quot;</td>
+<td>非模态对话框允许用户<strong>继续操作窗口后面的页面内容</strong>，辅助他们的工作流程，比如查找和替换。把它当作<strong>任务中的助手</strong>使用。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=A%20non-modal%20dialog%20allows%20someone%20to">Microsoft, n.d., &quot;Dialog&quot;, Types</a></td>
+</tr>
+<tr>
+<td><strong>Alert</strong><br>警告</td>
+<td>&quot;An alert dialog is a modal that <strong>requires someone to make a decision</strong>. Alert dialogs have a special role that allows <strong>assistive technologies</strong> to treat them more urgently than other dialogs, like playing a system alert sound.&quot;</td>
+<td>警告对话框是一种<strong>要求用户做出决定</strong>的模态框。它有特殊的角色，让<strong>辅助技术</strong>比对待其他对话框更紧急地处理它，比如播放系统提示音。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=An%20alert%20dialog%20is%20a%20modal">Microsoft, n.d., &quot;Dialog&quot;, Types</a></td>
+</tr>
+<tr>
+<td><strong>Dismissal</strong><br>关闭方式</td>
+<td>(context) &quot;Someone can dismiss a modal dialog by <strong>selecting an area outside of the container</strong>, using the Esc key, or <strong>selecting a footer button</strong>.&quot;</td>
+<td>（语境）用户可以通过<strong>点击容器外的区域</strong>、按 Esc 键或<strong>点击底部按钮</strong>来关闭模态对话框。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=Someone%20can%20dismiss%20a%20modal%20dialog">Microsoft, n.d., &quot;Dialog&quot;, Behavior</a></td>
+</tr>
+<tr>
+<td><strong>Forms in dialogs</strong><br>对话框中的表单</td>
+<td>(context) &quot;Fields can be placed in dialogs to <strong>ask people for information</strong> that’s related to <strong>their current task</strong>.&quot;</td>
+<td>（语境）可以在对话框里放字段，<strong>向用户收集信息</strong>，且信息与<strong>他们当前的任务</strong>相关。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=Fields%20can%20be%20placed%20in%20dialogs">Microsoft, n.d., &quot;Dialog&quot;, Behavior</a></td>
+</tr>
+<tr>
+<td><strong>Header</strong><br>标题栏</td>
+<td>(context) &quot;A header, which can contain <strong>a title</strong> and <strong>a dismiss icon</strong>&quot;</td>
+<td>（语境）标题栏，可以包含<strong>标题</strong>和<strong>关闭图标</strong></td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=A%20header%2C%20which%20can%20contain%20a">Microsoft, n.d., &quot;Dialog&quot;, Layout</a></td>
+</tr>
+<tr>
+<td><strong>Body</strong><br>正文</td>
+<td>(context) &quot;Use the body content area for <strong>additional info or instructions</strong>, if needed. Don’t <strong>restate the title</strong> in the body.&quot;</td>
+<td>（语境）需要时用正文区放<strong>补充信息或说明</strong>。不要在正文里<strong>重复标题</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=Use%20the%20body%20content%20area%20for">Microsoft, n.d., &quot;Dialog&quot;, Content</a></td>
+</tr>
+<tr>
+<td><strong>Footer</strong><br>底部</td>
+<td>(context) &quot;<strong>Optional footer</strong>, which can contain <strong>up to three actions</strong>.&quot;</td>
+<td>（语境）<strong>可选的底部</strong>，最多可以放<strong>三个操作</strong>。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=Optional%20footer%2C%20which%20can%20contain%20up">Microsoft, n.d., &quot;Dialog&quot;, Layout</a></td>
+</tr>
+<tr>
+<td><strong>Dialog focus</strong><br>对话框焦点</td>
+<td>(context) &quot;When a dialog is opened, <strong>keyboard focus</strong> should go to <strong>the first interactive element</strong> within the container.&quot;</td>
+<td>（语境）对话框打开时，<strong>键盘焦点</strong>应移到容器内<strong>第一个可交互的元素</strong>上。</td>
+<td><a href="https://fluent2.microsoft.design/components/web/react/core/dialog/usage#:%7E:text=When%20a%20dialog%20is%20opened%2C%20keyboard">Microsoft, n.d., &quot;Dialog&quot;, Accessibility</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Microsoft. (n.d.). <em>Fluent 2 Design System</em>. Retrieved November 6, 2026, from <a href="https://fluent2.microsoft.design/">https://fluent2.microsoft.design/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-06 23:33:23-05:00">11/06/2026 23:33:23</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

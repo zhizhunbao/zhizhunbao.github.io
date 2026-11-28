@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>IEEE Thesaurus | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="IEEE Thesaurus (July 2026): its 52 top terms and their narrower terms, as IEEE gives them.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="ieee-thesaurus">IEEE Thesaurus</h1>
+
+<p>The IEEE Thesaurus is copyrighted by IEEE under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>. The terms and their broader and narrower relations are shared here unaltered, in IEEE's own order, from the July 2026 edition (version 1.06); Chinese names on these pages are this site's own translations.</p>
+<h2 id="classification">Classification</h2>
+<p><img src="media/ieee-thesaurus%401x.png" alt="IEEE Thesaurus: its 52 classes, Aerospace and electronic systems (Aerospace control, Aerospace engineering, Aerospace materials, Aircraft manufacture, Aircraft navigation, Aircraft propulsion, Command and control systems, Electronic warfare, Military equipment, Sensor systems, Sonar, Telemetry); Antennas and propagation (Antennas, Electromagnetic propagation, Radio astronomy); Broadcast technology (Broadcasting); Circuits and systems (Circuits, Contacts, Filtering, Integrated circuit technology, Logic devices, Oscillators, Single electron devices, Tunable circuits and devices); Communications technology (Communication equipment, Communication switching, Communication systems, Couplers, Green communications, High-speed electronics, Image communication, Information and communication technology, MIMO, MISO, Message systems, Modulation, Multiplexing, Network topology, Presence network agents, SISO, TV, UHF technology, Ultra wideband technology, VHF devices); Components, packaging, and manufacturing technology (Component architectures, Electronic components, Electronic equipment manufacture, Electronics packaging, Environmentally friendly manufacturing techniques, Integrated circuit manufacture, Integrated circuit packaging, Semiconductor device packaging, Thermal management of electronics); Computational and artificial intelligence (Artificial intelligence, Autonomous mental development, Computational intelligence, Logic, Machine intelligence, Neural networks); Computers and information processing (Approximate computing, Computer applications, Computer architecture, Computer interfaces, Computer networks, Computer performance, Computer peripherals, Computer science, Computer security, Computers, Concurrency control, DNA computing, Data systems, Database machines, Digital systems, Distributed computing, File servers, Hardware, High performance computing, Image processing, Memory, Mobile computing, Molecular computing, Multitasking, Open systems, Optical computing, Parallel processing, Pattern recognition, Pervasive computing, Petascale computing, Platform virtualization, Probabilistic computing, Probability computing, Quantum computing, Real-time systems, Software, Software engineering, System recovery, Time sharing computer systems, Virtual machine monitors); Consumer electronics (Ambient intelligence, Audio systems, Home automation, Home computing, Low power electronics, Microwave ovens, Multimedia systems); Control systems (Admittance control, Automatic control, Automatic generation control, Automotive control, Autopilot, Bidirectional control, Block signalling, Brakes, CAMAC, Centralized control, Closed loop systems, Control design, Control engineering, Control equipment, Control system synthesis, Controllability, Controller area networks, Cruise control, Decentralized control, Delay systems, Digital control, Fault tolerant control, Feedback, Feedback linearization, Fluid flow control, Fluidics, Gaze tracking, Homeostasis, Linear feedback control systems, Magnetic variables control, Mechanical variables control, Medical control systems, Missile control, Moisture control, Motion compensation, Networked control systems, Nonlinear control systems, Open loop systems, Optical control, Optimal control, PD control, PI control, Pneumatic systems, Positive train control, Pressure control, Proportional control, Radio control, Robot control, SCADA systems, Sensorless control, Sliding mode control, Supervisory control, Thermal variables control, Traffic control); Dielectrics and electrical insulation (Dielectrics, Electric breakdown, Electromagnetic fields, Insulation); Education (Adaptive learning, Career development, Educational courses, Educational institutions, Educational programs, Educational technology, Engineering education, Humanities, Training); Electromagnetic compatibility and interference (Electromagnetic compatibility, Electromagnetics, Interference, Radar); Electron devices (Cathode ray tubes, Electron guns, Electron multipliers, Electron tubes, Mechatronics, Microelectromechanical systems, Microfluidics, Micromechanical devices, Photoelectricity, Photovoltaic cells, Quantum computing, Quantum well devices, Semiconductivity, Semiconductor devices, Single electron devices, Thick film devices, Thin film devices, Tunneling, Vacuum technology); Electronic design automation and methodology (Design automation, Design methodology); Engineering - general (Acoustical engineering, Agricultural engineering, Bio-inspired engineering, Chemical engineering, Civil engineering, Concurrent engineering, Design engineering, Electrical engineering, Engineering profession, Environmental engineering, Maintenance engineering, Marine engineering, Mechanical engineering, Optical engineering, Precision engineering, Production engineering, Research and development, Reverse engineering, Sanitary engineering, Standardization, Thermal engineering); Engineering in medicine and biology (Biology, Biomedical communication, Biomedical computing, Biomedical engineering, Biomedical equipment, Biomedical imaging, Bionanotechnology, Bioterrorism, Computational biology, Genetic engineering, Medical services, Medical specialties, Nuclear medicine, Synthetic biology); Engineering management (Business, Commercialization, Consortia, Economics, Innovation management, Legal factors, Market research, Planning, Product development, Project engineering, Research and development management, Research initiatives, Software development management); Geoscience and remote sensing (Environmental factors, Geographic information systems, Geophysical measurement techniques, Geophysical measurements, Geophysical signal processing, Geoscience, Photometry, Radiometry, Remote sensing, Terrain mapping, Terrestrial atmosphere, Vegetation mapping, Land surface temperature); IEEE organization (IEEE activities, IEEE entities, IEEE governance, IEEE indexing, IEEE members, IEEE products); Imaging (Biomedical imaging, Cameras, Focusing, Ground penetrating radar, Holography, Image converters, Image sensors, Image storage, Infrared imaging, Magnetic resonance imaging, Magneto electrical resistivity imaging technique, Microscopy, Microwave imaging, Multispectral imaging, Nuclear imaging, Optical imaging, Photography, Radiation imaging, Radiography, Stereo vision, Terahertz wave imaging, Tomography); Industrial electronics (Assembly systems, Computer aided manufacturing, Cryogenic electronics, Industrial control, Integrated manufacturing systems, Machine control, Manufacturing automation, Testing); Industry applications (Accident prevention, Chemical technology, Cryogenics, Electrochemical devices, Electrochemical processes, Electromechanical systems, Electrostatic devices, Electrostatic precipitators, Electrostatic processes, Engines, Environmental management, Food technology, High-temperature techniques, Industrial engineering, Industries, Inspection, Machinery, Manufacturing, Packaging, Paper technology, Production, Safety, Security, Wine industry); Information theory (Audio coding, Biological information theory, Channel coding, Codes, Communication channels, Decoding, Encoding, Error compensation, Genetic communication, Hamming distances, Hamming weight, Information entropy, Mutual information, Network coding, Rate distortion theory, Rate-distortion, Source coding, Speech coding, Technology acceptance model); Instrumentation and measurement (Computerized instrumentation, Electric variables, High energy physics instrumentation computing, Instruments, Measurement, Monitoring, Pulse oximetry, Testing); Intelligent transportation systems (Automated highways, Geographic information systems, Intelligent vehicles, Navigation, Transportation); Lasers and electrooptics (Electro-optic devices, Electro-optic effects, Lasers, Optics, Optoelectronic devices, Photonics); Magnetics (Biomagnetics, Demagnetization, Gyromagnetism, Magnetic analysis, Magnetic anisotropy, Magnetic devices, Magnetic fields, Magnetic flux, Magnetic force microscopy, Magnetic forces, Magnetic hysteresis, Magnetic levitation, Magnetic losses, Magnetic materials, Magnetic multilayers, Magnetic particles, Magnetic properties, Magnetic sensors, Magnetic susceptibility, Magnetic switching, Magnetization processes, Magnetoacoustic effects, Magnetoelectric effects, Magnetomechanical effects, Magnetooptic effects, Magnets, Magnonics, Microwave magnetics, Nanomagnetics, Nonlinear magnetics, Remanence, Spin systems); Materials, elements, and compounds (Atoms, Chemical elements, Compounds, Material storage, Materials, Materials science and technology, Metals); Mathematics (Algebra, Algorithms, Arithmetic, Azimuth, Boundary value problems, Calculus, Chemical reaction network theory, Closed-form solutions, Combinatorial mathematics, Computational efficiency, Conformal mapping, Convergence, Convex functions, Cyclic redundancy check, Dynamical systems, Eigenvalues and eigenfunctions, Equations, Estimation, Euclidean distance, Finite difference methods, Finite element analysis, Fourier series, Functional analysis, Geometry, Gradient methods, Graph theory, Harmonic analysis, Hypercomplex, Iterative methods, Kernel, Laplace equations, Lattices, Lie groups, Limit-cycles, Linear matrix inequalities, Linear systems, Linearization techniques, Mathematical models, Mathematical programming, Method of moments, Minimization, Mode matching methods, Network theory (graphs), Nonlinear equations, Nonlinear systems, Numerical analysis, Optimization, Piecewise linear techniques, Predator prey systems, Probability, Quaternions, Random processes, Root mean square, Sequences, Set theory, Simulated annealing, Smoothing methods, Spirals, Statistics, Stochastic processes, Superposition calculus, Taylor series, Tensors, Topology, Transforms, Transmission line matrix methods, Uncertain systems, Utility theory); Microwave theory and techniques (Microwave technology, Millimeter wave technology, Submillimeter wave technology); Nanotechnology (Bionanotechnology, Casimir effect, Molecular computing, Molecular electronics, Nanobioscience, Nanocommunication, Nanoelectromechanical systems, Nanoelectronics, Nanofabrication, Nanofluidics, Nanolithography, Nanomagnetics, Nanomaterials, Nanopackaging, Nanopatterning, Nanophotonics, Nanoplasmonics, Nanopositioning, Nanoscale technology, Nanosensors, Nanostructured materials, Nanostructures, Self-assembly, Self-replicating machines); Nuclear and plasma sciences (Biomedical applications of radiation, Colliding beam devices, Electron emission, Elementary particles, Fusion power generation, Fusion reactors, Gamma-rays, Gas discharge devices, Helioseismology, High energy physics instrumentation computing, Ion beam applications, Nuclear electronics, Nuclear imaging, Nuclear medicine, Nuclear physics, Particle accelerators, Particle beam handling, Particle beam injection, Plasmas, Radiation effects, Radiation hardening (electronics), Radiation monitoring, Radiation safety, Reactor instrumentation, Scintillation counters, Thermionic emission); Oceanic engineering and marine technology (Marine navigation, Marine technology, Ocean temperature, Oceanographic techniques, Water pollution); Power electronics (Converters, Current limiters, Gate drivers, Inverters, Phase control, Power conditioning, Power semiconductor devices, Power semiconductor switches, Snubbers, Three-phase electric power); Power engineering and energy (Electric variables control, Energy, Power engineering, Power generation, Power systems); Product safety engineering (Consumer protection, Power system protection, Safety, Vehicle crash testing); Professional communication (Collaboration, Communication aids, Communication effectiveness, Communication symbols, Context, Databases, Global communication, Grammar, Inclusive language, Information analysis, Information integrity, Information resources, Information retrieval, Information science, Information services, Information systems, Information technology, Manuals, Meetings, Oral communication, Plagiarism, Portfolios, Professional societies, Public speaking, Rhetoric, Writing); Reliability (Availability, Fault diagnosis, Fault tolerance, Fluctuations, Integrated circuit reliability, Maintenance, Maldistribution, Materials reliability, Reliability engineering, Reliability theory, Robustness, Semiconductor device reliability, Software reliability, Stability, Telecommunication network reliability); Resonance (Ferroresonance, Magnetic resonance, Resonance light scattering, Stochastic resonance); Robotics and automation (Animatronics, Automation, Autonomous systems, Cloud robotics, Multi-robot systems, Robots); Science - general (Astronomy, Atmospheric science, Biology, Chemistry, Electricity, Environmental science, Epidemiology, Geoscience, Life sciences, Metrology, Neuroscience, Paleontology, Physics, Social sciences, Thermodynamics); Sensors (Acoustic sensors, Chemical and biological sensors, Electromechanical sensors, Force sensors, Glucose sensors, Inertial sensors, Infrared sensors, Integrated sensing and communication, Intelligent sensors, Intracranial pressure sensors, Ionizing radiation sensors, Magnetic sensors, Mechanical sensors, Multimodal sensors, Nanosensors, Optical sensors, Optoelectronic and photonic sensors, Pressure sensors, Quantum sensing, Quantum sensors, Sensor phenomena and characterization, Sensor placement, Sensor systems and applications, Soft sensors, Thermal sensors, Thick film sensors, Thin film sensors, Vision sensors, Wearable sensors); Signal processing (Acoustic signal processing, Adaptive signal processing, Amplifiers, Array signal processing, Attenuators, Chirp, Convolution, Cyclostationary process, Decorrelation, Digital signal processing, Dispersion, Distortion, Error correction, Fading channels, Filters, Frequency locked loops, Geophysical signal processing, Limiting, Local field potentials, Modulation, Multidimensional signal processing, Noise, Optical signal processing, Optical wavelength conversion, Phase locked loops, Pulse compression methods, Pulse shaping methods, Quantization (signal), Radar signal processing, Received signal strength indicator, Recording, RF signals, Signal analysis, Signal design, Signal detection, Signal generators, Signal integrity, Signal reconstruction, Signal resolution, Signal restoration, Signal sampling, Signal synthesis, Source separation, Spectrogram, Tracking loops); Social implications of technology (Cultural aspects, Cultural differences, Environmental factors, Ethical aspects, Ethics, Globalization, International relations, Peace technology, Philosophical considerations, Social factors, Sustainable development, Technology); Solid state circuits (Circuit subsystems, Circuit theory, FET circuits, Gate leakage, Solid state circuit design, Transistors); Superconductivity (Bean model, Critical current density, Flux pinning, Superconducting devices, Superconducting films, Superconducting integrated circuits, Superconducting magnetic energy storage, Superconducting materials, Superconducting transition temperature, Superconductive tunneling); Systems engineering and theory (Adaptive systems, Capability engineering, Complex systems, Configuration management, Failure state, Hierarchical systems, Integrated design, Interface management, Military systems, Modeling, Multidimensional systems, Network systems, Physical design, Reduced order systems, Requirements engineering, Requirements management, Service-oriented systems engineering, Solution design, Stochastic systems, System analysis and design, System implementation, System improvement, System integration, System of systems, System realization, System validation, System verification, Systems architecture, Systems engineering education, Systems operation, Systems simulation, Systems support, Systems thinking, Task analysis, Technical management); Systems, man, and cybernetics (Behavioral sciences, Biological control systems, Computational linguistics, Cybernetics, Ergonomics, Human factors, Human-machine systems, Identification of persons, Pervasive computing, Posthuman, Remote working, Transhuman, User interfaces); Ultrasonics, ferroelectrics, and frequency control (Ferroelectric materials, Frequency control, Piezoelectricity, Pyroelectricity, Ultrasonic imaging, Ultrasonic transducers); Vehicular and wireless technologies (Automotive engineering, Land mobile radio equipment, Navigation, Propulsion, Vehicles, Wireless sensor networks); Vertical takeoff and landing aircraft (Helicopters)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>IEEE Thesaurus</strong><br>IEEE 叙词表</td>
+<td>&quot;The IEEE Thesaurus is a <strong>controlled vocabulary</strong> of about 12,770 <strong>descriptive engineering, technical, and scientific terms</strong> as well as IEEE-specific society terms.&quot;</td>
+<td>IEEE 叙词表是一套<strong>受控词表</strong>，收录约 12,770 个<strong>描述性的工程、技术和科学术语</strong>，以及 IEEE 各学会特有的术语。</td>
+<td><a href="https://www.ieee.org/publications/services/thesaurus#:%7E:text=The%20IEEE%20Thesaurus%20is%20a%20controlled%20vocabulary">Institute of Electrical and Electronics Engineers, n.d., &quot;General information on the IEEE Thesaurus&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="aerospace-and-electronic-systems/index.html">Aerospace and electronic systems</a></strong><br>航空航天与电子系统</td>
+<td>(context) &quot;<strong>producing or operating aircraft or spacecraft</strong>&quot;</td>
+<td>（语境）<strong>生产或运营飞机或航天器的</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/aerospace">Cambridge University Press &amp; Assessment, n.d., &quot;aerospace&quot; adjective</a></td>
+</tr>
+<tr>
+<td><strong><a href="antennas-and-propagation/index.html">Antennas and propagation</a></strong><br>天线与传播</td>
+<td>(context) &quot;<strong>an aerial</strong>&quot;</td>
+<td>（语境）<strong>天线</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/antenna">Cambridge University Press &amp; Assessment, n.d., &quot;antenna&quot; noun (PART OF RADIO)</a></td>
+</tr>
+<tr>
+<td><strong><a href="broadcast-technology/index.html">Broadcast technology</a></strong><br>广播技术</td>
+<td>(context) &quot;the activity or business of <strong>sending out programmes on television or radio</strong>&quot;</td>
+<td>（语境）<strong>通过电视或广播播出节目</strong>的活动或行业</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/broadcasting">Cambridge University Press &amp; Assessment, n.d., &quot;broadcasting&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="circuits-and-systems/index.html">Circuits and systems</a></strong><br>电路与系统</td>
+<td>(context) &quot;a <strong>closed system of wires or pipes</strong> through which <strong>electricity or liquid can flow</strong>&quot;</td>
+<td>（语境）一个<strong>由电线或管道构成的闭合系统</strong>，<strong>电或液体可以从中流过</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/circuit">Cambridge University Press &amp; Assessment, n.d., &quot;circuit&quot; noun (CLOSED SYSTEM)</a></td>
+</tr>
+<tr>
+<td><strong><a href="communications-technology/index.html">Communications technology</a></strong><br>通信技术</td>
+<td>(context) &quot;the <strong>sending and receiving of messages over distance</strong>, especially by phone, radio, and television&quot;</td>
+<td>（语境）<strong>远距离发送和接收信息</strong>，尤其是通过电话、无线电和电视</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/telecommunications">Cambridge University Press &amp; Assessment, n.d., &quot;telecommunications&quot; plural noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="components-packaging-and-manufacturing-technology/index.html">Components, packaging, and manufacturing technology</a></strong><br>元件、封装与制造技术</td>
+<td>(context) &quot;<strong>a part that combines with other parts</strong> to <strong>form something bigger</strong>&quot;</td>
+<td>（语境）<strong>与其他部分组合</strong>以<strong>构成更大整体的部分</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/component">Cambridge University Press &amp; Assessment, n.d., &quot;component&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="computational-and-artificial-intelligence/index.html">Computational and artificial intelligence</a></strong><br>计算智能与人工智能</td>
+<td>(context) &quot;the use or study of <strong>computer systems or machines that have some of the qualities that the human brain has</strong>&quot;</td>
+<td>（语境）对<strong>具有人脑某些特质的计算机系统或机器</strong>的使用或研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/artificial-intelligence">Cambridge University Press &amp; Assessment, n.d., &quot;artificial intelligence&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="computers-and-information-processing/index.html">Computers and information processing</a></strong><br>计算机与信息处理</td>
+<td>(context) &quot;the <strong>study or use of computers</strong>&quot;</td>
+<td>（语境）<strong>对计算机的研究或使用</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/computing">Cambridge University Press &amp; Assessment, n.d., &quot;computing&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="consumer-electronics/index.html">Consumer electronics</a></strong><br>消费电子</td>
+<td>&quot;<strong>electronic products</strong> that are bought by people <strong>for their own use</strong>&quot;</td>
+<td>人们买来<strong>自用</strong>的<strong>电子产品</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/consumer-electronics">Cambridge University Press &amp; Assessment, n.d., &quot;consumer electronics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="control-systems/index.html">Control systems</a></strong><br>控制系统</td>
+<td>(context) &quot;to <strong>order, limit, or rule something</strong>, or someone's actions or behaviour&quot;</td>
+<td>（语境）<strong>命令、限制或支配某物</strong>，或某人的行动或行为</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/control">Cambridge University Press &amp; Assessment, n.d., &quot;control&quot; verb</a></td>
+</tr>
+<tr>
+<td><strong><a href="dielectrics-and-electrical-insulation/index.html">Dielectrics and electrical insulation</a></strong><br>电介质与电气绝缘</td>
+<td>(context) &quot;<strong>a substance or device</strong> that is able to <strong>contain an electric field without conducting</strong> (= passing along) electricity&quot;</td>
+<td>（语境）<strong>一种物质或器件</strong>，能够<strong>容纳电场而不导电</strong>（即不让电流通过）</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/dielectric">Cambridge University Press &amp; Assessment, n.d., &quot;dielectric&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="education/index.html">Education</a></strong><br>教育</td>
+<td>&quot;<strong>the process of teaching or learning</strong>, especially in a school or college, or <strong>the knowledge that you get from this</strong>&quot;</td>
+<td><strong>教或学的过程</strong>，尤其是在中小学或大学里，或指<strong>从中获得的知识</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/education">Cambridge University Press &amp; Assessment, n.d., &quot;education&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="electromagnetic-compatibility-and-interference/index.html">Electromagnetic compatibility and interference</a></strong><br>电磁兼容与干扰</td>
+<td>(context) &quot;<strong>anything that damages a signal</strong>, such as <strong>noise or electronic signals</strong> that stop you from getting good pictures or sound on a television or radio&quot;</td>
+<td>（语境）<strong>任何损害信号的东西</strong>，例如使电视或收音机无法获得良好图像或声音的<strong>噪声或电子信号</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/interference">Cambridge University Press &amp; Assessment, n.d., &quot;interference&quot; noun (SIGNAL, WAVE)</a></td>
+</tr>
+<tr>
+<td><strong><a href="electron-devices/index.html">Electron devices</a></strong><br>电子器件</td>
+<td>(context) &quot;<strong>an extremely small piece of matter</strong> with <strong>a negative electrical charge</strong>&quot;</td>
+<td>（语境）一种<strong>带负电荷</strong>的<strong>极小物质粒子</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/electron">Cambridge University Press &amp; Assessment, n.d., &quot;electron&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="electronic-design-automation-and-methodology/index.html">Electronic design automation and methodology</a></strong><br>电子设计自动化与方法学</td>
+<td>(context) &quot;the use of <strong>machines and computers that can operate without needing human control</strong>&quot;</td>
+<td>（语境）使用<strong>无需人工控制就能运行的机器和计算机</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/automation">Cambridge University Press &amp; Assessment, n.d., &quot;automation&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="engineering-general/index.html">Engineering - general</a></strong><br>工程：总论</td>
+<td>(context) &quot;the study of using <strong>scientific principles</strong> to <strong>design and build machines, structures, and other things</strong>, including bridges, roads, vehicles, and buildings&quot;</td>
+<td>（语境）研究如何运用<strong>科学原理</strong>来<strong>设计和建造机器、结构及其他事物</strong>，包括桥梁、道路、车辆和建筑物</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/engineering">Cambridge University Press &amp; Assessment, n.d., &quot;engineering&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="engineering-in-medicine-and-biology/index.html">Engineering in medicine and biology</a></strong><br>医学与生物工程</td>
+<td>(context) &quot;the process or science of <strong>designing and making devices and materials</strong> to solve problems relating to <strong>biology, medicine, and medical care</strong>&quot;</td>
+<td>（语境）<strong>设计和制造器械与材料</strong>，以解决与<strong>生物学、医学和医疗</strong>有关问题的过程或科学</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/biomedical-engineering">Cambridge University Press &amp; Assessment, n.d., &quot;biomedical engineering&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="engineering-management/index.html">Engineering management</a></strong><br>工程管理</td>
+<td>(context) &quot;<strong>the control and organization of something</strong>&quot;</td>
+<td>（语境）<strong>对某事物的控制和组织</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/management">Cambridge University Press &amp; Assessment, n.d., &quot;management&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="geoscience-and-remote-sensing/index.html">Geoscience and remote sensing</a></strong><br>地球科学与遥感</td>
+<td>(context) &quot;<strong>the collecting of information about the earth</strong> using <strong>aircraft and satellites</strong> (= electronic devices sent into space)&quot;</td>
+<td>（语境）利用<strong>飞机和卫星</strong>（即送入太空的电子设备）<strong>收集有关地球的信息</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/remote-sensing">Cambridge University Press &amp; Assessment, n.d., &quot;remote sensing&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="ieee-organization/index.html">IEEE organization</a></strong><br>IEEE 组织</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="imaging/index.html">Imaging</a></strong><br>成像</td>
+<td>&quot;the process of <strong>producing an exact picture of something</strong>, especially on <strong>a computer screen</strong>&quot;</td>
+<td><strong>生成某物精确图像</strong>的过程，尤其是在<strong>电脑屏幕</strong>上</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/imaging">Cambridge University Press &amp; Assessment, n.d., &quot;imaging&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="industrial-electronics/index.html">Industrial electronics</a></strong><br>工业电子</td>
+<td>(context) &quot;the scientific study of <strong>electric current</strong> and <strong>the technology that uses it</strong>&quot;</td>
+<td>（语境）对<strong>电流</strong>及<strong>利用电流的技术</strong>的科学研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/electronics">Cambridge University Press &amp; Assessment, n.d., &quot;electronics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="industry-applications/index.html">Industry applications</a></strong><br>工业应用</td>
+<td>(context) &quot;<strong>the companies and activities</strong> involved in <strong>the process of producing goods for sale</strong>, especially in a factory or special area&quot;</td>
+<td>（语境）参与<strong>生产待售商品的过程</strong>的<strong>公司和活动</strong>，尤其是在工厂或特定区域中</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/industry">Cambridge University Press &amp; Assessment, n.d., &quot;industry&quot; noun (PRODUCTION)</a></td>
+</tr>
+<tr>
+<td><strong><a href="information-theory/index.html">Information theory</a></strong><br>信息论</td>
+<td>&quot;Information theory is the branch of mathematics dealing with <strong>the efficient and accurate storage, transmission, and representation of information</strong>.&quot;</td>
+<td>信息论是一个数学分支，处理<strong>信息的高效、准确存储、传输和表示</strong>。</td>
+<td><a href="https://mathworld.wolfram.com/InformationTheory.html#:%7E:text=Information%20theory%20is%20the%20branch%20of%20mathematics%20dealing%20with">Weisstein, n.d., &quot;Information theory&quot; entry, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="instrumentation-and-measurement/index.html">Instrumentation and measurement</a></strong><br>仪器仪表与测量</td>
+<td>(context) &quot;the <strong>set of instruments that are used to operate a machine</strong>&quot;</td>
+<td>（语境）<strong>用来操作一台机器的一整套仪器</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/instrumentation">Cambridge University Press &amp; Assessment, n.d., &quot;instrumentation&quot; noun (TOOL)</a></td>
+</tr>
+<tr>
+<td><strong><a href="intelligent-transportation-systems/index.html">Intelligent transportation systems</a></strong><br>智能交通系统</td>
+<td>(context) &quot;<strong>a system of vehicles</strong>, such as buses, trains, aircraft, etc. for <strong>getting from one place to another</strong>&quot;</td>
+<td>（语境）<strong>一个由车辆组成的系统</strong>，如公共汽车、火车、飞机等，用于<strong>从一地到另一地</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/transport">Cambridge University Press &amp; Assessment, n.d., &quot;transport&quot; noun (GOODS/PEOPLE)</a></td>
+</tr>
+<tr>
+<td><strong><a href="lasers-and-electrooptics/index.html">Lasers and electrooptics</a></strong><br>激光与电光学</td>
+<td>(context) &quot;<strong>a device</strong> that produces <strong>a powerful, highly controlled, narrow beam of light</strong>&quot;</td>
+<td>（语境）一种能产生<strong>强大、高度可控的窄光束</strong>的<strong>装置</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/laser">Cambridge University Press &amp; Assessment, n.d., &quot;laser&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="magnetics/index.html">Magnetics</a></strong><br>磁学</td>
+<td>(context) &quot;the <strong>power of being able to attract iron and steel objects</strong>&quot;</td>
+<td>（语境）<strong>能吸引铁和钢制物体的力</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/magnetism">Cambridge University Press &amp; Assessment, n.d., &quot;magnetism&quot; noun (OBJECT)</a></td>
+</tr>
+<tr>
+<td><strong><a href="materials-elements-and-compounds/index.html">Materials, elements, and compounds</a></strong><br>材料、元素与化合物</td>
+<td>(context) &quot;a <strong>physical substance that things can be made from</strong>&quot;</td>
+<td>（语境）<strong>可以用来制造东西的物质</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/material">Cambridge University Press &amp; Assessment, n.d., &quot;material&quot; noun (PHYSICAL SUBSTANCE)</a></td>
+</tr>
+<tr>
+<td><strong><a href="mathematics/index.html">Mathematics</a></strong><br>数学</td>
+<td>&quot;the <strong>study of numbers, shapes, and space</strong> using reason and usually <strong>a special system of symbols and rules</strong> for organizing them&quot;</td>
+<td>运用推理、通常借助<strong>一套特殊的符号和规则体系</strong>来组织的、对<strong>数、形状和空间</strong>的研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/mathematics">Cambridge University Press &amp; Assessment, n.d., &quot;mathematics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="microwave-theory-and-techniques/index.html">Microwave theory and techniques</a></strong><br>微波理论与技术</td>
+<td>(context) &quot;<strong>a very short electromagnetic wave</strong> used for cooking food or for <strong>sending information by radio or radar</strong>&quot;</td>
+<td>（语境）一种<strong>极短的电磁波</strong>，用于烹饪食物或<strong>通过无线电或雷达传递信息</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/microwave">Cambridge University Press &amp; Assessment, n.d., &quot;microwave&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="nanotechnology/index.html">Nanotechnology</a></strong><br>纳米技术</td>
+<td>&quot;an area of science that deals with <strong>developing and producing extremely small tools and machines</strong> by <strong>controlling the arrangement of separate atoms</strong>&quot;</td>
+<td>一个科学领域，通过<strong>控制单个原子的排列</strong>来<strong>开发和制造极小的工具和机器</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/nanotechnology">Cambridge University Press &amp; Assessment, n.d., &quot;nanotechnology&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="nuclear-and-plasma-sciences/index.html">Nuclear and plasma sciences</a></strong><br>核科学与等离子体科学</td>
+<td>(context) &quot;of or relating to a process by which <strong>the nucleus</strong> (= central part) <strong>of an atom is divided or joined to another nucleus</strong>, resulting in the release of energy&quot;</td>
+<td>（语境）与<strong>原子核</strong>（即中心部分）<strong>分裂或与另一个原子核结合</strong>并释放能量的过程有关的</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/nuclear">Cambridge University Press &amp; Assessment, n.d., &quot;nuclear&quot; adjective (OF ATOMS)</a></td>
+</tr>
+<tr>
+<td><strong><a href="oceanic-engineering-and-marine-technology/index.html">Oceanic engineering and marine technology</a></strong><br>海洋工程与海洋技术</td>
+<td>(context) &quot;<strong>related to the sea</strong> or <strong>sea transport</strong>&quot;</td>
+<td>（语境）<strong>与海洋</strong>或<strong>海上运输有关的</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/marine">Cambridge University Press &amp; Assessment, n.d., &quot;marine&quot; adjective</a></td>
+</tr>
+<tr>
+<td><strong><a href="power-electronics/index.html">Power electronics</a></strong><br>电力电子</td>
+<td>(context) &quot;the scientific study of <strong>electric current</strong> and <strong>the technology that uses it</strong>&quot;</td>
+<td>（语境）对<strong>电流</strong>及<strong>利用电流的技术</strong>的科学研究</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/electronics">Cambridge University Press &amp; Assessment, n.d., &quot;electronics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="power-engineering-and-energy/index.html">Power engineering and energy</a></strong><br>电力工程与能源</td>
+<td>(context) &quot;the <strong>power from something such as electricity or oil</strong> that can do work, such as <strong>providing light and heat</strong>&quot;</td>
+<td>（语境）来自<strong>电或石油等事物的能量</strong>，可以做功，例如<strong>提供光和热</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/energy">Cambridge University Press &amp; Assessment, n.d., &quot;energy&quot; noun (POWER)</a></td>
+</tr>
+<tr>
+<td><strong><a href="product-safety-engineering/index.html">Product safety engineering</a></strong><br>产品安全工程</td>
+<td>(context) &quot;a state in which or a place where you are <strong>safe and not in danger or at risk</strong>&quot;</td>
+<td>（语境）<strong>安全、没有危险或风险</strong>的状态或地方</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/safety">Cambridge University Press &amp; Assessment, n.d., &quot;safety&quot; noun (NOT BEING IN DANGER)</a></td>
+</tr>
+<tr>
+<td><strong><a href="professional-communication/index.html">Professional communication</a></strong><br>专业交流</td>
+<td>(context) &quot;<strong>the act of communicating with people</strong>&quot;</td>
+<td>（语境）<strong>与人交流的行为</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/communication">Cambridge University Press &amp; Assessment, n.d., &quot;communication&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="reliability/index.html">Reliability</a></strong><br>可靠性</td>
+<td>&quot;<strong>how well a machine, piece of equipment, or system works</strong>&quot;</td>
+<td><strong>机器、设备或系统运行得有多好</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/reliability">Cambridge University Press &amp; Assessment, n.d., &quot;reliability&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="resonance/index.html">Resonance</a></strong><br>共振</td>
+<td>&quot;the <strong>production of a sound as a result of vibration</strong> (= shaking) <strong>of another object</strong>&quot;</td>
+<td><strong>因另一物体的振动</strong>（即摇动）<strong>而产生声音</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/resonance">Cambridge University Press &amp; Assessment, n.d., &quot;resonance&quot; noun (SOUND)</a></td>
+</tr>
+<tr>
+<td><strong><a href="robotics-and-automation/index.html">Robotics and automation</a></strong><br>机器人与自动化</td>
+<td>(context) &quot;the <strong>science of making and using robots</strong> (= machines controlled by computers that are used to perform jobs automatically)&quot;</td>
+<td>（语境）<strong>制造和使用机器人的科学</strong>（机器人即由计算机控制、用来自动完成工作的机器）</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/robotics">Cambridge University Press &amp; Assessment, n.d., &quot;robotics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="science-general/index.html">Science - general</a></strong><br>科学：总论</td>
+<td>&quot;(knowledge from) <strong>the careful study of the structure and behaviour of the physical world</strong>, especially by watching, measuring, and doing experiments, and <strong>the development of theories</strong> to describe the results of these activities&quot;</td>
+<td>（来自）对<strong>物质世界的结构和行为的仔细研究</strong>（尤其是通过观察、测量和实验）以及为描述这些活动的结果而<strong>发展理论</strong>（所得的知识）</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/science">Cambridge University Press &amp; Assessment, n.d., &quot;science&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="sensors/index.html">Sensors</a></strong><br>传感器</td>
+<td>&quot;a <strong>device</strong> that is used to <strong>record that something is present or that there are changes in something</strong>&quot;</td>
+<td>用来<strong>记录某物存在或某物发生变化</strong>的<strong>装置</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/sensor">Cambridge University Press &amp; Assessment, n.d., &quot;sensor&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="signal-processing/index.html">Signal processing</a></strong><br>信号处理</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="social-implications-of-technology/index.html">Social implications of technology</a></strong><br>技术的社会影响</td>
+<td>(context) &quot;(the study and knowledge of) <strong>the practical, especially industrial, use of scientific discoveries</strong>&quot;</td>
+<td>（语境）（对）<strong>科学发现的实际应用，尤其是工业应用</strong>（的研究和认识）</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/technology">Cambridge University Press &amp; Assessment, n.d., &quot;technology&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="solid-state-circuits/index.html">Solid state circuits</a></strong><br>固态电路</td>
+<td>(context) &quot;used to refer to <strong>an electronic device</strong> in which <strong>the flow of electrical current is through solid material</strong> and not through a vacuum (= space without air)&quot;</td>
+<td>（语境）指一种<strong>电子器件</strong>，其中<strong>电流通过固体材料流动</strong>，而不是通过真空（即没有空气的空间）</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/solid-state">Cambridge University Press &amp; Assessment, n.d., &quot;solid-state&quot; adjective</a></td>
+</tr>
+<tr>
+<td><strong><a href="superconductivity/index.html">Superconductivity</a></strong><br>超导</td>
+<td>&quot;the <strong>property of allowing an electrical current to flow through at a very low temperature</strong>&quot;</td>
+<td><strong>在极低温度下让电流通过的性质</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/superconductivity">Cambridge University Press &amp; Assessment, n.d., &quot;superconductivity&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="systems-engineering-and-theory/index.html">Systems engineering and theory</a></strong><br>系统工程与理论</td>
+<td>(Definition pending: the classification gives none and no dictionary entry fits.)</td>
+<td>（定义待补：分类本身没有给出定义，词典里也没有合适的词条。）</td>
+<td>Pending</td>
+</tr>
+<tr>
+<td><strong><a href="systems-man-and-cybernetics/index.html">Systems, man, and cybernetics</a></strong><br>系统、人与控制论</td>
+<td>(context) &quot;the scientific study of <strong>how information is communicated in machines and electronic devices</strong>, comparing this with <strong>how information is communicated in the brain and nervous system</strong>&quot;</td>
+<td>（语境）研究<strong>信息在机器和电子设备中如何传递</strong>的科学，并将其与<strong>信息在大脑和神经系统中如何传递</strong>相比较</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/cybernetics">Cambridge University Press &amp; Assessment, n.d., &quot;cybernetics&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="ultrasonics-ferroelectrics-and-frequency-control/index.html">Ultrasonics, ferroelectrics, and frequency control</a></strong><br>超声、铁电与频率控制</td>
+<td>(context) &quot;<strong>special sound waves</strong> used in such processes as <strong>examining organs inside the body</strong> and directing the route of submarines&quot;</td>
+<td>（语境）<strong>一种特殊的声波</strong>，用于<strong>检查体内器官</strong>、引导潜艇航线等过程</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/ultrasound">Cambridge University Press &amp; Assessment, n.d., &quot;ultrasound&quot; noun</a></td>
+</tr>
+<tr>
+<td><strong><a href="vehicular-and-wireless-technologies/index.html">Vehicular and wireless technologies</a></strong><br>车辆与无线技术</td>
+<td>(context) &quot;using <strong>a system of radio signals rather than wires</strong> to <strong>connect computers, mobile phones, etc. to each other</strong>&quot;</td>
+<td>（语境）使用<strong>无线电信号系统而不是电线</strong>来<strong>把电脑、手机等相互连接</strong></td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/wireless">Cambridge University Press &amp; Assessment, n.d., &quot;wireless&quot; adjective</a></td>
+</tr>
+<tr>
+<td><strong><a href="vertical-takeoff-and-landing-aircraft/index.html">Vertical takeoff and landing aircraft</a></strong><br>垂直起降飞机</td>
+<td>&quot;used to describe an <strong>aircraft that is able to take off and land vertically</strong>, going straight up and straight down from and to the ground&quot;</td>
+<td>用来形容<strong>能够垂直起飞和降落的飞机</strong>，即从地面直上直下</td>
+<td><a href="https://dictionary.cambridge.org/dictionary/english/vtol">Cambridge University Press &amp; Assessment, n.d., &quot;VTOL&quot; adjective</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Aerospace. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/aerospace">https://dictionary.cambridge.org/dictionary/english/aerospace</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Antenna. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/antenna">https://dictionary.cambridge.org/dictionary/english/antenna</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Artificial intelligence. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/artificial-intelligence">https://dictionary.cambridge.org/dictionary/english/artificial-intelligence</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Automation. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/automation">https://dictionary.cambridge.org/dictionary/english/automation</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Biomedical engineering. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/biomedical-engineering">https://dictionary.cambridge.org/dictionary/english/biomedical-engineering</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Broadcasting. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/broadcasting">https://dictionary.cambridge.org/dictionary/english/broadcasting</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Circuit. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/circuit">https://dictionary.cambridge.org/dictionary/english/circuit</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Communication. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/communication">https://dictionary.cambridge.org/dictionary/english/communication</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Component. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/component">https://dictionary.cambridge.org/dictionary/english/component</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Computing. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/computing">https://dictionary.cambridge.org/dictionary/english/computing</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Consumer electronics. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/consumer-electronics">https://dictionary.cambridge.org/dictionary/english/consumer-electronics</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Control. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/control">https://dictionary.cambridge.org/dictionary/english/control</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Cybernetics. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/cybernetics">https://dictionary.cambridge.org/dictionary/english/cybernetics</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Dielectric. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/dielectric">https://dictionary.cambridge.org/dictionary/english/dielectric</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Education. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/education">https://dictionary.cambridge.org/dictionary/english/education</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Electron. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/electron">https://dictionary.cambridge.org/dictionary/english/electron</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Electronics. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/electronics">https://dictionary.cambridge.org/dictionary/english/electronics</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Energy. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/energy">https://dictionary.cambridge.org/dictionary/english/energy</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Engineering. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/engineering">https://dictionary.cambridge.org/dictionary/english/engineering</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Imaging. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/imaging">https://dictionary.cambridge.org/dictionary/english/imaging</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Industry. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/industry">https://dictionary.cambridge.org/dictionary/english/industry</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Instrumentation. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/instrumentation">https://dictionary.cambridge.org/dictionary/english/instrumentation</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Interference. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/interference">https://dictionary.cambridge.org/dictionary/english/interference</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Laser. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/laser">https://dictionary.cambridge.org/dictionary/english/laser</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Magnetism. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/magnetism">https://dictionary.cambridge.org/dictionary/english/magnetism</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Management. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/management">https://dictionary.cambridge.org/dictionary/english/management</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Marine. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/marine">https://dictionary.cambridge.org/dictionary/english/marine</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Material. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/material">https://dictionary.cambridge.org/dictionary/english/material</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Mathematics. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/mathematics">https://dictionary.cambridge.org/dictionary/english/mathematics</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Microwave. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/microwave">https://dictionary.cambridge.org/dictionary/english/microwave</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Nanotechnology. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/nanotechnology">https://dictionary.cambridge.org/dictionary/english/nanotechnology</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Nuclear. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/nuclear">https://dictionary.cambridge.org/dictionary/english/nuclear</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Reliability. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/reliability">https://dictionary.cambridge.org/dictionary/english/reliability</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Remote sensing. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/remote-sensing">https://dictionary.cambridge.org/dictionary/english/remote-sensing</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Resonance. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/resonance">https://dictionary.cambridge.org/dictionary/english/resonance</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Robotics. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/robotics">https://dictionary.cambridge.org/dictionary/english/robotics</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Safety. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/safety">https://dictionary.cambridge.org/dictionary/english/safety</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Science. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/science">https://dictionary.cambridge.org/dictionary/english/science</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Sensor. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/sensor">https://dictionary.cambridge.org/dictionary/english/sensor</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Solid-state. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/solid-state">https://dictionary.cambridge.org/dictionary/english/solid-state</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Superconductivity. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/superconductivity">https://dictionary.cambridge.org/dictionary/english/superconductivity</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Technology. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/technology">https://dictionary.cambridge.org/dictionary/english/technology</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Telecommunications. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/telecommunications">https://dictionary.cambridge.org/dictionary/english/telecommunications</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Transport. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/transport">https://dictionary.cambridge.org/dictionary/english/transport</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Ultrasound. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/ultrasound">https://dictionary.cambridge.org/dictionary/english/ultrasound</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). VTOL. In <em>Cambridge Dictionary</em>. Retrieved October 30, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/vtol">https://dictionary.cambridge.org/dictionary/english/vtol</a></p>
+<p>Cambridge University Press &amp; Assessment. (n.d.). Wireless. In <em>Cambridge Dictionary</em>. Retrieved October 28, 2026, from <a href="https://dictionary.cambridge.org/dictionary/english/wireless">https://dictionary.cambridge.org/dictionary/english/wireless</a></p>
+<p>Institute of Electrical and Electronics Engineers. (2026). <em>IEEE Thesaurus</em> (Version 1.06, July 2026). <a href="https://www.ieee.org/publications/services/thesaurus">https://www.ieee.org/publications/services/thesaurus</a></p>
+<p>Institute of Electrical and Electronics Engineers. (n.d.). <em>IEEE Thesaurus</em>. Retrieved October 27, 2026, from <a href="https://www.ieee.org/publications/services/thesaurus">https://www.ieee.org/publications/services/thesaurus</a></p>
+<p>Weisstein, E. W. (n.d.). <em>Information theory</em>. MathWorld: A Wolfram Resource. Retrieved October 28, 2026, from <a href="https://mathworld.wolfram.com/InformationTheory.html">https://mathworld.wolfram.com/InformationTheory.html</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-30 12:50:35-04:00">10/30/2026 12:50:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

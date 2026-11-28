@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2. Database Design | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="SQL Server, 2. Database design: Hierarchical data, Collation, Database, Event notification, FILESTREAM, FileTable, Graph database, Sequence, Service Broker, Spatial data, Stored procedure, Table, Change data capture, Change tracking, Logon trigger, User-defined function, View, xml data type.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2-database-design">2. Database Design</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/database-design.png" alt="Database design: Hierarchical data, Collation, Database, Event notification, FILESTREAM, FileTable, Graph database, Sequence, Service Broker, Spatial data, Stored procedure, Table, Change data capture, Change tracking, Logon trigger, User-defined function, View, xml data type."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="hierarchical-data.html">Hierarchical data</a></strong><br>层次结构数据</td>
+<td>&quot;<strong>Hierarchical data</strong> is defined as <strong>a set of data items that are related to each other by hierarchical relationships</strong>.&quot;</td>
+<td><strong>层次结构数据</strong>被定义为<strong>一组通过层次关系相互关联的数据项</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/hierarchical-data-sql-server#:%7E:text=Hierarchical%20data%20is%20defined%20as%20a%20set%20of">Microsoft, 2025c, para. 2</a></td>
+</tr>
+<tr>
+<td><strong><a href="collation.html">Collation</a></strong><br>排序规则</td>
+<td>&quot;A <strong>collation</strong> <strong>specifies the bit patterns that represent each character in a dataset</strong>. Collations also <strong>determine the rules that sort and compare data</strong>.&quot;</td>
+<td><strong>排序规则</strong>会<strong>指定表示数据集中每个字符的位模式</strong>。排序规则还会<strong>决定对数据进行排序和比较的规则</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/collations/collation-and-unicode-support#:%7E:text=A%20collation%20specifies%20the%20bit%20patterns%20that%20represent">Microsoft, 2026a, &quot;Collation&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="database.html">Database</a></strong><br>数据库</td>
+<td>&quot;A <strong>database</strong> in SQL Server is <strong>made up of a collection of tables</strong> that stores a specific set of structured data.&quot;</td>
+<td>SQL Server 中的<strong>数据库</strong>由<strong>一组表构成</strong>，这些表存储一组特定的结构化数据。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases#:%7E:text=A%20database%20in%20SQL%20Server%20is%20made%20up">Microsoft, 2017b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="event-notification.html">Event notification</a></strong><br>事件通知</td>
+<td>&quot;<strong>Event notifications</strong> <strong>send information about events to a Service Broker service</strong>.&quot;</td>
+<td><strong>事件通知</strong>会<strong>把有关事件的信息发送到 Service Broker 服务</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/service-broker/event-notifications#:%7E:text=Event%20notifications%20send%20information%20about%20events%20to%20a">Microsoft, 2025a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="filestream.html">FILESTREAM</a></strong><br>FILESTREAM</td>
+<td>&quot;<strong>FILESTREAM</strong> <strong>enables SQL Server-based applications to store unstructured data</strong>, such as documents and images, on the file system.&quot;</td>
+<td><strong>FILESTREAM</strong> 让基于 SQL Server 的应用程序能够把<strong>非结构化数据</strong>（例如文档和图像）<strong>存储在文件系统上</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/blob/binary-large-object-blob-data-sql-server#:%7E:text=FILESTREAM%20enables%20SQL%20Server-based%20applications%20to%20store%20unstructured">Microsoft, 2017a, &quot;FILESTREAM (SQL Server)&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="filetable.html">FileTable</a></strong><br>FileTable</td>
+<td>&quot;The <strong>FileTable</strong> feature <strong>brings support for the Windows file namespace and compatibility with Windows applications</strong> to the file data stored in SQL Server.&quot;</td>
+<td><strong>FileTable</strong> 功能<strong>为存储在 SQL Server 中的文件数据带来对 Windows 文件命名空间的支持以及与 Windows 应用程序的兼容性</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/blob/binary-large-object-blob-data-sql-server#:%7E:text=The%20FileTable%20feature%20brings%20support%20for%20the%20Windows">Microsoft, 2017a, &quot;FileTables (SQL Server)&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="graph-database.html">Graph database</a></strong><br>图数据库</td>
+<td>&quot;A <strong>graph database</strong> is <strong>a collection of nodes (or vertices) and edges (or relationships)</strong>.&quot;</td>
+<td><strong>图数据库</strong>是<strong>节点（或顶点）与边（或关系）的集合</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/graphs/sql-graph-overview#:%7E:text=A%20graph%20database%20is%20a%20collection%20of%20nodes">Microsoft, 2025b, &quot;What is a graph database?&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="sequence.html">Sequence</a></strong><br>序列</td>
+<td>&quot;A <strong>sequence</strong> is <strong>a user-defined schema-bound object</strong> that generates a sequence of numeric values according to the specification with which the sequence was created.&quot;</td>
+<td><strong>序列</strong>是<strong>用户定义的、绑定到架构的对象</strong>，它按照创建序列时所指定的规格生成一系列数值。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/sequence-numbers/sequence-numbers#:%7E:text=A%20sequence%20is%20a%20user-defined%20schema-bound%20object%20that">Microsoft, 2025d, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="service-broker.html">Service Broker</a></strong><br>Service Broker</td>
+<td>&quot;<strong>Service Broker</strong> is <strong>a message delivery framework</strong> that enables you to create <strong>native in-database service-oriented applications</strong>.&quot;</td>
+<td><strong>Service Broker</strong> 是<strong>一个消息传递框架</strong>，让你能够创建<strong>原生的数据库内面向服务的应用程序</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-service-broker#:%7E:text=Service%20Broker%20is%20a%20message%20delivery%20framework%20that">Microsoft, 2025e, &quot;Overview&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="spatial-data.html">Spatial data</a></strong><br>空间数据</td>
+<td>&quot;<strong>Spatial data</strong> represents <strong>information about the physical location and shape of geometric objects</strong>.&quot;</td>
+<td><strong>空间数据</strong>表示<strong>有关几何对象的物理位置和形状的信息</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server#:%7E:text=Spatial%20data%20represents%20information%20about%20the%20physical%20location">Microsoft, 2024b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="stored-procedure.html">Stored procedure</a></strong><br>存储过程</td>
+<td>&quot;A <strong>stored procedure</strong> in SQL Server is <strong>a group of one or more Transact-SQL statements</strong>, or a reference to a Microsoft .NET Framework common runtime language (CLR) method.&quot;</td>
+<td>SQL Server 中的<strong>存储过程</strong>是<strong>一组一条或多条 Transact-SQL 语句</strong>，或是对 Microsoft .NET Framework 公共语言运行时 (CLR) 方法的引用。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/stored-procedures/stored-procedures-database-engine#:%7E:text=A%20stored%20procedure%20in%20SQL%20Server%20is%20a">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="table.html">Table</a></strong><br>表</td>
+<td>&quot;<strong>Tables</strong> are <strong>database objects that contain all the data in a database</strong>.&quot;</td>
+<td><strong>表</strong>是<strong>包含数据库中全部数据的数据库对象</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/tables/tables#:%7E:text=Tables%20are%20database%20objects%20that%20contain%20all%20the">Microsoft, 2025f, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="change-data-capture.html">Change data capture</a></strong><br>变更数据捕获</td>
+<td>&quot;<strong>Change data capture</strong> <strong>provides historical change information for a user table</strong> by capturing both the fact that DML changes were made and the actual data that was changed.&quot;</td>
+<td><strong>变更数据捕获</strong>通过同时捕获 DML 更改已发生这一事实和实际被更改的数据，来<strong>为用户表提供历史更改信息</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/track-data-changes-sql-server#:%7E:text=Change%20data%20capture%20provides%20historical%20change%20information%20for">Microsoft, 2025g, &quot;Change data capture&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="change-tracking.html">Change tracking</a></strong><br>更改跟踪</td>
+<td>&quot;<strong>Change tracking</strong> <strong>captures the fact that rows in a table were changed</strong>, but doesn't capture the data that was changed.&quot;</td>
+<td><strong>更改跟踪</strong>会<strong>捕获表中的行已被更改这一事实</strong>，但不会捕获被更改的数据。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/track-data-changes-sql-server#:%7E:text=Change%20tracking%20captures%20the%20fact%20that%20rows%20in">Microsoft, 2025g, &quot;Change tracking&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="logon-trigger.html">Logon trigger</a></strong><br>登录触发器</td>
+<td>&quot;<strong>Logon triggers</strong> <strong>fire stored procedures in response to a</strong> <code>LOGON</code> <strong>event</strong>.&quot;</td>
+<td><strong>登录触发器</strong>会<strong>响应</strong> <code>LOGON</code> <strong>事件而触发存储过程</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/triggers/logon-triggers#:%7E:text=Logon%20triggers%20fire%20stored%20procedures%20in%20response%20to">Microsoft, 2024a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="user-defined-function.html">User-defined function</a></strong><br>用户定义函数</td>
+<td>&quot;Like functions in programming languages, SQL Server <strong>user-defined functions</strong> are <strong>routines that accept parameters, perform an action</strong>, such as a complex calculation, and <strong>return the result of that action as a value</strong>.&quot;</td>
+<td>与编程语言中的函数类似，SQL Server <strong>用户定义函数</strong>是<strong>接受参数、执行某个操作</strong>（例如复杂计算）并<strong>以值的形式返回该操作结果的例程</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions#:%7E:text=Like%20functions%20in%20programming%20languages%2C%20SQL%20Server%20user-defined">Microsoft, 2025h, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="view.html">View</a></strong><br>视图</td>
+<td>&quot;A <strong>view</strong> is <strong>a virtual table whose contents are defined by a query</strong>.&quot;</td>
+<td><strong>视图</strong>是<strong>其内容由查询定义的虚拟表</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/views/views#:%7E:text=A%20view%20is%20a%20virtual%20table%20whose%20contents">Microsoft, 2024c, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="xml-data-type.html">xml data type</a></strong><br>xml 数据类型</td>
+<td>&quot;The <strong>xml</strong> data type. XML values <strong>can be stored natively in an xml data type column</strong> that can be typed according to a collection of XML schemas, or left untyped.&quot;</td>
+<td><strong>xml</strong> 数据类型。XML 值<strong>可以原生存储在 xml 数据类型的列中</strong>，该列可以按一组 XML 架构进行类型化，也可以保持非类型化。</td>
+<td><a href="https://learn.microsoft.com/en-us/sql/relational-databases/xml/xml-data-sql-server#:%7E:text=The%20xml%20data%20type.%20XML%20values%20can%20be">Microsoft, 2023, intro list, item 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2017a, March 14). <em>Binary Large Object (Blob) Data (SQL Server)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/blob/binary-large-object-blob-data-sql-server">https://learn.microsoft.com/en-us/sql/relational-databases/blob/binary-large-object-blob-data-sql-server</a></li>
+<li>Microsoft. (2017b, March 14). <em>Databases</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases">https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases</a></li>
+<li>Microsoft. (2023, August 4). <em>XML data (SQL Server)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/xml/xml-data-sql-server">https://learn.microsoft.com/en-us/sql/relational-databases/xml/xml-data-sql-server</a></li>
+<li>Microsoft. (2024a, April 8). <em>Logon triggers</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/triggers/logon-triggers">https://learn.microsoft.com/en-us/sql/relational-databases/triggers/logon-triggers</a></li>
+<li>Microsoft. (2024b, November 4). <em>Spatial Data</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server">https://learn.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server</a></li>
+<li>Microsoft. (2024c, September 24). <em>Views</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/views/views">https://learn.microsoft.com/en-us/sql/relational-databases/views/views</a></li>
+<li>Microsoft. (2025a, August 29). <em>Event notifications</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/service-broker/event-notifications">https://learn.microsoft.com/en-us/sql/relational-databases/service-broker/event-notifications</a></li>
+<li>Microsoft. (2025b, October 14). <em>Graph processing with SQL Server and Azure SQL Database</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/graphs/sql-graph-overview">https://learn.microsoft.com/en-us/sql/relational-databases/graphs/sql-graph-overview</a></li>
+<li>Microsoft. (2025c, May 19). <em>Hierarchical data (SQL Server)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/hierarchical-data-sql-server">https://learn.microsoft.com/en-us/sql/relational-databases/hierarchical-data-sql-server</a></li>
+<li>Microsoft. (2025d, December 9). <em>Sequence numbers</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/sequence-numbers/sequence-numbers">https://learn.microsoft.com/en-us/sql/relational-databases/sequence-numbers/sequence-numbers</a></li>
+<li>Microsoft. (2025e, September 23). <em>Service Broker</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-service-broker">https://learn.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-service-broker</a></li>
+<li>Microsoft. (2025f, October 13). <em>Tables</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/tables/tables">https://learn.microsoft.com/en-us/sql/relational-databases/tables/tables</a></li>
+<li>Microsoft. (2025g, August 21). <em>Track data changes (SQL Server)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/track-data-changes-sql-server">https://learn.microsoft.com/en-us/sql/relational-databases/track-changes/track-data-changes-sql-server</a></li>
+<li>Microsoft. (2025h, July 18). <em>User-defined functions</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions">https://learn.microsoft.com/en-us/sql/relational-databases/user-defined-functions/user-defined-functions</a></li>
+<li>Microsoft. (2026a, January 7). <em>Collation and Unicode support</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/collations/collation-and-unicode-support">https://learn.microsoft.com/en-us/sql/relational-databases/collations/collation-and-unicode-support</a></li>
+<li>Microsoft. (2026b, September 30). <em>Stored procedures (Database Engine)</em>. Microsoft Learn. <a href="https://learn.microsoft.com/en-us/sql/relational-databases/stored-procedures/stored-procedures-database-engine">https://learn.microsoft.com/en-us/sql/relational-databases/stored-procedures/stored-procedures-database-engine</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 21:51:35-04:00">10/27/2026 21:51:35</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

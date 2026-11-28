@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>The Full Stack Midterm Project | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="In a three-person midterm project with a difficult teammate, I quietly built the whole project on my own as a backup and submitted on time, October 2026.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="the-full-stack-midterm-project">The Full Stack Midterm Project</h1>
+
+<ul>
+<li><strong>Time:</strong> October 15 to 23, 2026</li>
+<li><strong>Topic:</strong> Learning</li>
+<li><strong>My role:</strong> built the whole project on my own as a backup (code, deployment, video and documentation), then submitted it</li>
+</ul>
+<p>In a randomly assigned three-person midterm project, a teammate kept pushing an unrealistic plan, so I quietly built the whole project on my own as a backup, told the teacher about the risk early, and submitted it before the deadline.</p>
+<p>在一个随机分组的三人期中项目里，一位组员一直坚持一个不现实的计划，所以我私下自己把整个项目做完作为备份，提前跟老师说明了风险，最后在截止前提交了。</p>
+<h2 id="what-happened">What Happened</h2>
+<h3 id="the-project">The Project</h3>
+<p>Recently, in CST8915 Full-stack Cloud-native Development, a course in my Cloud program, there was a midterm project, worth 15% and due on October 23, 2026: an Order Analytics service that consumes orders from RabbitMQ and is deployed on Azure. The teacher randomly put us into groups of three to complete a lab. Normally that lab could be done in two hours, and the teacher said so too. But because this is teaching, there had to be a group or midterm project, so the teacher assigned groups of three at random. The teacher is very good; I have no complaints about the teacher at all.</p>
+<p>最近 Cloud 专业的全栈课 CST8915 Full-stack Cloud-native Development 有一个期中项目，占 15%，2026 年 10 月 23 日截止：做一个从 RabbitMQ 消费订单的 Order Analytics 服务，部署到 Azure 上。老师随机指定三个人一组，完成一个实验。正常来讲这个实验两个小时就能做完，老师也是这么说的。但因为这是教学，必须得有一个小组项目或期中项目，所以老师随机分配三个人一组。这个老师非常不错，我对老师没有任何意见。</p>
+<h3 id="the-teammate">The Teammate</h3>
+<p>I ended up with a very odd teammate. Later I learned that he behaved the same way in every other group he had been in. He came late to basically every class, sometimes didn't come at all, and sometimes left early, just picking up his small bag and walking out. When he did come, he asked the teacher unrelated questions in the middle of the lecture, such as where the slides were or why he couldn't open them. I already found him strange, and that impression stayed with me.</p>
+<p>我遇到了一个很奇葩的组员。后来我了解到，他在其他任何组里都是一样的行为。他基本上每节课都迟到，有时候不来，有时候早走，拎个小包就走了。来上课的时候，老师讲着课，他就问一些不相关的问题，比如这个 PPT 在哪、我怎么打不开之类的。我当时就觉得这个人特别奇怪，心里已经对他有了这个印象。</p>
+<h3 id="the-plan">The Plan</h3>
+<p>After the group was set up, on October 15, at eleven or twelve at night, he sent us a message on Teams: an eight-day plan he had made with Copilot. In his plan I was the Azure and Deployment Lead. He put a lot of weight on fairness, because the teacher required the work to be fair. He was very rude about it: he @-mentioned us at midnight or one in the morning. At that hour, do you reply or not? And when he replied, he added exclamation marks.</p>
+<p>建组之后，10 月 15 日晚上十一二点、凌晨的时候，他在 Teams 上给我们发消息，发了一个用 Copilot 做的八天计划。在他的计划里，我是 Azure 和部署负责人。他很强调公平性，因为老师要求分工公平。他非常粗鲁：晚上十二点、一点的时候艾特你。那么晚了，你是回还是不回？他回你的时候还加一些感叹号。</p>
+<p>The next day I suggested we drop the eight days and finish in three or four. At first he said he would do the code, so I said: you finish the code, I'll do the deployment, and the third person writes the documentation, so the three of us can work separately. He didn't agree, and posted another message reorganized with Copilot. His answer was very hard-line: we follow this plan, starting tomorrow. With someone like that, there was nothing more I could explain; even if I explained, he wouldn't understand, so there was no point.</p>
+<p>第二天我建议不要八天了，三四天弄完。刚开始他说他负责代码部分，我说那你把代码弄完，我来部署，另一个人写文档，我们三个人分开做。他不同意，又用 Copilot 重新整理发了一条消息出来。他的回答很强硬：就按这个来，明天开始。像这种人，我也没办法再跟他解释什么，解释了他也听不懂，就没必要了。</p>
+<h3 id="my-backup">My Backup</h3>
+<p>I figured that at his pace we basically had no chance of finishing. So privately, on my own GitHub, I did the whole thing by myself, from developing the code to recording the video to writing the documentation. Then I emailed the teacher the link to my own GitHub: I had noticed the risk, I was worried we might not be able to submit in the end, and I had a backup in case it was useful at the end.</p>
+<p>我估计按他的节奏，我们基本上没戏弄完。所以我私下用我自己的 GitHub，从代码开发到录视频到写文档，整个我一个人全弄完了。然后我把我自己的 GitHub 用邮件发给老师，说我意识到了这个风险，怕最后提交不上去，我这边有一个备份，如果最后用得上的话。</p>
+<p>As programmers, we would naturally use Claude first, but he used Copilot, so I knew he basically didn't have much skill or experience. Just as I expected, three or four days later the other two still hadn't done anything. But I wasn't worried, because I had already emailed the teacher. After three or four days the teacher replied, asking whether everything was fine. I didn't blame anyone; I said we were still working together, progress was slow, but we would do our best to submit.</p>
+<p>我们作为程序员，肯定优先用 Claude，但他还在用 Copilot，我就知道这个人基本上没什么实力，也没什么经验。正如我所料，三四天之后，那两个人还是没有什么动静。但我当时不慌，因为我已经给老师发了邮件。过了三四天，老师回邮件问一切都好吗。我也没去责怪任何人，只是说我们还在合作当中，进展比较慢，但会尽最大努力提交。</p>
+<h3 id="working-around-him">Working Around Him</h3>
+<p>Later he posted in the group again that he couldn't handle it, this and that. Earlier I had asked him to write all the code and let me test it. A few days later he said he would not write all of the code, and split part of the coding off for me to do. All sorts of odd ideas. Our work depended on each other a lot, so I had to coax him: how about we do it this way, so there are no dependencies between us. I sent it to him, and in the end he agreed, but I had to coax him into it.</p>
+<p>后来他又在群里发消息，说他又搞不定了，这个那个的。我之前跟他说，你把代码全写完，我来测试。过了几天他说，他不会把所有代码都写完，又把写代码的一部分分出来让我弄，各种奇葩想法。我们之间的工作依赖非常多，后来我就得哄着他：要不这样吧，按这种方式，我们之间就没有依赖了。我发给他，后来他也同意了，但我得哄着他。</p>
+<h3 id="the-deadline">The Deadline</h3>
+<p>The deadline was at midnight. That night we waited for him; at 11:30 he still hadn't submitted. I couldn't wait any longer, so at 11:45 I submitted and posted in the group. He panicked and said: don't submit, email the teacher and say your submission doesn't count. I said it was fine: he could submit again when he was done. What I submitted was his GitHub anyway; he only needed to say that his final version replaces it. He submitted at 11:55.</p>
+<p>截止时间是晚上十二点。那天晚上我们等他，等到十一点半他还没提交。我实在等不了了，十一点四十五我提交了，然后发到群里。这人就慌了，说你不要提交，你给老师发邮件说你提交的不算。我说没关系，你弄完了可以再提交一次；我提交的也是你的 GitHub，你强调一下以你的最终版本覆盖就可以了。他十一点五十五提交的。</p>
+<h2 id="reflections">Reflections</h2>
+<ul>
+<li><p>I read a person first by watching how they normally behave and speak, and whether it fits the situation. That gives me a first impression, and working together then confirms it. Here, his behavior in class gave me my first impression, and the way he handled the plan confirmed it.</p>
+<p>认识一个人，我先看他平时的行为、表达，是不是适当、合不合这个场合，先有个大概印象；之后在交流和合作里，再得到一个基本的判断。这次是他上课的表现让我有了第一印象，他处理计划的方式又证实了这个印象。</p>
+</li>
+<li><p>When I see early that a teammate's pace will sink the project, I don't argue with him. I make sure the work gets done: I quietly built a complete backup on my own.</p>
+<p>当我很早就看出组员的节奏会拖垮项目时，我不跟他争，而是保证事情能做完：我私下自己做了一个完整的备份。</p>
+</li>
+<li><p>I tell the teacher about the risk early, before anything goes wrong, so I don't have to panic later.</p>
+<p>我在出问题之前就提前告诉老师风险，这样后面就不用慌。</p>
+</li>
+<li><p>I don't blame anyone. With the teacher I only described the facts: we were still working together, progress was slow, and we would do our best.</p>
+<p>我不责怪任何人。跟老师只讲事实：我们还在合作，进展慢，但会尽最大努力。</p>
+</li>
+<li><p>When there are too many dependencies between us, I change the split so that nobody waits for anybody, even if I have to coax him to agree.</p>
+<p>我们之间依赖太多时，我就调整分工，让谁也不用等谁，哪怕要哄着他同意。</p>
+</li>
+<li><p>At the deadline, I submit first so the group is safe, and leave room for his final version to replace mine.</p>
+<p>到截止时，我先提交保证全组安全，再给他留出用最终版本覆盖的余地。</p>
+</li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-12 21:01:40-05:00">11/12/2026 21:01:40</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2. MIT OpenCourseWare | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare: the playlists of its YouTube channel, free lecture recordings, grouped by the subject of the course number in the playlist title, one page per playlist; definitions pending.">
+      <link rel="icon" href="../../favicon.svg">
+      <link rel="stylesheet" href="../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../public/kb.css">
+      <meta name="kb:rel" content="../../">
+      <meta name="kb:navrel" content="../../toc.html">
+      <meta name="kb:tocrel" content="../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../index.html" aria-label="Peng Wang">
+          <img src="../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2-mit-opencourseware">2. MIT OpenCourseWare</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MIT OpenCourseWare</strong><br>麻省理工学院开放课程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/@mitocw/playlists">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="civil-and-environmental-engineering-course-1/index.html">2.1 Civil and Environmental Engineering (Course 1)</a></strong><br>土木与环境工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="mechanical-engineering-course-2/index.html">2.2 Mechanical Engineering (Course 2)</a></strong><br>机械工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="materials-science-and-engineering-course-3/index.html">2.3 Materials Science and Engineering (Course 3)</a></strong><br>材料科学与工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="architecture-course-4/index.html">2.4 Architecture (Course 4)</a></strong><br>建筑学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="chemistry-course-5/index.html">2.5 Chemistry (Course 5)</a></strong><br>化学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="electrical-engineering-and-computer-science-course-6/index.html">2.6 Electrical Engineering and Computer Science (Course 6)</a></strong><br>电子工程与计算机科学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="biology-course-7/index.html">2.7 Biology (Course 7)</a></strong><br>生物学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="physics-course-8/index.html">2.8 Physics (Course 8)</a></strong><br>物理学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="brain-and-cognitive-sciences-course-9/index.html">2.9 Brain and Cognitive Sciences (Course 9)</a></strong><br>脑与认知科学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="chemical-engineering-course-10/index.html">2.10 Chemical Engineering (Course 10)</a></strong><br>化学工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="urban-studies-and-planning-course-11/index.html">2.11 Urban Studies and Planning (Course 11)</a></strong><br>城市研究与规划</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="earth-atmospheric-and-planetary-sciences-course-12/index.html">2.12 Earth, Atmospheric, and Planetary Sciences (Course 12)</a></strong><br>地球、大气与行星科学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="economics-course-14/index.html">2.13 Economics (Course 14)</a></strong><br>经济学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="management-course-15/index.html">2.14 Management (Course 15)</a></strong><br>管理学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="aeronautics-and-astronautics-course-16/index.html">2.15 Aeronautics and Astronautics (Course 16)</a></strong><br>航空航天</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="political-science-course-17/index.html">2.16 Political Science (Course 17)</a></strong><br>政治学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="mathematics-course-18/index.html">2.17 Mathematics (Course 18)</a></strong><br>数学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="biological-engineering-course-20/index.html">2.18 Biological Engineering (Course 20)</a></strong><br>生物工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="anthropology-course-21a/index.html">2.19 Anthropology (Course 21A)</a></strong><br>人类学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="global-languages-course-21g/index.html">2.20 Global Languages (Course 21G)</a></strong><br>全球语言</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="history-course-21h/index.html">2.21 History (Course 21H)</a></strong><br>历史</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="literature-course-21l/index.html">2.22 Literature (Course 21L)</a></strong><br>文学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="music-course-21m/index.html">2.23 Music (Course 21M)</a></strong><br>音乐</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="nuclear-science-and-engineering-course-22/index.html">2.24 Nuclear Science and Engineering (Course 22)</a></strong><br>核科学与工程</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="linguistics-and-philosophy-course-24/index.html">2.25 Linguistics and Philosophy (Course 24)</a></strong><br>语言学与哲学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="comparative-media-studies-writing-cms/index.html">2.26 Comparative Media Studies / Writing (CMS)</a></strong><br>比较媒体研究／写作</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="edgerton-center-ec/index.html">2.27 Edgerton Center (EC)</a></strong><br>埃杰顿中心</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="experimental-study-group-es/index.html">2.28 Experimental Study Group (ES)</a></strong><br>实验学习小组</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="health-sciences-and-technology-hst/index.html">2.29 Health Sciences and Technology (HST)</a></strong><br>健康科学与技术</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="data-systems-and-society-ids/index.html">2.30 Data, Systems, and Society (IDS)</a></strong><br>数据、系统与社会</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="media-arts-and-sciences-mas/index.html">2.31 Media Arts and Sciences (MAS)</a></strong><br>媒体艺术与科学</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="science-technology-and-society-sts/index.html">2.32 Science, Technology, and Society (STS)</a></strong><br>科学、技术与社会</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://catalog.mit.edu/subjects/">Massachusetts Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="other-numbers/index.html">2.33 Other Numbers</a></strong><br>其他编号</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/@mitocw/playlists">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="other-playlists/index.html">2.34 Other Playlists</a></strong><br>其他播放列表</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/@mitocw/playlists">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>Playlists</em> [YouTube channel]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/@mitocw/playlists">https://www.youtube.com/@mitocw/playlists</a></p>
+<p>Massachusetts Institute of Technology. (n.d.). <em>Subjects</em>. MIT Course Catalog. Retrieved November 20, 2026, from <a href="https://catalog.mit.edu/subjects/">https://catalog.mit.edu/subjects/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

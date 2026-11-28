@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>4.1.1 Pod Lifecycle | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Kubernetes, 4.1.1 Pod Lifecycle: 4.1.1.1 Pod lifetime, 4.1.1.2 Pod phase, 4.1.1.3 Container states, 4.1.1.4 How Pods handle problems with containers, 4.1.1.5 Pod conditions, 4.1.1.6 Resizing Pods, 4.1.1.7 Container probes, 4.1.1.8 Pod behavior during kubelet restarts.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="411-pod-lifecycle">4.1.1 Pod Lifecycle</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/workloads-pods-pod-lifecycle.png" alt="4.1.1 Pod Lifecycle: the sections of its page that hold terms, numbered here, each with its terms, in Kubernetes."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4.1.1 Pod Lifecycle</strong><br>Pod 的生命周期</td>
+<td>(context) &quot;Pods follow <strong>a defined lifecycle</strong>,&quot;</td>
+<td>（语境）Pod 遵循<strong>一个既定的生命周期</strong>，</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=Pods%20follow%20a%20defined%20lifecycle%2C">The Kubernetes Authors, n.d., &quot;Pod Lifecycle&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.1.1 Pod lifetime</strong><br>Pod 的生存期</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#pod-lifetime">The Kubernetes Authors, n.d., &quot;Pod lifetime&quot;</a></td>
+</tr>
+<tr>
+<td><strong>binding</strong><br>绑定</td>
+<td>(context) &quot;<strong>assigning a Pod to a specific node</strong> is called <em><strong>binding</strong></em>, and the process of selecting which node to use is called <em>scheduling</em>&quot;</td>
+<td>（语境）<strong>把 Pod 分配给特定节点</strong>称为<em><strong>绑定</strong></em>，而选择使用哪个节点的过程称为<em>调度</em></td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=assigning%20a%20Pod%20to%20a%20specific%20node">The Kubernetes Authors, n.d., &quot;Pod lifetime&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>scheduling</strong><br>调度</td>
+<td>(context) &quot;assigning a Pod to a specific node is called <em>binding</em>, and <strong>the process of selecting which node to use</strong> is called <em><strong>scheduling</strong></em>&quot;</td>
+<td>（语境）把 Pod 分配给特定节点称为<em>绑定</em>，而<strong>选择使用哪个节点的过程</strong>称为<em><strong>调度</strong></em></td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=assigning%20a%20Pod%20to%20a%20specific%20node">The Kubernetes Authors, n.d., &quot;Pod lifetime&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>scheduling gates</strong><br>调度门控</td>
+<td>(context) &quot;You can use Pod Scheduling Readiness to <strong>delay scheduling for a Pod</strong> until <strong>all its <em>scheduling gates</em> are removed</strong>.&quot;</td>
+<td>（语境）你可以使用 Pod 调度就绪<strong>推迟 Pod 的调度</strong>，直到<strong>它的所有<em>调度门控</em>都被移除</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=You%20can%20use%20%5BPod%20Scheduling%20Readiness%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Fconcepts%2Fscheduling-eviction%2Fpod-scheduling-readiness%2F%29%20to">The Kubernetes Authors, n.d., &quot;Pod lifetime&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>4.1.1.2 Pod phase</strong><br>Pod 阶段</td>
+<td>(context) &quot;A Pod's <strong><code>status</code> field</strong> is <strong>a PodStatus object</strong>, which has <strong>a <code>phase</code> field</strong>.&quot;</td>
+<td>（语境）Pod 的 <strong><code>status</code> 字段</strong>是<strong>一个 PodStatus 对象</strong>，其中有<strong>一个 <code>phase</code> 字段</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=A%20Pod%27s%20%60status%60%20field%20is%20a%20%5BPodStatus%5D%28https%3A%2F%2Fkubernetes.io%2Fdocs%2Freference%2Fgenerated%2Fkubernetes-api%2Fv1.37%2F%23podstatus-v1-core%29">The Kubernetes Authors, n.d., &quot;Pod phase&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Pending</strong><br>Pending</td>
+<td>&quot;The Pod has been <strong>accepted by the Kubernetes cluster</strong>, but one or more of the containers has <strong>not been set up and made ready to run</strong>.&quot;</td>
+<td>Pod 已被 <strong>Kubernetes 集群接受</strong>，但有一个或多个容器<strong>尚未设置好并准备运行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=The%20Pod%20has%20been%20accepted%20by%20the">The Kubernetes Authors, n.d., &quot;Pod phase&quot;, para. 7</a></td>
+</tr>
+<tr>
+<td><strong>Running</strong><br>Running</td>
+<td>&quot;<strong>The Pod has been bound to a node</strong>, and <strong>all of the containers have been created</strong>.&quot;</td>
+<td><strong>Pod 已绑定到节点</strong>，并且<strong>所有容器都已创建</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=The%20Pod%20has%20been%20bound%20to%20a">The Kubernetes Authors, n.d., &quot;Pod phase&quot;, para. 8</a></td>
+</tr>
+<tr>
+<td><strong>Succeeded</strong><br>Succeeded</td>
+<td>&quot;All containers in the Pod have <strong>terminated in success</strong>, and <strong>will not be restarted</strong>.&quot;</td>
+<td>Pod 中所有容器都已<strong>成功终止</strong>，并且<strong>不会再重启</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=All%20containers%20in%20the%20Pod%20have%20terminated">The Kubernetes Authors, n.d., &quot;Pod phase&quot;, para. 9</a></td>
+</tr>
+<tr>
+<td><strong>Failed</strong><br>Failed</td>
+<td>&quot;<strong>All containers in the Pod have terminated</strong>, and <strong>at least one container has terminated in failure</strong>.&quot;</td>
+<td><strong>Pod 中所有容器都已终止</strong>，并且<strong>至少有一个容器以失败告终</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=All%20containers%20in%20the%20Pod%20have%20terminated%2C">The Kubernetes Authors, n.d., &quot;Pod phase&quot;, para. 10</a></td>
+</tr>
+<tr>
+<td><strong>Unknown</strong><br>Unknown</td>
+<td>&quot;<strong>For some reason</strong> the state of the Pod <strong>could not be obtained</strong>.&quot;</td>
+<td><strong>由于某种原因</strong>，Pod 的状态<strong>无法获取</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=For%20some%20reason%20the%20state%20of%20the">The Kubernetes Authors, n.d., &quot;Pod phase&quot;, para. 11</a></td>
+</tr>
+<tr>
+<td><strong>4.1.1.3 Container states</strong><br>容器状态</td>
+<td>(context) &quot;As well as <strong>the phase of the Pod overall</strong>, Kubernetes tracks <strong>the state of each container inside a Pod</strong>.&quot;</td>
+<td>（语境）除了 <strong>Pod 整体的阶段</strong>，Kubernetes 还跟踪 <strong>Pod 内每个容器的状态</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=As%20well%20as%20the%20%5Bphase%5D%28%23pod-phase%29%20of%20the">The Kubernetes Authors, n.d., &quot;Container states&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Waiting</strong><br>Waiting</td>
+<td>&quot;If a container is <strong>not in either the <code>Running</code> or <code>Terminated</code> state</strong>, it is <strong><code>Waiting</code></strong>.&quot;</td>
+<td>如果容器既<strong>不处于 <code>Running</code> 也不处于 <code>Terminated</code> 状态</strong>，它就处于 <strong><code>Waiting</code></strong> 状态。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=If%20a%20container%20is%20not%20in%20either">The Kubernetes Authors, n.d., &quot;Waiting&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Running</strong><br>Running</td>
+<td>&quot;The <code>Running</code> status indicates that <strong>a container</strong> is <strong>executing without issues</strong>.&quot;</td>
+<td><code>Running</code> 状态表示<strong>容器</strong>正在<strong>正常执行</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=The%20%60Running%60%20status%20indicates%20that%20a%20container">The Kubernetes Authors, n.d., &quot;Running&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Terminated</strong><br>Terminated</td>
+<td>&quot;A container in the <code>Terminated</code> state <strong>began execution</strong> and then either <strong>ran to completion or failed for some reason</strong>.&quot;</td>
+<td>处于 <code>Terminated</code> 状态的容器<strong>开始执行</strong>，之后<strong>要么运行完成，要么因某种原因失败</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=A%20container%20in%20the%20%60Terminated%60%20state%20began">The Kubernetes Authors, n.d., &quot;Terminated&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.1.4 How Pods handle problems with containers</strong><br>Pod 如何处理容器问题</td>
+<td>&quot;Kubernetes <strong>manages container failures within Pods</strong> using <strong>a restartPolicy defined in the Pod <code>spec</code></strong>.&quot;</td>
+<td>Kubernetes <strong>处理 Pod 内的容器故障</strong>时，使用的是 <strong>Pod <code>spec</code> 中定义的 restartPolicy</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=Kubernetes%20manages%20container%20failures%20within%20Pods%20using">The Kubernetes Authors, n.d., &quot;How Pods handle problems with containers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Always</strong><br>Always</td>
+<td>&quot;<code>Always</code>: <strong>Automatically restarts the container</strong> after <strong>any termination</strong>.&quot;</td>
+<td><code>Always</code>：<strong>自动重启容器</strong>，不论<strong>何种形式的终止</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=%60Always%60%3A%20Automatically%20restarts%20the%20container%20after%20any">The Kubernetes Authors, n.d., &quot;Pod-level container restart policy&quot;, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>OnFailure</strong><br>OnFailure</td>
+<td>&quot;<code>OnFailure</code>: <strong>Only restarts the container</strong> if it <strong>exits with an error (non-zero exit status)</strong>.&quot;</td>
+<td><code>OnFailure</code>：<strong>仅重启容器</strong>，且仅当它<strong>出错退出</strong>（退出状态非零）时。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=%60OnFailure%60%3A%20Only%20restarts%20the%20container%20if%20it">The Kubernetes Authors, n.d., &quot;Pod-level container restart policy&quot;, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>Never</strong><br>Never</td>
+<td>&quot;<code>Never</code>: <strong>Does not automatically restart</strong> the <strong>terminated container</strong>.&quot;</td>
+<td><code>Never</code>：<strong>不自动重启</strong>该<strong>已终止的容器</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=%60Never%60%3A%20Does%20not%20automatically%20restart%20the%20terminated">The Kubernetes Authors, n.d., &quot;Pod-level container restart policy&quot;, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>4.1.1.5 Pod conditions</strong><br>Pod 状况</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#pod-conditions">The Kubernetes Authors, n.d., &quot;Pod conditions&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Pod readiness</strong><br>Pod 就绪</td>
+<td>(context) &quot;Your application can <strong>inject extra feedback or signals</strong> into PodStatus: <em><strong>Pod readiness</strong></em>.&quot;</td>
+<td>（语境）你的应用可以向 PodStatus <strong>注入额外的反馈或信号</strong>：<em><strong>Pod 就绪</strong></em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=Your%20application%20can%20inject%20extra%20feedback%20or">The Kubernetes Authors, n.d., &quot;Pod readiness&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.1.6 Resizing Pods</strong><br>调整 Pod 大小</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#resizing-pods">The Kubernetes Authors, n.d., &quot;Resizing Pods&quot;</a></td>
+</tr>
+<tr>
+<td><strong>in-place Pod vertical scaling</strong><br>原地 Pod 垂直扩缩</td>
+<td>(context) &quot;This is also called <em>in-place Pod vertical scaling</em>.&quot;</td>
+<td>（语境）这也称为<em>原地 Pod 垂直扩缩</em>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=This%20is%20also%20called%20%2Ain-place%20Pod%20vertical">The Kubernetes Authors, n.d., &quot;In-place Pod resize&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.1.7 Container probes</strong><br>容器探针</td>
+<td>&quot;Kubernetes lets you define <em><strong>probes</strong></em> to <strong>continuously monitor the health of containers</strong> in a Pod.&quot;</td>
+<td>Kubernetes 让你定义<em><strong>探针</strong></em>，<strong>持续监控 Pod 中容器的健康状况</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=Kubernetes%20lets%20you%20define%20%2Aprobes%2A%20to%20continuously">The Kubernetes Authors, n.d., &quot;Container probes&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Startup probe</strong><br>启动探针</td>
+<td>&quot;<strong>Startup probes</strong> verify whether <strong>the application within a container is started</strong>.&quot;</td>
+<td><strong>启动探针</strong>验证<strong>容器内的应用是否已启动</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=Startup%20probes%20verify%20whether%20the%20application%20within">The Kubernetes Authors, n.d., &quot;Startup probe&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Liveness probe</strong><br>存活探针</td>
+<td>&quot;<strong>Liveness probes</strong> determine <strong>when to restart a container</strong>.&quot;</td>
+<td><strong>存活探针</strong>决定<strong>何时重启容器</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=Liveness%20probes%20determine%20when%20to%20restart%20a">The Kubernetes Authors, n.d., &quot;Liveness probe&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Readiness probe</strong><br>就绪探针</td>
+<td>&quot;<strong>Readiness probes</strong> determine <strong>when a container is ready to accept traffic</strong>.&quot;</td>
+<td><strong>就绪探针</strong>决定<strong>容器何时准备好接收流量</strong>。</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=Readiness%20probes%20determine%20when%20a%20container%20is">The Kubernetes Authors, n.d., &quot;Readiness probe&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>4.1.1.8 Pod behavior during kubelet restarts</strong><br>kubelet 重启期间的 Pod 行为</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#pod-behavior-during-kubelet-restarts">The Kubernetes Authors, n.d., &quot;Pod behavior during kubelet restarts&quot;</a></td>
+</tr>
+<tr>
+<td><strong>kubelet restart</strong><br>kubelet 重启</td>
+<td>(context) &quot;in other words <strong>the condition has not transitioned from true to false</strong>, Kubernetes detects this <strong>a <em>kubelet restart</em></strong>&quot;</td>
+<td>（语境）也就是说<strong>该状况没有从 true 变为 false</strong>，Kubernetes 会把这种情况检测为<strong>一次 <em>kubelet 重启</em></strong></td>
+<td><a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/#:%7E:text=in%20other%20words%20the%20condition%20has%20not">The Kubernetes Authors, n.d., &quot;Detection of kubelet restarts&quot;, para. 3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>The Kubernetes Authors. (n.d.). <em>Pod Lifecycle</em>. Kubernetes Documentation. Retrieved October 31, 2026, from <a href="https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/">https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-04 20:29:58-05:00">11/04/2026 20:29:58</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

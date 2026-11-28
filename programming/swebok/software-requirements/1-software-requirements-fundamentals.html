@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1. Software Requirements Fundamentals | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="SWEBOK, Chapter 1: Software Requirements: 1. Software Requirements Fundamentals: 16 terms.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1-software-requirements-fundamentals">1. Software Requirements Fundamentals</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Software Requirements Fundamentals</strong><br>软件需求基础</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1, p. 1-2</a></td>
+</tr>
+<tr>
+<td><strong>Software Requirement</strong><br>软件需求</td>
+<td>&quot;At its most basic, a <strong>software requirement</strong> is a <strong>property that must be exhibited to solve a real-world problem</strong>.&quot;</td>
+<td>从最基本的层面说，<strong>软件需求</strong>是<strong>为解决某个现实问题而必须表现出来的一种属性</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.1, para. 3, p. 1-3</a></td>
+</tr>
+<tr>
+<td><strong>Categories of Software Requirements</strong><br>软件需求的类别</td>
+<td>&quot;Figure 1.2 shows the <strong>categories of software requirements</strong> defined in this KA and the <strong>relationships among those categories</strong>.&quot;</td>
+<td>图 1.2 展示了本知识领域定义的<strong>软件需求类别</strong>以及<strong>这些类别之间的关系</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.2, para. 1, p. 1-3</a></td>
+</tr>
+<tr>
+<td><strong>Software Product Requirements</strong><br>软件产品需求</td>
+<td>&quot;<strong>Software product requirements</strong> specify the <strong>software’s expected form, fit or function</strong>.&quot;</td>
+<td><strong>软件产品需求</strong>规定<strong>软件预期的形式、适配或功能</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.3, para. 1, p. 1-3</a></td>
+</tr>
+<tr>
+<td><strong>Software Project Requirements</strong><br>软件项目需求</td>
+<td>&quot;<strong>Software project requirements</strong> — also called process requirements or, sometimes business requirements — <strong>constrain the project that constructs the software</strong>.&quot;</td>
+<td><strong>软件项目需求</strong>（也叫过程需求，有时叫业务需求）<strong>约束构建该软件的项目</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.3, para. 1, p. 1-3</a></td>
+</tr>
+<tr>
+<td><strong>Functional Requirements</strong><br>功能需求</td>
+<td>&quot;<strong>Functional requirements</strong> specify <strong>observable behaviors that the software is to provide</strong> — policies to be enforced and processes to be carried out.&quot;</td>
+<td><strong>功能需求</strong>规定<strong>软件要提供的可观察的行为</strong>，即要执行的规则和要完成的流程。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.4, para. 1, p. 1-4</a></td>
+</tr>
+<tr>
+<td><strong>Nonfunctional Requirements</strong><br>非功能需求</td>
+<td>&quot;<strong>Nonfunctional requirements</strong> in some way <strong>constrain the technologies to be used in the implementation</strong>: ...&quot;</td>
+<td><strong>非功能需求</strong>以某种方式<strong>约束实现中要用的技术</strong>：……</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.5, para. 1, p. 1-4</a></td>
+</tr>
+<tr>
+<td><strong>Technology Constraints</strong><br>技术约束</td>
+<td>&quot;These requirements <strong>mandate — or prohibit —</strong> use of <strong>specific, named automation technologies or defined infrastructures</strong>.&quot;</td>
+<td>这类需求<strong>强制使用或禁止使用</strong>某些<strong>特定的、点名的自动化技术或既定的基础设施</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.6, para. 1, p. 1-4</a></td>
+</tr>
+<tr>
+<td><strong>Quality of Service Constraints</strong><br>服务质量约束</td>
+<td>&quot;These requirements <strong>do not constrain the use of specific, named technologies</strong>. Instead, these specify <strong>acceptable performance levels</strong> an automated solution must exhibit.&quot;</td>
+<td>这类需求<strong>不约束特定、点名技术的使用</strong>，而是规定自动化方案必须达到的<strong>可接受的性能水平</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.7, para. 1, p. 1-4</a></td>
+</tr>
+<tr>
+<td><strong>Divide and Conquer</strong><br>分而治之</td>
+<td>&quot;One large problem becomes <strong>two smaller ones</strong>. This is classic <strong>divide and conquer</strong> complexity management;&quot;</td>
+<td>一个大问题变成<strong>两个小问题</strong>。这就是经典的<strong>分而治之</strong>式复杂度管理；</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.8, para. 2, item 1, p. 1-5</a></td>
+</tr>
+<tr>
+<td><strong>Perfect Technology Filter</strong><br>完美技术过滤法</td>
+<td>&quot;The <strong>Perfect Technology Filter</strong> originally described in [18, c1-4] but also explained in [8] and [9, c4] helps <strong>separate functional from nonfunctional requirements</strong>.&quot;</td>
+<td><strong>完美技术过滤法</strong>最早见于 [18, c1-4]，[8] 和 [9, c4] 也有解释，它帮助<strong>把功能需求和非功能需求分开</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.8, para. 3, p. 1-5</a></td>
+</tr>
+<tr>
+<td><strong>System</strong><br>系统</td>
+<td>&quot;The International Council on Systems Engineering (INCOSE) defines a <strong>system</strong> as “an <strong>interacting combination of elements to accomplish a defined objective</strong>. These include hardware, software, firmware, people, information, techniques, facilities, services, and other support elements” [24].&quot;</td>
+<td>国际系统工程委员会（INCOSE）把<strong>系统</strong>定义为「<strong>为实现既定目标而相互作用的要素组合</strong>。这些要素包括硬件、软件、固件、人员、信息、技术、设施、服务和其他支持要素」[24]。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.9, para. 1, p. 1-5</a></td>
+</tr>
+<tr>
+<td><strong>System Requirements</strong><br>系统需求</td>
+<td>&quot;<strong>System requirements</strong> apply to <strong>larger systems</strong> — for example, an autonomous vehicle. Software requirements apply only to an element of software in that larger system.&quot;</td>
+<td><strong>系统需求</strong>适用于<strong>更大的系统</strong>，例如一辆自动驾驶汽车。软件需求只适用于这个更大系统中的软件要素。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.9, para. 2, p. 1-5</a></td>
+</tr>
+<tr>
+<td><strong>Derived Requirement</strong><br>派生需求</td>
+<td>&quot;The aerospace industry has long used the term <strong>derived requirement</strong> to mean a requirement that was <strong>not made by a stakeholder external to the overall project</strong> but that was <strong>imposed inside the larger development team</strong>.&quot;</td>
+<td>航空航天业长期使用<strong>派生需求</strong>一词，指一项需求<strong>不是由整个项目之外的干系人提出的</strong>，而是<strong>在更大的开发团队内部施加的</strong>。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.10, para. 2, p. 1-6</a></td>
+</tr>
+<tr>
+<td><strong>Requirements Development</strong><br>需求开发</td>
+<td>&quot;<strong>Requirements development</strong>, as a whole, can be thought of as “<strong>reaching an agreement on what software is to be constructed</strong>.”&quot;</td>
+<td><strong>需求开发</strong>整体上可以看作「<strong>就要构建什么软件达成共识</strong>」。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.11, para. 2, p. 1-6</a></td>
+</tr>
+<tr>
+<td><strong>Requirements Management</strong><br>需求管理</td>
+<td>&quot;In contrast, <strong>requirements management</strong> can be considered “<strong>maintaining that agreement over time</strong>.”&quot;</td>
+<td>相对地，<strong>需求管理</strong>可以看作「<strong>随时间维护这一共识</strong>」。</td>
+<td><a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">Washizaki, 2026, Chapter 1, section 1.11, para. 2, p. 1-6</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>IEEE Computer Society. (n.d.). <em>SWEBOK Guide V4.0 topics</em>. Retrieved November 7, 2026, from <a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics">https://www.computer.org/education/bodies-of-knowledge/software-engineering/topics</a></p>
+<p>Washizaki, H. (Ed.). (2026). <em>Guide to the software engineering body of knowledge (SWEBOK Guide), version 4.0a</em>. IEEE Computer Society. <a href="https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4">https://www.computer.org/education/bodies-of-knowledge/software-engineering/v4</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-07 20:20:09-05:00">11/07/2026 20:20:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

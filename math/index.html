@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>Mathematical Sciences | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="The Mathematical Sciences section: the knowledge units of its CS2023 knowledge area, Mathematical and Statistical Foundations (MSF), the 63 classes of MSC2020, the mathematical symbols (the recommended ones of the IUPAC Green Book), the axioms in learning order, and proof techniques from Mathematical Reasoning: Writing and Proof.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Peng Wang">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="mathematical-sciences">Mathematical Sciences</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/math.png" alt="Mathematical Sciences in five groups: the curriculum unit set MSF (CS2023 Mathematical and Statistical Foundations) with its 5 knowledge units (Discrete Mathematics, Probability, Statistics, Linear Algebra, Calculus), the classification MSC2020 with its 63 classes, Mathematical Symbols with 0 Common Symbols, the 7 groups of mathematical symbols of the IUPAC Green Book and the Greek alphabet (8), and Axioms with its groups in learning order (1 Arithmetic, 2 Geometry, 3 Algebra, 4 Probability, 5 Analysis, 6 Logic, 7 Set Theory, then 8 Symbols), and Proof Techniques with the 9 chapters and appendix A of Mathematical Reasoning: Writing and Proof."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Mathematical Sciences</strong><br>数学科学</td>
+<td>&quot;A strong <strong>mathematical foundation</strong> remains a <strong>bedrock of computer science education</strong> and infuses the practice of computing whether in <strong>developing algorithms</strong>, <strong>designing systems</strong>, <strong>modeling real-world phenomena</strong>, or <strong>computing with data</strong>.&quot;</td>
+<td>扎实的<strong>数学基础</strong>依然是<strong>计算机科学教育的基石</strong>，并贯穿计算实践的方方面面，无论是<strong>开发算法</strong>、<strong>设计系统</strong>、<strong>为现实世界的现象建模</strong>，还是<strong>用数据进行计算</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=123">Joint Task Force on Computing Curricula, 2024, MSF &quot;Preamble&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="cs2023/index.html">MSF</a></strong><br>数学与统计基础</td>
+<td>&quot;This Mathematical and Statistical Foundations (MSF) knowledge area – the successor to the ACM CS2013 curriculum's 'Discrete Structures' area – seeks to identify the <strong>mathematical and statistical material</strong> that <strong>undergirds modern computer science</strong>.&quot;</td>
+<td>数学与统计基础（MSF）这一知识领域是 ACM CS2013 课程体系中&quot;离散结构&quot;领域的继任者，旨在找出<strong>数学和统计内容</strong>，它们<strong>支撑着现代计算机科学</strong>。</td>
+<td><a href="https://csed.acm.org/wp-content/uploads/2024/04/3.1-Body-of-Knowledge-1.pdf#page=123">Joint Task Force on Computing Curricula, 2024, MSF &quot;Preamble&quot; section, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="msc2020/index.html">MSC2020</a></strong><br>MSC2020</td>
+<td>&quot;Mathematical Reviews (MR) and zbMATH collaborate on maintaining the Mathematics Subject Classification, which is used by these reviewing services, publishers, funding agencies, and others to <strong>categorize items in the mathematical sciences literature</strong>. It is <strong>a taxonomy created by and for mathematical researchers</strong>.&quot;</td>
+<td>Mathematical Reviews（MR）和 zbMATH 共同维护数学学科分类，这些评论服务、出版社、资助机构等用它来<strong>给数学科学文献分类</strong>。它是<strong>由数学研究者创建、为数学研究者服务的分类体系</strong>。</td>
+<td><a href="https://msc2020.org/#:%7E:text=Mathematical%20Reviews%20%28MR%29%20and%20zbMATH%20collaborate">Associate Editors of Mathematical Reviews and zbMATH, 2020, para. 1</a></td>
+</tr>
+<tr>
+<td><strong><a href="green-book/index.html">Mathematical Symbols</a></strong><br>数学符号</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf">Cohen et al., 2007</a></td>
+</tr>
+<tr>
+<td><strong><a href="definitions/index.html">Definitions</a></strong><br>定义</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html#defs">Euclid, ca. 300 B.C.E./1996, Book I, &quot;Definitions&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="axioms/index.html">Axioms</a></strong><br>公理</td>
+<td>&quot;An axiom is <strong>a fundamental assumption that provides a starting point for reasoning</strong>. The axioms for (essentially) all of mathematics can be conveniently divided into <strong>three groups: propositional calculus, predicate calculus, and set theory</strong>.&quot;</td>
+<td>公理是<strong>为推理提供起点的基本假设</strong>。（基本上）全部数学的公理可以方便地分为<strong>三组：命题演算、谓词演算和集合论</strong>。</td>
+<td><a href="https://us.metamath.org/mpeuni/mmset.html#axioms">Megill, 2026, &quot;The Axioms&quot; section</a></td>
+</tr>
+<tr>
+<td><strong><a href="theorems/index.html">Theorems and Conjectures</a></strong><br>定理与猜想</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.cs.ru.nl/%7Efreek/100/">Wiedijk, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="formulas/index.html">Formulas</a></strong><br>公式</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://openstax.org/books/calculus-volume-1/pages/c-review-of-pre-calculus">Strang &amp; Herman, 2016, appendices A to C</a></td>
+</tr>
+<tr>
+<td><strong><a href="proof-techniques/index.html">Proof Techniques</a></strong><br>证明技巧</td>
+<td>(context) &quot;This textbook is designed for the first course in the college mathematics curriculum that introduces students to the process of <strong>constructing and writing proofs</strong>.&quot;</td>
+<td>（语境）本教材面向大学数学课程中的第一门课，向学生介绍<strong>构造和书写证明</strong>的过程。</td>
+<td><a href="https://www.tedsundstrom.com/mathematical-reasoning-writing-and-proof">Sundstrom, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Euclid. (1996). <em>Euclid's Elements</em> (D. E. Joyce, Ed.; T. L. Heath, Trans.). Clark University. (Original work published ca. 300 B.C.E.) Retrieved November 1, 2026, from <a href="https://mathcs.clarku.edu/%7Edjoyce/elements/bookI/bookI.html">https://mathcs.clarku.edu/~djoyce/elements/bookI/bookI.html</a></p>
+<p>Joint Task Force on Computing Curricula. (2024). <em>Computer science curricula 2023</em>. Association for Computing Machinery. <a href="https://doi.org/10.1145/3664191">https://doi.org/10.1145/3664191</a></p>
+<p>Associate Editors of Mathematical Reviews and zbMATH. (2020). <em>MSC2020: Mathematics Subject Classification system</em>. Retrieved October 27, 2026, from <a href="https://msc2020.org/">https://msc2020.org/</a></p>
+<p>Cohen, E. R., Cvitaš, T., Frey, J. G., Holmström, B., Kuchitsu, K., Marquardt, R., Mills, I., Pavese, F., Quack, M., Stohner, J., Strauss, H. L., Takami, M., &amp; Thor, A. J. (2007). <em>Quantities, units and symbols in physical chemistry</em> (3rd ed., 2nd printing 2012). IUPAC; RSC Publishing. <a href="https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf">https://iupac.org/wp-content/uploads/2019/05/IUPAC-GB3-2012-2ndPrinting-PDFsearchable.pdf</a></p>
+<p>Megill, N. (2026). <em>Metamath Proof Explorer home page</em> (last updated January 19, 2026). Metamath. Retrieved October 29, 2026, from <a href="https://us.metamath.org/mpeuni/mmset.html">https://us.metamath.org/mpeuni/mmset.html</a></p>
+<p>Strang, G., &amp; Herman, E. (2016). <em>Calculus volume 1</em>. OpenStax. Retrieved November 1, 2026, from <a href="https://openstax.org/books/calculus-volume-1/pages/1-introduction">https://openstax.org/books/calculus-volume-1/pages/1-introduction</a></p>
+<p>Sundstrom, T. (n.d.). <em>Mathematical reasoning: Writing and proof</em>. Retrieved October 30, 2026, from <a href="https://www.tedsundstrom.com/mathematical-reasoning-writing-and-proof">https://www.tedsundstrom.com/mathematical-reasoning-writing-and-proof</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-02 17:03:17-05:00">11/02/2026 17:03:17</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

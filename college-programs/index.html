@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>College Programs | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="College Programs: the programs and course codes of Canadian colleges, one page per college; skeleton, definitions pending.">
+      <link rel="icon" href="../favicon.svg">
+      <link rel="stylesheet" href="../public/atlas.min.css">
+      <link rel="stylesheet" href="../public/kb.css">
+      <meta name="kb:rel" content="../">
+      <meta name="kb:navrel" content="../toc.html">
+      <meta name="kb:tocrel" content="toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../index.html" aria-label="Peng Wang">
+          <img src="../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="college-programs">College Programs</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>College Programs</strong><br>学院专业</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.rrc.ca/international/study-at-rrc/">Red River College Polytechnic, n.d., &quot;List of Programs for International Students&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="algonquin-college/index.html">Algonquin College</a></strong><br>阿冈昆学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.algonquincollege.com/international/admissions-apply/program-availability/">Algonquin College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="assiniboine-college/index.html">Assiniboine College</a></strong><br>阿西尼博因学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://assiniboine.net/study-here/international-students/programs-pgwp-alignment">Assiniboine College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="bow-valley-college/index.html">Bow Valley College</a></strong><br>弓谷学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bowvalleycollege.ca/post-graduation-work-permit">Bow Valley College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="british-columbia-institute-of-technology/index.html">British Columbia Institute of Technology</a></strong><br>不列颠哥伦比亚理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.bcit.ca/international-applicants/regular-credential-programs/">British Columbia Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="cambrian-college/index.html">Cambrian College</a></strong><br>坎布里安学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://cambriancollege.ca/admissions/international-admissions/post-graduation-work-permit-eligibility">Cambrian College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="camosun-college/index.html">Camosun College</a></strong><br>卡莫森学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://camosun.ca/international/programs-and-courses-international-students/pgwp-aligned-programs-international">Camosun College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="canadore-college/index.html">Canadore College</a></strong><br>坎纳多学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.canadorecollege.ca/canadore-international/pgwp">Canadore College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="carlton-trail-college/index.html">Carlton Trail College</a></strong><br>卡尔顿小道学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.carltontrailcollege.com/future-students/welcome/international-students/">Carlton Trail College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="centennial-college/index.html">Centennial College</a></strong><br>百年理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.centennialcollege.ca/programs-courses/full-time">Centennial College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="centre-for-nursing-studies/index.html">Centre for Nursing Studies</a></strong><br>护理学中心</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://cns.easternhealth.ca/programs-and-courses/program-and-course-offerings/">Centre for Nursing Studies, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="coast-mountain-college/index.html">Coast Mountain College</a></strong><br>海岸山脉学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.coastmountaincollege.ca/programs/explore/international">Coast Mountain College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="college-boreal/index.html">Collège Boréal</a></strong><br>博雷亚尔学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://collegeboreal.ca/futurs-etudiants-et-etudiantes/candidats-internationaux/">Collège Boréal, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="college-communautaire-du-nouveau-brunswick/index.html">Collège communautaire du Nouveau-Brunswick</a></strong><br>新不伦瑞克法语社区学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://ccnb.ca/admission-et-inscription/ptpd/">Collège communautaire du Nouveau-Brunswick, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="college-de-l-ile/index.html">Collège de l'Île</a></strong><br>岛屿学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegedelile.ca/admission/inscrivez-vous-ici/Admissibilite_au_permis_de_travail_post_diplome">Collège de l'Île, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="college-la-cite/index.html">Collège La Cité</a></strong><br>拉锡德学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.collegelacite.ca/permis_de_travail_postdiplome_candidats_internationaux">Collège La Cité, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="college-of-new-caledonia/index.html">College of New Caledonia</a></strong><br>新喀里多尼亚学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://cnc.bc.ca/international-students/courses">College of New Caledonia, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="college-of-the-north-atlantic/index.html">College of the North Atlantic</a></strong><br>北大西洋学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.cna.nl.ca/admissions/ircc">College of the North Atlantic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="college-of-the-rockies/index.html">College of the Rockies</a></strong><br>落基山学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://cotr.bc.ca/future-students/international/programs-for-international-students/">College of the Rockies, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="conestoga-college/index.html">Conestoga College</a></strong><br>康尼斯托加学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.conestogac.on.ca/international/apply-to-conestoga/pgwp-aligned-programs">Conestoga College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="confederation-college/index.html">Confederation College</a></strong><br>联邦学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.confederationcollege.ca/programs/international/">Confederation College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="douglas-college/index.html">Douglas College</a></strong><br>道格拉斯学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.douglascollege.ca/programs-and-courses/international-student-programs">Douglas College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="durham-college/index.html">Durham College</a></strong><br>达勒姆学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://durhamcollege.ca/info-for/international/new-and-current-students/updates-to-the-international-student-program">Durham College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="fanshawe-college/index.html">Fanshawe College</a></strong><br>范莎学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.fanshawec.ca/international/applicants/international-programs/pgwp-programs">Fanshawe College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="fleming-college/index.html">Fleming College</a></strong><br>弗莱明学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://flemingcollege.ca/international-education">Fleming College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="george-brown-polytechnic/index.html">George Brown Polytechnic</a></strong><br>乔治布朗理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgebrown.ca/pgwp-eligible">George Brown Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="georgian-college/index.html">Georgian College</a></strong><br>乔治亚学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.georgiancollege.ca/international/student-permit-policy-update/">Georgian College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="great-plains-college/index.html">Great Plains College</a></strong><br>大平原学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.greatplainscollege.ca/programs-courses/international-students">Great Plains College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="holland-college/index.html">Holland College</a></strong><br>霍兰学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://hollandcollege.com/academics/full-time-programs/">Holland College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="humber-polytechnic/index.html">Humber Polytechnic</a></strong><br>汉博理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://humber.ca/explore-programs/search/full-time-programs">Humber Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="justice-institute-of-british-columbia/index.html">Justice Institute of British Columbia</a></strong><br>不列颠哥伦比亚司法学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.jibc.ca/international-studies/programs-for-international-students">Justice Institute of British Columbia, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="keyano-college/index.html">Keyano College</a></strong><br>基亚诺学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.keyano.ca/admissions/international-students/programs-for-international-students/">Keyano College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="lakeland-college/index.html">Lakeland College</a></strong><br>莱克兰学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.lakelandcollege.ca/admissions/international-students/eligible-programs.html">Lakeland College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="lambton-college/index.html">Lambton College</a></strong><br>兰顿学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.lambtoncollege.ca/programs/international">Lambton College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="langara-college/index.html">Langara College</a></strong><br>兰加拉学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://langara.ca/why-langara/international-student-experience/immigration-resources/post-graduate-work-permit">Langara College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="lethbridge-polytechnic/index.html">Lethbridge Polytechnic</a></strong><br>莱斯布里奇理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://lethpolytech.ca/departments/admissions/program-availability">Lethbridge Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="loyalist-college/index.html">Loyalist College</a></strong><br>忠诚学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://loyalistcollege.com/admissions/how-to-apply/international-applicants/pgwp-aligned-programs/">Loyalist College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="makami-college/index.html">MaKami College</a></strong><br>马卡米学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://makamicollege.com/international-students/">MaKami College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="manitoba-institute-of-trades-and-technology/index.html">Manitoba Institute of Trades and Technology</a></strong><br>曼尼托巴职业技术学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://mitt.ca/student-services/international-support/pgwp-aligned-programs/">Manitoba Institute of Trades and Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="medicine-hat-college/index.html">Medicine Hat College</a></strong><br>梅迪辛哈特学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.mhc.ab.ca/programs-and-admissions/admissions/program-availability">Medicine Hat College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="mohawk-college/index.html">Mohawk College</a></strong><br>莫霍克学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.mohawkcollege.ca/pgwp">Mohawk College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="new-brunswick-community-college/index.html">New Brunswick Community College</a></strong><br>新不伦瑞克社区学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://nbcc.ca/admissions/ircc/pgwp-program-eligibility">New Brunswick Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="niagara-college/index.html">Niagara College</a></strong><br>尼亚加拉学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://international.niagaracollege.ca/programs/pgwp-eligible-programs">Niagara College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="norquest-college/index.html">NorQuest College</a></strong><br>诺奎斯特学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.norquest.ca/internationalstudents/immigration/post-graduation-work-permit/">NorQuest College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="north-island-college/index.html">North Island College</a></strong><br>北岛学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.nic.bc.ca/admissions/international-students/programs.html">North Island College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="north-west-college/index.html">North West College</a></strong><br>萨省西北学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://northwestcollege.ca/students/international_students/international_programs.html">North West College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="northern-alberta-institute-of-technology/index.html">Northern Alberta Institute of Technology</a></strong><br>北阿尔伯塔理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.nait.ca/nait/international/immigration-visa-requirements/post-graduation-work-permit">Northern Alberta Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="northern-college/index.html">Northern College</a></strong><br>北方学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.northerncollege.ca/international/programs/">Northern College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="northern-lakes-college/index.html">Northern Lakes College</a></strong><br>北湖学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.northernlakescollege.ca/future-students/international-students">Northern Lakes College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="northern-lights-college/index.html">Northern Lights College</a></strong><br>北极光学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.nlc.bc.ca/applying-international-students/">Northern Lights College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="northwestern-polytechnic/index.html">Northwestern Polytechnic</a></strong><br>西北理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.nwpolytech.ca/international-students/international-student-programs">Northwestern Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="nova-scotia-community-college/index.html">Nova Scotia Community College</a></strong><br>新斯科舍社区学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.nscc.ca/programs-and-courses/programs/programlisting.aspx">Nova Scotia Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="okanagan-college/index.html">Okanagan College</a></strong><br>奥肯那根学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.okanagancollege.ca/international/program-availability-for-international-students">Okanagan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="olds-college/index.html">Olds College</a></strong><br>奥兹学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.oldscollege.ca/admissions/international-admissions/index.html">Olds College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="portage-college/index.html">Portage College</a></strong><br>波蒂奇学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://portagecollege.ca/international-student-programs-and-fees">Portage College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="red-deer-polytechnic/index.html">Red Deer Polytechnic</a></strong><br>红鹿理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://rdpolytech.ca/international/immigration-information-requirements">Red Deer Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="red-river-college-polytechnic/index.html">Red River College Polytechnic</a></strong><br>红河理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.rrc.ca/international/study-at-rrc/">Red River College Polytechnic, n.d., &quot;List of Programs for International Students&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="saskatchewan-polytechnic/index.html">Saskatchewan Polytechnic</a></strong><br>萨斯喀彻温理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://saskpolytech.ca/programs-and-courses/international/post-graduation-work-permit-program.aspx">Saskatchewan Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="sault-college/index.html">Sault College</a></strong><br>苏圣玛丽学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.saultcollege.ca/studying-canada-has-options/study-work">Sault College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="selkirk-college/index.html">Selkirk College</a></strong><br>塞尔扣克学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://selkirk.ca/international/international-students/international-programs/pgwp-eligible-programs">Selkirk College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="seneca-polytechnic/index.html">Seneca Polytechnic</a></strong><br>圣力嘉理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.senecapolytechnic.ca/international/pgwp-eligible-programs.html">Seneca Polytechnic, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="sheridan-college/index.html">Sheridan College</a></strong><br>谢尔丹学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sheridancollege.ca/admissions/international/prospective-students/study-and-work-permit/pgwp-programs">Sheridan College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="southeast-college/index.html">Southeast College</a></strong><br>东南学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.southeastcollege.org/international-students/">Southeast College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="southern-alberta-institute-of-technology/index.html">Southern Alberta Institute of Technology</a></strong><br>南阿尔伯塔理工学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.sait.ca/international-students/immigration/post-graduation-work-permit">Southern Alberta Institute of Technology, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="st-clair-college/index.html">St. Clair College</a></strong><br>圣克莱尔学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.stclaircollege.ca/international/pgwp-eligible-programs">St. Clair College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="st-lawrence-college/index.html">St. Lawrence College</a></strong><br>圣劳伦斯学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.stlawrencecollege.ca/services/international/pgwp-aligned-programs/pgwp-programs-june2025-onward">St. Lawrence College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="suncrest-college/index.html">Suncrest College</a></strong><br>森克雷斯特学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://suncrestcollege.ca/international-students">Suncrest College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="vancouver-community-college/index.html">Vancouver Community College</a></strong><br>温哥华社区学院</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/">Vancouver Community College, n.d.</a></td>
+</tr>
+<tr>
+<td><strong><a href="western-regional-school-of-nursing/index.html">Western Regional School of Nursing</a></strong><br>西部地区护理学校</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.mun.ca/nursingadmissions/admission-information/international-applicants/">Western Regional School of Nursing, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Algonquin College. (n.d.). <em>Programs available to international students</em>. Retrieved November 8, 2026, from <a href="https://www.algonquincollege.com/international/admissions-apply/program-availability/">https://www.algonquincollege.com/international/admissions-apply/program-availability/</a></p>
+<p>Assiniboine College. (n.d.). <em>Programs and PGWP alignment</em>. Retrieved November 8, 2026, from <a href="https://assiniboine.net/study-here/international-students/programs-pgwp-alignment">https://assiniboine.net/study-here/international-students/programs-pgwp-alignment</a></p>
+<p>Bow Valley College. (n.d.). <em>Post-graduation work permit</em>. Retrieved November 8, 2026, from <a href="https://www.bowvalleycollege.ca/post-graduation-work-permit">https://www.bowvalleycollege.ca/post-graduation-work-permit</a></p>
+<p>British Columbia Institute of Technology. (n.d.). <em>Regular credential programs</em>. Retrieved November 8, 2026, from <a href="https://www.bcit.ca/international-applicants/regular-credential-programs/">https://www.bcit.ca/international-applicants/regular-credential-programs/</a></p>
+<p>Cambrian College. (n.d.). <em>Post-Graduation Work Permit (PGWP) eligibility</em>. Retrieved November 10, 2026, from <a href="https://cambriancollege.ca/admissions/international-admissions/post-graduation-work-permit-eligibility">https://cambriancollege.ca/admissions/international-admissions/post-graduation-work-permit-eligibility</a></p>
+<p>Camosun College. (n.d.). <em>PGWP-aligned programs</em>. Retrieved November 8, 2026, from <a href="https://camosun.ca/international/programs-and-courses-international-students/pgwp-aligned-programs-international">https://camosun.ca/international/programs-and-courses-international-students/pgwp-aligned-programs-international</a></p>
+<p>Canadore College. (n.d.). <em>Post-Graduation Work Permit (PGWP) eligible programs at Canadore College</em>. Retrieved November 10, 2026, from <a href="https://www.canadorecollege.ca/canadore-international/pgwp">https://www.canadorecollege.ca/canadore-international/pgwp</a></p>
+<p>Carlton Trail College. (n.d.). <em>International students</em>. Retrieved November 10, 2026, from <a href="https://www.carltontrailcollege.com/future-students/welcome/international-students/">https://www.carltontrailcollege.com/future-students/welcome/international-students/</a></p>
+<p>Centennial College. (n.d.). <em>Full-time programs</em>. Retrieved November 10, 2026, from <a href="https://www.centennialcollege.ca/programs-courses/full-time">https://www.centennialcollege.ca/programs-courses/full-time</a></p>
+<p>Centre for Nursing Studies. (n.d.). <em>Program and Course Offerings</em>. Retrieved November 10, 2026, from <a href="https://cns.easternhealth.ca/programs-and-courses/program-and-course-offerings/">https://cns.easternhealth.ca/programs-and-courses/program-and-course-offerings/</a></p>
+<p>Coast Mountain College. (n.d.). <em>International</em>. Retrieved November 9, 2026, from <a href="https://www.coastmountaincollege.ca/programs/explore/international">https://www.coastmountaincollege.ca/programs/explore/international</a></p>
+<p>Collège Boréal. (n.d.). <em>Bienvenue aux candidats internationaux</em>. Retrieved November 10, 2026, from <a href="https://collegeboreal.ca/futurs-etudiants-et-etudiantes/candidats-internationaux/">https://collegeboreal.ca/futurs-etudiants-et-etudiantes/candidats-internationaux/</a></p>
+<p>Collège communautaire du Nouveau-Brunswick. (n.d.). <em>Programmes éligibles au PTPD</em>. Retrieved November 10, 2026, from <a href="https://ccnb.ca/admission-et-inscription/ptpd/">https://ccnb.ca/admission-et-inscription/ptpd/</a></p>
+<p>Collège de l'Île. (n.d.). <em>Admissibilité au permis de travail post-diplôme</em>. Retrieved November 10, 2026, from <a href="https://www.collegedelile.ca/admission/inscrivez-vous-ici/Admissibilite_au_permis_de_travail_post_diplome">https://www.collegedelile.ca/admission/inscrivez-vous-ici/Admissibilite_au_permis_de_travail_post_diplome</a></p>
+<p>Collège La Cité. (n.d.). <em>Permis de travail postdiplôme pour candidats internationaux</em>. Retrieved November 10, 2026, from <a href="https://www.collegelacite.ca/permis_de_travail_postdiplome_candidats_internationaux">https://www.collegelacite.ca/permis_de_travail_postdiplome_candidats_internationaux</a></p>
+<p>College of New Caledonia. (n.d.). <em>Programs for international students</em>. Retrieved November 9, 2026, from <a href="https://cnc.bc.ca/international-students/courses">https://cnc.bc.ca/international-students/courses</a></p>
+<p>College of the North Atlantic. (n.d.). <em>International student permit policy update</em>. Retrieved November 8, 2026, from <a href="https://www.cna.nl.ca/admissions/ircc">https://www.cna.nl.ca/admissions/ircc</a></p>
+<p>College of the Rockies. (n.d.). <em>Programs for international students</em>. Retrieved November 9, 2026, from <a href="https://cotr.bc.ca/future-students/international/programs-for-international-students/">https://cotr.bc.ca/future-students/international/programs-for-international-students/</a></p>
+<p>Conestoga College. (n.d.). <em>International PGWP-aligned programs</em>. Retrieved November 10, 2026, from <a href="https://www.conestogac.on.ca/international/apply-to-conestoga/pgwp-aligned-programs">https://www.conestogac.on.ca/international/apply-to-conestoga/pgwp-aligned-programs</a></p>
+<p>Confederation College. (n.d.). <em>International programs</em>. Retrieved November 10, 2026, from <a href="https://www.confederationcollege.ca/programs/international/">https://www.confederationcollege.ca/programs/international/</a></p>
+<p>Douglas College. (n.d.). <em>International student programs</em>. Retrieved November 8, 2026, from <a href="https://www.douglascollege.ca/programs-and-courses/international-student-programs">https://www.douglascollege.ca/programs-and-courses/international-student-programs</a></p>
+<p>Durham College. (n.d.). <em>PGWP-eligible programs</em>. Retrieved November 10, 2026, from <a href="https://durhamcollege.ca/info-for/international/new-and-current-students/updates-to-the-international-student-program">https://durhamcollege.ca/info-for/international/new-and-current-students/updates-to-the-international-student-program</a></p>
+<p>Fanshawe College. (n.d.). <em>PGWP aligned programs</em>. Retrieved November 10, 2026, from <a href="https://www.fanshawec.ca/international/applicants/international-programs/pgwp-programs">https://www.fanshawec.ca/international/applicants/international-programs/pgwp-programs</a></p>
+<p>Fleming College. (n.d.). <em>International education at Fleming</em>. Retrieved November 10, 2026, from <a href="https://flemingcollege.ca/international-education">https://flemingcollege.ca/international-education</a></p>
+<p>George Brown Polytechnic. (n.d.). <em>Programs eligible for Post-Graduation Work Permit (PGWP)</em>. Retrieved November 10, 2026, from <a href="https://www.georgebrown.ca/pgwp-eligible">https://www.georgebrown.ca/pgwp-eligible</a></p>
+<p>Georgian College. (n.d.). <em>Updates for international students regarding enrolment and study permits</em>. Retrieved November 10, 2026, from <a href="https://www.georgiancollege.ca/international/student-permit-policy-update/">https://www.georgiancollege.ca/international/student-permit-policy-update/</a></p>
+<p>Great Plains College. (n.d.). <em>International</em>. Retrieved November 10, 2026, from <a href="https://www.greatplainscollege.ca/programs-courses/international-students">https://www.greatplainscollege.ca/programs-courses/international-students</a></p>
+<p>Holland College. (n.d.). <em>Full-time programs</em>. Retrieved November 8, 2026, from <a href="https://hollandcollege.com/academics/full-time-programs/">https://hollandcollege.com/academics/full-time-programs/</a></p>
+<p>Humber Polytechnic. (n.d.). <em>Explore full-time programs at Humber</em>. Retrieved November 10, 2026, from <a href="https://humber.ca/explore-programs/search/full-time-programs">https://humber.ca/explore-programs/search/full-time-programs</a></p>
+<p>Justice Institute of British Columbia. (n.d.). <em>Programs for international students</em>. Retrieved November 9, 2026, from <a href="https://www.jibc.ca/international-studies/programs-for-international-students">https://www.jibc.ca/international-studies/programs-for-international-students</a></p>
+<p>Keyano College. (n.d.). <em>Eligible programs for international students</em>. Retrieved November 9, 2026, from <a href="https://www.keyano.ca/admissions/international-students/programs-for-international-students/">https://www.keyano.ca/admissions/international-students/programs-for-international-students/</a></p>
+<p>Lakeland College. (n.d.). <em>International students eligible programs</em>. Retrieved November 9, 2026, from <a href="https://www.lakelandcollege.ca/admissions/international-students/eligible-programs.html">https://www.lakelandcollege.ca/admissions/international-students/eligible-programs.html</a></p>
+<p>Lambton College. (n.d.). <em>International programs</em>. Retrieved November 10, 2026, from <a href="https://www.lambtoncollege.ca/programs/international">https://www.lambtoncollege.ca/programs/international</a></p>
+<p>Langara College. (n.d.). <em>Post-graduate work permit</em>. Retrieved November 8, 2026, from <a href="https://langara.ca/why-langara/international-student-experience/immigration-resources/post-graduate-work-permit">https://langara.ca/why-langara/international-student-experience/immigration-resources/post-graduate-work-permit</a></p>
+<p>Lethbridge Polytechnic. (n.d.). <em>Program availability</em>. Retrieved November 9, 2026, from <a href="https://lethpolytech.ca/departments/admissions/program-availability">https://lethpolytech.ca/departments/admissions/program-availability</a></p>
+<p>Loyalist College. (n.d.). <em>PGWP-aligned programs</em>. Retrieved November 10, 2026, from <a href="https://loyalistcollege.com/admissions/how-to-apply/international-applicants/pgwp-aligned-programs/">https://loyalistcollege.com/admissions/how-to-apply/international-applicants/pgwp-aligned-programs/</a></p>
+<p>MaKami College. (n.d.). <em>Pursuing education for international students</em>. Retrieved November 9, 2026, from <a href="https://makamicollege.com/international-students/">https://makamicollege.com/international-students/</a></p>
+<p>Manitoba Institute of Trades and Technology. (n.d.). <em>PGWP-aligned programs</em>. Retrieved November 10, 2026, from <a href="https://mitt.ca/student-services/international-support/pgwp-aligned-programs/">https://mitt.ca/student-services/international-support/pgwp-aligned-programs/</a></p>
+<p>Medicine Hat College. (n.d.). <em>Program availability</em>. Retrieved November 9, 2026, from <a href="https://www.mhc.ab.ca/programs-and-admissions/admissions/program-availability">https://www.mhc.ab.ca/programs-and-admissions/admissions/program-availability</a></p>
+<p>Mohawk College. (n.d.). <em>Post-Graduation Work Permits (PGWP) eligible programs</em>. Retrieved November 10, 2026, from <a href="https://www.mohawkcollege.ca/pgwp">https://www.mohawkcollege.ca/pgwp</a></p>
+<p>New Brunswick Community College. (n.d.). <em>Program list: PGWP eligible fields of study</em>. Retrieved November 8, 2026, from <a href="https://nbcc.ca/admissions/ircc/pgwp-program-eligibility">https://nbcc.ca/admissions/ircc/pgwp-program-eligibility</a></p>
+<p>Niagara College. (n.d.). <em>PGWP eligible programs</em>. Retrieved November 10, 2026, from <a href="https://international.niagaracollege.ca/programs/pgwp-eligible-programs">https://international.niagaracollege.ca/programs/pgwp-eligible-programs</a></p>
+<p>NorQuest College. (n.d.). <em>Post-graduation work permit</em>. Retrieved November 8, 2026, from <a href="https://www.norquest.ca/internationalstudents/immigration/post-graduation-work-permit/">https://www.norquest.ca/internationalstudents/immigration/post-graduation-work-permit/</a></p>
+<p>North Island College. (n.d.). <em>International student programs</em>. Retrieved November 9, 2026, from <a href="https://www.nic.bc.ca/admissions/international-students/programs.html">https://www.nic.bc.ca/admissions/international-students/programs.html</a></p>
+<p>North West College. (n.d.). <em>International programs</em>. Retrieved November 10, 2026, from <a href="https://northwestcollege.ca/students/international_students/international_programs.html">https://northwestcollege.ca/students/international_students/international_programs.html</a></p>
+<p>Northern Alberta Institute of Technology. (n.d.). <em>Post-graduation work permit</em>. Retrieved November 8, 2026, from <a href="https://www.nait.ca/nait/international/immigration-visa-requirements/post-graduation-work-permit">https://www.nait.ca/nait/international/immigration-visa-requirements/post-graduation-work-permit</a></p>
+<p>Northern College. (n.d.). <em>Programs available to international students</em>. Retrieved November 10, 2026, from <a href="https://www.northerncollege.ca/international/programs/">https://www.northerncollege.ca/international/programs/</a></p>
+<p>Northern Lakes College. (n.d.). <em>International students</em>. Retrieved November 9, 2026, from <a href="https://www.northernlakescollege.ca/future-students/international-students">https://www.northernlakescollege.ca/future-students/international-students</a></p>
+<p>Northern Lights College. (n.d.). <em>Applying to NLC as an international student</em>. Retrieved November 9, 2026, from <a href="https://www.nlc.bc.ca/applying-international-students/">https://www.nlc.bc.ca/applying-international-students/</a></p>
+<p>Northwestern Polytechnic. (n.d.). <em>International student programs</em>. Retrieved November 9, 2026, from <a href="https://www.nwpolytech.ca/international-students/international-student-programs">https://www.nwpolytech.ca/international-students/international-student-programs</a></p>
+<p>Nova Scotia Community College. (n.d.). <em>College programs</em>. Retrieved November 8, 2026, from <a href="https://www.nscc.ca/programs-and-courses/programs/programlisting.aspx">https://www.nscc.ca/programs-and-courses/programs/programlisting.aspx</a></p>
+<p>Okanagan College. (n.d.). <em>Program availability for international students</em>. Retrieved November 9, 2026, from <a href="https://www.okanagancollege.ca/international/program-availability-for-international-students">https://www.okanagancollege.ca/international/program-availability-for-international-students</a></p>
+<p>Olds College. (n.d.). <em>International admissions</em>. Retrieved November 9, 2026, from <a href="https://www.oldscollege.ca/admissions/international-admissions/index.html">https://www.oldscollege.ca/admissions/international-admissions/index.html</a></p>
+<p>Portage College. (n.d.). <em>Programs available to international students</em>. Retrieved November 9, 2026, from <a href="https://portagecollege.ca/international-student-programs-and-fees">https://portagecollege.ca/international-student-programs-and-fees</a></p>
+<p>Red Deer Polytechnic. (n.d.). <em>Immigration information and requirements</em>. Retrieved November 9, 2026, from <a href="https://rdpolytech.ca/international/immigration-information-requirements">https://rdpolytech.ca/international/immigration-information-requirements</a></p>
+<p>Red River College Polytechnic. (n.d.). <em>List of programs for international students</em>. Retrieved November 8, 2026, from <a href="https://www.rrc.ca/international/study-at-rrc/">https://www.rrc.ca/international/study-at-rrc/</a></p>
+<p>Saskatchewan Polytechnic. (n.d.). <em>Post-Graduation Work Permit Program</em>. Retrieved November 8, 2026, from <a href="https://saskpolytech.ca/programs-and-courses/international/post-graduation-work-permit-program.aspx">https://saskpolytech.ca/programs-and-courses/international/post-graduation-work-permit-program.aspx</a></p>
+<p>Sault College. (n.d.). <em>Study &amp; work</em>. Retrieved November 10, 2026, from <a href="https://www.saultcollege.ca/studying-canada-has-options/study-work">https://www.saultcollege.ca/studying-canada-has-options/study-work</a></p>
+<p>Selkirk College. (n.d.). <em>PGWP-eligible programs</em>. Retrieved November 9, 2026, from <a href="https://selkirk.ca/international/international-students/international-programs/pgwp-eligible-programs">https://selkirk.ca/international/international-students/international-programs/pgwp-eligible-programs</a></p>
+<p>Seneca Polytechnic. (n.d.). <em>PGWP-eligible programs at Seneca Polytechnic</em>. Retrieved November 10, 2026, from <a href="https://www.senecapolytechnic.ca/international/pgwp-eligible-programs.html">https://www.senecapolytechnic.ca/international/pgwp-eligible-programs.html</a></p>
+<p>Sheridan College. (n.d.). <em>PGWP-aligned programs</em>. Retrieved November 10, 2026, from <a href="https://www.sheridancollege.ca/admissions/international/prospective-students/study-and-work-permit/pgwp-programs">https://www.sheridancollege.ca/admissions/international/prospective-students/study-and-work-permit/pgwp-programs</a></p>
+<p>Southeast College. (n.d.). <em>International students</em>. Retrieved November 10, 2026, from <a href="https://www.southeastcollege.org/international-students/">https://www.southeastcollege.org/international-students/</a></p>
+<p>Southern Alberta Institute of Technology. (n.d.). <em>Post-graduation work permit</em>. Retrieved November 8, 2026, from <a href="https://www.sait.ca/international-students/immigration/post-graduation-work-permit">https://www.sait.ca/international-students/immigration/post-graduation-work-permit</a></p>
+<p>St. Clair College. (n.d.). <em>Post Graduation Work Permit (PGWP) eligible programs</em>. Retrieved November 10, 2026, from <a href="https://www.stclaircollege.ca/international/pgwp-eligible-programs">https://www.stclaircollege.ca/international/pgwp-eligible-programs</a></p>
+<p>St. Lawrence College. (n.d.). <em>PGWP-aligned programs, June 25, 2025 onward</em>. Retrieved November 10, 2026, from <a href="https://www.stlawrencecollege.ca/services/international/pgwp-aligned-programs/pgwp-programs-june2025-onward">https://www.stlawrencecollege.ca/services/international/pgwp-aligned-programs/pgwp-programs-june2025-onward</a></p>
+<p>Suncrest College. (n.d.). <em>International students</em>. Retrieved November 10, 2026, from <a href="https://suncrestcollege.ca/international-students">https://suncrestcollege.ca/international-students</a></p>
+<p>Vancouver Community College. (n.d.). <em>PGWP-eligible programs</em>. Retrieved November 9, 2026, from <a href="https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/">https://www.vcc.ca/international/current-students/immigration-and-visas/pgwp-eligible-programs/</a></p>
+<p>Western Regional School of Nursing. (n.d.). <em>International Applicants</em>. Retrieved November 10, 2026, from <a href="https://www.mun.ca/nursingadmissions/admission-information/international-applicants/">https://www.mun.ca/nursingadmissions/admission-information/international-applicants/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-11 17:34:09-05:00">11/11/2026 17:34:09</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

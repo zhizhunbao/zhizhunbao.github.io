@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.3 More Topics | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="5.3 More Topics, part of 5 Joint Distributions: 10 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="53-more-topics">5.3 More Topics</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/5-3-more-topics.png" alt="5.3 More Topics: its 3 subsections, one group each listing the terms it defines (10 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5.3 More Topics</strong><br>更多专题</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_1_covariance_correlation.php">Pishro-Nik, 2014, section 5.3</a></td>
+</tr>
+<tr>
+<td><strong>5.3.1 Covariance and Correlation</strong><br>协方差与相关</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_1_covariance_correlation.php">Pishro-Nik, 2014, section 5.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Covariance</strong><br>协方差</td>
+<td>&quot;The <strong>covariance</strong> between <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> is defined as&quot;</td>
+<td><span class="math">\(X\)</span> 与 <span class="math">\(Y\)</span> 之间的<strong>协方差</strong>定义为</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_1_covariance_correlation.php#:%7E:text=The%20covariance%20between%20and%20is%20defined">Pishro-Nik, 2014, section 5.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Uncorrelated Random Variables</strong><br>不相关随机变量</td>
+<td>&quot;If <span class="math">\(\rho(X,Y)=0\)</span>, we say that <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> are <strong>uncorrelated</strong>.&quot;</td>
+<td>若 <span class="math">\(\rho(X,Y)=0\)</span>，则称 <span class="math">\(X\)</span> 和 <span class="math">\(Y\)</span> <strong>不相关</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_1_covariance_correlation.php#:%7E:text=If%20%2C%20we%20say%20that%20and">Pishro-Nik, 2014, section 5.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Covariance</strong><br>协方差</td>
+<td>&quot;The <strong>covariance</strong> between <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> is defined as <span class="math">\(\begin{align} \nonumber \textrm{Cov}(X,Y)&amp;=E\big[(X-EX)(Y-EY)\big]=E[XY]-(EX)(EY). \end{align}\)</span>&quot;</td>
+<td><span class="math">\(X\)</span> 与 <span class="math">\(Y\)</span> 之间的<strong>协方差</strong>定义为 <span class="math">\(\begin{align} \nonumber \textrm{Cov}(X,Y)&amp;=E\big[(X-EX)(Y-EY)\big]=E[XY]-(EX)(EY). \end{align}\)</span></td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_1_covariance_correlation.php#:%7E:text=The%20covariance%20between%20and%20is%20defined">Pishro-Nik, 2014, section 5.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Correlation Coefficient</strong><br>相关系数</td>
+<td>&quot;The <strong>correlation coefficient</strong>, denoted by <span class="math">\(\rho_{XY}\)</span> or <span class="math">\(\rho(X,Y)\)</span>, is obtained by <strong>normalizing the covariance</strong>.&quot;</td>
+<td><strong>相关系数</strong>记作 <span class="math">\(\rho_{XY}\)</span> 或 <span class="math">\(\rho(X,Y)\)</span>，由<strong>协方差标准化</strong>得到。</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_1_covariance_correlation.php#:%7E:text=The%20correlation%20coefficient%2C%20denoted%20by%20or">Pishro-Nik, 2014, section 5.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Positively Correlated</strong><br>正相关</td>
+<td>&quot;In this case, the covariance is positive and we say <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> are <strong>positively correlated</strong>.&quot;</td>
+<td>在这种情况下，协方差为正，我们说 <span class="math">\(X\)</span> 和 <span class="math">\(Y\)</span> <strong>正相关</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_1_covariance_correlation.php#:%7E:text=In%20this%20case%2C%20the%20covariance%20is">Pishro-Nik, 2014, section 5.3.1</a></td>
+</tr>
+<tr>
+<td><strong>Negatively Correlated</strong><br>负相关</td>
+<td>&quot;In this case, the covariance is negative and we say <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> are <strong>negatively correlated</strong>.&quot;</td>
+<td>在这种情况下，协方差为负，我们说 <span class="math">\(X\)</span> 和 <span class="math">\(Y\)</span> <strong>负相关</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_1_covariance_correlation.php#:%7E:text=In%20this%20case%2C%20the%20covariance%20is">Pishro-Nik, 2014, section 5.3.1</a></td>
+</tr>
+<tr>
+<td><strong>5.3.2 Bivariate Normal Distribution</strong><br>二元正态分布</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_2_bivariate_normal_dist.php">Pishro-Nik, 2014, section 5.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Bivariate Normal (Jointly Normal) Random Variables</strong><br>二元正态（联合正态）随机变量</td>
+<td>&quot;Two random variables <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> are said to be <strong>bivariate normal</strong>, or <strong>jointly normal</strong>, if <span class="math">\(aX+bY\)</span> has a normal distribution for all <span class="math">\(a,b \in \mathbb{R}\)</span>.&quot;</td>
+<td>若对所有 <span class="math">\(a,b \in \mathbb{R}\)</span>，<span class="math">\(aX+bY\)</span> 都服从正态分布，则称两个随机变量 <span class="math">\(X\)</span> 和 <span class="math">\(Y\)</span> <strong>服从二元正态分布</strong>，或<strong>联合正态</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_2_bivariate_normal_dist.php#:%7E:text=Two%20random%20variables%20and%20are%20said">Pishro-Nik, 2014, section 5.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Standard Bivariate Normal Distribution</strong><br>标准二元正态分布</td>
+<td>&quot;Two random variables <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> are said to have the <strong>standard bivariate normal distribution</strong> with correlation coefficient <span class="math">\(\mathbf{\rho}\)</span> if their joint PDF is given by&quot;</td>
+<td>若两个随机变量 <span class="math">\(X\)</span> 和 <span class="math">\(Y\)</span> 的联合概率密度函数为如下形式，则称它们服从相关系数为 <span class="math">\(\mathbf{\rho}\)</span> 的<strong>标准二元正态分布</strong></td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_2_bivariate_normal_dist.php#:%7E:text=Two%20random%20variables%20and%20are%20said">Pishro-Nik, 2014, section 5.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Bivariate Normal Distribution</strong><br>二元正态分布</td>
+<td>&quot;Two random variables <span class="math">\(X\)</span> and <span class="math">\(Y\)</span> are said to have a <strong>bivariate normal distribution</strong> with parameters <span class="math">\(\mu_X\)</span>, <span class="math">\(\sigma^2_X\)</span>, <span class="math">\(\mu_Y\)</span>, <span class="math">\(\sigma^2_Y\)</span>, and <span class="math">\(\rho\)</span>, if their joint PDF is given by <span class="math">\(\begin{align} \nonumber &amp;f_{XY}(x,y)=\frac{1}{2 \pi \sigma_X \sigma_Y \sqrt{1-\rho^2}} \cdot\\ &amp;\exp \left\{-\frac{1}{2 (1-\rho^2)}\bigg[\bigg(\frac{x-\mu_X}{\sigma_X}\bigg)^2 +\bigg(\frac{y-\mu_Y}{\sigma_Y}\bigg)^2-2\rho \frac{(x-\mu_X)(y-\mu_Y)}{\sigma_X \sigma_Y} \bigg] \right\} (5.24) \end{align}\)</span>&quot;</td>
+<td>若两个随机变量 <span class="math">\(X\)</span> 和 <span class="math">\(Y\)</span> 的联合概率密度函数由 <span class="math">\(\begin{align} \nonumber &amp;f_{XY}(x,y)=\frac{1}{2 \pi \sigma_X \sigma_Y \sqrt{1-\rho^2}} \cdot\\ &amp;\exp \left\{-\frac{1}{2 (1-\rho^2)}\bigg[\bigg(\frac{x-\mu_X}{\sigma_X}\bigg)^2 +\bigg(\frac{y-\mu_Y}{\sigma_Y}\bigg)^2-2\rho \frac{(x-\mu_X)(y-\mu_Y)}{\sigma_X \sigma_Y} \bigg] \right\} (5.24) \end{align}\)</span> 给出，则称它们服从参数为 <span class="math">\(\mu_X\)</span>、<span class="math">\(\sigma^2_X\)</span>、<span class="math">\(\mu_Y\)</span>、<span class="math">\(\sigma^2_Y\)</span> 和 <span class="math">\(\rho\)</span> 的<strong>二元正态分布</strong></td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_2_bivariate_normal_dist.php#:%7E:text=Two%20random%20variables%20and%20are%20said">Pishro-Nik, 2014, section 5.3.2</a></td>
+</tr>
+<tr>
+<td><strong>Standard Bivariate Normal Distribution</strong><br>标准二元正态分布</td>
+<td>&quot;Similar to our discussion on normal random variables, we start by introducing the <strong>standard bivariate normal distribution</strong> and then obtain the general case from the standard one.&quot;</td>
+<td>与我们对正态随机变量的讨论类似，我们从引入<strong>标准二元正态分布</strong>开始，然后由标准情形得到一般情形。</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_2_bivariate_normal_dist.php#:%7E:text=Similar%20to%20our%20discussion%20on%20normal">Pishro-Nik, 2014, section 5.3.2</a></td>
+</tr>
+<tr>
+<td><strong>5.3.3 Solved Problems</strong><br>例题详解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter5/5_3_3_solved_probs.php">Pishro-Nik, 2014, section 5.3.3</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Pishro-Nik, H. (2014). <em>Introduction to probability, statistics, and random processes</em>. Kappa Research. Retrieved October 28, 2026, from <a href="https://www.probabilitycourse.com/">https://www.probabilitycourse.com/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28">10/28/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

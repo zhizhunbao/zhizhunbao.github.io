@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>10.4 Events | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 10.4 Events: Azure Event Grid, Azure Event Hubs, Azure Web PubSub.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="104-events">10.4 Events</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/events.png" alt="Events, 3 services, each defined in its own overview: Azure Event Grid, Azure Event Hubs, Azure Web PubSub; Azure Event Hubs expands into its core components (Producer applications, Namespace, Event hub / Kafka topic, Partitions, Consumer applications, Consumer group) and Capture."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Azure Event Grid</strong><br>Azure 事件网格</td>
+<td>&quot;Azure Event Grid is a <strong>highly scalable and fully managed publish-subscribe service</strong> for <strong>message distribution</strong>.&quot;</td>
+<td>Azure 事件网格是一种<strong>高度可扩展、完全托管的发布-订阅服务</strong>，用于<strong>消息分发</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-grid/overview#:%7E:text=is%20a%20highly%20scalable%20and%20fully%20managed%20publish-subscribe%20service">Microsoft, 2026a, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Event Hubs</strong><br>Azure 事件中心</td>
+<td>&quot;Azure Event Hubs is a <strong>fully managed, real-time data streaming platform</strong> that can <strong>ingest millions of events per second</strong> with low latency.&quot;</td>
+<td>Azure 事件中心是一个<strong>完全托管的实时数据流式处理平台</strong>，能够以低延迟<strong>每秒引入数百万个事件</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about#:%7E:text=is%20a%20fully%20managed%2C%20real-time%20data%20streaming%20platform">Microsoft, 2026b, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Producer applications</strong><br>生产者应用程序</td>
+<td>&quot;Applications that <strong>send events to Event Hubs</strong> using <strong>Event Hubs SDKs, Kafka producer clients, or HTTPS</strong>&quot;</td>
+<td><strong>向事件中心发送事件</strong>的应用程序，使用<strong>事件中心 SDK、Kafka 生产者客户端或 HTTPS</strong></td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about#:%7E:text=Applications%20that%20send%20events%20to%20Event%20Hubs">Microsoft, 2026b, &quot;How it works&quot;, Core components table, row 1</a></td>
+</tr>
+<tr>
+<td><strong>Namespace</strong><br>命名空间</td>
+<td>&quot;<strong>Management container</strong> for one or more event hubs. Handles <strong>streaming capacity, network security, and geo-disaster recovery</strong> at the namespace level&quot;</td>
+<td>一个或多个事件中心的<strong>管理容器</strong>。在命名空间级别处理<strong>流式处理容量、网络安全和异地灾难恢复</strong></td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about#:%7E:text=Management%20container%20for%20one%20or%20more%20event%20hubs">Microsoft, 2026b, &quot;How it works&quot;, Core components table, row 2</a></td>
+</tr>
+<tr>
+<td><strong>Event hub / Kafka topic</strong><br>事件中心 / Kafka 主题</td>
+<td>&quot;An <strong>append-only distributed log</strong> that organizes events. Contains <strong>one or more partitions</strong> for parallel processing&quot;</td>
+<td>一个组织事件的<strong>只追加分布式日志</strong>。包含<strong>一个或多个分区</strong>，用于并行处理</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about#:%7E:text=An%20append-only%20distributed%20log%20that%20organizes%20events">Microsoft, 2026b, &quot;How it works&quot;, Core components table, row 3</a></td>
+</tr>
+<tr>
+<td><strong>Partitions</strong><br>分区</td>
+<td>&quot;<strong>Ordered sequences of events</strong> used to <strong>scale throughput</strong>. Think of partitions as lanes on a freeway—more partitions enable higher throughput&quot;</td>
+<td><strong>有序的事件序列</strong>，用于<strong>扩展吞吐量</strong>。可以把分区看作高速公路上的车道：分区越多，吞吐量越高</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about#:%7E:text=Ordered%20sequences%20of%20events%20used%20to%20scale%20throughput">Microsoft, 2026b, &quot;How it works&quot;, Core components table, row 4</a></td>
+</tr>
+<tr>
+<td><strong>Consumer applications</strong><br>使用者应用程序</td>
+<td>&quot;Applications that <strong>read events</strong> by <strong>tracking their position (offset)</strong> in each partition. Can use Event Hubs SDKs or Kafka consumer clients&quot;</td>
+<td><strong>读取事件</strong>的应用程序，方式是<strong>跟踪自己在每个分区中的位置</strong>（偏移量）。可以使用事件中心 SDK 或 Kafka 使用者客户端</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about#:%7E:text=Applications%20that%20read%20events%20by%20tracking%20their%20position">Microsoft, 2026b, &quot;How it works&quot;, Core components table, row 5</a></td>
+</tr>
+<tr>
+<td><strong>Consumer group</strong><br>使用者组</td>
+<td>&quot;A <strong>logical view of the event hub</strong> that enables multiple consumer applications to <strong>read the same stream independently</strong>, each maintaining its own position&quot;</td>
+<td>事件中心的一个<strong>逻辑视图</strong>，让多个使用者应用程序<strong>各自独立地读取同一个流</strong>，每个应用程序维护自己的位置</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about#:%7E:text=A%20logical%20view%20of%20the%20event%20hub">Microsoft, 2026b, &quot;How it works&quot;, Core components table, row 6</a></td>
+</tr>
+<tr>
+<td><strong>Capture</strong><br>捕获</td>
+<td>(context) &quot;Capture your streaming data <strong>in near real time</strong> to <strong>Azure Blob Storage or Azure Data Lake Storage</strong> for long-term retention or batch analytics.&quot;</td>
+<td>（语境）将流式数据<strong>近实时地</strong>捕获到 <strong>Azure Blob 存储或 Azure Data Lake Storage</strong>，用于长期保留或批量分析。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about#:%7E:text=your%20streaming%20data%20in%20near%20real%20time">Microsoft, 2026b, &quot;Key capabilities&quot;, &quot;Capture&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Azure Web PubSub</strong><br>Azure Web PubSub</td>
+<td>&quot;Azure Web PubSub is a <strong>fully managed service</strong> for <strong>building applications that deliver updates in real time</strong>.&quot;</td>
+<td>Azure Web PubSub 是一种<strong>完全托管的服务</strong>，用于<strong>构建实时推送更新的应用程序</strong>。</td>
+<td><a href="https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview#:%7E:text=is%20a%20fully%20managed%20service%20for%20building%20applications%20that%20deliver%20updates">Microsoft, 2026c, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Microsoft. (2026a, July 23). <em>What is Azure Event Grid?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/event-grid/overview">https://learn.microsoft.com/en-us/azure/event-grid/overview</a></li>
+<li>Microsoft. (2026b, January 28). <em>What is Azure Event Hubs?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about">https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about</a></li>
+<li>Microsoft. (2026c, August 6). <em>What is Azure Web PubSub service?</em> Microsoft Learn. <a href="https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview">https://learn.microsoft.com/en-us/azure/azure-web-pubsub/overview</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-13 17:57:19-05:00">11/13/2026 17:57:19</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

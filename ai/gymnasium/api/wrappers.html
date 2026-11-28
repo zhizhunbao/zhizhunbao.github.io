@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.4 Wrappers | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Gymnasium, 2.4 Wrappers: Methods, Misc Wrappers, Action Wrappers, Observation Wrappers, Reward Wrappers.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="24-wrappers">2.4 Wrappers</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/wrappers.png" alt="2.4 Wrappers: its parts from the official menu, each with the entries the menu lists under it, in Gymnasium."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>2.4 Wrappers</strong><br>包装器</td>
+<td>&quot;Wrappers are <strong>a convenient way to modify an existing environment without having to alter the underlying code directly</strong>.&quot;</td>
+<td>包装器是<strong>一种无需直接修改底层代码就能修改现有环境的便捷方式</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/">Farama Foundation, n.d.-e, &quot;Wrappers&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Methods</strong><br>方法</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/#methods">Farama Foundation, n.d.-e, &quot;Methods&quot;</a></td>
+</tr>
+<tr>
+<td><strong>Wrapper.step</strong><br>step 方法</td>
+<td>&quot;<strong>Uses the step() of the env that can be overwritten to change the returned data.</strong>&quot;</td>
+<td><strong>调用 env 的 step()，可被重写以改变返回的数据。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/#gymnasium.Wrapper.step">Farama Foundation, n.d.-e, &quot;gymnasium.Wrapper.step&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Wrapper.reset</strong><br>reset 方法</td>
+<td>&quot;<strong>Uses the reset() of the env that can be overwritten to change the returned data.</strong>&quot;</td>
+<td><strong>调用 env 的 reset()，可被重写以改变返回的数据。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/#gymnasium.Wrapper.reset">Farama Foundation, n.d.-e, &quot;gymnasium.Wrapper.reset&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Wrapper.render</strong><br>render 方法</td>
+<td>&quot;<strong>Uses the render() of the env that can be overwritten to change the returned data.</strong>&quot;</td>
+<td><strong>调用 env 的 render()，可被重写以改变返回的数据。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/#gymnasium.Wrapper.render">Farama Foundation, n.d.-e, &quot;gymnasium.Wrapper.render&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Wrapper.close</strong><br>close 方法</td>
+<td>&quot;<strong>Closes the wrapper and env.</strong>&quot;</td>
+<td><strong>关闭包装器和 env。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/#gymnasium.Wrapper.close">Farama Foundation, n.d.-e, &quot;gymnasium.Wrapper.close&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Wrapper.wrapper_spec</strong><br>wrapper_spec 方法</td>
+<td>&quot;<strong>Generates a WrapperSpec for the wrappers.</strong>&quot;</td>
+<td><strong>为包装器生成一个 WrapperSpec。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/#gymnasium.Wrapper.wrapper_spec">Farama Foundation, n.d.-e, &quot;gymnasium.Wrapper.wrapper_spec&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Wrapper.get_wrapper_attr</strong><br>get_wrapper_attr 方法</td>
+<td>&quot;<strong>Gets an attribute from the wrapper and lower environments</strong> if name doesn’t exist in this object.&quot;</td>
+<td><strong>从包装器及其下层环境获取属性</strong>，在该名称不存在于本对象时使用。</td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/#gymnasium.Wrapper.get_wrapper_attr">Farama Foundation, n.d.-e, &quot;gymnasium.Wrapper.get_wrapper_attr&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Wrapper.set_wrapper_attr</strong><br>set_wrapper_attr 方法</td>
+<td>&quot;<strong>Sets an attribute on this wrapper or lower environment</strong> if name is already defined.&quot;</td>
+<td><strong>在本包装器或下层环境上设置属性</strong>，在该名称已定义时使用。</td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/#gymnasium.Wrapper.set_wrapper_attr">Farama Foundation, n.d.-e, &quot;gymnasium.Wrapper.set_wrapper_attr&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Misc Wrappers</strong><br>其他包装器</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/">Farama Foundation, n.d.-b, &quot;Misc Wrappers&quot;</a></td>
+</tr>
+<tr>
+<td><strong>TimeLimit</strong><br>TimeLimit（时间限制包装器）</td>
+<td>&quot;<strong>Limits the number of steps for an environment through truncating the environment if a maximum number of timesteps is exceeded.</strong>&quot;</td>
+<td><strong>在超过最大时间步数时截断环境，从而限制环境的步数。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.TimeLimit">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.TimeLimit&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RecordVideo</strong><br>RecordVideo（录制视频包装器）</td>
+<td>&quot;<strong>Records videos of environment episodes using the environment’s render function.</strong>&quot;</td>
+<td><strong>用环境的 render 函数录制环境回合的视频。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.RecordVideo">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.RecordVideo&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RecordEpisodeStatistics</strong><br>RecordEpisodeStatistics（记录回合统计包装器）</td>
+<td>&quot;This wrapper will <strong>keep track of cumulative rewards and episode lengths</strong>.&quot;</td>
+<td>这个包装器会<strong>跟踪累计奖励和回合长度</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.RecordEpisodeStatistics">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.RecordEpisodeStatistics&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AtariPreprocessing</strong><br>AtariPreprocessing（Atari 预处理包装器）</td>
+<td>&quot;<strong>Implements the common preprocessing techniques for Atari environments (excluding frame stacking).</strong>&quot;</td>
+<td><strong>实现 Atari 环境常用的预处理技术（不含帧堆叠）。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.AtariPreprocessing">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.AtariPreprocessing&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Autoreset</strong><br>Autoreset（自动重置包装器）</td>
+<td>&quot;The wrapped environment is <strong>automatically reset when a terminated or truncated state is reached</strong>.&quot;</td>
+<td>被包装的环境<strong>在到达终止或截断状态时自动重置</strong>。</td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.Autoreset">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.Autoreset&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>PassiveEnvChecker</strong><br>PassiveEnvChecker（被动环境检查包装器）</td>
+<td>&quot;<strong>A passive wrapper that surrounds the step, reset and render functions to check they follow Gymnasium’s API.</strong>&quot;</td>
+<td><strong>一个被动包装器，包住 step、reset 和 render 函数，检查它们是否遵循 Gymnasium 的 API。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.PassiveEnvChecker">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.PassiveEnvChecker&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>HumanRendering</strong><br>HumanRendering（人类渲染包装器）</td>
+<td>&quot;<strong>Allows human like rendering for environments that support “rgb_array” rendering.</strong>&quot;</td>
+<td><strong>让支持“rgb_array”渲染的环境能进行 human 式渲染。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.HumanRendering">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.HumanRendering&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>OrderEnforcing</strong><br>OrderEnforcing（顺序强制包装器）</td>
+<td>&quot;<strong>Will produce an error if step or render is called before reset.</strong>&quot;</td>
+<td><strong>若在 reset 之前调用 step 或 render，就报错。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.OrderEnforcing">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.OrderEnforcing&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RenderCollection</strong><br>RenderCollection（渲染收集包装器）</td>
+<td>&quot;<strong>Collect rendered frames of an environment</strong> such render returns a list[RenderedFrame].&quot;</td>
+<td><strong>收集环境的渲染帧</strong>，使 render 返回 list[RenderedFrame]。</td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.RenderCollection">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.RenderCollection&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ArrayConversion</strong><br>ArrayConversion（数组转换包装器）</td>
+<td>&quot;<strong>Wraps an Array API compatible environment so that it can be interacted with with another Array API framework.</strong>&quot;</td>
+<td><strong>包装一个兼容 Array API 的环境，使其能用另一个 Array API 框架来交互。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.ArrayConversion">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.ArrayConversion&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>JaxToNumpy</strong><br>JaxToNumpy（Jax 转 NumPy 包装器）</td>
+<td>&quot;<strong>Wraps a Jax-based environment such that it can be interacted with NumPy arrays.</strong>&quot;</td>
+<td><strong>包装一个基于 Jax 的环境，使其能用 NumPy 数组交互。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.JaxToNumpy">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.JaxToNumpy&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>JaxToTorch</strong><br>JaxToTorch（Jax 转 PyTorch 包装器）</td>
+<td>&quot;<strong>Wraps a Jax-based environment so that it can be interacted with PyTorch Tensors.</strong>&quot;</td>
+<td><strong>包装一个基于 Jax 的环境，使其能用 PyTorch 张量交互。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.JaxToTorch">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.JaxToTorch&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>NumpyToTorch</strong><br>NumpyToTorch（NumPy 转 PyTorch 包装器）</td>
+<td>&quot;<strong>Wraps a NumPy-based environment such that it can be interacted with PyTorch Tensors.</strong>&quot;</td>
+<td><strong>包装一个基于 NumPy 的环境，使其能用 PyTorch 张量交互。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.NumpyToTorch">Farama Foundation, n.d.-b, &quot;gymnasium.wrappers.NumpyToTorch&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Action Wrappers</strong><br>动作包装器</td>
+<td>&quot;<strong>Superclass of wrappers that can modify the action before step().</strong>&quot;</td>
+<td><strong>能在 step() 之前修改动作的包装器的超类。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/action_wrappers/#gymnasium.ActionWrapper">Farama Foundation, n.d.-a, &quot;gymnasium.ActionWrapper&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ActionWrapper.action</strong><br>action 方法</td>
+<td>&quot;<strong>Returns a modified action before step() is called.</strong>&quot;</td>
+<td><strong>在调用 step() 之前返回修改后的动作。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/action_wrappers/#gymnasium.ActionWrapper.action">Farama Foundation, n.d.-a, &quot;gymnasium.ActionWrapper.action&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>TransformAction</strong><br>TransformAction（动作变换包装器）</td>
+<td>&quot;<strong>Applies a function to the action before passing the modified value to the environment step function.</strong>&quot;</td>
+<td><strong>先对动作应用一个函数，再把修改后的值传给环境的 step 函数。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/action_wrappers/#gymnasium.wrappers.TransformAction">Farama Foundation, n.d.-a, &quot;gymnasium.wrappers.TransformAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ClipAction</strong><br>ClipAction（动作裁剪包装器）</td>
+<td>&quot;<strong>Clips the action pass to step to be within the environment’s action_space.</strong>&quot;</td>
+<td><strong>裁剪传给 step 的动作，使其落在环境的 action_space 之内。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/action_wrappers/#gymnasium.wrappers.ClipAction">Farama Foundation, n.d.-a, &quot;gymnasium.wrappers.ClipAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RescaleAction</strong><br>RescaleAction（动作缩放包装器）</td>
+<td>&quot;<strong>Affinely (linearly) rescales a Box action space of the environment to within the range of [min_action, max_action].</strong>&quot;</td>
+<td><strong>把环境的 Box 动作空间仿射（线性）缩放到 [min_action, max_action] 范围内。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/action_wrappers/#gymnasium.wrappers.RescaleAction">Farama Foundation, n.d.-a, &quot;gymnasium.wrappers.RescaleAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>StickyAction</strong><br>StickyAction（粘滞动作包装器）</td>
+<td>&quot;<strong>Adds a probability that the action is repeated for the same step function.</strong>&quot;</td>
+<td><strong>增加一个概率，使动作在同一 step 函数中被重复。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/action_wrappers/#gymnasium.wrappers.StickyAction">Farama Foundation, n.d.-a, &quot;gymnasium.wrappers.StickyAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RepeatAction</strong><br>RepeatAction（重复动作包装器）</td>
+<td>&quot;<strong>Repeats the given action for num_repeats steps, accumulating the reward.</strong>&quot;</td>
+<td><strong>把给定动作重复 num_repeats 步，并累加奖励。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/action_wrappers/#gymnasium.wrappers.RepeatAction">Farama Foundation, n.d.-a, &quot;gymnasium.wrappers.RepeatAction&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Observation Wrappers</strong><br>观测包装器</td>
+<td>&quot;<strong>Modify observations from Env.reset() and Env.step() using observation() function.</strong>&quot;</td>
+<td><strong>用 observation() 函数修改 Env.reset() 和 Env.step() 返回的观测。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.ObservationWrapper">Farama Foundation, n.d.-c, &quot;gymnasium.ObservationWrapper&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ObservationWrapper.observation</strong><br>observation 方法</td>
+<td>&quot;<strong>Returns a modified observation.</strong>&quot;</td>
+<td><strong>返回修改后的观测。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.ObservationWrapper.observation">Farama Foundation, n.d.-c, &quot;gymnasium.ObservationWrapper.observation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>TransformObservation</strong><br>TransformObservation（观测变换包装器）</td>
+<td>&quot;<strong>Applies a function to the observation received from the environment’s Env.reset() and Env.step() that is passed back to the user.</strong>&quot;</td>
+<td><strong>对从环境的 Env.reset() 和 Env.step() 收到、要返回给用户的观测应用一个函数。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.TransformObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.TransformObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DelayObservation</strong><br>DelayObservation（观测延迟包装器）</td>
+<td>&quot;<strong>Adds a delay to the returned observation from the environment.</strong>&quot;</td>
+<td><strong>给环境返回的观测加上延迟。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.DelayObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.DelayObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>DtypeObservation</strong><br>DtypeObservation（观测类型转换包装器）</td>
+<td>&quot;<strong>Modifies the dtype of an observation array to a specified dtype.</strong>&quot;</td>
+<td><strong>把观测数组的 dtype 改为指定的 dtype。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.DtypeObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.DtypeObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>FilterObservation</strong><br>FilterObservation（观测过滤包装器）</td>
+<td>&quot;<strong>Filters a Dict or Tuple observation spaces by a set of keys or indexes.</strong>&quot;</td>
+<td><strong>按一组键或索引过滤 Dict 或 Tuple 观测空间。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.FilterObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.FilterObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>FlattenObservation</strong><br>FlattenObservation（观测展平包装器）</td>
+<td>&quot;<strong>Flattens the environment’s observation space and each observation from reset and step functions.</strong>&quot;</td>
+<td><strong>展平环境的观测空间以及 reset 和 step 函数返回的每个观测。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.FlattenObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.FlattenObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>FrameStackObservation</strong><br>FrameStackObservation（帧堆叠观测包装器）</td>
+<td>&quot;<strong>Stacks the observations from the last N time steps in a rolling manner.</strong>&quot;</td>
+<td><strong>以滚动方式堆叠最近 N 个时间步的观测。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.FrameStackObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.FrameStackObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>GrayscaleObservation</strong><br>GrayscaleObservation（灰度观测包装器）</td>
+<td>&quot;<strong>Converts an image observation computed by reset and step from RGB to Grayscale.</strong>&quot;</td>
+<td><strong>把 reset 和 step 计算出的图像观测从 RGB 转换为灰度。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.GrayscaleObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.GrayscaleObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>MaxAndSkipObservation</strong><br>MaxAndSkipObservation（取最大并跳帧观测包装器）</td>
+<td>&quot;<strong>Skips the N-th frame (observation) and return the max values between the two last observations.</strong>&quot;</td>
+<td><strong>跳过第 N 帧（观测），并返回最后两个观测之间的最大值。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.MaxAndSkipObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.MaxAndSkipObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>NormalizeObservation</strong><br>NormalizeObservation（观测归一化包装器）</td>
+<td>&quot;<strong>Normalizes observations to be centered at the mean with unit variance.</strong>&quot;</td>
+<td><strong>把观测归一化为以均值为中心、方差为 1。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.NormalizeObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.NormalizeObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>AddRenderObservation</strong><br>AddRenderObservation（加入渲染观测包装器）</td>
+<td>&quot;<strong>Includes the rendered observations in the environment’s observations.</strong>&quot;</td>
+<td><strong>把渲染出的观测加入环境的观测中。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.AddRenderObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.AddRenderObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ResizeObservation</strong><br>ResizeObservation（观测尺寸调整包装器）</td>
+<td>&quot;<strong>Resizes image observations using OpenCV to a specified shape.</strong>&quot;</td>
+<td><strong>用 OpenCV 把图像观测调整为指定形状。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.ResizeObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.ResizeObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ReshapeObservation</strong><br>ReshapeObservation（观测变形包装器）</td>
+<td>&quot;<strong>Reshapes Array based observations to a specified shape.</strong>&quot;</td>
+<td><strong>把基于数组的观测变形为指定形状。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.ReshapeObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.ReshapeObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RescaleObservation</strong><br>RescaleObservation（观测缩放包装器）</td>
+<td>&quot;<strong>Affinely (linearly) rescales a Box observation space of the environment to within the range of [min_obs, max_obs].</strong>&quot;</td>
+<td><strong>把环境的 Box 观测空间仿射（线性）缩放到 [min_obs, max_obs] 范围内。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.RescaleObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.RescaleObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>TimeAwareObservation</strong><br>TimeAwareObservation（时间感知观测包装器）</td>
+<td>&quot;<strong>Augment the observation with the number of time steps taken within an episode.</strong>&quot;</td>
+<td><strong>用回合内已走的时间步数来扩充观测。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/#gymnasium.wrappers.TimeAwareObservation">Farama Foundation, n.d.-c, &quot;gymnasium.wrappers.TimeAwareObservation&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Reward Wrappers</strong><br>奖励包装器</td>
+<td>&quot;<strong>Superclass of wrappers that can modify the returning reward from a step.</strong>&quot;</td>
+<td><strong>能修改 step 返回的奖励的包装器的超类。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/reward_wrappers/#gymnasium.RewardWrapper">Farama Foundation, n.d.-d, &quot;gymnasium.RewardWrapper&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>RewardWrapper.reward</strong><br>reward 方法</td>
+<td>&quot;<strong>Returns a modified environment reward.</strong>&quot;</td>
+<td><strong>返回修改后的环境奖励。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/reward_wrappers/#gymnasium.RewardWrapper.reward">Farama Foundation, n.d.-d, &quot;gymnasium.RewardWrapper.reward&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>TransformReward</strong><br>TransformReward（奖励变换包装器）</td>
+<td>&quot;<strong>Applies a function to the reward received from the environment’s step.</strong>&quot;</td>
+<td><strong>对从环境的 step 收到的奖励应用一个函数。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/reward_wrappers/#gymnasium.wrappers.TransformReward">Farama Foundation, n.d.-d, &quot;gymnasium.wrappers.TransformReward&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>NormalizeReward</strong><br>NormalizeReward（奖励归一化包装器）</td>
+<td>&quot;<strong>Normalizes immediate rewards such that their exponential moving average has an approximately fixed variance.</strong>&quot;</td>
+<td><strong>归一化即时奖励，使其指数移动平均的方差近似固定。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/reward_wrappers/#gymnasium.wrappers.NormalizeReward">Farama Foundation, n.d.-d, &quot;gymnasium.wrappers.NormalizeReward&quot;, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>ClipReward</strong><br>ClipReward（奖励裁剪包装器）</td>
+<td>&quot;<strong>Clips the rewards for an environment between an upper and lower bound.</strong>&quot;</td>
+<td><strong>把环境的奖励裁剪到上下界之间。</strong></td>
+<td><a href="https://gymnasium.farama.org/api/wrappers/reward_wrappers/#gymnasium.wrappers.ClipReward">Farama Foundation, n.d.-d, &quot;gymnasium.wrappers.ClipReward&quot;, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Farama Foundation. (n.d.-a). <em>Action Wrappers</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/wrappers/action_wrappers/">https://gymnasium.farama.org/api/wrappers/action_wrappers/</a></p>
+<p>Farama Foundation. (n.d.-b). <em>Misc Wrappers</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/wrappers/misc_wrappers/">https://gymnasium.farama.org/api/wrappers/misc_wrappers/</a></p>
+<p>Farama Foundation. (n.d.-c). <em>Observation Wrappers</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/wrappers/observation_wrappers/">https://gymnasium.farama.org/api/wrappers/observation_wrappers/</a></p>
+<p>Farama Foundation. (n.d.-d). <em>Reward Wrappers</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/wrappers/reward_wrappers/">https://gymnasium.farama.org/api/wrappers/reward_wrappers/</a></p>
+<p>Farama Foundation. (n.d.-e). <em>Wrappers</em>. Gymnasium Documentation (Version 1.4.0). Retrieved October 31, 2026, from <a href="https://gymnasium.farama.org/api/wrappers/">https://gymnasium.farama.org/api/wrappers/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-31 17:22:15-04:00">10/31/2026 17:22:15</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

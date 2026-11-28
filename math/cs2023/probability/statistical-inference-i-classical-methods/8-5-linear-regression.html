@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>8.5 Linear Regression | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="8.5 Linear Regression, part of 8 Statistical Inference I: Classical Methods: 10 terms.">
+      <link rel="icon" href="../../../../favicon.svg">
+      <link rel="stylesheet" href="../../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../../public/kb.css">
+      <meta name="kb:rel" content="../../../../">
+      <meta name="kb:navrel" content="../../../../toc.html">
+      <meta name="kb:tocrel" content="../../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../../index.html" aria-label="Peng Wang">
+          <img src="../../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="85-linear-regression">8.5 Linear Regression</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/8-5-linear-regression.png" alt="8.5 Linear Regression: its 6 subsections, one group each listing the terms it defines (10 in all)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>8.5 Linear Regression</strong><br>线性回归</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_0_linear_regression.php">Pishro-Nik, 2014, section 8.5</a></td>
+</tr>
+<tr>
+<td><strong>8.5.0 Linear Regression</strong><br>线性回归</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_0_linear_regression.php">Pishro-Nik, 2014, section 8.5.0</a></td>
+</tr>
+<tr>
+<td><strong>Linear Model</strong><br>线性模型</td>
+<td>&quot;A <strong>linear model</strong> is probably the simplest model that we can define, where we write&quot;</td>
+<td><strong>线性模型</strong>可能是我们能定义的最简单的模型，其中我们写作</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_0_linear_regression.php#:%7E:text=A%20linear%20model%20is%20probably%20the">Pishro-Nik, 2014, section 8.5.0</a></td>
+</tr>
+<tr>
+<td><strong>Regression Line</strong><br>回归直线</td>
+<td>&quot;is called the <strong>regression line</strong>.&quot;</td>
+<td>称为<strong>回归直线</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_0_linear_regression.php#:%7E:text=is%20called%20the%20regression%20line.">Pishro-Nik, 2014, section 8.5.0</a></td>
+</tr>
+<tr>
+<td><strong>Predictor</strong><br>预测变量</td>
+<td>&quot;The variable <span class="math">\(x\)</span> is called the <strong>predictor</strong> or the <strong>explanatory variable</strong>, and the random variable <span class="math">\(Y\)</span> is called the response variable.&quot;</td>
+<td>变量 <span class="math">\(x\)</span> 称为<strong>预测变量</strong>或<strong>解释变量</strong>，随机变量 <span class="math">\(Y\)</span> 称为响应变量。</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_0_linear_regression.php#:%7E:text=The%20variable%20is%20called%20the%20predictor">Pishro-Nik, 2014, section 8.5.0</a></td>
+</tr>
+<tr>
+<td><strong>Response Variable</strong><br>响应变量</td>
+<td>&quot;the random variable <span class="math">\(Y\)</span> is called the <strong>response variable</strong>. That is, here, we use <span class="math">\(x\)</span> to predict/estimate <span class="math">\(Y\)</span>.&quot;</td>
+<td>随机变量 <span class="math">\(Y\)</span> 称为<strong>响应变量</strong>。也就是说，这里我们用 <span class="math">\(x\)</span> 来预测或估计 <span class="math">\(Y\)</span>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_0_linear_regression.php#:%7E:text=the%20random%20variable%20is%20called%20the">Pishro-Nik, 2014, section 8.5.0</a></td>
+</tr>
+<tr>
+<td><strong>8.5.1 Simple Linear Regression Model</strong><br>简单线性回归模型</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_1_simple_linear_regression_model.php">Pishro-Nik, 2014, section 8.5.1</a></td>
+</tr>
+<tr>
+<td><strong>Simple Linear Regression</strong><br>简单线性回归</td>
+<td>&quot;Here, we provide a model that is called the <strong>simple linear regression</strong> model.&quot;</td>
+<td>这里我们给出一个称为<strong>简单线性回归</strong>的模型。</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_1_simple_linear_regression_model.php#:%7E:text=Here%2C%20we%20provide%20a%20model%20that">Pishro-Nik, 2014, section 8.5.1</a></td>
+</tr>
+<tr>
+<td><strong>8.5.2 The First Method for Finding beta</strong><br>求β的第一种方法</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_2_first_method_for_finding_beta.php">Pishro-Nik, 2014, section 8.5.2</a></td>
+</tr>
+<tr>
+<td><strong>Coefficient of Determination</strong><br>决定系数</td>
+<td>&quot;For the observed data pairs, <span class="math">\((x_1,y_1)\)</span>, <span class="math">\((x_2,y_2)\)</span>, <span class="math">\(\cdots\)</span>, <span class="math">\((x_n,y_n)\)</span>, we define <strong>coefficient of determination</strong>, <span class="math">\(r^2\)</span> as&quot;</td>
+<td>对于观测数据对 <span class="math">\((x_1,y_1)\)</span>, <span class="math">\((x_2,y_2)\)</span>, <span class="math">\(\cdots\)</span>, <span class="math">\((x_n,y_n)\)</span>，我们定义<strong>决定系数</strong> <span class="math">\(r^2\)</span> 为</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_2_first_method_for_finding_beta.php#:%7E:text=For%20the%20observed%20data%20pairs%2C%20%2C">Pishro-Nik, 2014, section 8.5.2</a></td>
+</tr>
+<tr>
+<td><strong>Fitted Value</strong><br>拟合值</td>
+<td>&quot;Here, <span class="math">\(\hat{y}_i\)</span> is the <strong>predicted value</strong> of <span class="math">\(y_i\)</span> using the regression formula.&quot;</td>
+<td>这里 <span class="math">\(\hat{y}_i\)</span> 是利用回归公式得到的 <span class="math">\(y_i\)</span> 的<strong>预测值</strong>（拟合值）。</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_2_first_method_for_finding_beta.php#:%7E:text=Here%2C%20is%20the%20predicted%20value%20of">Pishro-Nik, 2014, section 8.5.2</a></td>
+</tr>
+<tr>
+<td><strong>Residuals</strong><br>残差</td>
+<td>&quot;which are called the <strong>residuals</strong>.&quot;</td>
+<td>称为<strong>残差</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_2_first_method_for_finding_beta.php#:%7E:text=which%20are%20called%20the%20residuals.">Pishro-Nik, 2014, section 8.5.2</a></td>
+</tr>
+<tr>
+<td><strong>8.5.3 The Method of Least Squares</strong><br>最小二乘法</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_3_the_method_of_least_squares.php">Pishro-Nik, 2014, section 8.5.3</a></td>
+</tr>
+<tr>
+<td><strong>Method of Least Squares</strong><br>最小二乘法</td>
+<td>&quot;This method is called the <strong>method of least squares</strong>, and for this reason, we call the above values of <span class="math">\(\hat{\beta_0}\)</span> and <span class="math">\(\hat{\beta_1}\)</span> the <strong>least squares estimates</strong> of <span class="math">\(\beta_0\)</span> and <span class="math">\(\beta_1\)</span>.&quot;</td>
+<td>这种方法称为<strong>最小二乘法</strong>，因此我们把上述 <span class="math">\(\hat{\beta_0}\)</span> 和 <span class="math">\(\hat{\beta_1}\)</span> 的值称为 <span class="math">\(\beta_0\)</span> 和 <span class="math">\(\beta_1\)</span> 的<strong>最小二乘估计</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_3_the_method_of_least_squares.php#:%7E:text=This%20method%20is%20called%20the%20method">Pishro-Nik, 2014, section 8.5.3</a></td>
+</tr>
+<tr>
+<td><strong>8.5.4 Extensions and Issues</strong><br>推广与问题</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_4_extensions_and_issues.php">Pishro-Nik, 2014, section 8.5.4</a></td>
+</tr>
+<tr>
+<td><strong>Multiple Linear Regression</strong><br>多元线性回归</td>
+<td>&quot;A natural extension to the simple linear regression is <strong>multiple linear regression</strong>.&quot;</td>
+<td>简单线性回归的一个自然推广是<strong>多元线性回归</strong>。</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_4_extensions_and_issues.php#:%7E:text=A%20natural%20extension%20to%20the%20simple">Pishro-Nik, 2014, section 8.5.4</a></td>
+</tr>
+<tr>
+<td><strong>8.5.5 Solved Problems</strong><br>例题详解</td>
+<td>(No definition)</td>
+<td>（无定义）</td>
+<td><a href="https://www.probabilitycourse.com/chapter8/8_5_5_solved_probs.php">Pishro-Nik, 2014, section 8.5.5</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Pishro-Nik, H. (2014). <em>Introduction to probability, statistics, and random processes</em>. Kappa Research. Retrieved October 28, 2026, from <a href="https://www.probabilitycourse.com/">https://www.probabilitycourse.com/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-28">10/28/2026</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

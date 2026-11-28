@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.17.4 MIT 18.02SC: Homework Help for Multivariable Calculus | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Mathematics (Course 18) &gt; MIT 18.02SC: Homework Help for Multivariable Calculus: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="2174-mit-1802sc-homework-help-for-multivariable-calculus">2.17.4 MIT 18.02SC: Homework Help for Multivariable Calculus</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MIT 18.02SC: Homework Help for Multivariable Calculus</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLF07555F3CC669D01">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>18.02SC</td>
+<td></td>
+<td>n.d.</td>
+<td>70</td>
+<td><a href="https://www.youtube.com/playlist?list=PLF07555F3CC669D01">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=AYixF5nY3Vc&amp;list=PLF07555F3CC669D01" title="Coordinate free proofs: centroid of a triangle | MIT 18.02SC Multivariable Calculus, Fall 2010">Coordinate free proofs: centroid of a triangle</a></td>
+<td>11:13</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=hfyluFvlZ-o&amp;list=PLF07555F3CC669D01" title="Dot products and angles | MIT 18.02SC Multivariable Calculus, Fall 2010">Dot products and angles</a></td>
+<td>8:45</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=4kPz8aqm5yE&amp;list=PLF07555F3CC669D01" title="Components of a vector | MIT 18.02SC Multivariable Calculus, Fall 2010">Components of a vector</a></td>
+<td>5:07</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=oET16XXfcCI&amp;list=PLF07555F3CC669D01" title="Area of a parallelogram | MIT 18.02SC Multivariable Calculus, Fall 2010">Area of a parallelogram</a></td>
+<td>3:25</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=PxkEoEbCJT8&amp;list=PLF07555F3CC669D01" title="Determinants | MIT 18.02SC Multivariable Calculus, Fall 2010">Determinants</a></td>
+<td>4:44</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=QCGJVKaCDuI&amp;list=PLF07555F3CC669D01" title="Volume of a parallelepiped | MIT 18.02SC Multivariable Calculus, Fall 2010">Volume of a parallelepiped</a></td>
+<td>2:57</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=QHaAoQQy07I&amp;list=PLF07555F3CC669D01" title="Finding area using cross products | MIT 18.02SC Multivariable Calculus, Fall 2010">Finding area using cross products</a></td>
+<td>5:05</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=P6fOgkC5kvc&amp;list=PLF07555F3CC669D01" title="Matrix multiplication practice | MIT 18.02SC Multivariable Calculus, Fall 2010">Matrix multiplication practice</a></td>
+<td>10:45</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=6T13yRjtd-o&amp;list=PLF07555F3CC669D01" title="Solve a linear system using matrices | MIT 18.02SC Multivariable Calculus, Fall 2010">Solve a linear system using matrices</a></td>
+<td>18:08</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=XmQM5pHxX-o&amp;list=PLF07555F3CC669D01" title="Equations of planes | MIT 18.02SC Multivariable Calculus, Fall 2010">Equations of planes</a></td>
+<td>13:51</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=SgJo7_4mp6w&amp;list=PLF07555F3CC669D01" title="Distance of a point to a plane | MIT 18.02SC Multivariable Calculus, Fall 2010">Distance of a point to a plane</a></td>
+<td>8:15</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=BbNMKMicWy8&amp;list=PLF07555F3CC669D01" title="Systems of linear equations | MIT 18.02SC Multivariable Calculus, Fall 2010">Systems of linear equations</a></td>
+<td>12:00</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=dUk_I1E5QxY&amp;list=PLF07555F3CC669D01" title="Parametrized lines and intersections | MIT 18.02SC Multivariable Calculus, Fall 2010">Parametrized lines and intersections</a></td>
+<td>8:33</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=rtEaK_Jp7zU&amp;list=PLF07555F3CC669D01" title="Parametric line intersecting a plane | MIT 18.02SC Multivariable Calculus, Fall 2010">Parametric line intersecting a plane</a></td>
+<td>8:05</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=evxReCLA-fU&amp;list=PLF07555F3CC669D01" title="Differentiating a vector valued function | MIT 18.02SC Multivariable Calculus, Fall 2010">Differentiating a vector valued function</a></td>
+<td>14:06</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=u9YrIxLZJ6s&amp;list=PLF07555F3CC669D01" title="Parametric curves: velocity, acceleration, length | MIT 18.02SC Multivariable Calculus, Fall 2010">Parametric curves: velocity, acceleration, length</a></td>
+<td>8:20</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=f2KsJBClJ1g&amp;list=PLF07555F3CC669D01" title="Graphing surfaces | MIT 18.02SC Multivariable Calculus, Fall 2010">Graphing surfaces</a></td>
+<td>7:52</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=uaHiAxFESc4&amp;list=PLF07555F3CC669D01" title="Level curves | MIT 18.02SC Multivariable Calculus, Fall 2010">Level curves</a></td>
+<td>10:26</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=gzbWF-IdscE&amp;list=PLF07555F3CC669D01" title="Level curves and critical points | MIT 18.02SC Multivariable Calculus, Fall 2010">Level curves and critical points</a></td>
+<td>8:23</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=KnVNFj53Eq4&amp;list=PLF07555F3CC669D01" title="Partial derivatives | MIT 18.02SC Multivariable Calculus, Fall 2010">Partial derivatives</a></td>
+<td>5:19</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=idNIKTaBEaI&amp;list=PLF07555F3CC669D01" title="Tangent plane approximation | MIT 18.02SC Multivariable Calculus, Fall 2010">Tangent plane approximation</a></td>
+<td>6:55</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=YwZYSTQs-Hk&amp;list=PLF07555F3CC669D01" title="Least squares | MIT 18.02SC Multivariable Calculus, Fall 2010">Least squares</a></td>
+<td>9:04</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=oQgHo7acids&amp;list=PLF07555F3CC669D01" title="Second derivative test | MIT 18.02SC Multivariable Calculus, Fall 2010">Second derivative test</a></td>
+<td>8:39</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=ImzS_gSbjK4&amp;list=PLF07555F3CC669D01" title="Max/Min | MIT 18.02SC Multivariable Calculus, Fall 2010">Max/Min</a></td>
+<td>13:59</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=2bF6H_xu0ao&amp;list=PLF07555F3CC669D01" title="Total differentials and the chain rule | MIT 18.02SC Multivariable Calculus, Fall 2010">Total differentials and the chain rule</a></td>
+<td>11:34</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=6paZkmBMZwQ&amp;list=PLF07555F3CC669D01" title="Tangent planes | MIT 18.02SC Multivariable Calculus, Fall 2010">Tangent planes</a></td>
+<td>9:01</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=XZ1QwS1IKgw&amp;list=PLF07555F3CC669D01" title="Gradient and directional derivative | MIT 18.02SC Multivariable Calculus, Fall 2010">Gradient and directional derivative</a></td>
+<td>13:34</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=HyqBcD_e_Uw&amp;list=PLF07555F3CC669D01" title="Lagrange multipliers | MIT 18.02SC Multivariable Calculus, Fall 2010">Lagrange multipliers</a></td>
+<td>10:17</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=nDuS5uQ7-lo&amp;list=PLF07555F3CC669D01" title="Lagrange multipliers (3 variables) | MIT 18.02SC Multivariable Calculus, Fall 2010">Lagrange multipliers (3 variables)</a></td>
+<td>13:17</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=U91touR6_UY&amp;list=PLF07555F3CC669D01" title="The chain rule with constraints | MIT 18.02SC Multivariable Calculus, Fall 2010">The chain rule with constraints</a></td>
+<td>15:16</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=j9GZjr05Heg&amp;list=PLF07555F3CC669D01" title="Gradients - composition | MIT 18.02SC Multivariable Calculus, Fall 2010">Gradients - composition</a></td>
+<td>10:22</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=BefxsWy1HqY&amp;list=PLF07555F3CC669D01" title="Regions of integration | MIT 18.02SC Multivariable Calculus, Fall 2010">Regions of integration</a></td>
+<td>17:47</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=p06QDsAPY4g&amp;list=PLF07555F3CC669D01" title="Changing the order of integration | MIT 18.02SC Multivariable Calculus, Fall 2010">Changing the order of integration</a></td>
+<td>6:04</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=I2Z6K_g5kpc&amp;list=PLF07555F3CC669D01" title="Integration in polar coordinates | MIT 18.02SC Multivariable Calculus, Fall 2010">Integration in polar coordinates</a></td>
+<td>17:34</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=-pr1TLyPyDw&amp;list=PLF07555F3CC669D01" title="Integrals with density | MIT 18.02SC Multivariable Calculus, Fall 2010">Integrals with density</a></td>
+<td>15:36</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=lCKxeRiBdjQ&amp;list=PLF07555F3CC669D01" title="Change of variables | MIT 18.02SC Multivariable Calculus, Fall 2010">Change of variables</a></td>
+<td>9:17</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=fWOGfzC3IeY&amp;list=PLF07555F3CC669D01" title="Integral of exp(-x^2) | MIT 18.02SC Multivariable Calculus, Fall 2010">Integral of exp(-x^2)</a></td>
+<td>9:34</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=G534bz09B4A&amp;list=PLF07555F3CC669D01" title="Change of variables | MIT 18.02SC Multivariable Calculus, Fall 2010">Change of variables</a></td>
+<td>19:56</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=gBuIwfdoOn0&amp;list=PLF07555F3CC669D01" title="Line integrals: path dependence | MIT 18.02SC Multivariable Calculus, Fall 2010">Line integrals: path dependence</a></td>
+<td>15:32</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=tkAgpKg-tPs&amp;list=PLF07555F3CC669D01" title="Line integrals: parametrization independence | MIT 18.02SC Multivariable Calculus, Fall 2010">Line integrals: parametrization independence</a></td>
+<td>12:32</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=ocdM30Wm_8g&amp;list=PLF07555F3CC669D01" title="Line integrals by geometric reasoning | MIT 18.02SC Multivariable Calculus, Fall 2010">Line integrals by geometric reasoning</a></td>
+<td>10:34</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=9rVojYcPeoU&amp;list=PLF07555F3CC669D01" title="Fundamental theorem of line integrals | MIT 18.02SC Multivariable Calculus, Fall 2010">Fundamental theorem of line integrals</a></td>
+<td>11:08</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=n9gSOBwauRw&amp;list=PLF07555F3CC669D01" title="Non-conservative vector fields | MIT 18.02SC Multivariable Calculus, Fall 2010">Non-conservative vector fields</a></td>
+<td>10:01</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=Tgk9wURblAw&amp;list=PLF07555F3CC669D01" title="Potentials of gradient fields | MIT 18.02SC Multivariable Calculus, Fall 2010">Potentials of gradient fields</a></td>
+<td>11:21</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=jUrPIbJWpOA&amp;list=PLF07555F3CC669D01" title="Green's Theorem: an off center circle | MIT 18.02SC Multivariable Calculus, Fall 2010">Green's Theorem: an off center circle</a></td>
+<td>7:32</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=KXof0q88xbg&amp;list=PLF07555F3CC669D01" title="Green's Theorem: area under an arch | MIT 18.02SC Multivariable Calculus, Fall 2010">Green's Theorem: area under an arch</a></td>
+<td>8:36</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=grns_GNYWe4&amp;list=PLF07555F3CC669D01" title="Application of Green's theorem | MIT 18.02SC Multivariable Calculus, Fall 2010">Application of Green's theorem</a></td>
+<td>7:15</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=mEI7ACWmx_8&amp;list=PLF07555F3CC669D01" title="Flux across a curve | MIT 18.02SC Multivariable Calculus, Fall 2010">Flux across a curve</a></td>
+<td>14:26</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=1ye7dm9aUj0&amp;list=PLF07555F3CC669D01" title="Green's Theorem in normal form | MIT 18.02SC Multivariable Calculus, Fall 2010">Green's Theorem in normal form</a></td>
+<td>11:03</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=sy7dx_qzQak&amp;list=PLF07555F3CC669D01" title="Extended Green's Theorem | MIT 18.02SC Multivariable Calculus, Fall 2010">Extended Green's Theorem</a></td>
+<td>23:19</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=YWvBaLokEJY&amp;list=PLF07555F3CC669D01" title="Domains of vector fields | MIT 18.02SC Multivariable Calculus, Fall 2010">Domains of vector fields</a></td>
+<td>13:41</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=qA83eznsKp8&amp;list=PLF07555F3CC669D01" title="Volume in cylindrical coordinates | MIT 18.02SC Multivariable Calculus, Fall 2010">Volume in cylindrical coordinates</a></td>
+<td>18:07</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=cbSkFpO2jgQ&amp;list=PLF07555F3CC669D01" title="Average height | MIT 18.02SC Multivariable Calculus, Fall 2010">Average height</a></td>
+<td>14:39</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=iYFogDTPlRo&amp;list=PLF07555F3CC669D01" title="Moment of inertia of a cylinder | MIT 18.02SC Multivariable Calculus, Fall 2010">Moment of inertia of a cylinder</a></td>
+<td>10:00</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=RoTz_ylFHfY&amp;list=PLF07555F3CC669D01" title="Average distance on a sphere | MIT 18.02SC Multivariable Calculus, Fall 2010">Average distance on a sphere</a></td>
+<td>13:00</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=jAwWnppdcBE&amp;list=PLF07555F3CC669D01" title="Gravity and a half-sphere | MIT 18.02SC Multivariable Calculus, Fall 2010">Gravity and a half-sphere</a></td>
+<td>11:13</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=AYisLr9e0y4&amp;list=PLF07555F3CC669D01" title="Flux through easy surfaces | MIT 18.02SC Multivariable Calculus, Fall 2010">Flux through easy surfaces</a></td>
+<td>6:48</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=MosaZngFjZY&amp;list=PLF07555F3CC669D01" title="Flux through a square | MIT 18.02SC Multivariable Calculus, Fall 2010">Flux through a square</a></td>
+<td>10:01</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=-PGcTRLh1u4&amp;list=PLF07555F3CC669D01" title="Flux through surfaces | MIT 18.02SC Multivariable Calculus, Fall 2010">Flux through surfaces</a></td>
+<td>11:22</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=E8aYX_mW2DA&amp;list=PLF07555F3CC669D01" title="Flux | MIT 18.02SC Multivariable Calculus, Fall 2010">Flux</a></td>
+<td>11:18</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=CCoTAyZ14XM&amp;list=PLF07555F3CC669D01" title="Flux and the divergence theorem | MIT 18.02SC Multivariable Calculus, Fall 2010">Flux and the divergence theorem</a></td>
+<td>11:59</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=WwBaQCy4jfk&amp;list=PLF07555F3CC669D01" title="Extended Gauss' Theorem | MIT 18.02SC Multivariable Calculus, Fall 2010">Extended Gauss' Theorem</a></td>
+<td>18:53</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=_5fpxkVFQUw&amp;list=PLF07555F3CC669D01" title="Del and the product rule | MIT 18.02SC Multivariable Calculus, Fall 2010">Del and the product rule</a></td>
+<td>8:29</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=YmAMEi-Faz8&amp;list=PLF07555F3CC669D01" title="Line integral on a helix | MIT 18.02SC Multivariable Calculus, Fall 2010">Line integral on a helix</a></td>
+<td>11:13</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=IYlzo-bxrqs&amp;list=PLF07555F3CC669D01" title="Conservative fields and exact differentials | MIT 18.02SC Multivariable Calculus, Fall 2010">Conservative fields and exact differentials</a></td>
+<td>14:51</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=2ieG1ka5pBw&amp;list=PLF07555F3CC669D01" title="Stokes' Theorem | MIT 18.02SC Multivariable Calculus, Fall 2010">Stokes' Theorem</a></td>
+<td>17:33</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=7w1qqEUwn2k&amp;list=PLF07555F3CC669D01" title="Extended Stokes' Theorem | MIT 18.02SC Multivariable Calculus, Fall 2010">Extended Stokes' Theorem</a></td>
+<td>15:40</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=6S3BJSsc72Q&amp;list=PLF07555F3CC669D01" title="Simply connected regions | MIT 18.02SC Multivariable Calculus, Fall 2010">Simply connected regions</a></td>
+<td>14:47</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=vnWXYI4UQrs&amp;list=PLF07555F3CC669D01" title="More Stokes' Theorem | MIT 18.02SC Multivariable Calculus, Fall 2010">More Stokes' Theorem</a></td>
+<td>8:20</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=2B7e19xi4Sw&amp;list=PLF07555F3CC669D01" title="Consequences of Stokes' Theorem | MIT 18.02SC Multivariable Calculus, Fall 2010">Consequences of Stokes' Theorem</a></td>
+<td>11:13</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>MIT 18.02SC: Homework Help for Multivariable Calculus</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLF07555F3CC669D01">https://www.youtube.com/playlist?list=PLF07555F3CC669D01</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

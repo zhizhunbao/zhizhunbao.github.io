@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1. Patterns | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="ARIA Authoring Practices Guide, 1. Patterns: Button, Link, Checkbox, Radio Group, Switch, Slider, Slider (Multi-Thumb), Spinbutton, Meter, Listbox, Combobox, Disclosure (Show/Hide), Accordion (Sections With Show/Hide Functionality), Tabs, Carousel (Slide Show or Image Rotator), Feed, Menu Button, Menu and Menubar, Toolbar, Alert, Alert and Message Dialogs, Dialog (Modal), Tooltip, Breadcrumb, Landmarks, Window Splitter, Table, Grid (Interactive Tabular Data and Layout Containers), Tree View, Treegrid.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1-patterns">1. Patterns</h1>
+
+<p>Order: the APG Patterns page lists the patterns alphabetically, as an index. Here they go from simple to complex, with related patterns next to each other: basic controls (Button to Switch), value controls (Slider to Meter), selection (Listbox, Combobox), show and hide containers (Disclosure to Feed), menus and toolbars, dialogs and messages (Alert to Tooltip), page navigation and structure (Breadcrumb to Window Splitter), and data (Table to Treegrid). The groups only set the order; they are not a level of the menu.</p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1. Patterns</strong><br>模式</td>
+<td>&quot;Learn how to make <strong>accessible web components and widgets</strong> with ARIA roles, states and properties and by <strong>implementing keyboard support</strong>.&quot;</td>
+<td>学习如何制作<strong>无障碍的网页组件和控件</strong>，方法是使用 ARIA 角色、状态和属性，并<strong>实现键盘支持</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/#:%7E:text=Learn%20how%20to%20make%20accessible">W3C Web Accessibility Initiative, n.d., &quot;Design Patterns and Examples&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="button.html">1.1 Button</a></strong><br>按钮</td>
+<td>&quot;A button is a <strong>widget</strong> that enables users to <strong>trigger an action or event</strong>, such as submitting a form, opening a dialog, canceling an action, or performing a delete operation.&quot;</td>
+<td>按钮是一种<strong>控件</strong>，让用户能够<strong>触发一个动作或事件</strong>，例如提交表单、打开对话框、取消操作或执行删除。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20button%20is%20a%20widget">W3C Web Accessibility Initiative, n.d., &quot;Button&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="link.html">1.2 Link</a></strong><br>链接</td>
+<td>&quot;A link widget provides an <strong>interactive reference</strong> to a <strong>resource</strong>.&quot;</td>
+<td>链接控件提供一个<strong>交互式引用</strong>，指向某个<strong>资源</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20link%20widget%20provides">W3C Web Accessibility Initiative, n.d., &quot;Link&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="checkbox.html">1.3 Checkbox</a></strong><br>复选框</td>
+<td>&quot;WAI-ARIA supports two types of checkbox widgets: <strong>dual-state checkboxes</strong> toggle between two choices -- checked and not checked -- and <strong>tri-state checkboxes</strong>, which allow an additional third state known as partially checked.&quot;</td>
+<td>WAI-ARIA 支持两类复选框控件：<strong>双态复选框</strong>在两个选项（选中和未选中）之间切换，<strong>三态复选框</strong>则多出第三种状态，称为部分选中。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=WAI%2DARIA%20supports%20two%20types">W3C Web Accessibility Initiative, n.d., &quot;Checkbox&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="radio.html">1.4 Radio Group</a></strong><br>单选组</td>
+<td>&quot;A radio group is a set of <strong>checkable buttons</strong>, known as radio buttons, where <strong>no more than one</strong> of the buttons can be checked at a time.&quot;</td>
+<td>单选组是一组<strong>可勾选的按钮</strong>，称为单选按钮，同一时间<strong>最多只能有一个</strong>按钮被选中。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20radio%20group%20is%20a%20set">W3C Web Accessibility Initiative, n.d., &quot;Radio Group&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="switch.html">1.5 Switch</a></strong><br>开关</td>
+<td>&quot;A switch is an <strong>input widget</strong> that allows users to choose one of <strong>two values: on or off</strong>.&quot;</td>
+<td>开关是一种<strong>输入控件</strong>，让用户在<strong>开或关两个值</strong>中选择一个。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20switch%20is%20an%20input%20widget">W3C Web Accessibility Initiative, n.d., &quot;Switch&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="slider.html">1.6 Slider</a></strong><br>滑块</td>
+<td>&quot;A slider is an <strong>input</strong> where the user <strong>selects a value from within a given range</strong>.&quot;</td>
+<td>滑块是一种<strong>输入</strong>，用户在其中<strong>从给定范围内选择一个值</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20slider%20is%20an%20input">W3C Web Accessibility Initiative, n.d., &quot;Slider&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="slider-multithumb.html">1.7 Slider (Multi-Thumb)</a></strong><br>多手柄滑块</td>
+<td>&quot;A multi-thumb slider implements the <strong>Slider Pattern</strong> but includes <strong>two or more thumbs</strong>, often on a single rail.&quot;</td>
+<td>多手柄滑块实现了<strong>滑块模式</strong>，但包含<strong>两个或更多手柄</strong>，它们通常在同一条轨道上。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20multi%2Dthumb%20slider%20implements">W3C Web Accessibility Initiative, n.d., &quot;Slider (Multi-Thumb)&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="spinbutton.html">1.8 Spinbutton</a></strong><br>数值调节按钮</td>
+<td>&quot;A spinbutton is an <strong>input widget</strong> that restricts its value to a <strong>set or range of discrete values</strong>.&quot;</td>
+<td>数值调节按钮是一种<strong>输入控件</strong>，它把值限制在<strong>一组或一个范围的离散值</strong>之内。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20spinbutton%20is%20an%20input%20widget">W3C Web Accessibility Initiative, n.d., &quot;Spinbutton&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="meter.html">1.9 Meter</a></strong><br>计量器</td>
+<td>&quot;A meter is a <strong>graphical display</strong> of a <strong>numeric value</strong> that varies within a defined range.&quot;</td>
+<td>计量器是一种<strong>图形化显示</strong>，展示一个在规定范围内变化的<strong>数值</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20meter%20is%20a%20graphical%20display">W3C Web Accessibility Initiative, n.d., &quot;Meter&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="listbox.html">1.10 Listbox</a></strong><br>列表框</td>
+<td>&quot;A listbox widget presents a <strong>list of options</strong> and allows a user to <strong>select one or more</strong> of them.&quot;</td>
+<td>列表框控件呈现一个<strong>选项列表</strong>，并允许用户<strong>选择其中一个或多个</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20listbox%20widget%20presents">W3C Web Accessibility Initiative, n.d., &quot;Listbox&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="combobox.html">1.11 Combobox</a></strong><br>组合框</td>
+<td>&quot;A combobox is an <strong>input widget</strong> that has an <strong>associated popup</strong>.&quot;</td>
+<td>组合框是一种<strong>输入控件</strong>，带有一个<strong>关联的弹出层</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20combobox%20is%20an%20input%20widget">W3C Web Accessibility Initiative, n.d., &quot;Combobox&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="disclosure.html">1.12 Disclosure (Show/Hide)</a></strong><br>展开收起（显示/隐藏）</td>
+<td>&quot;A disclosure is a widget that enables content to be either <strong>collapsed</strong> (hidden) or <strong>expanded</strong> (visible).&quot;</td>
+<td>展开收起控件让内容可以被<strong>折叠</strong>（隐藏）或<strong>展开</strong>（可见）。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20disclosure%20is%20a%20widget">W3C Web Accessibility Initiative, n.d., &quot;Disclosure (Show/Hide)&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="accordion.html">1.13 Accordion (Sections With Show/Hide Functionality)</a></strong><br>手风琴（带显示/隐藏功能的区块）</td>
+<td>&quot;An accordion is a <strong>vertically stacked set</strong> of <strong>interactive headings</strong> that each contain a title, content snippet, or thumbnail representing a section of content.&quot;</td>
+<td>手风琴是<strong>垂直堆叠</strong>的一组<strong>交互式标题</strong>，每个标题包含代表一段内容的标题文字、内容片段或缩略图。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=An%20accordion%20is%20a%20vertically">W3C Web Accessibility Initiative, n.d., &quot;Accordion (Sections With Show/Hide Functionality)&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="tabs.html">1.14 Tabs</a></strong><br>选项卡</td>
+<td>&quot;Tabs are a set of <strong>layered sections of content</strong>, known as tab panels, that <strong>display one panel</strong> of content at a time.&quot;</td>
+<td>选项卡是一组<strong>分层的内容区块</strong>，称为选项卡面板，一次<strong>只显示一个面板</strong>的内容。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=Tabs%20are%20a%20set%20of%20layered">W3C Web Accessibility Initiative, n.d., &quot;Tabs&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="carousel.html">1.15 Carousel (Slide Show or Image Rotator)</a></strong><br>轮播（幻灯片放映或图片轮换）</td>
+<td>&quot;A carousel presents a set of items, referred to as <strong>slides</strong>, by <strong>sequentially displaying</strong> a subset of one or more slides.&quot;</td>
+<td>轮播呈现一组称为<strong>幻灯片</strong>的项目，方式是<strong>依次显示</strong>其中一张或多张。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20carousel%20presents%20a%20set">W3C Web Accessibility Initiative, n.d., &quot;Carousel (Slide Show or Image Rotator)&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="feed.html">1.16 Feed</a></strong><br>信息流</td>
+<td>&quot;A feed is a section of a page that <strong>automatically loads new sections</strong> of content <strong>as the user scrolls</strong>.&quot;</td>
+<td>信息流是页面中的一个区域，它会<strong>自动加载新的内容区块</strong>，时机是<strong>用户滚动时</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20feed%20is%20a%20section">W3C Web Accessibility Initiative, n.d., &quot;Feed&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="menu-button.html">1.17 Menu Button</a></strong><br>菜单按钮</td>
+<td>&quot;A menu button is a <strong>button that opens a menu</strong> as described in the <strong>Menu and Menubar Pattern</strong>.&quot;</td>
+<td>菜单按钮是一个<strong>打开菜单的按钮</strong>，菜单的行为见<strong>菜单与菜单栏模式</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20menu%20button%20is%20a%20button">W3C Web Accessibility Initiative, n.d., &quot;Menu Button&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="menubar.html">1.18 Menu and Menubar</a></strong><br>菜单与菜单栏</td>
+<td>&quot;A menu is a widget that offers a <strong>list of choices</strong> to the user, such as a set of <strong>actions or functions</strong>.&quot;</td>
+<td>菜单是一种控件，向用户提供一个<strong>选项列表</strong>，例如一组<strong>操作或功能</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20menu%20is%20a%20widget">W3C Web Accessibility Initiative, n.d., &quot;Menu and Menubar&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="toolbar.html">1.19 Toolbar</a></strong><br>工具栏</td>
+<td>&quot;A toolbar is a <strong>container for grouping a set of controls</strong>, such as <strong>buttons, menubuttons, or checkboxes</strong>.&quot;</td>
+<td>工具栏是一个<strong>用于组合一组控件的容器</strong>，例如<strong>按钮、菜单按钮或复选框</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20toolbar%20is%20a%20container">W3C Web Accessibility Initiative, n.d., &quot;Toolbar&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="alert.html">1.20 Alert</a></strong><br>警报</td>
+<td>&quot;An alert is an element that displays a <strong>brief, important message</strong> in a way that attracts the user's attention <strong>without interrupting the user's task</strong>.&quot;</td>
+<td>警报是一种元素，它以吸引用户注意的方式显示一条<strong>简短而重要的消息</strong>，同时<strong>不打断用户的任务</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=An%20alert%20is%20an%20element">W3C Web Accessibility Initiative, n.d., &quot;Alert&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="alertdialog.html">1.21 Alert and Message Dialogs</a></strong><br>警报与消息对话框</td>
+<td>&quot;An alert dialog is a <strong>modal dialog</strong> that <strong>interrupts the user's workflow</strong> to communicate an important message and acquire a response.&quot;</td>
+<td>警报对话框是一种<strong>模态对话框</strong>，它<strong>打断用户的工作流程</strong>，以传达重要消息并获取回应。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=An%20alert%20dialog%20is%20a%20modal">W3C Web Accessibility Initiative, n.d., &quot;Alert and Message Dialogs&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="dialog-modal.html">1.22 Dialog (Modal)</a></strong><br>对话框（模态）</td>
+<td>&quot;A dialog is a <strong>window overlaid</strong> on either the <strong>primary window</strong> or another dialog window.&quot;</td>
+<td>对话框是一个<strong>覆盖在上层的窗口</strong>，它下面是<strong>主窗口</strong>或另一个对话框窗口。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20dialog%20is%20a%20window%20overlaid">W3C Web Accessibility Initiative, n.d., &quot;Dialog (Modal)&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="tooltip.html">1.23 Tooltip</a></strong><br>工具提示</td>
+<td>&quot;A tooltip is a <strong>popup</strong> that displays information related to an element when the element <strong>receives keyboard focus</strong> or the mouse hovers over it.&quot;</td>
+<td>工具提示是一种<strong>弹出层</strong>，当某个元素<strong>获得键盘焦点</strong>或鼠标悬停在其上时，显示与该元素相关的信息。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20tooltip%20is%20a%20popup">W3C Web Accessibility Initiative, n.d., &quot;Tooltip&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="breadcrumb.html">1.24 Breadcrumb</a></strong><br>面包屑导航</td>
+<td>&quot;A breadcrumb trail consists of a <strong>list of links</strong> to the <strong>parent pages</strong> of the current page in hierarchical order.&quot;</td>
+<td>面包屑导航由一个<strong>链接列表</strong>组成，按层级顺序指向当前页面的各级<strong>父页面</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20breadcrumb%20trail%20consists">W3C Web Accessibility Initiative, n.d., &quot;Breadcrumb&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="landmarks.html">1.25 Landmarks</a></strong><br>地标</td>
+<td>&quot;Landmarks are a set of <strong>eight roles</strong> that identify the <strong>major sections</strong> of a page.&quot;</td>
+<td>地标是一组<strong>八个角色</strong>，用来标识页面的<strong>主要区域</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=Landmarks%20are%20a%20set%20of%20eight">W3C Web Accessibility Initiative, n.d., &quot;Landmarks&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="windowsplitter.html">1.26 Window Splitter</a></strong><br>窗口分隔条</td>
+<td>&quot;A window splitter is a <strong>moveable separator</strong> between two sections, or panes, of a window that enables users to <strong>change the relative size</strong> of the panes.&quot;</td>
+<td>窗口分隔条是窗口两个区域（窗格）之间的<strong>可移动分隔条</strong>，让用户能够<strong>改变窗格的相对大小</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20window%20splitter%20is%20a%20moveable">W3C Web Accessibility Initiative, n.d., &quot;Window Splitter&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="table.html">1.27 Table</a></strong><br>表格</td>
+<td>&quot;Like an HTML table element, a WAI-ARIA table is a <strong>static tabular structure</strong> containing one or more rows that each contain one or more cells; it is <strong>not an interactive widget</strong>.&quot;</td>
+<td>与 HTML table 元素一样，WAI-ARIA 表格是一种<strong>静态的表格结构</strong>，包含一行或多行，每行包含一个或多个单元格；它<strong>不是交互式控件</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=Like%20an%20HTML%20table%20element">W3C Web Accessibility Initiative, n.d., &quot;Table&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="grid.html">1.28 Grid (Interactive Tabular Data and Layout Containers)</a></strong><br>网格（交互式表格数据与布局容器）</td>
+<td>&quot;A grid widget is a container that enables users to <strong>navigate the information</strong> or interactive elements it contains using <strong>directional navigation keys</strong>, such as arrow keys, Home, and End.&quot;</td>
+<td>网格控件是一个容器，让用户能够<strong>浏览其中的信息</strong>或交互元素，方式是使用<strong>方向导航键</strong>，例如方向键、Home 和 End。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20grid%20widget%20is%20a%20container">W3C Web Accessibility Initiative, n.d., &quot;Grid (Interactive Tabular Data and Layout Containers)&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="treeview.html">1.29 Tree View</a></strong><br>树视图</td>
+<td>&quot;A <strong>tree view widget</strong> presents a <strong>hierarchical list</strong>.&quot;</td>
+<td><strong>树视图控件</strong>呈现一个<strong>分层列表</strong>。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20tree%20view%20widget%20presents">W3C Web Accessibility Initiative, n.d., &quot;Tree View&quot;</a></td>
+</tr>
+<tr>
+<td><strong><a href="treegrid.html">1.30 Treegrid</a></strong><br>树形网格</td>
+<td>&quot;A treegrid widget presents a <strong>hierarchical data grid</strong> consisting of tabular information that is <strong>editable or interactive</strong>.&quot;</td>
+<td>树形网格控件呈现一个<strong>分层的数据网格</strong>，由<strong>可编辑或可交互</strong>的表格信息组成。</td>
+<td><a href="https://www.w3.org/WAI/ARIA/apg/patterns/#:%7E:text=A%20treegrid%20widget%20presents">W3C Web Accessibility Initiative, n.d., &quot;Treegrid&quot;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>W3C Web Accessibility Initiative. (n.d.). <em>ARIA Authoring Practices Guide (APG)</em>. Retrieved November 16, 2026, from <a href="https://www.w3.org/WAI/ARIA/apg/">https://www.w3.org/WAI/ARIA/apg/</a></p>
+<p>W3C Web Accessibility Initiative. (n.d.). <em>Patterns</em>. ARIA Authoring Practices Guide. Retrieved October 24, 2026, from <a href="https://www.w3.org/WAI/ARIA/apg/patterns/">https://www.w3.org/WAI/ARIA/apg/patterns/</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-16 17:43:26-05:00">11/16/2026 17:43:26</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

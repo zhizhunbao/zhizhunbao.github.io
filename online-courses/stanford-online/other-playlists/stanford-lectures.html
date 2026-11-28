@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.9.46 Stanford Lectures | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Other Playlists &gt; Stanford Lectures: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1946-stanford-lectures">1.9.46 Stanford Lectures</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Stanford Lectures</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=_U0EUX2E3k0&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford AA228V I Validation of Safety Critical Systems I Explainability">Stanford AA228V I Validation of Safety Critical Systems I Explainability</a></td>
+<td>1:13:42</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=eKttYyTf_30&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 12 (July 30, 1982)">The Internal Details of TeX82 - Session 12 (July 30, 1982)</a></td>
+<td>1:03:50</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=eotEOydYrco&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 11 (July 30, 1982)">The Internal Details of TeX82 - Session 11 (July 30, 1982)</a></td>
+<td>1:05:32</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=Uf3vpKWpu7A&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 10 (July 30, 1982)">The Internal Details of TeX82 - Session 10 (July 30, 1982)</a></td>
+<td>1:04:32</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=gza2a-JuWJg&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 9 (July 30, 1982)">The Internal Details of TeX82 - Session 9 (July 30, 1982)</a></td>
+<td>1:03:33</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=BMq3cCQ8ysQ&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 8 (July 29, 1982)">The Internal Details of TeX82 - Session 8 (July 29, 1982)</a></td>
+<td>1:03:00</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=nLJnNZxLEnk&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 7 (July 29, 1982)">The Internal Details of TeX82 - Session 7 (July 29, 1982)</a></td>
+<td>1:04:58</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=mxOZ-fSvr9Y&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 6 (July 29, 1982)">The Internal Details of TeX82 - Session 6 (July 29, 1982)</a></td>
+<td>1:05:43</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=WiHIOn1bemg&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="0Stanford Lecture: The Internal Details of TeX82 - Session 5 (July 29, 1982)">The Internal Details of TeX82 - Session 5 (July 29, 1982)</a></td>
+<td>1:03:19</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=9astSKJdsV0&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 4 (July 28, 1982)">The Internal Details of TeX82 - Session 4 (July 28, 1982)</a></td>
+<td>1:10:11</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=3RDtSdN7jPI&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 2 (July 28, 1982)">The Internal Details of TeX82 - Session 2 (July 28, 1982)</a></td>
+<td>59:06</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=7B_9keAK6Qk&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 3 (July 28, 1982)">The Internal Details of TeX82 - Session 3 (July 28, 1982)</a></td>
+<td>1:04:50</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=kAk9GBVKsgk&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: The Internal Details of TeX82 - Session 1 (July 28, 1982)">The Internal Details of TeX82 - Session 1 (July 28, 1982)</a></td>
+<td>1:05:21</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=FfT5VTfHj_s&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford AA228 Decision Making Under Uncertainty | Autumn 2025 | Bayesian Structure Learning">Stanford AA228 Decision Making Under Uncertainty | Bayesian Structure Learning</a></td>
+<td>1:19:55</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=iLMzsV0JOHk&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford AA228/CS238 Decision Making Under Uncertainty I Online Planning and Policy Search">Stanford AA228/CS238 Decision Making Under Uncertainty I Online Planning and Policy Search</a></td>
+<td>1:20:59</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=HFrCySzH9QI&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford CS329H: Machine Learning from Human Preferences I Guest Lecture: Joseph Jay Williams">Stanford CS329H: Machine Learning from Human Preferences I Guest Lecture: Joseph Jay Williams</a></td>
+<td>1:10:41</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=PgPNfPhG4Wc&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford AA228/CS238 Decision Making Under Uncertainty I Policy Gradient Estimation &amp; Optimization">Stanford AA228/CS238 Decision Making Under Uncertainty I Policy Gradient Estimation &amp; Optimization</a></td>
+<td>45:47</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=gmdrc9vGnJ0&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford AA222 / CS361 Engineering Design Optimization I Linear Constrained Optimization">Stanford AA222 / CS361 Engineering Design Optimization I Linear Constrained Optimization</a></td>
+<td>1:19:31</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=-at-usqAIMc&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford AA228/CS238 Decision Making Under Uncertainty I Policy Gradient Estimation and Optimization">Stanford AA228/CS238 Decision Making Under Uncertainty I Policy Gradient Estimation and Optimization</a></td>
+<td>1:21:00</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=3DKo219ZHMw&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Don Knuth - 'Pi and The Art of Computer Programming' (2019)">Don Knuth - &quot;Pi and The Art of Computer Programming&quot;</a></td>
+<td>1:02:26</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=OJsMXu3EPCw&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Robert W Floyd, In Memoriam (March 20, 2002)">Robert W Floyd, In Memoriam (March 20, 2002)</a></td>
+<td>1:07:07</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=ab9_2VRI4-A&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: CS144C classroom lecture about disk storage and B-trees">CS144C classroom lecture about disk storage and B-trees</a></td>
+<td>54:37</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=H7CKoZpNF3M&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Can computers help produce beautiful books? (December 1, 1987)">Can computers help produce beautiful books? (December 1, 1987)</a></td>
+<td>1:01:33</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=jbrMBOF61e0&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: TeX For Beginners - Session 1 (Donald Ervin Knuth on February 23, 1981)">TeX For Beginners - Session 1 (Donald Ervin Knuth on February 23, 1981)</a></td>
+<td>1:01:59</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=YRnpzxtdntw&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: TeX For Beginners - Session 2 (February 24, 1981)">TeX For Beginners - Session 2 (February 24, 1981)</a></td>
+<td>56:57</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=Yp9vAbvTo9I&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: TeX For Beginners - Session 4 (February 25, 1981)">TeX For Beginners - Session 4 (February 25, 1981)</a></td>
+<td>1:02:06</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=V1EmAqGQSFA&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: TeX For Beginners - Session 3 (February 26, 1981)">TeX For Beginners - Session 3 (February 26, 1981)</a></td>
+<td>1:04:49</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=JSOPnsFQGU8&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: TeX For Beginners - Session 5 (February 27, 1981)">TeX For Beginners - Session 5 (February 27, 1981)</a></td>
+<td>16:27</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=cUXgJfy7W7k&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Advanced TeXarcana - Session 1 (March 2, 1981)">Advanced TeXarcana - Session 1 (March 2, 1981)</a></td>
+<td>1:00:26</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=VkbucteDmWQ&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Advanced TeXarcana - Session 2 (March 3, 1981)">Advanced TeXarcana - Session 2 (March 3, 1981)</a></td>
+<td>1:01:54</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=qfGUdCDWINY&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Advanced TeXarcana - Session 3 (March 4, 1981)">Advanced TeXarcana - Session 3 (March 4, 1981)</a></td>
+<td>1:06:26</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=mQrNOv77PLE&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Advanced TeXarcana - Session 4 (March 5, 1981)">Advanced TeXarcana - Session 4 (March 5, 1981)</a></td>
+<td>1:04:23</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=fBRSfnwWixY&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Advanced TeXarcana - Session 5 (March 6, 1981)">Advanced TeXarcana - Session 5 (March 6, 1981)</a></td>
+<td>1:00:43</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=KZy5p-uxh34&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Mathematical Writing - Computer aids to writing">Mathematical Writing - Computer aids to writing</a></td>
+<td>49:50</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=_cR9zDlvP88&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Don Knuth—'Dancing Links' (2018)">Don Knuth—&quot;Dancing Links&quot;</a></td>
+<td>1:30:25</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=BxQw4CdxLr8&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Don Knuth—'A Conjecture That Had To Be True' (2017)">Don Knuth—&quot;A Conjecture That Had To Be True&quot;</a></td>
+<td>1:07:02</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=3U72v8LJiJ0&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Engineering Hero Lecture: Kenneth Arrow (In Memoriam)">Stanford Engineering Hero Lecture: Kenneth Arrow (In Memoriam)</a></td>
+<td>1:14:06</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=vkUNH9r6UCI&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture - Don Knuth: The Analysis of Algorithms (2015, recreating 1969)">Don Knuth: The Analysis of Algorithms (2015, recreating 1969)</a></td>
+<td>54:25</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=DjZB9HvddQk&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Don Knuth—'Hamiltonian Paths in Antiquity' (2016)">Don Knuth—&quot;Hamiltonian Paths in Antiquity&quot;</a></td>
+<td>1:11:47</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=ZK4jnuCWl0Y&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Don Knuth—'Hamiltonian Paths in Antiquity' (2016) (360 Degrees)">Don Knuth—&quot;Hamiltonian Paths in Antiquity&quot; (360 Degrees)</a></td>
+<td>1:11:47</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=48iJx8FVuis&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Donald Knuth—'Universal Commafree Codes' (2015)">Donald Knuth—&quot;Universal Commafree Codes&quot;</a></td>
+<td>1:16:59</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=Ei2fiZ5tR7o&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Engineering Hero Lecture: Marcian 'Ted' Hoff">Stanford Engineering Hero Lecture: Marcian &quot;Ted&quot; Hoff</a></td>
+<td>54:19</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=P4AaGQIo0HY&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Donald Knuth—'(3/2)-ary Trees' (2014)">Donald Knuth—&quot;(3/2)-ary Trees&quot;</a></td>
+<td>1:16:16</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=gAXdDEQveKw&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: 2014 Kailath Lecture: Stanford Professor Donald Knuth">2014 Kailath Lecture: Stanford Professor Donald Knuth</a></td>
+<td>52:50</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=wEh3ZgbvBrE&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Engineering Hero Lecture: Morris Chang in conversation with President John L. Hennessy">Stanford Engineering Hero Lecture: Morris Chang in conversation with President John L. Hennessy</a></td>
+<td>1:13:59</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=kHBZCSss3oM&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Engineering Hero Lecture: Kenneth Arrow">Stanford Engineering Hero Lecture: Kenneth Arrow</a></td>
+<td>1:13:56</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=2qXvFrS22Cg&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="William J. Perry on Energy, National Security and Technology">William J. Perry on Energy, National Security and Technology</a></td>
+<td>1:18:30</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=gXuOH9B6kTM&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Engineering Hero Lecture - Jim Clark in conversation with John Hennessy">Stanford Engineering Hero Lecture - Jim Clark in conversation with John Hennessy</a></td>
+<td>1:04:08</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=EFiTgOx3Z7A&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Engineering Hero Martin Hellman Lecture">Stanford Engineering Hero Martin Hellman Lecture</a></td>
+<td>1:11:55</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=XDgLDsUU7og&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Martin Hellman: The Wisdom of Foolishness">Martin Hellman: The Wisdom of Foolishness</a></td>
+<td>1:11:55</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=LM3sfeimcS8&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Engineering Hero Lecture - Craig Barrett">Stanford Engineering Hero Lecture - Craig Barrett</a></td>
+<td>1:20:39</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=08frKEAtav4&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Andreas 'Andy' Bechtolsheim: The Process of Innovation' - Stanford Engineering Hero Lecture">Andreas &quot;Andy&quot; Bechtolsheim: The Process of Innovation&quot; - Stanford Engineering Hero Lecture</a></td>
+<td>1:10:40</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=d6I6wFf-X_c&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Bradford Parkinson 'GPS for Humanity' - Stanford Engineering Hero Lecture">Bradford Parkinson &quot;GPS for Humanity&quot; - Stanford Engineering Hero Lecture</a></td>
+<td>1:25:49</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=CDokMxVtB3k&amp;list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-" title="Stanford Lecture: Donald Knuth - All Questions Answered (May 12, 2011)">Donald Knuth - All Questions Answered (May 12, 2011)</a></td>
+<td>1:08:51</td>
+</tr>
+</tbody>
+</table>
+<p>(YouTube counts 56 videos; the playlist page lists 54.)</p>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Stanford Lectures</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-">https://www.youtube.com/playlist?list=PLoROMvodv4rM2uc1Cg9oTblVaF-EEOlw-</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

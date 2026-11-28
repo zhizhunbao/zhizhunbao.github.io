@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.3 Actors | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Microsoft Azure, 1.3 Actors: cloud consumer, cloud provider, cloud auditor, cloud broker, cloud carrier.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="13-actors">1.3 Actors</h1>
+
+<h2 id="classification">Classification</h2>
+<p><img src="media/actors.png" alt="Actors sorted into five groups: cloud consumer (SaaS, PaaS and IaaS consumers), cloud provider (service deployment, service orchestration, cloud service management, security, privacy), cloud auditor (security controls, privacy impact, performance), cloud broker (service intermediation, service aggregation, service arbitrage) and cloud carrier (network and telecommunication carriers, transport agent)."></p>
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文解释</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Actors</strong><br>参与者</td>
+<td>&quot;... the NIST cloud computing reference architecture defines <strong>five major actors</strong>: cloud consumer, cloud provider, cloud carrier, cloud auditor and cloud broker. Each actor is an <strong>entity (a person or an organization)</strong> that <strong>participates in a transaction or process</strong> and/or performs tasks in cloud computing.&quot;</td>
+<td>……NIST 云计算参考架构定义了<strong>五个主要参与者</strong>：云使用者、云提供者、云运营商、云审计者和云代理。每个参与者都是一个<strong>实体（个人或组织）</strong>，它<strong>参与事务或流程</strong>，和/或在云计算中执行任务。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.1, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Cloud consumer</strong><br>云使用者</td>
+<td>&quot;A cloud consumer represents a <strong>person or organization</strong> that <strong>maintains a business relationship with</strong>, and <strong>uses the service from</strong> a cloud provider.&quot;</td>
+<td>云使用者是一个<strong>个人或组织</strong>，它与云提供者<strong>保持业务关系</strong>，并<strong>使用其服务</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.2, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>SaaS consumers</strong><br>SaaS 使用者</td>
+<td>&quot;The consumers of SaaS can be <strong>organizations</strong> that provide their members with access to software applications, <strong>end users</strong> who directly use software applications, or <strong>software application administrators</strong> who configure applications for end users.&quot;</td>
+<td>SaaS 的使用者可以是为成员提供软件应用程序访问权限的<strong>组织</strong>、直接使用软件应用程序的<strong>最终用户</strong>，或为最终用户配置应用程序的<strong>软件应用程序管理员</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.2, para. 4</a></td>
+</tr>
+<tr>
+<td><strong>PaaS consumers</strong><br>PaaS 使用者</td>
+<td>&quot;Cloud consumers of PaaS can employ the <strong>tools and execution resources</strong> provided by cloud providers to <strong>develop, test, deploy and manage the applications</strong> hosted in a cloud environment.&quot;</td>
+<td>PaaS 的云使用者可以利用云提供者提供的<strong>工具和执行资源</strong>，来<strong>开发、测试、部署和管理应用程序</strong>（这些应用程序托管在云环境中）。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.2, para. 5</a></td>
+</tr>
+<tr>
+<td><strong>IaaS consumers</strong><br>IaaS 使用者</td>
+<td>&quot;Consumers of IaaS have access to <strong>virtual computers, network-accessible storage, network infrastructure components</strong>, and other <strong>fundamental computing resources</strong> on which they can <strong>deploy and run arbitrary software</strong>.&quot;</td>
+<td>IaaS 的使用者可以访问<strong>虚拟计算机、可通过网络访问的存储、网络基础结构组件</strong>以及其他<strong>基本计算资源</strong>，并在其上<strong>部署和运行任意软件</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.2, para. 6</a></td>
+</tr>
+<tr>
+<td><strong>Cloud provider</strong><br>云提供者</td>
+<td>&quot;A cloud provider is a person, an organization; it is the <strong>entity responsible for making a service available</strong> to <strong>interested parties</strong>.&quot;</td>
+<td>云提供者是一个人或一个组织；它是<strong>负责提供服务的实体</strong>，服务对象是<strong>相关方</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.3, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Service deployment</strong><br>服务部署</td>
+<td>(context) &quot;As identified in the NIST cloud computing definition [1], a cloud infrastructure may be operated in one of the following <strong>deployment models</strong>: public cloud, private cloud, community cloud, or hybrid cloud.&quot;</td>
+<td>（语境）正如 NIST 云计算定义 [1] 所指出的，云基础结构可以按以下<strong>部署模型</strong>之一运营：公有云、私有云、社区云或混合云。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 3.1, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Service orchestration</strong><br>服务编排</td>
+<td>&quot;Service Orchestration refers to the <strong>composition of system components</strong> to support the Cloud Providers activities in <strong>arrangement, coordination and management of computing resources</strong> in order to <strong>provide cloud services</strong> to Cloud Consumers.&quot;</td>
+<td>服务编排是指<strong>系统组件的组合</strong>，用来支持云提供者在<strong>计算资源的安排、协调和管理</strong>方面的活动，以便向云使用者<strong>提供云服务</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 3.2, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cloud service management</strong><br>云服务管理</td>
+<td>&quot;Cloud Service Management includes <strong>all of the service-related functions</strong> that are necessary for the <strong>management and operation</strong> of those services required by or proposed to cloud consumers.&quot;</td>
+<td>云服务管理包括<strong>所有与服务相关的功能</strong>，这些功能是云使用者所需或向其提议的服务的<strong>管理和运营</strong>所必需的。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 3.3, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Security</strong><br>安全</td>
+<td>&quot;It is critical to recognize that security is a <strong>cross-cutting aspect</strong> of the architecture that <strong>spans across all layers</strong> of the reference model, ranging from <strong>physical security to application security</strong>.&quot;</td>
+<td>必须认识到，安全是架构的一个<strong>横切方面</strong>，它<strong>贯穿参考模型的所有层</strong>，从<strong>物理安全到应用程序安全</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 3.4, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Privacy</strong><br>隐私</td>
+<td>(context) &quot;Cloud providers should <strong>protect</strong> the assured, proper, and consistent collection, processing, communication, use and disposition of <strong>personal information (PI)</strong> and <strong>personally identifiable information (PII)</strong> in the cloud [14].&quot;</td>
+<td>（语境）云提供者应当<strong>保护</strong>云中<strong>个人信息 (PI)</strong> 和<strong>个人身份信息 (PII)</strong> 的收集、处理、通信、使用和处置，使其有保障、恰当且一致。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 3.5, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cloud auditor</strong><br>云审计者</td>
+<td>&quot;A cloud auditor is a party that can perform an <strong>independent examination of cloud service controls</strong> with the intent to <strong>express an opinion</strong> thereon.&quot;</td>
+<td>云审计者是一方，它能够对<strong>云服务控制措施进行独立检查</strong>，目的是对其<strong>发表意见</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.4, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Security controls</strong><br>安全控制措施</td>
+<td>&quot;Security controls [3] are the <strong>management, operational, and technical safeguards or countermeasures</strong> employed within an organizational information system to <strong>protect the confidentiality, integrity, and availability</strong> of the system and its information.&quot;</td>
+<td>安全控制措施 [3] 是组织的信息系统中采用的<strong>管理、运营和技术保护措施或对策</strong>，用于<strong>保护机密性、完整性和可用性</strong>，对象是系统及其信息。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.4, para. 2</a></td>
+</tr>
+<tr>
+<td><strong>Privacy impact</strong><br>隐私影响</td>
+<td>&quot;A <strong>privacy impact audit</strong> can help Federal agencies <strong>comply with applicable privacy laws and regulations</strong> governing an individuals privacy, and to ensure <strong>confidentiality, integrity, and availability</strong> of an individuals <strong>personal information</strong> at every stage of development and operation.&quot;</td>
+<td><strong>隐私影响审计</strong>可以帮助联邦机构<strong>遵守适用的隐私法律法规</strong>（这些法律法规管理个人隐私），并在开发和运营的每个阶段确保<strong>机密性、完整性和可用性</strong>，对象是个人的<strong>个人信息</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.4, para. 3</a></td>
+</tr>
+<tr>
+<td><strong>Performance</strong><br>性能</td>
+<td>(context) &quot;A cloud auditor can <strong>evaluate the services</strong> provided by a cloud provider in terms of security controls, privacy impact, <strong>performance</strong>, etc.&quot;</td>
+<td>（语境）云审计者可以<strong>评估云提供者所提供的服务</strong>，评估方面包括安全控制措施、隐私影响、<strong>性能</strong>等。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.4, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Cloud broker</strong><br>云代理</td>
+<td>&quot;A cloud broker is an entity that <strong>manages the use, performance and delivery of cloud services</strong> and <strong>negotiates relationships</strong> between cloud providers and cloud consumers.&quot;</td>
+<td>云代理是一个实体，它<strong>管理云服务的使用、性能和交付</strong>，并在云提供者和云使用者之间<strong>协商关系</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.5, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Service intermediation</strong><br>服务中介</td>
+<td>&quot;Service Intermediation: A cloud broker <strong>enhances a given service</strong> by <strong>improving some specific capability</strong> and providing <strong>value-added services</strong> to cloud consumers.&quot;</td>
+<td>服务中介：云代理<strong>增强某项服务</strong>，方法是<strong>改进某些特定能力</strong>并向云使用者提供<strong>增值服务</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.5, list item 1</a></td>
+</tr>
+<tr>
+<td><strong>Service aggregation</strong><br>服务聚合</td>
+<td>&quot;Service Aggregation: A cloud broker <strong>combines and integrates multiple services</strong> into <strong>one or more new services</strong>.&quot;</td>
+<td>服务聚合：云代理把<strong>多个服务组合并集成</strong>为<strong>一个或多个新服务</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.5, list item 2</a></td>
+</tr>
+<tr>
+<td><strong>Service arbitrage</strong><br>服务套利</td>
+<td>&quot;Service Arbitrage: Service arbitrage is <strong>similar to service aggregation</strong> except that the services being aggregated are <strong>not fixed</strong>.&quot;</td>
+<td>服务套利：服务套利<strong>与服务聚合类似</strong>，区别在于被聚合的服务<strong>不是固定的</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.5, list item 3</a></td>
+</tr>
+<tr>
+<td><strong>Cloud carrier</strong><br>云运营商</td>
+<td>&quot;A cloud carrier acts as an <strong>intermediary</strong> that provides <strong>connectivity and transport of cloud services</strong> between cloud consumers and cloud providers.&quot;</td>
+<td>云运营商充当<strong>中介</strong>，在云使用者和云提供者之间提供<strong>云服务的连接和传输</strong>。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.6, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Network and telecommunication carriers</strong><br>网络和电信运营商</td>
+<td>(context) &quot;The <strong>distribution of cloud services</strong> is normally provided by <strong>network and telecommunication carriers</strong> or a transport agent [8] ...&quot;</td>
+<td>（语境）<strong>云服务的分发</strong>通常由<strong>网络和电信运营商</strong>或传输代理 [8] 提供……</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.6, para. 1</a></td>
+</tr>
+<tr>
+<td><strong>Transport agent</strong><br>传输代理</td>
+<td>&quot;... a transport agent refers to a <strong>business organization</strong> that provides <strong>physical transport of storage media</strong> such as high-capacity hard drives.&quot;</td>
+<td>……传输代理是指一个<strong>商业组织</strong>，它提供<strong>存储介质的实体运输</strong>，例如大容量硬盘。</td>
+<td><a href="https://doi.org/10.6028/NIST.SP.500-292">Liu et al., 2011, Section 2.6, para. 1</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<ul>
+<li>Liu, F., Tong, J., Mao, J., Bohn, R., Messina, J., Badger, L., &amp; Leaf, D. (2011). <em>NIST cloud computing reference architecture</em> (NIST Special Publication 500-292). National Institute of Standards and Technology. <a href="https://doi.org/10.6028/NIST.SP.500-292">https://doi.org/10.6028/NIST.SP.500-292</a></li>
+</ul>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-10-27 12:58:52-04:00">10/27/2026 12:58:52</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

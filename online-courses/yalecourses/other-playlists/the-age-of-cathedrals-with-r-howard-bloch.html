@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>5.23.5 The Age of Cathedrals with R. Howard Bloch | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; YaleCourses &gt; Other Playlists &gt; The Age of Cathedrals with R. Howard Bloch: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="5235-the-age-of-cathedrals-with-r-howard-bloch">5.23.5 The Age of Cathedrals with R. Howard Bloch</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>The Age of Cathedrals with R. Howard Bloch</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLJmpIR0QQnbQ">YaleCourses, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=4HMp8yhlPRA&amp;list=PLJmpIR0QQnbQ" title="Welcome to the Age of Cathedrals | The Age of Cathedrals with R. Howard Bloch">Welcome to the Age of Cathedrals</a></td>
+<td>3:14</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=qGK2zyaJKb4&amp;list=PLJmpIR0QQnbQ" title="The Early History of Paris | The Age of Cathedrals with R. Howard Bloch">The Early History of Paris</a></td>
+<td>4:25</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=YDSe7UmQzsg&amp;list=PLJmpIR0QQnbQ" title="Notre-Dame and the Wave of Cathedral Building | The Age of Cathedrals with R. Howard Bloch">Notre-Dame and the Wave of Cathedral Building</a></td>
+<td>7:19</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=bUoKpoH_rxM&amp;list=PLJmpIR0QQnbQ" title="What We'll Study in This Course | The Age of Cathedrals with R. Howard Bloch">What We'll Study in This Course</a></td>
+<td>5:24</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=SlVct54cLuA&amp;list=PLJmpIR0QQnbQ" title="Abbot Suger and the Old Church of Saint-Denis | The Age of Cathedrals with R. Howard Bloch">Abbot Suger and the Old Church of Saint-Denis</a></td>
+<td>6:03</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=8kSY3kyRwlI&amp;list=PLJmpIR0QQnbQ" title="Saint-Denis, Burial Place of Kings | The Age of Cathedrals with R. Howard Bloch">Saint-Denis, Burial Place of Kings</a></td>
+<td>5:39</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=sf_DuJx6iVA&amp;list=PLJmpIR0QQnbQ" title="The Fair of Lendit | The Age of Cathedrals with R. Howard Bloch">The Fair of Lendit</a></td>
+<td>4:29</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=nTQA6yxgJ50&amp;list=PLJmpIR0QQnbQ" title="Suger, the Producer of the First Gothic Cathedral | The Age of Cathedrals with R. Howard Bloch">Suger, the Producer of the First Gothic Cathedral</a></td>
+<td>8:36</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=WZYK9lIiXts&amp;list=PLJmpIR0QQnbQ" title="Reasons Spiritual and Worldly | The Age of Cathedrals with R. Howard Bloch">Reasons Spiritual and Worldly</a></td>
+<td>8:13</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=Da-fJcFQLpE&amp;list=PLJmpIR0QQnbQ" title="The Central Portal of Saint-Denis | The Age of Cathedrals with R. Howard Bloch">The Central Portal of Saint-Denis</a></td>
+<td>9:38</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=Guc6maDiVRY&amp;list=PLJmpIR0QQnbQ" title="The North and South Portals of Saint-Denis | The Age of Cathedrals with R. Howard Bloch">The North and South Portals of Saint-Denis</a></td>
+<td>5:20</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=eYoC7xpYfWo&amp;list=PLJmpIR0QQnbQ" title="God Is Light: The Doctrine Behind the Gothic | The Age of Cathedrals with R. Howard Bloch">God Is Light: The Doctrine Behind the Gothic</a></td>
+<td>7:38</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=C6PSmVADC-U&amp;list=PLJmpIR0QQnbQ" title="Saint-Denis, a Storehouse of Treasure | The Age of Cathedrals with R. Howard Bloch">Saint-Denis, a Storehouse of Treasure</a></td>
+<td>7:21</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=xIXcT8brOlQ&amp;list=PLJmpIR0QQnbQ" title="The Uplifting Church | The Age of Cathedrals with R. Howard Bloch">The Uplifting Church</a></td>
+<td>4:38</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=H8TsKLST530&amp;list=PLJmpIR0QQnbQ" title="The Anagogical and Moses Windows | The Age of Cathedrals with R. Howard Bloch">The Anagogical and Moses Windows</a></td>
+<td>5:33</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=poAqwvlneBY&amp;list=PLJmpIR0QQnbQ" title="The Romanesque Church | The Age of Cathedrals with R. Howard Bloch">The Romanesque Church</a></td>
+<td>6:44</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=gw3ecasI7t8&amp;list=PLJmpIR0QQnbQ" title="The Origins of the Word Gothic | The Age of Cathedrals with R. Howard Bloch">The Origins of the Word Gothic</a></td>
+<td>3:51</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=A40QSFOrhzo&amp;list=PLJmpIR0QQnbQ" title="The Parts of a Gothic Cathedral | The Age of Cathedrals with R. Howard Bloch">The Parts of a Gothic Cathedral</a></td>
+<td>8:08</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=xYflzDYLD4M&amp;list=PLJmpIR0QQnbQ" title="Architectural Innovations of the Gothic | The Age of Cathedrals with R. Howard Bloch">Architectural Innovations of the Gothic</a></td>
+<td>12:51</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=tWLD7M_DUtg&amp;list=PLJmpIR0QQnbQ" title="Building Notre-Dame: The First Campaigns | The Age of Cathedrals with R. Howard Bloch">Building Notre-Dame: The First Campaigns</a></td>
+<td>7:43</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=7H92IBRlu0w&amp;list=PLJmpIR0QQnbQ" title="The Renovations of Notre-Dame | The Age of Cathedrals with R. Howard Bloch">The Renovations of Notre-Dame</a></td>
+<td>7:27</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=_9v53STJxhQ&amp;list=PLJmpIR0QQnbQ" title="What's New at Notre-Dame | The Age of Cathedrals with R. Howard Bloch">What's New at Notre-Dame</a></td>
+<td>4:24</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=RwidVcpE_7M&amp;list=PLJmpIR0QQnbQ" title="The Saint Anne Portal | The Age of Cathedrals with R. Howard Bloch">The Saint Anne Portal</a></td>
+<td>11:29</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=X-S4ppDqiNI&amp;list=PLJmpIR0QQnbQ" title="The Coronation Portal | The Age of Cathedrals with R. Howard Bloch">The Coronation Portal</a></td>
+<td>7:07</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=2Z4idBXpYC8&amp;list=PLJmpIR0QQnbQ" title="The Saint Anne Portal | The Age of Cathedrals with R. Howard Bloch">The Saint Anne Portal</a></td>
+<td>6:06</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=E4WVYMAGzec&amp;list=PLJmpIR0QQnbQ" title="The Rose Windows of Notre-Dame | The Age of Cathedrals with R. Howard Bloch">The Rose Windows of Notre-Dame</a></td>
+<td>7:07</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=IoHoELLNPAE&amp;list=PLJmpIR0QQnbQ" title="Saint Stephen's Portal | The Age of Cathedrals with R. Howard Bloch">Saint Stephen's Portal</a></td>
+<td>4:27</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=O3ltWknsyDU&amp;list=PLJmpIR0QQnbQ" title="Theophilus and the Virgin | The Age of Cathedrals with R. Howard Bloch">Theophilus and the Virgin</a></td>
+<td>3:11</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=bSOqDFPPkeA&amp;list=PLJmpIR0QQnbQ" title="Truth Set in Stone: The Theophilus Story | The Age of Cathedrals with R. Howard Bloch">Truth Set in Stone: The Theophilus Story</a></td>
+<td>8:27</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=hedyBUWKyLg&amp;list=PLJmpIR0QQnbQ" title="From Mars to Minerva: Peter Abelard | The Age of Cathedrals with R. Howard Bloch">From Mars to Minerva: Peter Abelard</a></td>
+<td>6:38</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=B2ISxd8xUUA&amp;list=PLJmpIR0QQnbQ" title="Abelard: Introducing Reason into Faith | The Age of Cathedrals with R. Howard Bloch">Abelard: Introducing Reason into Faith</a></td>
+<td>7:02</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=I9MPr2rlsbk&amp;list=PLJmpIR0QQnbQ" title="The Story of Abelard's Misfortunes | The Age of Cathedrals with R. Howard Bloch">The Story of Abelard's Misfortunes</a></td>
+<td>5:17</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=Alsahh4rG8Q&amp;list=PLJmpIR0QQnbQ" title="The Fabliaux: The Crucified Priest | The Age of Cathedrals with R. Howard Bloch">The Fabliaux: The Crucified Priest</a></td>
+<td>9:15</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=h9_PZ2g07UM&amp;list=PLJmpIR0QQnbQ" title="The Fabliaux: The Peekaboo Priest | The Age of Cathedrals with R. Howard Bloch">The Fabliaux: The Peekaboo Priest</a></td>
+<td>3:35</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=IavPEo68pnc&amp;list=PLJmpIR0QQnbQ" title="The Dizzying Heights of Chartres | The Age of Cathedrals with R. Howard Bloch">The Dizzying Heights of Chartres</a></td>
+<td>6:39</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=h8AZL1O4jlk&amp;list=PLJmpIR0QQnbQ" title="The History of Chartres | The Age of Cathedrals with R. Howard Bloch">The History of Chartres</a></td>
+<td>4:53</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=7xcO7KRALfE&amp;list=PLJmpIR0QQnbQ" title="The Holy Tunic of Chartres | The Age of Cathedrals with R. Howard Bloch">The Holy Tunic of Chartres</a></td>
+<td>4:59</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=KRzMN9DRxrQ&amp;list=PLJmpIR0QQnbQ" title="The Merchant Donors of Chartres | The Age of Cathedrals with R. Howard Bloch">The Merchant Donors of Chartres</a></td>
+<td>7:14</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=tzG_4ipCYjM&amp;list=PLJmpIR0QQnbQ" title="The West Facade of Chartres | The Age of Cathedrals with R. Howard Bloch">The West Facade of Chartres</a></td>
+<td>10:18</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=zHbPQQA4H3A&amp;list=PLJmpIR0QQnbQ" title="The North and South Transepts of Chartres | The Age of Cathedrals with R. Howard Bloch">The North and South Transepts of Chartres</a></td>
+<td>3:14</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=0AgnpkDTTzk&amp;list=PLJmpIR0QQnbQ" title="The Stained Glass Lancets of Chartres | The Age of Cathedrals with R. Howard Bloch">The Stained Glass Lancets of Chartres</a></td>
+<td>7:14</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=745a3EFTWfk&amp;list=PLJmpIR0QQnbQ" title="The Rose Windows of Chartres | The Age of Cathedrals with R. Howard Bloch">The Rose Windows of Chartres</a></td>
+<td>9:26</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=n_lG5Zt2yJQ&amp;list=PLJmpIR0QQnbQ" title="The Zodiac Window at Chartres | The Age of Cathedrals with R. Howard Bloch">The Zodiac Window at Chartres</a></td>
+<td>4:38</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=o62eQVrqM-4&amp;list=PLJmpIR0QQnbQ" title="Charlemagne in Glass | The Age of Cathedrals with R. Howard Bloch">Charlemagne in Glass</a></td>
+<td>17:11</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=RIpgZEWEZiQ&amp;list=PLJmpIR0QQnbQ" title="The Song of Roland: Lords and Vassals | The Age of Cathedrals with R. Howard Bloch">The Song of Roland: Lords and Vassals</a></td>
+<td>9:00</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=cmNc543u8kE&amp;list=PLJmpIR0QQnbQ" title="The Song of Roland: Plunder and Wealth | The Age of Cathedrals with R. Howard Bloch">The Song of Roland: Plunder and Wealth</a></td>
+<td>5:18</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=hR91pEn6XOU&amp;list=PLJmpIR0QQnbQ" title="Roland's Reliquary Sword | The Age of Cathedrals with R. Howard Bloch">Roland's Reliquary Sword</a></td>
+<td>5:10</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=9pZHW_6X_zo&amp;list=PLJmpIR0QQnbQ" title="Vengeance or Treason: The Trial of Ganelon | The Age of Cathedrals with R. Howard Bloch">Vengeance or Treason: The Trial of Ganelon</a></td>
+<td>6:48</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=Z5T9GUuMUf4&amp;list=PLJmpIR0QQnbQ" title="Church and State Under Saint Louis | The Age of Cathedrals with R. Howard Bloch">Church and State Under Saint Louis</a></td>
+<td>9:29</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=VMvjzgC0zTo&amp;list=PLJmpIR0QQnbQ" title="The Amassing of Relics | The Age of Cathedrals with R. Howard Bloch">The Amassing of Relics</a></td>
+<td>11:38</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=u11PvTgEj_Q&amp;list=PLJmpIR0QQnbQ" title="A New Holy Land in Paris | The Age of Cathedrals with R. Howard Bloch">A New Holy Land in Paris</a></td>
+<td>5:32</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=5H2A3ZhRNFw&amp;list=PLJmpIR0QQnbQ" title="A Radiating Chapel: The Sainte-Chapelle | The Age of Cathedrals with R. Howard Bloch">A Radiating Chapel: The Sainte-Chapelle</a></td>
+<td>11:48</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=G_cdBeuYqdU&amp;list=PLJmpIR0QQnbQ" title="The Sainte-Chapelle as a Total Work of Art | The Age of Cathedrals with R. Howard Bloch">The Sainte-Chapelle as a Total Work of Art</a></td>
+<td>5:05</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=nfbFSk-p_2I&amp;list=PLJmpIR0QQnbQ" title="The House of Glass | The Age of Cathedrals with R. Howard Bloch">The House of Glass</a></td>
+<td>6:41</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=RKx4Eva3XRw&amp;list=PLJmpIR0QQnbQ" title="The Apse Windows of the Sainte-Chapelle | The Age of Cathedrals with R. Howard Bloch">The Apse Windows of the Sainte-Chapelle</a></td>
+<td>5:14</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=sSKilF6e7z0&amp;list=PLJmpIR0QQnbQ" title="The North Windows of the Sainte-Chapelle | The Age of Cathedrals with R. Howard Bloch">The North Windows of the Sainte-Chapelle</a></td>
+<td>4:28</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=3sSUjPlsB7M&amp;list=PLJmpIR0QQnbQ" title="The South Windows of the Sainte-Chapelle | The Age of Cathedrals with R. Howard Bloch">The South Windows of the Sainte-Chapelle</a></td>
+<td>5:26</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=KFAzIo6Buv0&amp;list=PLJmpIR0QQnbQ" title="Building a Case for Canonization | The Age of Cathedrals with R. Howard Bloch">Building a Case for Canonization</a></td>
+<td>7:21</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=BO8HkFM-T9s&amp;list=PLJmpIR0QQnbQ" title="Confessor or Martyr? | The Age of Cathedrals with R. Howard Bloch">Confessor or Martyr?</a></td>
+<td>2:48</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=weWBEdW4n8c&amp;list=PLJmpIR0QQnbQ" title="The Virtues of Saint Louis | The Age of Cathedrals with R. Howard Bloch">The Virtues of Saint Louis</a></td>
+<td>9:32</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=yh3o77yxZxQ&amp;list=PLJmpIR0QQnbQ" title="Louis the Crusader | The Age of Cathedrals with R. Howard Bloch">Louis the Crusader</a></td>
+<td>10:31</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=9MWgjN3naf0&amp;list=PLJmpIR0QQnbQ" title="The Almost Martyr | The Age of Cathedrals with R. Howard Bloch">The Almost Martyr</a></td>
+<td>4:17</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=4FRQkKIq4LY&amp;list=PLJmpIR0QQnbQ" title="The King Becomes a Relic | The Age of Cathedrals with R. Howard Bloch">The King Becomes a Relic</a></td>
+<td>9:18</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=o6j27lxV2to&amp;list=PLJmpIR0QQnbQ" title="Cathedrals from the Middle Ages to the Present | The Age of Cathedrals with R. Howard Bloch">Cathedrals from the Middle Ages to the Present</a></td>
+<td>16:03</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>YaleCourses. (n.d.). <em>The Age of Cathedrals with R. Howard Bloch</em> [YouTube playlist]. Retrieved November 21, 2026, from <a href="https://www.youtube.com/playlist?list=PLJmpIR0QQnbQ">https://www.youtube.com/playlist?list=PLJmpIR0QQnbQ</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-21 02:35:46-05:00">11/21/2026 02:35:46</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

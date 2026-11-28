@@ -1,0 +1,1532 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>2.33.16 MIT RES.6-012 Introduction to Probability, Spring 2018 | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; MIT OpenCourseWare &gt; Other Numbers &gt; MIT RES.6-012 Introduction to Probability, Spring 2018: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="23316-mit-res6-012-introduction-to-probability-spring-2018">2.33.16 MIT RES.6-012 Introduction to Probability, Spring 2018</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>MIT RES.6-012 Introduction to Probability, Spring 2018</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">MIT OpenCourseWare, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="course">Course</h2>
+<table>
+<thead>
+<tr>
+<th>Course Code</th>
+<th>Course Name</th>
+<th>Term</th>
+<th>Videos</th>
+<th>Playlist</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RES.6-012</td>
+<td></td>
+<td>Spring 2018</td>
+<td>266</td>
+<td><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">YouTube</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=1uW3qMFA9Ho&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.1 Lecture Overview">L01.1 Lecture Overview</a></td>
+<td>1:52</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=iQ2edOqEQAs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.2 Sample Space">L01.2 Sample Space</a></td>
+<td>5:38</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=__T3eJtjoic&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.3 Sample Space Examples">L01.3 Sample Space Examples</a></td>
+<td>5:03</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=pA83XtLeVig&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.4 Probability Axioms">L01.4 Probability Axioms</a></td>
+<td>8:55</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=WTyLg_I1oFY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.5 Simple Properties of Probabilities">L01.5 Simple Properties of Probabilities</a></td>
+<td>11:05</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=N3I2ZLbh6zQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.6 More Properties of Probabilities">L01.6 More Properties of Probabilities</a></td>
+<td>8:40</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=AsSQdpZdP8U&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.7 A Discrete Example">L01.7 A Discrete Example</a></td>
+<td>5:13</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=NbYB0fiHoCs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.8 A Continuous Example">L01.8 A Continuous Example</a></td>
+<td>5:20</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=mUxg3j_h5GM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.9 Countable Additivity">L01.9 Countable Additivity</a></td>
+<td>12:10</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=uGGTX2ypzKI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L01.10 Interpretations &amp; Uses of Probabilities">L01.10 Interpretations &amp; Uses of Probabilities</a></td>
+<td>3:48</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=-630YTQEuCI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.0 Mathematical Background Overview">S01.0 Mathematical Background Overview</a></td>
+<td>1:25</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=47W1ApSRUqs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.1 Sets">S01.1 Sets</a></td>
+<td>10:55</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=pdR9hV8mRWE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.2 De Morgan's Laws">S01.2 De Morgan's Laws</a></td>
+<td>4:53</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=kuhlfBPQPq0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.3 Sequences and their Limits">S01.3 Sequences and their Limits</a></td>
+<td>6:00</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=Lgacew5BjDI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.4 When Does a Sequence Converge">S01.4 When Does a Sequence Converge</a></td>
+<td>2:46</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=nYe4OZVCnIs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.5 Infinite Series">S01.5 Infinite Series</a></td>
+<td>3:11</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=cCmWW7Hu43A&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.6 The Geometric Series">S01.6 The Geometric Series</a></td>
+<td>4:07</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=9QJt03983Gg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.7 About the Order of Summation in Series with Multiple Indices">S01.7 About the Order of Summation in Series with Multiple Indices</a></td>
+<td>10:05</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=MqocbJ-FPo0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.8 Countable and Uncountable Sets">S01.8 Countable and Uncountable Sets</a></td>
+<td>6:19</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=YIZd23zGV3M&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.9 Proof That a Set of Real Numbers is Uncountable">S01.9 Proof That a Set of Real Numbers is Uncountable</a></td>
+<td>4:02</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=0xuRh3dz_Nc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S01.10 Bonferroni's Inequality">S01.10 Bonferroni's Inequality</a></td>
+<td>9:28</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=B5y6fy5iUtg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L02.1 Lecture Overview">L02.1 Lecture Overview</a></td>
+<td>2:07</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=MPRKc4UPoJk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L02.2 Conditional Probabilities">L02.2 Conditional Probabilities</a></td>
+<td>9:00</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=YenDB3yOfDc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L02.3 A Die Roll Example">L02.3 A Die Roll Example</a></td>
+<td>5:02</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=L_pEeYLGaP0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L02.4 Conditional Probabilities Obey the Same Axioms">L02.4 Conditional Probabilities Obey the Same Axioms</a></td>
+<td>7:45</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=uL31gpFdarc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L02.5 A Radar Example and Three Basic Tools">L02.5 A Radar Example and Three Basic Tools</a></td>
+<td>10:59</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=ugzs7dgQ-JE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L02.6 The Multiplication Rule">L02.6 The Multiplication Rule</a></td>
+<td>6:17</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=8odFouBR2wE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L02.7 Total Probability Theorem">L02.7 Total Probability Theorem</a></td>
+<td>5:25</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=kz2tvO_ZAKI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L02.8 Bayes' Rule">L02.8 Bayes' Rule</a></td>
+<td>4:28</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=QXKgTPR_8wk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.1 Lecture Overview">L03.1 Lecture Overview</a></td>
+<td>1:27</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=rZKUmNvCjis&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.2 A Coin Tossing Example">L03.2 A Coin Tossing Example</a></td>
+<td>7:59</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=w423ypsUHf0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.3 Independence of Two Events">L03.3 Independence of Two Events</a></td>
+<td>6:10</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=JZkT3NU2mPM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.4 Independence of Event Complements">L03.4 Independence of Event Complements</a></td>
+<td>2:59</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=7B3cDe39lwY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.5 Conditional Independence">L03.5 Conditional Independence</a></td>
+<td>2:46</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=TAyA-rjmesQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.6 Independence Versus Conditional Independence">L03.6 Independence Versus Conditional Independence</a></td>
+<td>5:30</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=UbQcqFH33G0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.7 Independence of a Collection of Events">L03.7 Independence of a Collection of Events</a></td>
+<td>6:00</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=aJXfyfQs2Mc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.8 Independence Versus Pairwise Independence">L03.8 Independence Versus Pairwise Independence</a></td>
+<td>8:35</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=UDkq_cLVSmc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.9 Reliability">L03.9 Reliability</a></td>
+<td>7:28</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=iPWyElxtk-8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L03.10 The King's Sibling">L03.10 The King's Sibling</a></td>
+<td>6:54</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=poeHeiiiLKI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.1 Lecture Overview">L04.1 Lecture Overview</a></td>
+<td>2:29</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=-k8WU-KB0rk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.2 The Counting Principle">L04.2 The Counting Principle</a></td>
+<td>11:12</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=KrjZyCRi29o&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.3 Die Roll Example">L04.3 Die Roll Example</a></td>
+<td>4:39</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=o_qO7RYBF10&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.4 Combinations">L04.4 Combinations</a></td>
+<td>10:08</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=8llkkbCPHb4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.5 Binomial Probabilities">L04.5 Binomial Probabilities</a></td>
+<td>6:38</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=2f9EfEga4Oo&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.6 A Coin Tossing Example">L04.6 A Coin Tossing Example</a></td>
+<td>11:48</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=hJjiCrdsNV8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.7 Partitions">L04.7 Partitions</a></td>
+<td>5:20</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=IC-pnm6PEGk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.8 Each Person Gets An Ace">L04.8 Each Person Gets An Ace</a></td>
+<td>9:45</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=5A_H1eHbOCY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L04.9 Multinomial Probabilities">L04.9 Multinomial Probabilities</a></td>
+<td>10:36</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=ArfHGPHL8kU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.1 Lecture Overview">L05.1 Lecture Overview</a></td>
+<td>1:40</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=vfqPpai_9jI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.2 Definition of Random Variables">L05.2 Definition of Random Variables</a></td>
+<td>9:14</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=zW1_iugJvF0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.3 Probability Mass Functions">L05.3 Probability Mass Functions</a></td>
+<td>10:21</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=J8L9kRGSvSY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.4 Bernoulli &amp; Indicator Random Variables">L05.4 Bernoulli &amp; Indicator Random Variables</a></td>
+<td>3:06</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=JoQDJMZA7F8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.5 Uniform Random Variables">L05.5 Uniform Random Variables</a></td>
+<td>4:06</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=jOC4ATKBWlI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.6 Binomial Random Variables">L05.6 Binomial Random Variables</a></td>
+<td>6:08</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=whbKmwMmB4s&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.7 Geometric Random Variables">L05.7 Geometric Random Variables</a></td>
+<td>7:37</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=_yJsO5955ZE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.8 Expectation">L05.8 Expectation</a></td>
+<td>10:38</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=GARQ31BrKQA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.9 Elementary Properties of Expectation">L05.9 Elementary Properties of Expectation</a></td>
+<td>4:12</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=gB5TCCfF6e4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.10 The Expected Value Rule">L05.10 The Expected Value Rule</a></td>
+<td>10:00</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=0IJFBMIU6x4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L05.11 Linearity of Expectations">L05.11 Linearity of Expectations</a></td>
+<td>3:59</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=Xwd4ABlO0Dc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S05.1 Supplement: Functions">S05.1 Supplement: Functions</a></td>
+<td>8:08</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=n9FTM9f9A6I&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L06.1 Lecture Overview">L06.1 Lecture Overview</a></td>
+<td>2:02</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=ZWo1XgAQE5k&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L06.2 Variance">L06.2 Variance</a></td>
+<td>10:43</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=7_livg-uaVs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L06.3 The Variance of the Bernoulli &amp; The Uniform">L06.3 The Variance of the Bernoulli &amp; The Uniform</a></td>
+<td>8:40</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=2_KBeHiUDiY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L06.4 Conditional PMFs &amp; Expectations Given an Event">L06.4 Conditional PMFs &amp; Expectations Given an Event</a></td>
+<td>7:31</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=GnEyIawrWBg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L06.5 Total Expectation Theorem">L06.5 Total Expectation Theorem</a></td>
+<td>6:28</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=MuqLI4otMIQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L06.6 Geometric PMF Memorylessness &amp; Expectation">L06.6 Geometric PMF Memorylessness &amp; Expectation</a></td>
+<td>10:29</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=7nu97OYx4X4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L06.7 Joint PMFs and the Expected Value Rule">L06.7 Joint PMFs and the Expected Value Rule</a></td>
+<td>10:16</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=TbRh71BMJvw&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L06.8 Linearity of Expectations &amp; The Mean of the Binomial">L06.8 Linearity of Expectations &amp; The Mean of the Binomial</a></td>
+<td>8:25</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=17Z89x_ZWQ4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L07.1 Lecture Overview">L07.1 Lecture Overview</a></td>
+<td>1:50</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=T_Q3M_HV94w&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L07.2 Conditional PMFs">L07.2 Conditional PMFs</a></td>
+<td>10:48</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=vJAG4EzSQZA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L07.3 Conditional Expectation &amp; the Total Expectation Theorem">L07.3 Conditional Expectation &amp; the Total Expectation Theorem</a></td>
+<td>6:10</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=F6H50Hbulbk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L07.4 Independence of Random Variables">L07.4 Independence of Random Variables</a></td>
+<td>5:08</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=JsEvwRGa1JA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L07.5 Example">L07.5 Example</a></td>
+<td>4:44</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=R4nGGs0m7lo&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L07.6 Independence &amp; Expectations">L07.6 Independence &amp; Expectations</a></td>
+<td>4:22</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=YQ26hzI4OJk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L07.7 Independence, Variances &amp; the Binomial Variance">L07.7 Independence, Variances &amp; the Binomial Variance</a></td>
+<td>7:09</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=Kycmb2IwV-Y&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L07.8 The Hat Problem">L07.8 The Hat Problem</a></td>
+<td>16:09</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=WXIU2tK4qtc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S07.1 The Inclusion-Exclusion Formula">S07.1 The Inclusion-Exclusion Formula</a></td>
+<td>11:13</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=sSWHT2kbkvc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S07.2 The Variance of the Geometric">S07.2 The Variance of the Geometric</a></td>
+<td>5:42</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=GOmLwHaa8Ik&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S07.3 Independence of Random Variables Versus Independence of Events">S07.3 Independence of Random Variables Versus Independence of Events</a></td>
+<td>6:51</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=eXf2Zak-s0o&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.1 Lecture Overview">L08.1 Lecture Overview</a></td>
+<td>1:13</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=8QFpZ3FndBc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.2 Probability Density Functions">L08.2 Probability Density Functions</a></td>
+<td>11:09</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=jPB9zI8F7rE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.3 Uniform &amp; Piecewise Constant PDFs">L08.3 Uniform &amp; Piecewise Constant PDFs</a></td>
+<td>2:52</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=wOmfOJyxZ6M&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.4 Means &amp; Variances">L08.4 Means &amp; Variances</a></td>
+<td>6:57</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=bXmDp8R8n8U&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.5 Mean &amp; Variance of the Uniform">L08.5 Mean &amp; Variance of the Uniform</a></td>
+<td>3:56</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=FOFtMqCxZt0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.6 Exponential Random Variables">L08.6 Exponential Random Variables</a></td>
+<td>8:09</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=4QeL1ma_XJ0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.7 Cumulative Distribution Functions">L08.7 Cumulative Distribution Functions</a></td>
+<td>12:48</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=6UMv4vb4y7c&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.8 Normal Random Variables">L08.8 Normal Random Variables</a></td>
+<td>9:14</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=DrBIORgOzSA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L08.9 Calculation of Normal Probabilities">L08.9 Calculation of Normal Probabilities</a></td>
+<td>10:11</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=G11r4Srh4u8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.1 Lecture Overview">L09.1 Lecture Overview</a></td>
+<td>1:33</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=mHj4A1gh_ws&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.2 Conditioning A Continuous Random Variable on an Event">L09.2 Conditioning A Continuous Random Variable on an Event</a></td>
+<td>9:56</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=5CHUuMZZzSY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.3 Conditioning Example">L09.3 Conditioning Example</a></td>
+<td>3:08</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=3kxnPEDecIA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.4 Memorylessness of the Exponential PDF">L09.4 Memorylessness of the Exponential PDF</a></td>
+<td>8:18</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=Mv8tuMBQk-g&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.5 Total Probability &amp; Expectation Theorems">L09.5 Total Probability &amp; Expectation Theorems</a></td>
+<td>6:51</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=VJhDWandNwc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.6 Mixed Random Variables">L09.6 Mixed Random Variables</a></td>
+<td>5:35</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=O4QYcoxuLHE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.7 Joint PDFs">L09.7 Joint PDFs</a></td>
+<td>9:18</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=h8DKVKfWU_Q&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.8 From The Joint to the Marginal">L09.8 From The Joint to the Marginal</a></td>
+<td>7:23</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=WFMTus20mz4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.9 Continuous Analogs of Various Properties">L09.9 Continuous Analogs of Various Properties</a></td>
+<td>1:40</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=AVVbUKstn8A&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L09.10 Joint CDFs">L09.10 Joint CDFs</a></td>
+<td>4:16</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=KSrPJe7y9oA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S09.1 Buffon's Needle &amp; Monte Carlo Simulation">S09.1 Buffon's Needle &amp; Monte Carlo Simulation</a></td>
+<td>16:12</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=nQukfQgIIqw&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.1 Lecture Overview">L10.1 Lecture Overview</a></td>
+<td>1:42</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=Kj6iEzXsFkI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.2 Conditional PDFs">L10.2 Conditional PDFs</a></td>
+<td>6:57</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=mKcWk_DmS7M&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.3 Comments on Conditional PDFs">L10.3 Comments on Conditional PDFs</a></td>
+<td>4:34</td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="https://www.youtube.com/watch?v=0cD-tcITuck&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.4 Total Probability &amp; Total Expectation Theorems">L10.4 Total Probability &amp; Total Expectation Theorems</a></td>
+<td>5:17</td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="https://www.youtube.com/watch?v=JCQnsPggTp8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.5 Independence">L10.5 Independence</a></td>
+<td>3:35</td>
+</tr>
+<tr>
+<td>105</td>
+<td><a href="https://www.youtube.com/watch?v=aXFbBcabaQA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.6 Stick-Breaking Example">L10.6 Stick-Breaking Example</a></td>
+<td>10:02</td>
+</tr>
+<tr>
+<td>106</td>
+<td><a href="https://www.youtube.com/watch?v=qOQxeYGOIag&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.7 Independent Normals">L10.7 Independent Normals</a></td>
+<td>5:36</td>
+</tr>
+<tr>
+<td>107</td>
+<td><a href="https://www.youtube.com/watch?v=WSrVCCBOeg4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.8 Bayes Rule Variations">L10.8 Bayes Rule Variations</a></td>
+<td>3:27</td>
+</tr>
+<tr>
+<td>108</td>
+<td><a href="https://www.youtube.com/watch?v=363JQxFwLXg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.9 Mixed Bayes Rule">L10.9 Mixed Bayes Rule</a></td>
+<td>8:33</td>
+</tr>
+<tr>
+<td>109</td>
+<td><a href="https://www.youtube.com/watch?v=27d9Gew3llM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.10 Detection of a Binary Signal">L10.10 Detection of a Binary Signal</a></td>
+<td>9:15</td>
+</tr>
+<tr>
+<td>110</td>
+<td><a href="https://www.youtube.com/watch?v=wnts35dE1Sg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L10.11 Inference of the Bias of a Coin">L10.11 Inference of the Bias of a Coin</a></td>
+<td>6:00</td>
+</tr>
+<tr>
+<td>111</td>
+<td><a href="https://www.youtube.com/watch?v=d5mV88S2fNY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.1 Lecture Overview">L11.1 Lecture Overview</a></td>
+<td>1:52</td>
+</tr>
+<tr>
+<td>112</td>
+<td><a href="https://www.youtube.com/watch?v=NRnAuKxx6XA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.2 The PMF of a Function of a Discrete Random Variable">L11.2 The PMF of a Function of a Discrete Random Variable</a></td>
+<td>6:42</td>
+</tr>
+<tr>
+<td>113</td>
+<td><a href="https://www.youtube.com/watch?v=11iF2ovjKOg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.3 A Linear Function of a Continuous Random Variable">L11.3 A Linear Function of a Continuous Random Variable</a></td>
+<td>11:18</td>
+</tr>
+<tr>
+<td>114</td>
+<td><a href="https://www.youtube.com/watch?v=eFDU7t6Jxzc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.4 A Linear Function of a Normal Random Variable">L11.4 A Linear Function of a Normal Random Variable</a></td>
+<td>2:45</td>
+</tr>
+<tr>
+<td>115</td>
+<td><a href="https://www.youtube.com/watch?v=X-AzW70e2M0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.5 The PDF of a General Function">L11.5 The PDF of a General Function</a></td>
+<td>9:47</td>
+</tr>
+<tr>
+<td>116</td>
+<td><a href="https://www.youtube.com/watch?v=PaI-oaOBHKU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.6 The Monotonic Case">L11.6 The Monotonic Case</a></td>
+<td>11:07</td>
+</tr>
+<tr>
+<td>117</td>
+<td><a href="https://www.youtube.com/watch?v=zM39sZL9oGE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.7 The Intuition for the Monotonic Case">L11.7 The Intuition for the Monotonic Case</a></td>
+<td>5:28</td>
+</tr>
+<tr>
+<td>118</td>
+<td><a href="https://www.youtube.com/watch?v=uFx7fWujWsU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.8 A Nonmonotonic Example">L11.8 A Nonmonotonic Example</a></td>
+<td>7:14</td>
+</tr>
+<tr>
+<td>119</td>
+<td><a href="https://www.youtube.com/watch?v=X-krLprDrOI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L11.9 The PDF of a Function of Multiple Random Variables">L11.9 The PDF of a Function of Multiple Random Variables</a></td>
+<td>7:42</td>
+</tr>
+<tr>
+<td>120</td>
+<td><a href="https://www.youtube.com/watch?v=yvHu34mEXzk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S11.1 Simulation">S11.1 Simulation</a></td>
+<td>12:35</td>
+</tr>
+<tr>
+<td>121</td>
+<td><a href="https://www.youtube.com/watch?v=wBnlmQR5Vhk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.1 Lecture Overview">L12.1 Lecture Overview</a></td>
+<td>1:29</td>
+</tr>
+<tr>
+<td>122</td>
+<td><a href="https://www.youtube.com/watch?v=zbu8KQx9bqM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.2 The Sum of Independent Discrete Random Variables">L12.2 The Sum of Independent Discrete Random Variables</a></td>
+<td>7:52</td>
+</tr>
+<tr>
+<td>123</td>
+<td><a href="https://www.youtube.com/watch?v=d2M4LNSeIn4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.3 The Sum of Independent Continuous Random Variables">L12.3 The Sum of Independent Continuous Random Variables</a></td>
+<td>6:45</td>
+</tr>
+<tr>
+<td>124</td>
+<td><a href="https://www.youtube.com/watch?v=aGbP_7yAiEk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.4 The Sum of Independent Normal Random Variables">L12.4 The Sum of Independent Normal Random Variables</a></td>
+<td>3:10</td>
+</tr>
+<tr>
+<td>125</td>
+<td><a href="https://www.youtube.com/watch?v=K2Tlj27nkjs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.5 Covariance">L12.5 Covariance</a></td>
+<td>5:54</td>
+</tr>
+<tr>
+<td>126</td>
+<td><a href="https://www.youtube.com/watch?v=RQKJBpaCCeo&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.6 Covariance Properties">L12.6 Covariance Properties</a></td>
+<td>5:48</td>
+</tr>
+<tr>
+<td>127</td>
+<td><a href="https://www.youtube.com/watch?v=GH7dwoXSD0s&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.7 The Variance of the Sum of Random Variables">L12.7 The Variance of the Sum of Random Variables</a></td>
+<td>5:36</td>
+</tr>
+<tr>
+<td>128</td>
+<td><a href="https://www.youtube.com/watch?v=HTs6Zhc2S1M&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.8 The Correlation Coefficient">L12.8 The Correlation Coefficient</a></td>
+<td>7:03</td>
+</tr>
+<tr>
+<td>129</td>
+<td><a href="https://www.youtube.com/watch?v=uxVRfj60z98&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.9 Proof of Key Properties of the Correlation Coefficient">L12.9 Proof of Key Properties of the Correlation Coefficient</a></td>
+<td>3:52</td>
+</tr>
+<tr>
+<td>130</td>
+<td><a href="https://www.youtube.com/watch?v=J3aMHIajtFc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.10 Interpreting the Correlation Coefficient">L12.10 Interpreting the Correlation Coefficient</a></td>
+<td>5:50</td>
+</tr>
+<tr>
+<td>131</td>
+<td><a href="https://www.youtube.com/watch?v=6-gN0dDHU-4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L12.11 Correlations Matter">L12.11 Correlations Matter</a></td>
+<td>6:22</td>
+</tr>
+<tr>
+<td>132</td>
+<td><a href="https://www.youtube.com/watch?v=zc6PfijY8_s&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.1 Lecture Overview">L13.1 Lecture Overview</a></td>
+<td>1:47</td>
+</tr>
+<tr>
+<td>133</td>
+<td><a href="https://www.youtube.com/watch?v=strrrdJivco&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.2 Conditional Expectation as a Random Variable">L13.2 Conditional Expectation as a Random Variable</a></td>
+<td>4:31</td>
+</tr>
+<tr>
+<td>134</td>
+<td><a href="https://www.youtube.com/watch?v=yDkm9AYaczk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.3 The Law of Iterated Expectations">L13.3 The Law of Iterated Expectations</a></td>
+<td>3:58</td>
+</tr>
+<tr>
+<td>135</td>
+<td><a href="https://www.youtube.com/watch?v=LVfIS8pBI6Y&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.4 Stick-Breaking Revisited">L13.4 Stick-Breaking Revisited</a></td>
+<td>3:53</td>
+</tr>
+<tr>
+<td>136</td>
+<td><a href="https://www.youtube.com/watch?v=-T34yGp4T7A&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.5 Forecast Revisions">L13.5 Forecast Revisions</a></td>
+<td>4:38</td>
+</tr>
+<tr>
+<td>137</td>
+<td><a href="https://www.youtube.com/watch?v=X04gTpC7wAs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.6 The Conditional Variance">L13.6 The Conditional Variance</a></td>
+<td>5:02</td>
+</tr>
+<tr>
+<td>138</td>
+<td><a href="https://www.youtube.com/watch?v=mHonq7Gjjqg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.7 Derivation of the Law of Total Variance">L13.7 Derivation of the Law of Total Variance</a></td>
+<td>4:54</td>
+</tr>
+<tr>
+<td>139</td>
+<td><a href="https://www.youtube.com/watch?v=-0pzpXHq_io&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.8 A Simple Example">L13.8 A Simple Example</a></td>
+<td>6:29</td>
+</tr>
+<tr>
+<td>140</td>
+<td><a href="https://www.youtube.com/watch?v=BjjkSM1Dasg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.9 Section Means and Variances">L13.9 Section Means and Variances</a></td>
+<td>9:04</td>
+</tr>
+<tr>
+<td>141</td>
+<td><a href="https://www.youtube.com/watch?v=xdewLsXI_UQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.10 Mean of the Sum of a Random Number of Random Variables">L13.10 Mean of the Sum of a Random Number of Random Variables</a></td>
+<td>6:26</td>
+</tr>
+<tr>
+<td>142</td>
+<td><a href="https://www.youtube.com/watch?v=SgM16HNeC3o&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L13.11 Variance of the Sum of a Random Number of Random Variables">L13.11 Variance of the Sum of a Random Number of Random Variables</a></td>
+<td>5:10</td>
+</tr>
+<tr>
+<td>143</td>
+<td><a href="https://www.youtube.com/watch?v=2BttG14vI7c&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S13.1 Conditional Expectation Properties">S13.1 Conditional Expectation Properties</a></td>
+<td>8:13</td>
+</tr>
+<tr>
+<td>144</td>
+<td><a href="https://www.youtube.com/watch?v=aNLEnFtWwhg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.1 Lecture Overview">L14.1 Lecture Overview</a></td>
+<td>2:10</td>
+</tr>
+<tr>
+<td>145</td>
+<td><a href="https://www.youtube.com/watch?v=z1lAn4GMaFs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.2 Overview of Some Application Domains">L14.2 Overview of Some Application Domains</a></td>
+<td>5:17</td>
+</tr>
+<tr>
+<td>146</td>
+<td><a href="https://www.youtube.com/watch?v=v5fOm80VAnc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.3 Types of Inference Problems">L14.3 Types of Inference Problems</a></td>
+<td>5:24</td>
+</tr>
+<tr>
+<td>147</td>
+<td><a href="https://www.youtube.com/watch?v=0w_4QcvBYII&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.4 The Bayesian Inference Framework">L14.4 The Bayesian Inference Framework</a></td>
+<td>9:48</td>
+</tr>
+<tr>
+<td>148</td>
+<td><a href="https://www.youtube.com/watch?v=aYg2je06Cpg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.5 Discrete Parameter, Discrete Observation">L14.5 Discrete Parameter, Discrete Observation</a></td>
+<td>6:46</td>
+</tr>
+<tr>
+<td>149</td>
+<td><a href="https://www.youtube.com/watch?v=OlKmZj2TKnk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.6 Discrete Parameter, Continuous Observation">L14.6 Discrete Parameter, Continuous Observation</a></td>
+<td>4:35</td>
+</tr>
+<tr>
+<td>150</td>
+<td><a href="https://www.youtube.com/watch?v=CN_TJBPv2Qs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.7 Continuous Parameter, Continuous Observation">L14.7 Continuous Parameter, Continuous Observation</a></td>
+<td>3:46</td>
+</tr>
+<tr>
+<td>151</td>
+<td><a href="https://www.youtube.com/watch?v=46Ym07yKf4A&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.8 Inferring the Unknown Bias of a Coin and the Beta Distribution">L14.8 Inferring the Unknown Bias of a Coin and the Beta Distribution</a></td>
+<td>7:35</td>
+</tr>
+<tr>
+<td>152</td>
+<td><a href="https://www.youtube.com/watch?v=gJSPef9zC0c&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.9 Inferring the Unknown Bias of a Coin - Point Estimates">L14.9 Inferring the Unknown Bias of a Coin - Point Estimates</a></td>
+<td>9:30</td>
+</tr>
+<tr>
+<td>153</td>
+<td><a href="https://www.youtube.com/watch?v=_hDfZF64wic&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L14.10 Summary">L14.10 Summary</a></td>
+<td>5:41</td>
+</tr>
+<tr>
+<td>154</td>
+<td><a href="https://www.youtube.com/watch?v=8yaRt24qA1M&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S14.1 The Beta Formula">S14.1 The Beta Formula</a></td>
+<td>10:24</td>
+</tr>
+<tr>
+<td>155</td>
+<td><a href="https://www.youtube.com/watch?v=FMrYw7sgyxQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L15.1 Lecture Overview">L15.1 Lecture Overview</a></td>
+<td>1:59</td>
+</tr>
+<tr>
+<td>156</td>
+<td><a href="https://www.youtube.com/watch?v=RgGFvOpcQXY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L15.2 Recognizing Normal PDFs">L15.2 Recognizing Normal PDFs</a></td>
+<td>7:15</td>
+</tr>
+<tr>
+<td>157</td>
+<td><a href="https://www.youtube.com/watch?v=qgICsL7ybWc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L15.3 Estimating a Normal Random Variable in the Presence of Additive Noise">L15.3 Estimating a Normal Random Variable in the Presence of Additive Noise</a></td>
+<td>8:18</td>
+</tr>
+<tr>
+<td>158</td>
+<td><a href="https://www.youtube.com/watch?v=FT0ptFu6dVA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L15.4 The Case of Multiple Observations">L15.4 The Case of Multiple Observations</a></td>
+<td>13:47</td>
+</tr>
+<tr>
+<td>159</td>
+<td><a href="https://www.youtube.com/watch?v=CipR1Jypkz0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L15.5 The Mean Squared Error">L15.5 The Mean Squared Error</a></td>
+<td>13:02</td>
+</tr>
+<tr>
+<td>160</td>
+<td><a href="https://www.youtube.com/watch?v=rFUb1nvh3CQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L15.6 Multiple Parameters; Trajectory Estimation">L15.6 Multiple Parameters; Trajectory Estimation</a></td>
+<td>10:32</td>
+</tr>
+<tr>
+<td>161</td>
+<td><a href="https://www.youtube.com/watch?v=qinepPxDUcY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L15.7 Linear Normal Models">L15.7 Linear Normal Models</a></td>
+<td>5:12</td>
+</tr>
+<tr>
+<td>162</td>
+<td><a href="https://www.youtube.com/watch?v=wTKRruMNOHw&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L15.8 Trajectory Estimation Illustration">L15.8 Trajectory Estimation Illustration</a></td>
+<td>10:55</td>
+</tr>
+<tr>
+<td>163</td>
+<td><a href="https://www.youtube.com/watch?v=MlsVWPWIxHI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L16.1 Lecture Overview">L16.1 Lecture Overview</a></td>
+<td>1:13</td>
+</tr>
+<tr>
+<td>164</td>
+<td><a href="https://www.youtube.com/watch?v=gH_OmTJ9vQs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L16.2 LMS Estimation in the Absence of Observations">L16.2 LMS Estimation in the Absence of Observations</a></td>
+<td>6:48</td>
+</tr>
+<tr>
+<td>165</td>
+<td><a href="https://www.youtube.com/watch?v=1R4IzkWSNgI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L16.3 LMS Estimation of One Random Variable Based on Another">L16.3 LMS Estimation of One Random Variable Based on Another</a></td>
+<td>9:24</td>
+</tr>
+<tr>
+<td>166</td>
+<td><a href="https://www.youtube.com/watch?v=CdrVM6MGnGo&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L16.4 LMS Performance Evaluation">L16.4 LMS Performance Evaluation</a></td>
+<td>4:32</td>
+</tr>
+<tr>
+<td>167</td>
+<td><a href="https://www.youtube.com/watch?v=O-dyKz5dpeY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L16.5 Example: The LMS Estimate">L16.5 Example: The LMS Estimate</a></td>
+<td>6:31</td>
+</tr>
+<tr>
+<td>168</td>
+<td><a href="https://www.youtube.com/watch?v=tpaE_C8rqf8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L16.6 Example Continued: LMS Performance Evaluation">L16.6 Example Continued: LMS Performance Evaluation</a></td>
+<td>5:29</td>
+</tr>
+<tr>
+<td>169</td>
+<td><a href="https://www.youtube.com/watch?v=jzhFxJflHXQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L16.7 LMS Estimation with Multiple Observations or Unknowns">L16.7 LMS Estimation with Multiple Observations or Unknowns</a></td>
+<td>5:24</td>
+</tr>
+<tr>
+<td>170</td>
+<td><a href="https://www.youtube.com/watch?v=BlO3xyeaZME&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L16.8 Properties of the LMS Estimation Error">L16.8 Properties of the LMS Estimation Error</a></td>
+<td>5:59</td>
+</tr>
+<tr>
+<td>171</td>
+<td><a href="https://www.youtube.com/watch?v=kwbDWPrPfQI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.1 Lecture Overview">L17.1 Lecture Overview</a></td>
+<td>1:41</td>
+</tr>
+<tr>
+<td>172</td>
+<td><a href="https://www.youtube.com/watch?v=_HL7qwWvON4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.2 LLMS Formulation">L17.2 LLMS Formulation</a></td>
+<td>4:58</td>
+</tr>
+<tr>
+<td>173</td>
+<td><a href="https://www.youtube.com/watch?v=k9f0N3ADvdM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.3 Solution to the LLMS Problem">L17.3 Solution to the LLMS Problem</a></td>
+<td>5:06</td>
+</tr>
+<tr>
+<td>174</td>
+<td><a href="https://www.youtube.com/watch?v=yqdcK6-9kv8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.4 Remarks on the LLMS Solution and on the Error Variance">L17.4 Remarks on the LLMS Solution and on the Error Variance</a></td>
+<td>8:02</td>
+</tr>
+<tr>
+<td>175</td>
+<td><a href="https://www.youtube.com/watch?v=KPF8owESMdo&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.5 LLMS Example">L17.5 LLMS Example</a></td>
+<td>6:43</td>
+</tr>
+<tr>
+<td>176</td>
+<td><a href="https://www.youtube.com/watch?v=4CkWjk40TBY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.6 LLMS for Inferring the Parameter of a Coin">L17.6 LLMS for Inferring the Parameter of a Coin</a></td>
+<td>11:29</td>
+</tr>
+<tr>
+<td>177</td>
+<td><a href="https://www.youtube.com/watch?v=ipSdsosGJBs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.7 LLMS with Multiple Observations">L17.7 LLMS with Multiple Observations</a></td>
+<td>6:54</td>
+</tr>
+<tr>
+<td>178</td>
+<td><a href="https://www.youtube.com/watch?v=byGWKoOc6EM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.8 The Simplest LLMS Example with Multiple Observations">L17.8 The Simplest LLMS Example with Multiple Observations</a></td>
+<td>5:06</td>
+</tr>
+<tr>
+<td>179</td>
+<td><a href="https://www.youtube.com/watch?v=f_BHF-OYwr4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L17.9 The Representation of the Data Matters in LLMS">L17.9 The Representation of the Data Matters in LLMS</a></td>
+<td>7:03</td>
+</tr>
+<tr>
+<td>180</td>
+<td><a href="https://www.youtube.com/watch?v=sD0i6bWxmRY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L18.1 Lecture Overview">L18.1 Lecture Overview</a></td>
+<td>1:57</td>
+</tr>
+<tr>
+<td>181</td>
+<td><a href="https://www.youtube.com/watch?v=vjYanZ1nsZg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L18.2 The Markov Inequality">L18.2 The Markov Inequality</a></td>
+<td>10:21</td>
+</tr>
+<tr>
+<td>182</td>
+<td><a href="https://www.youtube.com/watch?v=d5pnfFvggYk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L18.3 The Chebyshev Inequality">L18.3 The Chebyshev Inequality</a></td>
+<td>5:57</td>
+</tr>
+<tr>
+<td>183</td>
+<td><a href="https://www.youtube.com/watch?v=Yh5bR7X3ch8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L18.4 The Weak Law of Large Numbers">L18.4 The Weak Law of Large Numbers</a></td>
+<td>7:31</td>
+</tr>
+<tr>
+<td>184</td>
+<td><a href="https://www.youtube.com/watch?v=uQTFiXQR4PQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L18.5 Polling">L18.5 Polling</a></td>
+<td>8:12</td>
+</tr>
+<tr>
+<td>185</td>
+<td><a href="https://www.youtube.com/watch?v=Ajar_6MAOLw&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L18.6 Convergence in Probability">L18.6 Convergence in Probability</a></td>
+<td>8:28</td>
+</tr>
+<tr>
+<td>186</td>
+<td><a href="https://www.youtube.com/watch?v=_l9y2Kv8VHw&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L18.7 Convergence in Probability Examples">L18.7 Convergence in Probability Examples</a></td>
+<td>8:05</td>
+</tr>
+<tr>
+<td>187</td>
+<td><a href="https://www.youtube.com/watch?v=iBqEF1cB7nE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L18.8 Related Topics">L18.8 Related Topics</a></td>
+<td>6:44</td>
+</tr>
+<tr>
+<td>188</td>
+<td><a href="https://www.youtube.com/watch?v=AH5jnR3RxJU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S18.1 Convergence in Probability of the Sum of Two Random Variables">S18.1 Convergence in Probability of the Sum of Two Random Variables</a></td>
+<td>10:13</td>
+</tr>
+<tr>
+<td>189</td>
+<td><a href="https://www.youtube.com/watch?v=GDJFLfmyb20&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S18.2 Jensen's Inequality">S18.2 Jensen's Inequality</a></td>
+<td>12:19</td>
+</tr>
+<tr>
+<td>190</td>
+<td><a href="https://www.youtube.com/watch?v=MWcO8ZTOQQQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S18.3 Hoeffding's Inequality">S18.3 Hoeffding's Inequality</a></td>
+<td>18:28</td>
+</tr>
+<tr>
+<td>191</td>
+<td><a href="https://www.youtube.com/watch?v=Hmm9IqosCv4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L19.1 Lecture Overview">L19.1 Lecture Overview</a></td>
+<td>1:50</td>
+</tr>
+<tr>
+<td>192</td>
+<td><a href="https://www.youtube.com/watch?v=IrKUM3nNXJE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L19.2 The Central Limit Theorem">L19.2 The Central Limit Theorem</a></td>
+<td>6:58</td>
+</tr>
+<tr>
+<td>193</td>
+<td><a href="https://www.youtube.com/watch?v=Cw2Lz5I3wk0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L19.3 Discussion of the CLT">L19.3 Discussion of the CLT</a></td>
+<td>9:00</td>
+</tr>
+<tr>
+<td>194</td>
+<td><a href="https://www.youtube.com/watch?v=Bj3sA7vGpYo&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L19.4 Illustration of the CLT">L19.4 Illustration of the CLT</a></td>
+<td>2:54</td>
+</tr>
+<tr>
+<td>195</td>
+<td><a href="https://www.youtube.com/watch?v=pd7dvQBqQqY&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L19.5 CLT Examples">L19.5 CLT Examples</a></td>
+<td>13:56</td>
+</tr>
+<tr>
+<td>196</td>
+<td><a href="https://www.youtube.com/watch?v=fBfMIVXc_OM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L19.6 Normal Approximation to the Binomial">L19.6 Normal Approximation to the Binomial</a></td>
+<td>11:53</td>
+</tr>
+<tr>
+<td>197</td>
+<td><a href="https://www.youtube.com/watch?v=mxpC3MEiATQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L19.7 Polling Revisited">L19.7 Polling Revisited</a></td>
+<td>13:54</td>
+</tr>
+<tr>
+<td>198</td>
+<td><a href="https://www.youtube.com/watch?v=P5rZKt3SgNM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.1 Lecture Overview">L20.1 Lecture Overview</a></td>
+<td>2:46</td>
+</tr>
+<tr>
+<td>199</td>
+<td><a href="https://www.youtube.com/watch?v=fMHJPEcoC08&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.2 Overview of the Classical Statistical Framework">L20.2 Overview of the Classical Statistical Framework</a></td>
+<td>11:00</td>
+</tr>
+<tr>
+<td>200</td>
+<td><a href="https://www.youtube.com/watch?v=nuXDb9B3y0M&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.3 The Sample Mean and Some Terminology">L20.3 The Sample Mean and Some Terminology</a></td>
+<td>4:58</td>
+</tr>
+<tr>
+<td>201</td>
+<td><a href="https://www.youtube.com/watch?v=lET4uQLpmM0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.4 On the Mean Squared Error of an Estimator">L20.4 On the Mean Squared Error of an Estimator</a></td>
+<td>6:53</td>
+</tr>
+<tr>
+<td>202</td>
+<td><a href="https://www.youtube.com/watch?v=NInNhFm046w&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.5 Confidence Intervals">L20.5 Confidence Intervals</a></td>
+<td>5:04</td>
+</tr>
+<tr>
+<td>203</td>
+<td><a href="https://www.youtube.com/watch?v=mImHCY0A3a0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.6 Confidence Intervals for the Estimation of the Mean">L20.6 Confidence Intervals for the Estimation of the Mean</a></td>
+<td>4:27</td>
+</tr>
+<tr>
+<td>204</td>
+<td><a href="https://www.youtube.com/watch?v=MzvRQFYUEFU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.7 Confidence Intervals for the Mean, When the Variance is Unknown">L20.7 Confidence Intervals for the Mean, When the Variance is Unknown</a></td>
+<td>6:13</td>
+</tr>
+<tr>
+<td>205</td>
+<td><a href="https://www.youtube.com/watch?v=8Zq9TKaCV-A&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.8 Other Natural Estimators">L20.8 Other Natural Estimators</a></td>
+<td>4:37</td>
+</tr>
+<tr>
+<td>206</td>
+<td><a href="https://www.youtube.com/watch?v=ZgCBmERwZlI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.9 Maximum Likelihood Estimation">L20.9 Maximum Likelihood Estimation</a></td>
+<td>6:32</td>
+</tr>
+<tr>
+<td>207</td>
+<td><a href="https://www.youtube.com/watch?v=00krscK7iBA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L20.10 Maximum Likelihood Estimation Examples">L20.10 Maximum Likelihood Estimation Examples</a></td>
+<td>10:20</td>
+</tr>
+<tr>
+<td>208</td>
+<td><a href="https://www.youtube.com/watch?v=HDvYPl8D8Bs&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.1 Lecture Overview">L21.1 Lecture Overview</a></td>
+<td>2:01</td>
+</tr>
+<tr>
+<td>209</td>
+<td><a href="https://www.youtube.com/watch?v=lmHjUxi2EH4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.2 The Bernoulli Process">L21.2 The Bernoulli Process</a></td>
+<td>4:21</td>
+</tr>
+<tr>
+<td>210</td>
+<td><a href="https://www.youtube.com/watch?v=JYI5xKlH_MU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.3 Stochastic Processes">L21.3 Stochastic Processes</a></td>
+<td>6:21</td>
+</tr>
+<tr>
+<td>211</td>
+<td><a href="https://www.youtube.com/watch?v=GwOklYjwHDI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.4 Review of Known Properties of the Bernoulli Process">L21.4 Review of Known Properties of the Bernoulli Process</a></td>
+<td>2:20</td>
+</tr>
+<tr>
+<td>212</td>
+<td><a href="https://www.youtube.com/watch?v=xi_iT9Rh434&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.5 The Fresh Start Property">L21.5 The Fresh Start Property</a></td>
+<td>11:26</td>
+</tr>
+<tr>
+<td>213</td>
+<td><a href="https://www.youtube.com/watch?v=5kdv3r-YgK0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.6 Example: The Distribution of a Busy Period">L21.6 Example: The Distribution of a Busy Period</a></td>
+<td>4:16</td>
+</tr>
+<tr>
+<td>214</td>
+<td><a href="https://www.youtube.com/watch?v=m-enGdJ-j8s&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.7 The Time of the K-th Arrival">L21.7 The Time of the K-th Arrival</a></td>
+<td>8:12</td>
+</tr>
+<tr>
+<td>215</td>
+<td><a href="https://www.youtube.com/watch?v=AyCLokHV774&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.8 Merging of Bernoulli Processes">L21.8 Merging of Bernoulli Processes</a></td>
+<td>7:12</td>
+</tr>
+<tr>
+<td>216</td>
+<td><a href="https://www.youtube.com/watch?v=ozbtgvLKAqE&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.9 Splitting a Bernoulli Process">L21.9 Splitting a Bernoulli Process</a></td>
+<td>5:54</td>
+</tr>
+<tr>
+<td>217</td>
+<td><a href="https://www.youtube.com/watch?v=fZ0bbrbNq58&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L21.10 The Poisson Approximation to the Binomial">L21.10 The Poisson Approximation to the Binomial</a></td>
+<td>6:12</td>
+</tr>
+<tr>
+<td>218</td>
+<td><a href="https://www.youtube.com/watch?v=RVc5hXzVFc4&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.1 Lecture Overview">L22.1 Lecture Overview</a></td>
+<td>1:31</td>
+</tr>
+<tr>
+<td>219</td>
+<td><a href="https://www.youtube.com/watch?v=D_EGYzqmapc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.2 Definition of the Poisson Process">L22.2 Definition of the Poisson Process</a></td>
+<td>5:07</td>
+</tr>
+<tr>
+<td>220</td>
+<td><a href="https://www.youtube.com/watch?v=PJExYLw0qtc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.3 Applications of the Poisson Process">L22.3 Applications of the Poisson Process</a></td>
+<td>3:03</td>
+</tr>
+<tr>
+<td>221</td>
+<td><a href="https://www.youtube.com/watch?v=tzW5jlfEvwU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.4 The Poisson PMF for the Number of Arrivals">L22.4 The Poisson PMF for the Number of Arrivals</a></td>
+<td>8:01</td>
+</tr>
+<tr>
+<td>222</td>
+<td><a href="https://www.youtube.com/watch?v=2JoRO8Cydtc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.5 The Mean and Variance of the Number of Arrivals">L22.5 The Mean and Variance of the Number of Arrivals</a></td>
+<td>3:22</td>
+</tr>
+<tr>
+<td>223</td>
+<td><a href="https://www.youtube.com/watch?v=LJuVb-sxzoo&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.6 A Simple Example">L22.6 A Simple Example</a></td>
+<td>3:07</td>
+</tr>
+<tr>
+<td>224</td>
+<td><a href="https://www.youtube.com/watch?v=6stYmO_N7LI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.7 Time of the K-th Arrival">L22.7 Time of the K-th Arrival</a></td>
+<td>10:41</td>
+</tr>
+<tr>
+<td>225</td>
+<td><a href="https://www.youtube.com/watch?v=r_rzDNLODQw&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.8 The Fresh Start Property and Its Implications">L22.8 The Fresh Start Property and Its Implications</a></td>
+<td>10:33</td>
+</tr>
+<tr>
+<td>226</td>
+<td><a href="https://www.youtube.com/watch?v=jXf5Sz7V87I&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.9 Summary of Results">L22.9 Summary of Results</a></td>
+<td>2:34</td>
+</tr>
+<tr>
+<td>227</td>
+<td><a href="https://www.youtube.com/watch?v=MvGuBQZZuLM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L22.10 An Example">L22.10 An Example</a></td>
+<td>14:08</td>
+</tr>
+<tr>
+<td>228</td>
+<td><a href="https://www.youtube.com/watch?v=7wqaa4uqwao&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.1 Lecture Overview">L23.1 Lecture Overview</a></td>
+<td>1:39</td>
+</tr>
+<tr>
+<td>229</td>
+<td><a href="https://www.youtube.com/watch?v=_IX_9ajyOxI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.2 The Sum of Independent Poisson Random Variables">L23.2 The Sum of Independent Poisson Random Variables</a></td>
+<td>4:03</td>
+</tr>
+<tr>
+<td>230</td>
+<td><a href="https://www.youtube.com/watch?v=XWKXOUvqC-U&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.3 Merging Independent Poisson Processes">L23.3 Merging Independent Poisson Processes</a></td>
+<td>8:22</td>
+</tr>
+<tr>
+<td>231</td>
+<td><a href="https://www.youtube.com/watch?v=mgAhDIdbUK8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.4 Where is an Arrival of the Merged Process Coming From?">L23.4 Where is an Arrival of the Merged Process Coming From?</a></td>
+<td>5:00</td>
+</tr>
+<tr>
+<td>232</td>
+<td><a href="https://www.youtube.com/watch?v=xDN5Onmu0mk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.5 The Time Until the First (or last) Lightbulb Burns Out">L23.5 The Time Until the First (or last) Lightbulb Burns Out</a></td>
+<td>11:25</td>
+</tr>
+<tr>
+<td>233</td>
+<td><a href="https://www.youtube.com/watch?v=eV0kTm1h7mQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.6 Splitting a Poisson Process">L23.6 Splitting a Poisson Process</a></td>
+<td>5:06</td>
+</tr>
+<tr>
+<td>234</td>
+<td><a href="https://www.youtube.com/watch?v=sG3_Bveu_cA&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.7 Random Incidence in the Poisson Process">L23.7 Random Incidence in the Poisson Process</a></td>
+<td>9:09</td>
+</tr>
+<tr>
+<td>235</td>
+<td><a href="https://www.youtube.com/watch?v=aS1o7uTaLF0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.8 Random Incidence in a Non-Poisson Process">L23.8 Random Incidence in a Non-Poisson Process</a></td>
+<td>4:36</td>
+</tr>
+<tr>
+<td>236</td>
+<td><a href="https://www.youtube.com/watch?v=GkD5tIgc-Bo&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L23.9 Different Sampling Methods can Give Different Results">L23.9 Different Sampling Methods can Give Different Results</a></td>
+<td>3:59</td>
+</tr>
+<tr>
+<td>237</td>
+<td><a href="https://www.youtube.com/watch?v=t_EcSVTWmwk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S23.1 Poisson Versus Normal Approximations to the Binomial">S23.1 Poisson Versus Normal Approximations to the Binomial</a></td>
+<td>8:56</td>
+</tr>
+<tr>
+<td>238</td>
+<td><a href="https://www.youtube.com/watch?v=3vMZtGUdTVw&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="S23.2 Poisson Arrivals During an Exponential Interval">S23.2 Poisson Arrivals During an Exponential Interval</a></td>
+<td>9:37</td>
+</tr>
+<tr>
+<td>239</td>
+<td><a href="https://www.youtube.com/watch?v=LBiYeL4qD2M&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L24.1 Lecture Overview">L24.1 Lecture Overview</a></td>
+<td>1:59</td>
+</tr>
+<tr>
+<td>240</td>
+<td><a href="https://www.youtube.com/watch?v=K-ck5dOsPgQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L24.2 Introduction to Markov Processes">L24.2 Introduction to Markov Processes</a></td>
+<td>2:09</td>
+</tr>
+<tr>
+<td>241</td>
+<td><a href="https://www.youtube.com/watch?v=VCyJGp6Enxg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L24.3 Checkout Counter Example">L24.3 Checkout Counter Example</a></td>
+<td>12:10</td>
+</tr>
+<tr>
+<td>242</td>
+<td><a href="https://www.youtube.com/watch?v=hsQnmrHbbms&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L24.4 Discrete-Time Finite-State Markov Chains">L24.4 Discrete-Time Finite-State Markov Chains</a></td>
+<td>7:53</td>
+</tr>
+<tr>
+<td>243</td>
+<td><a href="https://www.youtube.com/watch?v=UwwqPwp16_0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L24.5 N-Step Transition Probabilities">L24.5 N-Step Transition Probabilities</a></td>
+<td>10:59</td>
+</tr>
+<tr>
+<td>244</td>
+<td><a href="https://www.youtube.com/watch?v=l6YYHaV1aGc&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L24.6 A Numerical Example - Part I">L24.6 A Numerical Example - Part I</a></td>
+<td>9:26</td>
+</tr>
+<tr>
+<td>245</td>
+<td><a href="https://www.youtube.com/watch?v=h2w1tTTltrU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L24.7 Generic Convergence Questions">L24.7 Generic Convergence Questions</a></td>
+<td>5:32</td>
+</tr>
+<tr>
+<td>246</td>
+<td><a href="https://www.youtube.com/watch?v=wSQaYn2h-e8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L24.8 Recurrent and Transient States">L24.8 Recurrent and Transient States</a></td>
+<td>5:37</td>
+</tr>
+<tr>
+<td>247</td>
+<td><a href="https://www.youtube.com/watch?v=N61FzRr2so0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.1 Brief Introduction (RES.6-012 Introduction to Probability)">L25.1 Brief Introduction ( Introduction to Probability)</a></td>
+<td>1:40</td>
+</tr>
+<tr>
+<td>248</td>
+<td><a href="https://www.youtube.com/watch?v=uviHu6m_YnM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.2 Lecture Overview">L25.2 Lecture Overview</a></td>
+<td>1:05</td>
+</tr>
+<tr>
+<td>249</td>
+<td><a href="https://www.youtube.com/watch?v=cph71QcwHeQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.3 Markov Chain Review">L25.3 Markov Chain Review</a></td>
+<td>6:15</td>
+</tr>
+<tr>
+<td>250</td>
+<td><a href="https://www.youtube.com/watch?v=8QyQSZQ4uKQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.4 The Probability of a Path">L25.4 The Probability of a Path</a></td>
+<td>6:39</td>
+</tr>
+<tr>
+<td>251</td>
+<td><a href="https://www.youtube.com/watch?v=UcKhhEc_LyQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.5 Recurrent and Transient States: Review">L25.5 Recurrent and Transient States: Review</a></td>
+<td>3:26</td>
+</tr>
+<tr>
+<td>252</td>
+<td><a href="https://www.youtube.com/watch?v=TWedESDFcLQ&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.6 Periodic States">L25.6 Periodic States</a></td>
+<td>6:49</td>
+</tr>
+<tr>
+<td>253</td>
+<td><a href="https://www.youtube.com/watch?v=99yuPxvdfP8&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.7 Steady-State Probabilities and Convergence">L25.7 Steady-State Probabilities and Convergence</a></td>
+<td>9:13</td>
+</tr>
+<tr>
+<td>254</td>
+<td><a href="https://www.youtube.com/watch?v=cQtCpJyl77o&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.8 A Numerical Example - Part II">L25.8 A Numerical Example - Part II</a></td>
+<td>3:58</td>
+</tr>
+<tr>
+<td>255</td>
+<td><a href="https://www.youtube.com/watch?v=c-BLp-585aU&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.9 Visit Frequency Interpretation of Steady-State Probabilities">L25.9 Visit Frequency Interpretation of Steady-State Probabilities</a></td>
+<td>5:19</td>
+</tr>
+<tr>
+<td>256</td>
+<td><a href="https://www.youtube.com/watch?v=XKYpKYspe1w&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.10 Birth-Death Processes - Part I">L25.10 Birth-Death Processes - Part I</a></td>
+<td>8:56</td>
+</tr>
+<tr>
+<td>257</td>
+<td><a href="https://www.youtube.com/watch?v=KdAsNQVdaNk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L25.11 Birth-Death Processes - Part II">L25.11 Birth-Death Processes - Part II</a></td>
+<td>8:57</td>
+</tr>
+<tr>
+<td>258</td>
+<td><a href="https://www.youtube.com/watch?v=Xa6-qJvZkUg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.1 Brief Introduction (RES.6-012 Introduction to Probability)">L26.1 Brief Introduction ( Introduction to Probability)</a></td>
+<td>1:41</td>
+</tr>
+<tr>
+<td>259</td>
+<td><a href="https://www.youtube.com/watch?v=UZOT_ddWpco&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.2 Lecture Overview">L26.2 Lecture Overview</a></td>
+<td>0:40</td>
+</tr>
+<tr>
+<td>260</td>
+<td><a href="https://www.youtube.com/watch?v=rRwWYRh8Ypg&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.3 Review of Steady-State Behavior">L26.3 Review of Steady-State Behavior</a></td>
+<td>9:12</td>
+</tr>
+<tr>
+<td>261</td>
+<td><a href="https://www.youtube.com/watch?v=XsowwurOvH0&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.4 A Numerical Example - Part III">L26.4 A Numerical Example - Part III</a></td>
+<td>10:35</td>
+</tr>
+<tr>
+<td>262</td>
+<td><a href="https://www.youtube.com/watch?v=85le_VkEK5A&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.5 Design of a Phone System">L26.5 Design of a Phone System</a></td>
+<td>18:30</td>
+</tr>
+<tr>
+<td>263</td>
+<td><a href="https://www.youtube.com/watch?v=vEsUsaK1HBk&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.6 Absorption Probabilities">L26.6 Absorption Probabilities</a></td>
+<td>9:58</td>
+</tr>
+<tr>
+<td>264</td>
+<td><a href="https://www.youtube.com/watch?v=iUF135CGTeI&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.7 Expected Time to Absorption">L26.7 Expected Time to Absorption</a></td>
+<td>11:30</td>
+</tr>
+<tr>
+<td>265</td>
+<td><a href="https://www.youtube.com/watch?v=BW_EHmZf2pM&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.8 Mean First Passage Time">L26.8 Mean First Passage Time</a></td>
+<td>8:44</td>
+</tr>
+<tr>
+<td>266</td>
+<td><a href="https://www.youtube.com/watch?v=Ne2lmAZI4-I&amp;list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" title="L26.9 Gambler's Ruin">L26.9 Gambler's Ruin</a></td>
+<td>11:24</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>MIT OpenCourseWare. (n.d.). <em>MIT RES.6-012 Introduction to Probability, Spring 2018</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6">https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>

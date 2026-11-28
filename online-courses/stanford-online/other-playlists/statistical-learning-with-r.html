@@ -1,0 +1,701 @@
+<!DOCTYPE html>
+<html class="layout layout-holy-grail show-table-of-contents conceptual show-breadcrumb default-focus theme-light" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+      <title>1.9.32 Statistical Learning with R | Peng Wang Knowledge Base </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Online Courses &gt; Stanford Online &gt; Other Playlists &gt; Statistical Learning with R: the videos of the playlist in its order; definitions pending.">
+      <link rel="icon" href="../../../favicon.svg">
+      <link rel="stylesheet" href="../../../public/atlas.min.css">
+      <link rel="stylesheet" href="../../../public/kb.css">
+      <meta name="kb:rel" content="../../../">
+      <meta name="kb:navrel" content="../../../toc.html">
+      <meta name="kb:tocrel" content="../../toc.html">
+      <script>
+        (function () {
+          var t = 'auto'; try { t = localStorage.getItem('kb-theme') || 'auto' } catch (e) {}
+          if (t === 'auto') t = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+          document.documentElement.classList.remove('theme-light', 'theme-dark')
+          document.documentElement.classList.add('theme-' + t)
+        })()
+      </script>
+      <script type="module" src="../../../public/kb.js"></script>
+  </head>
+  <body class="layout-body">
+    <header class="layout-body-header background-color-body-medium">
+      <a class="visually-hidden-until-focused position-fixed inner-focus" href="#main">Skip to main content</a>
+      <div id="kb-primary-nav" class="site-header">
+        <button id="kb-menu-button" class="button button-clear inner-focus display-none-tablet" type="button" aria-label="Table of contents" aria-expanded="false">
+          <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 3.5h14v1H1zm0 4h14v1H1zm0 4h14v1H1z"></path></svg></span>
+        </button>
+        <a class="site-header-logo" href="../../../index.html" aria-label="Peng Wang">
+          <img src="../../../logo.svg" alt="" width="24" height="24">
+        </a>
+        <div class="site-header-divider"></div>
+        <a class="site-header-brand" href="../../../index.html"><span>Peng Wang</span></a>
+        <nav class="site-header-nav display-none display-flex-tablet" aria-label="Global">
+          <ul id="kb-nav" class="display-flex"></ul>
+        </nav>
+        <form id="kb-search" class="kb-search margin-left-auto" role="search" aria-label="Search">
+          <button id="kb-search-toggle" class="kb-search-toggle button button-clear inner-focus" type="button" aria-label="Open search">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          </button>
+          <span class="kb-search-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M6.5 1a5.5 5.5 0 0 1 4.38 8.83l3.65 3.64-.71.71-3.64-3.65A5.5 5.5 0 1 1 6.5 1zm0 1a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9z"></path></svg></span>
+          <input id="kb-search-input" class="input input-sm" type="search" placeholder="Search" autocomplete="off" aria-label="Search">
+          <ul id="kb-search-results" class="kb-search-results" role="listbox" hidden></ul>
+        </form>
+      </div>
+      <div id="kb-secondary-nav" class="display-none display-flex-tablet">
+        <div class="site-header width-full">
+          <a id="kb-section-brand" class="site-header-brand font-size-h6 padding-inline-none margin-right-xxs" href="../../../index.html"><span>Peng Wang</span></a>
+          <nav class="site-header-nav width-auto" aria-label="Site">
+            <ul id="kb-section-nav" class="display-flex"></ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <section id="layout-body-menu" class="layout-body-menu border-right display-flex background-color-body-medium" aria-label="Table of contents">
+      <div id="left-container" class="left-container display-none display-block-tablet padding-none width-full">
+        <nav id="affixed-left-container" class="position-sticky display-flex flex-direction-column padding-left-sm padding-bottom-sm" aria-label="Primary">
+          <ul id="kb-mobile-nav" class="kb-mobile-nav display-none-tablet" aria-label="Site sections"></ul>
+          <div id="kb-toc-title" class="kb-toc-title display-none-tablet">
+            <span>Table of contents</span>
+            <button id="kb-toc-close" class="button button-clear button-sm inner-focus" type="button" aria-label="Close">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M3.35 2.65L8 7.29l4.65-4.64.7.7L8.71 8l4.64 4.65-.7.7L8 8.71l-4.65 4.64-.7-.7L7.29 8 2.65 3.35z"></path></svg></span>
+            </button>
+          </div>
+          <div id="kb-toc-header" class="display-flex flex-direction-row-reverse align-items-center">
+            <button id="kb-toc-collapse" class="button button-clear button-sm inner-focus" type="button" aria-label="Collapse" aria-expanded="true">
+              <span class="icon display-none-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8.35 3.65l.7.7L5.41 8l3.64 3.65-.7.7L4 8zm4 0l.7.7L9.41 8l3.64 3.65-.7.7L8 8z"></path></svg></span>
+              <span class="icon display-none display-inline-layout-menu-collapsed" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M7.65 3.65l-.7.7L10.59 8l-3.64 3.65.7.7L12 8zm-4 0l-.7.7L6.59 8l-3.64 3.65.7.7L8 8z"></path></svg></span>
+            </button>
+          </div>
+          <form role="search" aria-label="Find by title" class="kb-filter margin-bottom-xxs display-none-layout-menu-collapsed">
+            <span class="kb-filter-icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="14" height="14"><path fill="currentColor" d="M1 3h14v1H1zm2 4h10v1H3zm2 4h6v1H5z"></path></svg></span>
+            <input id="kb-toc-filter" class="input input-sm width-full" type="search" placeholder="Find by title" autocomplete="off" aria-label="Find by title">
+          </form>
+          <ul id="kb-toc" class="tree table-of-contents is-vertically-scrollable flex-grow-1 flex-shrink-1 padding-right-sm display-none-layout-menu-collapsed" role="tree" aria-label="Table of contents"></ul>
+        </nav>
+      </div>
+    </section>
+
+    <main id="main" role="main" class="layout-body-main">
+      <div class="reading-width margin-inline-auto layout-padding padding-top-sm padding-bottom-lg">
+        <div id="article-header" class="margin-bottom-xs display-flex align-items-center">
+          <nav aria-label="Breadcrumb" class="flex-grow-1">
+            <ol id="kb-breadcrumbs" class="breadcrumbs"></ol>
+          </nav>
+          <button class="kb-toc-button button button-clear button-sm inner-focus display-none-tablet" type="button" aria-label="Table of contents" title="Table of contents">
+            <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M1 2h2v2H1zm4 .5h10v1H5zM1 7h2v2H1zm4 .5h10v1H5zM1 12h2v2H1zm4 .5h10v1H5z"></path></svg></span>
+          </button>
+        </div>
+        <article class="content" data-uid="">
+<h1 id="1932-statistical-learning-with-r">1.9.32 Statistical Learning with R</h1>
+
+<h2 id="glossary">Glossary</h2>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Definition</th>
+<th>中文翻译</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Statistical Learning with R</strong><br>（中文名待补）</td>
+<td>(Definition pending)</td>
+<td>（定义待补）</td>
+<td><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e">Stanford Online, n.d.</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="videos">Videos</h2>
+<table>
+<thead>
+<tr>
+<th>#</th>
+<th>Video</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www.youtube.com/watch?v=LvySJGj-88U&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 1.1 Opening Remarks">1.1 Opening Remarks</a></td>
+<td>18:19</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www.youtube.com/watch?v=9vlDVxG4ulA&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8 Years Later (Second Edition of the Course)">8 Years Later (Second Edition of the Course)</a></td>
+<td>2:19</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="https://www.youtube.com/watch?v=B9s8rpdNxU0&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 1.2 Examples and Framework">1.2 Examples and Framework</a></td>
+<td>12:13</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="https://www.youtube.com/watch?v=ox0cKk7h4o0&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 2.1 Introduction to Regression Models">2.1 Introduction to Regression Models</a></td>
+<td>11:42</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="https://www.youtube.com/watch?v=uFwbrdvrAJs&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 2.2 Dimensionality and Structured Models">2.2 Dimensionality and Structured Models</a></td>
+<td>11:41</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="https://www.youtube.com/watch?v=pvcEQfcO3pk&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 2.3 Model Selection and Bias Variance Tradeoff">2.3 Model Selection and Bias Variance Tradeoff</a></td>
+<td>10:05</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="https://www.youtube.com/watch?v=BMJQ3LQ_QKU&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 2.4 Classification">2.4 Classification</a></td>
+<td>15:38</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="https://www.youtube.com/watch?v=L03A81OgLlk&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 2.R Introduction to R">2.R Introduction to R</a></td>
+<td>14:13</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="https://www.youtube.com/watch?v=vCHtY6Me5FI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 3.1 Simple linear regression">3.1 Simple linear regression</a></td>
+<td>13:02</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="https://www.youtube.com/watch?v=3GiWpRfkSjc&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 3.2 Hypothesis Testing and Confidence Intervals">3.2 Hypothesis Testing and Confidence Intervals</a></td>
+<td>8:25</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="https://www.youtube.com/watch?v=o9hoLdylWKo&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 3.3 Multiple Linear Regression">3.3 Multiple Linear Regression</a></td>
+<td>15:38</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="https://www.youtube.com/watch?v=50sv4UTjE90&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 3.4 Some important questions">3.4 Some important questions</a></td>
+<td>14:52</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="https://www.youtube.com/watch?v=dEBQmiXv9fk&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 3.5 Extensions of the Linear Model">3.5 Extensions of the Linear Model</a></td>
+<td>14:17</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="https://www.youtube.com/watch?v=gNZfqHhq_B4&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 3.R Regression in R">3.R Regression in R</a></td>
+<td>22:11</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="https://www.youtube.com/watch?v=ju3J7iRy6xI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.1 Introduction to Classification Problems">4.1 Introduction to Classification Problems</a></td>
+<td>10:26</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="https://www.youtube.com/watch?v=kr_Be9NVXOM&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.2 Logistic Regression">4.2 Logistic Regression</a></td>
+<td>9:08</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="https://www.youtube.com/watch?v=1uJVE8bkabc&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.3 Multivariate Logistic Regression">4.3 Multivariate Logistic Regression</a></td>
+<td>9:54</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="https://www.youtube.com/watch?v=sYDDk6R-be0&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.4 Logistic Regression Case Control Sampling and Multiclass">4.4 Logistic Regression Case Control Sampling and Multiclass</a></td>
+<td>7:29</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="https://www.youtube.com/watch?v=oJc2r246VoQ&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.5 Discriminant Analysis">4.5 Discriminant Analysis</a></td>
+<td>7:13</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="https://www.youtube.com/watch?v=14JVlzWHKgk&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.6 Gaussian Discriminant Analysis (One Variable)">4.6 Gaussian Discriminant Analysis (One Variable)</a></td>
+<td>7:38</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="https://www.youtube.com/watch?v=aUlTqhDtpnw&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.7 Gaussian Discriminant Analysis (Many Variables)">4.7 Gaussian Discriminant Analysis (Many Variables)</a></td>
+<td>17:43</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="https://www.youtube.com/watch?v=n8Nj64FyjSo&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.8 Generalized Linear Models">4.8 Generalized Linear Models</a></td>
+<td>9:35</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="https://www.youtube.com/watch?v=giCZkipHEmA&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.9 Quadratic Discriminant Analysis and Naive Bayes">4.9 Quadratic Discriminant Analysis and Naive Bayes</a></td>
+<td>10:08</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="https://www.youtube.com/watch?v=QEUtuHSipNE&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.R.1 Logistic Regression">4.R.1 Logistic Regression</a></td>
+<td>10:15</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="https://www.youtube.com/watch?v=WXhku-ISml8&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.R.2 Linear Discriminant Analysis">4.R.2 Linear Discriminant Analysis</a></td>
+<td>8:23</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="https://www.youtube.com/watch?v=JRxKBj5ArgU&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 4.R.3 Nearest Neighbor Classification">4.R.3 Nearest Neighbor Classification</a></td>
+<td>5:02</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="https://www.youtube.com/watch?v=6eWODQJrMKs&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 5.1 Cross Validation">5.1 Cross Validation</a></td>
+<td>14:02</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="https://www.youtube.com/watch?v=AMfvd_hLssE&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 5.2 K-fold Cross Validation">5.2 K-fold Cross Validation</a></td>
+<td>13:34</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="https://www.youtube.com/watch?v=jgoa28FR__Y&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 5.3 Cross Validation the wrong and right way">5.3 Cross Validation the wrong and right way</a></td>
+<td>10:08</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="https://www.youtube.com/watch?v=h_LweqiIotE&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 5.4 The Bootstrap">5.4 The Bootstrap</a></td>
+<td>11:30</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="https://www.youtube.com/watch?v=OKREmw6YP64&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 5.5 More on the Bootstrap">5.5 More on the Bootstrap</a></td>
+<td>14:36</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="https://www.youtube.com/watch?v=nwD-03ncOZ8&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 5.R.1 Cross Validation">5.R.1 Cross Validation</a></td>
+<td>11:22</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="https://www.youtube.com/watch?v=sM_Gve1K4II&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 5.R.2 Bootstrap">5.R.2 Bootstrap</a></td>
+<td>7:41</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="https://www.youtube.com/watch?v=nsv5rEV3mVI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.1 Introduction and Best Subset Selection">6.1 Introduction and Best Subset Selection</a></td>
+<td>13:45</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="https://www.youtube.com/watch?v=ynXq-Gw1xfE&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.2 Stepwise Selection">6.2 Stepwise Selection</a></td>
+<td>12:27</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="https://www.youtube.com/watch?v=c5aI9cowjRI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.3 Backward stepwise selection">6.3 Backward stepwise selection</a></td>
+<td>5:27</td>
+</tr>
+<tr>
+<td>37</td>
+<td><a href="https://www.youtube.com/watch?v=48P-oV6cH44&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.4 Estimating test error">6.4 Estimating test error</a></td>
+<td>14:07</td>
+</tr>
+<tr>
+<td>38</td>
+<td><a href="https://www.youtube.com/watch?v=mzb5Xs58bb0&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.5 Validation and cross validation">6.5 Validation and cross validation</a></td>
+<td>8:44</td>
+</tr>
+<tr>
+<td>39</td>
+<td><a href="https://www.youtube.com/watch?v=lLlG5xkyqIA&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.6 Shrinkage methods and ridge regression">6.6 Shrinkage methods and ridge regression</a></td>
+<td>12:38</td>
+</tr>
+<tr>
+<td>40</td>
+<td><a href="https://www.youtube.com/watch?v=0tfPuddPhEY&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.7 The Lasso">6.7 The Lasso</a></td>
+<td>15:22</td>
+</tr>
+<tr>
+<td>41</td>
+<td><a href="https://www.youtube.com/watch?v=KV1Kt6I8rYs&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.8 Tuning parameter selection">6.8 Tuning parameter selection</a></td>
+<td>5:28</td>
+</tr>
+<tr>
+<td>42</td>
+<td><a href="https://www.youtube.com/watch?v=bpto4g5l_go&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.9 Dimension Reduction Methods">6.9 Dimension Reduction Methods</a></td>
+<td>4:46</td>
+</tr>
+<tr>
+<td>43</td>
+<td><a href="https://www.youtube.com/watch?v=Uo19ST0IEZI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.10 Principal Components Regression and Partial Least Squares">6.10 Principal Components Regression and Partial Least Squares</a></td>
+<td>15:49</td>
+</tr>
+<tr>
+<td>44</td>
+<td><a href="https://www.youtube.com/watch?v=r2uSyYTMfnU&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.R.1 Markdown in RStudio and Best Subset Regression">6.R.1 Markdown in RStudio and Best Subset Regression</a></td>
+<td>10:37</td>
+</tr>
+<tr>
+<td>45</td>
+<td><a href="https://www.youtube.com/watch?v=XiCXmecCMB4&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.R.2 Forward Stepwise Regression">6.R.2 Forward Stepwise Regression</a></td>
+<td>10:33</td>
+</tr>
+<tr>
+<td>46</td>
+<td><a href="https://www.youtube.com/watch?v=x7b9gmP-L7Q&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.R.3 Model Selection and Cross-Validation">6.R.3 Model Selection and Cross-Validation</a></td>
+<td>5:33</td>
+</tr>
+<tr>
+<td>47</td>
+<td><a href="https://www.youtube.com/watch?v=KUIIgUwxGxs&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 6.R.4 Ridge Regression and Lasso">6.R.4 Ridge Regression and Lasso</a></td>
+<td>16:35</td>
+</tr>
+<tr>
+<td>48</td>
+<td><a href="https://www.youtube.com/watch?v=F-D3lZzYn50&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 7.1 Polynomials and Step Functions">7.1 Polynomials and Step Functions</a></td>
+<td>15:00</td>
+</tr>
+<tr>
+<td>49</td>
+<td><a href="https://www.youtube.com/watch?v=FrVaxvwCLYM&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 7.2 Piecewise Polynomials and Splines">7.2 Piecewise Polynomials and Splines</a></td>
+<td>13:14</td>
+</tr>
+<tr>
+<td>50</td>
+<td><a href="https://www.youtube.com/watch?v=b_HSFOnrGLI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 7.3 Smoothing Splines">7.3 Smoothing Splines</a></td>
+<td>10:11</td>
+</tr>
+<tr>
+<td>51</td>
+<td><a href="https://www.youtube.com/watch?v=3aMB51GMUyQ&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 7.4 Generalized Additive Models and Local Regression">7.4 Generalized Additive Models and Local Regression</a></td>
+<td>10:46</td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="https://www.youtube.com/watch?v=ywQviM69DKI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 7.R.1 Polynomials in GLMs">7.R.1 Polynomials in GLMs</a></td>
+<td>21:12</td>
+</tr>
+<tr>
+<td>53</td>
+<td><a href="https://www.youtube.com/watch?v=RkSrnBBx8sg&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 7.R.2 Splines and GAMs">7.R.2 Splines and GAMs</a></td>
+<td>12:16</td>
+</tr>
+<tr>
+<td>54</td>
+<td><a href="https://www.youtube.com/watch?v=QNnayf--_yk&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8.1 Tree based methods">8.1 Tree based methods</a></td>
+<td>14:38</td>
+</tr>
+<tr>
+<td>55</td>
+<td><a href="https://www.youtube.com/watch?v=JaoTOfTNOVk&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8.2 More details on Trees">8.2 More details on Trees</a></td>
+<td>11:46</td>
+</tr>
+<tr>
+<td>56</td>
+<td><a href="https://www.youtube.com/watch?v=gLcfKSMKOb0&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8.3 Classification Trees">8.3 Classification Trees</a></td>
+<td>11:01</td>
+</tr>
+<tr>
+<td>57</td>
+<td><a href="https://www.youtube.com/watch?v=_cKAxjnInfA&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8.4 Bagging">8.4 Bagging</a></td>
+<td>13:46</td>
+</tr>
+<tr>
+<td>58</td>
+<td><a href="https://www.youtube.com/watch?v=cdl4C2eCOHk&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8.5 Boosting">8.5 Boosting</a></td>
+<td>12:03</td>
+</tr>
+<tr>
+<td>59</td>
+<td><a href="https://www.youtube.com/watch?v=xWhPwHZF4c0&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8.6 Bayesian Additive Regression Trees">8.6 Bayesian Additive Regression Trees</a></td>
+<td>11:34</td>
+</tr>
+<tr>
+<td>60</td>
+<td><a href="https://www.youtube.com/watch?v=GHXUm7GnGGE&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8.R.1 Fitting Trees">8.R.1 Fitting Trees</a></td>
+<td>10:14</td>
+</tr>
+<tr>
+<td>61</td>
+<td><a href="https://www.youtube.com/watch?v=98mnFELJ8z8&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 8.R.2 Random Forests and Boosting">8.R.2 Random Forests and Boosting</a></td>
+<td>15:36</td>
+</tr>
+<tr>
+<td>62</td>
+<td><a href="https://www.youtube.com/watch?v=Op0OyOuDjcQ&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 9.1 Optimal Separating Hyperplane">9.1 Optimal Separating Hyperplane</a></td>
+<td>11:36</td>
+</tr>
+<tr>
+<td>63</td>
+<td><a href="https://www.youtube.com/watch?v=pjvnCEfAswc&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 9.2.Support Vector Classifier">9.2.Support Vector Classifier</a></td>
+<td>8:05</td>
+</tr>
+<tr>
+<td>64</td>
+<td><a href="https://www.youtube.com/watch?v=02icdqOJsH4&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 9.3 Feature Expansion and the SVM">9.3 Feature Expansion and the SVM</a></td>
+<td>15:05</td>
+</tr>
+<tr>
+<td>65</td>
+<td><a href="https://www.youtube.com/watch?v=m5d7-URGnVY&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 9.4 Example and Comparison with Logistic Regression">9.4 Example and Comparison with Logistic Regression</a></td>
+<td>14:48</td>
+</tr>
+<tr>
+<td>66</td>
+<td><a href="https://www.youtube.com/watch?v=WCRwbrNWrpw&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 9.R.1 Support Vector Classifier">9.R.1 Support Vector Classifier</a></td>
+<td>10:14</td>
+</tr>
+<tr>
+<td>67</td>
+<td><a href="https://www.youtube.com/watch?v=VuQOjKk0_tE&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 9.R.2 Nonlinear Support Vector Machine">9.R.2 Nonlinear Support Vector Machine</a></td>
+<td>7:55</td>
+</tr>
+<tr>
+<td>68</td>
+<td><a href="https://www.youtube.com/watch?v=jJb2qytbcNg&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.1 Introduction to Neural Networks">10.1 Introduction to Neural Networks</a></td>
+<td>15:31</td>
+</tr>
+<tr>
+<td>69</td>
+<td><a href="https://www.youtube.com/watch?v=ggOZuZnA6is&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.2 Convolutional Neural Networks">10.2 Convolutional Neural Networks</a></td>
+<td>17:09</td>
+</tr>
+<tr>
+<td>70</td>
+<td><a href="https://www.youtube.com/watch?v=Zw3L-0ZP_DA&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.3 Document Classification">10.3 Document Classification</a></td>
+<td>7:47</td>
+</tr>
+<tr>
+<td>71</td>
+<td><a href="https://www.youtube.com/watch?v=MexNVKPwu7g&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.4 Recurrent Neural Networks">10.4 Recurrent Neural Networks</a></td>
+<td>14:45</td>
+</tr>
+<tr>
+<td>72</td>
+<td><a href="https://www.youtube.com/watch?v=ogx1q2xBHkc&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.5 Time Series Forecasting">10.5 Time Series Forecasting</a></td>
+<td>16:51</td>
+</tr>
+<tr>
+<td>73</td>
+<td><a href="https://www.youtube.com/watch?v=07zslA8BXZY&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.6 Fitting Neural Networks">10.6 Fitting Neural Networks</a></td>
+<td>17:04</td>
+</tr>
+<tr>
+<td>74</td>
+<td><a href="https://www.youtube.com/watch?v=qRHdQz_P_Lo&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.7 Interpolation and Double Descent">10.7 Interpolation and Double Descent</a></td>
+<td>11:12</td>
+</tr>
+<tr>
+<td>75</td>
+<td><a href="https://www.youtube.com/watch?v=Ut647c_aZoc&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.R.1 Neural Networks in R and the MNIST data">10.R.1 Neural Networks in R and the MNIST data</a></td>
+<td>29:34</td>
+</tr>
+<tr>
+<td>76</td>
+<td><a href="https://www.youtube.com/watch?v=cVtL_ITG8po&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.R.2 Convolutional Neural Networks in R">10.R.2 Convolutional Neural Networks in R</a></td>
+<td>13:20</td>
+</tr>
+<tr>
+<td>77</td>
+<td><a href="https://www.youtube.com/watch?v=SFHNg2X9o60&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.R.3 Document Classification">10.R.3 Document Classification</a></td>
+<td>8:28</td>
+</tr>
+<tr>
+<td>78</td>
+<td><a href="https://www.youtube.com/watch?v=bi34fBER1ds&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 10.R.4 Recurrent Neural Networks">10.R.4 Recurrent Neural Networks</a></td>
+<td>15:05</td>
+</tr>
+<tr>
+<td>79</td>
+<td><a href="https://www.youtube.com/watch?v=7_XK7mGMm1E&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 11.1 Introduction to Survival Data and Censoring">11.1 Introduction to Survival Data and Censoring</a></td>
+<td>14:11</td>
+</tr>
+<tr>
+<td>80</td>
+<td><a href="https://www.youtube.com/watch?v=lP42Vly2MVg&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 11.2 Proportional Hazards Model">11.2 Proportional Hazards Model</a></td>
+<td>14:32</td>
+</tr>
+<tr>
+<td>81</td>
+<td><a href="https://www.youtube.com/watch?v=ujIMPpl2Tr0&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 11.3 Estimation of Cox Model with Examples">11.3 Estimation of Cox Model with Examples</a></td>
+<td>13:43</td>
+</tr>
+<tr>
+<td>82</td>
+<td><a href="https://www.youtube.com/watch?v=rRYfWAsG4RI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 11.4 Model Evaluation and Further Topics">11.4 Model Evaluation and Further Topics</a></td>
+<td>6:13</td>
+</tr>
+<tr>
+<td>83</td>
+<td><a href="https://www.youtube.com/watch?v=hfKYYexJfuY&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 11.R.1 Survival Curves Brain Cancer Data">11.R.1 Survival Curves Brain Cancer Data</a></td>
+<td>12:19</td>
+</tr>
+<tr>
+<td>84</td>
+<td><a href="https://www.youtube.com/watch?v=j3rcoz4u7m8&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 11.R.2 Cox Models I Publication Data">11.R.2 Cox Models I Publication Data</a></td>
+<td>4:21</td>
+</tr>
+<tr>
+<td>85</td>
+<td><a href="https://www.youtube.com/watch?v=w6VAT8jqTjk&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 11.R.3 Cox Models II Call Center Data">11.R.3 Cox Models II Call Center Data</a></td>
+<td>7:58</td>
+</tr>
+<tr>
+<td>86</td>
+<td><a href="https://www.youtube.com/watch?v=kpuQqOzQXfM&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.1 Principal Components">12.1 Principal Components</a></td>
+<td>12:37</td>
+</tr>
+<tr>
+<td>87</td>
+<td><a href="https://www.youtube.com/watch?v=O30nHhyBiAs&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.2 Higher order principal components">12.2 Higher order principal components</a></td>
+<td>17:40</td>
+</tr>
+<tr>
+<td>88</td>
+<td><a href="https://www.youtube.com/watch?v=ded_NQqOe7I&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.3 k means Clustering">12.3 k means Clustering</a></td>
+<td>17:18</td>
+</tr>
+<tr>
+<td>89</td>
+<td><a href="https://www.youtube.com/watch?v=yktzn-Mr2Nw&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.4 Hierarchical Clustering">12.4 Hierarchical Clustering</a></td>
+<td>14:46</td>
+</tr>
+<tr>
+<td>90</td>
+<td><a href="https://www.youtube.com/watch?v=MYKb5KcI55s&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.5 Matrix Completion">12.5 Matrix Completion</a></td>
+<td>15:52</td>
+</tr>
+<tr>
+<td>91</td>
+<td><a href="https://www.youtube.com/watch?v=InBhMLEx6sU&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.6 Breast Cancer Example">12.6 Breast Cancer Example</a></td>
+<td>9:25</td>
+</tr>
+<tr>
+<td>92</td>
+<td><a href="https://www.youtube.com/watch?v=YCwSrtSoZ9M&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.R.1 Principal Components">12.R.1 Principal Components</a></td>
+<td>6:29</td>
+</tr>
+<tr>
+<td>93</td>
+<td><a href="https://www.youtube.com/watch?v=j6aM9ITqLIY&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.R.2 K means Clustering">12.R.2 K means Clustering</a></td>
+<td>6:32</td>
+</tr>
+<tr>
+<td>94</td>
+<td><a href="https://www.youtube.com/watch?v=dJr7wBUYNgw&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 12.R.3 Hierarchical Clustering">12.R.3 Hierarchical Clustering</a></td>
+<td>6:34</td>
+</tr>
+<tr>
+<td>95</td>
+<td><a href="https://www.youtube.com/watch?v=ti9NFdjf3sM&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.1 Introduction to Hypothesis Testing">13.1 Introduction to Hypothesis Testing</a></td>
+<td>14:31</td>
+</tr>
+<tr>
+<td>96</td>
+<td><a href="https://www.youtube.com/watch?v=klFG10_XajI&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.1 Introduction to Hypothesis Testing II">13.1 Introduction to Hypothesis Testing II</a></td>
+<td>10:18</td>
+</tr>
+<tr>
+<td>97</td>
+<td><a href="https://www.youtube.com/watch?v=-6zM6mydlfA&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.2 Introduction to Multiple Testing and Family Wise Error Rate">13.2 Introduction to Multiple Testing and Family Wise Error Rate</a></td>
+<td>12:31</td>
+</tr>
+<tr>
+<td>98</td>
+<td><a href="https://www.youtube.com/watch?v=xML6pCgPv2c&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.3 Bonferroni Method for Controlling FWER">13.3 Bonferroni Method for Controlling FWER</a></td>
+<td>6:32</td>
+</tr>
+<tr>
+<td>99</td>
+<td><a href="https://www.youtube.com/watch?v=8r_pMRnG97s&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.4 Holm's Method for Controlling FWER">13.4 Holm's Method for Controlling FWER</a></td>
+<td>5:57</td>
+</tr>
+<tr>
+<td>100</td>
+<td><a href="https://www.youtube.com/watch?v=4RPUrwzgO6c&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.5 False Discovery Rate and Benjamini Hochberg Method">13.5 False Discovery Rate and Benjamini Hochberg Method</a></td>
+<td>11:14</td>
+</tr>
+<tr>
+<td>101</td>
+<td><a href="https://www.youtube.com/watch?v=BwjVTbU6is0&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.6 Resampling Approaches">13.6 Resampling Approaches</a></td>
+<td>3:21</td>
+</tr>
+<tr>
+<td>102</td>
+<td><a href="https://www.youtube.com/watch?v=Zylc7K3hZoA&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.6 Resampling Approaches II">13.6 Resampling Approaches II</a></td>
+<td>7:44</td>
+</tr>
+<tr>
+<td>103</td>
+<td><a href="https://www.youtube.com/watch?v=3pelOJpcnxA&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.R.1 Bonferroni and Holm">13.R.1 Bonferroni and Holm</a></td>
+<td>11:45</td>
+</tr>
+<tr>
+<td>104</td>
+<td><a href="https://www.youtube.com/watch?v=BLDCLw4ke-Q&amp;list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e" title="Statistical Learning: 13.R.1 Bonferroni and Holm II">13.R.1 Bonferroni and Holm II</a></td>
+<td>13:50</td>
+</tr>
+</tbody>
+</table>
+<h2 id="references">References</h2>
+<p>Stanford Online. (n.d.). <em>Statistical Learning with R</em> [YouTube playlist]. Retrieved November 20, 2026, from <a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e">https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e</a></p>
+
+</article>
+        <nav id="center-doc-outline" class="doc-outline display-none-desktop margin-bottom-sm" aria-label="In this article" hidden>
+          <h2 class="title is-6 margin-block-xs">In this article</h2>
+          <ol id="kb-center-outline" class="border-left padding-left-xxs"></ol>
+        </nav>
+        <div id="article-metadata-footer" class="page-metadata-container margin-top-lg">
+          <ul class="metadata page-metadata">
+            <li><span class="badge badge-sm">Last updated on <time datetime="2026-11-20 19:30:07-05:00">11/20/2026 19:30:07</time></span></li>
+          </ul>
+        </div>
+      </div>
+    </main>
+
+    <aside id="layout-body-aside" class="layout-body-aside" aria-label="Additional resources">
+      <div class="right-container padding-sm display-none display-block-desktop height-full">
+        <div id="affixed-right-container" class="position-sticky">
+          <nav id="side-doc-outline" class="doc-outline padding-bottom-xs margin-bottom-xs" aria-label="In this article" hidden>
+            <h2 class="title is-6 margin-top-xxs margin-bottom-xs">In this article</h2>
+            <ol id="kb-outline" class="padding-right-xxs"></ol>
+          </nav>
+        </div>
+      </div>
+    </aside>
+
+    <div class="layout-body-footer">
+      <footer id="footer" class="footer-layout padding-xs padding-sm-desktop border-top" role="contentinfo">
+        <div class="display-flex gap-xs flex-wrap-wrap">
+          <div class="kb-theme position-relative flex-shrink-0">
+            <button class="kb-theme-button button button-clear button-sm inner-focus" type="button" aria-expanded="false">
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="16" height="16"><path fill="currentColor" d="M8 4.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 0 1 0-7zm0 1a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM7.5 1h1v2h-1zm0 12h1v2h-1zM1 7.5h2v1H1zm12 0h2v1h-2zM3.05 3.76l.7-.7 1.42 1.41-.71.71zm7.78 7.78l.71-.71 1.41 1.42-.7.7zM3.05 12.24l1.41-1.41.71.71-1.42 1.41zm7.78-7.78l1.42-1.41.7.7-1.41 1.42z"></path></svg></span>
+              <span>Theme</span>
+              <span class="icon" aria-hidden="true"><svg viewbox="0 0 16 16" width="12" height="12"><path fill="currentColor" d="M3.35 5.65l.7-.7L8 8.88l3.95-3.93.7.7L8 10.3z"></path></svg></span>
+            </button>
+            <ul class="kb-theme-menu" hidden>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="light">Light</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="dark">Dark</button></li>
+              <li><button type="button" class="button button-clear button-sm button-block" data-theme="auto">Auto</button></li>
+            </ul>
+          </div>
+        </div>
+        <ul class="links" aria-label="Site links">
+            <li><a href="https://github.com/zhizhunbao">GitHub<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://www.linkedin.com/in/peng-wang-2156b438a/">LinkedIn<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="mailto:wang1059@algonquinlive.com">Email</a></li>
+            <li><a href="https://github.com/zhizhunbao/zhizhunbao.github.io">Source<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li><a href="https://creativecommons.org/licenses/by/4.0/">Content license<span class="kb-ext" aria-hidden="true"><svg viewbox="0 0 16 16" width="11" height="11"><path fill="currentColor" d="M9 2h5v5h-1V3.7L7.35 9.35l-.7-.7L12.3 3H9zM3 4h4v1H4v7h7V9h1v4H3z"></path></svg></span></a></li>
+            <li>&copy; Peng Wang 2026</li>
+        </ul>
+      </footer>
+    </div>
+  </body>
+</html>
